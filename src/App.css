@@ -1,14 +1,18 @@
-.paginatedCardGroup--pagination {
+.recipesList .pagination {
   margin-bottom: 1em;
 }
 
-.searchBar {
+.recipeControls .filters {
+  margin-top: 0.5em;
+}
+
+.recipeControls .searchBar {
   margin-top: 0.5em;
   margin-bottom: 1em;
   display: inline-block;
 }
 
-.radioList {
+.recipeControls .sortOrder {
   margin-left: 1em;
   margin-top: 0.5em;
   margin-bottom: 1em;

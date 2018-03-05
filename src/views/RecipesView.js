@@ -212,21 +212,27 @@ export default class App extends React.PureComponent {
 
     return (
       <div>
-        <CheckBoxList
-          items={filterTerms.map(filterToCheckbox)}
-          onToggle={this.onSearchTermToggle}
-        />
-        <SearchBar
-          defaultValue={filterText}
-          placeholder="Search for recipes..."
-          onChange={this.onSearchTextChange}
-        />
-        <RadioList
-          items={sortOrders}
-          checked={sortOrder}
-          onChange={this.onSortOrderChange}
-        />
+        <div className="recipeControls">
+          <CheckBoxList
+            className="filters"
+            items={filterTerms.map(filterToCheckbox)}
+            onToggle={this.onSearchTermToggle}
+          />
+          <SearchBar
+            className="searchBar"
+            defaultValue={filterText}
+            placeholder="Search for recipes..."
+            onChange={this.onSearchTextChange}
+          />
+          <RadioList
+            className="sortOrder"
+            items={sortOrders}
+            checked={sortOrder}
+            onChange={this.onSortOrderChange}
+          />
+        </div>
         <PaginatedCardGroup
+          className="recipesList"
           itemsPerPage={recipesPerPage}
           items={displayableRecipes.map(recipeToCard)}
         />

@@ -8,10 +8,10 @@ export default class RadioList extends React.PureComponent {
   }
 
   render() {
-    const { items, checked } = this.props;
+    const { items, checked, className } = this.props;
 
     return (
-      <div className="radioList">
+      <div className={className}>
         <List horizontal>
           {items.map(item =>
             <List.Item key={item.value}>

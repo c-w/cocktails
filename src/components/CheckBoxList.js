@@ -8,20 +8,22 @@ export default class CheckBoxList extends React.PureComponent {
   }
 
   render() {
-    const { items } = this.props;
+    const { items, className } = this.props;
 
     return (
-      <List horizontal>
-        {items.map(item =>
-          <List.Item key={item.label}>
-            <Checkbox
-              label={item.label}
-              checked={item.checked}
-              onChange={this.onToggle}
-            />
-          </List.Item>
-        )}
-      </List>
+      <div className={className}>
+        <List horizontal>
+          {items.map(item =>
+            <List.Item key={item.label}>
+              <Checkbox
+                label={item.label}
+                checked={item.checked}
+                onChange={this.onToggle}
+              />
+            </List.Item>
+          )}
+        </List>
+      </div>
     );
   }
 }

@@ -18,7 +18,7 @@ export default class PaginatedCardGroup extends React.PureComponent {
 
   render() {
     const { activePage } = this.state;
-    const { items, itemsPerPage } = this.props;
+    const { items, itemsPerPage, className } = this.props;
 
     const totalPages = Math.ceil(items.length / itemsPerPage);
     const pageStart = (activePage - 1) * itemsPerPage;
@@ -26,8 +26,8 @@ export default class PaginatedCardGroup extends React.PureComponent {
     const itemsOnPage = items.slice(pageStart, pageEnd);
 
     return (
-      <div className="paginatedCardGroup">
-        <div className="paginatedCardGroup--pagination">
+      <div className={className}>
+        <div className="pagination">
           <Pagination
             prevItem={null}
             nextItem={null}
@@ -38,7 +38,7 @@ export default class PaginatedCardGroup extends React.PureComponent {
             totalPages={totalPages}
           />
         </div>
-        <div className="paginatedCardGroup--group">
+        <div className="group">
           <Card.Group items={itemsOnPage} />
         </div>
       </div>

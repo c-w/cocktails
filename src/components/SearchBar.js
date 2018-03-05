@@ -7,10 +7,10 @@ export default class SearchBar extends React.Component {
   }
 
   render() {
-    const { placeholder, defaultValue } = this.props;
+    const { placeholder, defaultValue, className } = this.props;
 
     return (
-      <div className="searchBar">
+      <div className={className}>
         <Input
           icon="search"
           defaultValue={defaultValue}
