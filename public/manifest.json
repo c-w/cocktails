@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Cocktails Blog",
+  "name": "Searchable list of tasty cocktails",
   "icons": [
     {
       "src": "favicon.ico",
