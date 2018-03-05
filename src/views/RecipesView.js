@@ -23,6 +23,8 @@ const quantityWords = new Set([
 const blacklistWords = new Set([
   'old',
   'syrup',
+  'simple',
+  'brown',
   'grand',
 ]);
 
@@ -124,21 +126,41 @@ export default class App extends React.PureComponent {
   constructor(props) {
     super(props);
 
-    this.state = {
-      filterTerms: getFilterTerms(props.recipes, props.numFilters),
-      filterText: ''
+    let state = {};
+    if (window.location.hash) {
+      try {
+        const serializedState = window.location.hash.replace('#/share/', '');
+        state = JSON.parse(atob(decodeURIComponent(serializedState)));
+      } catch (error) {
+        window.location.hash = '';
+      }
     }
+
+    if (!state.filterTerms) {
+      state.filterTerms = getFilterTerms(props.recipes, props.numFilters);
+    }
+    if (!state.filterText) {
+      state.filterText = '';
+    }
+
+    this.state = state;
   }
 
   onSearchTermToggle = (filterTerm) => {
     const { filterTerms } = this.state;
     const newFilterTerms = Object.assign({}, filterTerms);
     newFilterTerms[filterTerm] = !newFilterTerms[filterTerm];
-    this.setState({ filterTerms: newFilterTerms });
+    this.setState({ filterTerms: newFilterTerms }, this.serializeStateToUrl);
   }
 
   onSearchTextChange = (filterText) => {
-    this.setState({ filterText: combineTokens(filterText) });
+    const newFilterText = combineTokens(filterText);
+    this.setState({ filterText: newFilterText }, this.serializeStateToUrl);
+  }
+
+  serializeStateToUrl = () => {
+    const serializedState = encodeURIComponent(btoa(JSON.stringify(this.state)));
+    window.location.hash = `#/share/${serializedState}`;
   }
 
   shouldShowRecipe = (recipe) => {
@@ -150,7 +172,7 @@ export default class App extends React.PureComponent {
 
   render() {
     const { recipes, recipesPerPage } = this.props;
-    const { filterTerms } = this.state;
+    const { filterTerms, filterText } = this.state;
 
     const displayableRecipes = recipes
       .sort(byRating)
@@ -164,6 +186,7 @@ export default class App extends React.PureComponent {
           onToggle={this.onSearchTermToggle}
         />
         <SearchBar
+          defaultValue={filterText}
           placeholder="Search for recipes..."
           onChange={this.onSearchTextChange}
         />
