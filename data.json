@@ -1,6 +1,11 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "1oz Old Overholt rye\n1oz Pimm's No 1\n0.75oz Lemon juice\n0.75oz Simple syrup\nShake",
+    "Name": "Whiskey Rebellion"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "0.75 oz Beefeater London dry gin\n0.75oz Gran Classico bitter\n0.75oz Martini Rossi sweet vermouth\nStir with Applewood smoke",
     "Name": "Negroni"
   },
