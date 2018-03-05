@@ -3,9 +3,10 @@ import CheckBoxList from '../components/CheckBoxList';
 import Counter from '../utils/Counter';
 import MultilineText from '../components/MultiLineText';
 import PaginatedCardGroup from '../components/PaginatedCardGroup';
-import SearchBar from '../components/SearchBar';
 import RadioList from '../components/RadioList';
+import SearchBar from '../components/SearchBar';
 import StarRating from '../components/StarRating';
+import i8n from '../i8n';
 
 const quantityWords = new Set([
   'oz',
@@ -115,8 +116,8 @@ const hasFilterText = (recipe, filterText) => {
 };
 
 const sortOrders = [
-  {label: "Sort by date", value: "date"},
-  {label: "Sort by rating", value: "rating", comparator: (recipeA, recipeB) => recipeB.Rating - recipeA.Rating},
+  {label: i8n.recipesSortByDate, value: "date"},
+  {label: i8n.recipesSortByRating, value: "rating", comparator: (recipeA, recipeB) => recipeB.Rating - recipeA.Rating},
 ];
 
 const recipeToCard = (recipe, i) => ({
@@ -221,7 +222,7 @@ export default class App extends React.PureComponent {
           <SearchBar
             className="searchBar"
             defaultValue={filterText}
-            placeholder="Search for recipes..."
+            placeholder={i8n.recipesSearchPlaceholder}
             onChange={this.onSearchTextChange}
           />
           <RadioList

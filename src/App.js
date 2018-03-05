@@ -3,6 +3,7 @@ import Container from 'semantic-ui-react/dist/es/elements/Container/Container';
 import Message from 'semantic-ui-react/dist/es/collections/Message/Message';
 import RecipesView from './views/RecipesView';
 import fetchJson from './utils/fetchJson';
+import i8n from './i8n';
 import 'semantic-ui-css/semantic.min.css';
 import './App.css';
 
@@ -40,9 +41,7 @@ export default class App extends React.Component {
 
     if (error) {
       return this.wrapContent(
-        <Message
-          error
-          content="Something went wrong while loading the recipes" />
+        <Message error content={i8n.recipesLoadError} />
       );
     }
 
