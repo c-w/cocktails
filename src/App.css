@@ -3,5 +3,14 @@
 }
 
 .searchBar {
+  margin-top: 0.5em;
   margin-bottom: 1em;
+  display: inline-block;
+}
+
+.radioList {
+  margin-left: 1em;
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+  display: inline-block;
 }

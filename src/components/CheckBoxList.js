@@ -7,20 +7,21 @@ export default class CheckBoxList extends React.PureComponent {
     this.props.onToggle(props.label);
   }
 
-  termToListItem = ([term, isActive]) => ({
-    key: term,
-    content: <Checkbox label={term} checked={isActive} onChange={this.onToggle} />,
-  })
-
   render() {
-    const { terms } = this.props;
+    const { items } = this.props;
 
     return (
-      <List
-        horizontal
-        items={Object.entries(terms).map(this.termToListItem)}
-        size="large"
-      />
+      <List horizontal>
+        {items.map(item =>
+          <List.Item key={item.label}>
+            <Checkbox
+              label={item.label}
+              checked={item.checked}
+              onChange={this.onToggle}
+            />
+          </List.Item>
+        )}
+      </List>
     );
   }
 }

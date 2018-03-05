@@ -4,6 +4,7 @@ import Counter from '../utils/Counter';
 import MultilineText from '../components/MultiLineText';
 import PaginatedCardGroup from '../components/PaginatedCardGroup';
 import SearchBar from '../components/SearchBar';
+import RadioList from '../components/RadioList';
 import StarRating from '../components/StarRating';
 
 const quantityWords = new Set([
@@ -84,20 +85,17 @@ const getFilterTerms = (recipes, numFilters) => {
       });
     });
 
-  const filterTerms = {};
-  new Counter(recipeWords)
+  return new Counter(recipeWords)
     .mostCommon(numFilters)
-    .forEach(filterTerm => filterTerms[filterTerm] = false);
-
-  return filterTerms;
+    .map(term => ({ term, enabled: false }));
 }
 
 const hasAllFilterTerms = (recipe, filterTerms) => {
   const searchCorpus = splitTokens(recipe.Ingredients).toLowerCase();
 
-  return Object.entries(filterTerms)
-    .filter(([filterTerm, isActive]) => isActive)
-    .map(([filterTerm, isActive]) => filterTerm.toLowerCase())
+  return filterTerms
+    .filter(filterTerm => filterTerm.enabled)
+    .map(filterTerm => filterTerm.term.toLowerCase())
     .every(searchValue => searchCorpus.indexOf(searchValue) !== -1);
 }
 
@@ -116,13 +114,21 @@ const hasFilterText = (recipe, filterText) => {
     .every(searchTerm => searchCorpus.indexOf(searchTerm) !== -1);
 };
 
-const byRating = (recipeA, recipeB) => recipeB.Rating - recipeA.Rating;
+const sortOrders = [
+  {label: "Sort by date", value: "date"},
+  {label: "Sort by rating", value: "rating", comparator: (recipeA, recipeB) => recipeB.Rating - recipeA.Rating},
+];
 
 const recipeToCard = (recipe, i) => ({
-  key: `recipe-${i}`,
+  key: `recipe-${i}-${recipe.Name}-${recipe.Ingredients}`,
   header: recipe.Name,
   description: <MultilineText text={splitTokens(recipe.Ingredients)} />,
   meta: <StarRating rating={recipe.Rating} />
+});
+
+const filterToCheckbox = (filter) => ({
+  label: filter.term,
+  checked: filter.enabled
 });
 
 export default class App extends React.PureComponent {
@@ -145,20 +151,31 @@ export default class App extends React.PureComponent {
     if (!state.filterText) {
       state.filterText = '';
     }
+    if (!state.sortOrder) {
+      state.sortOrder = 'date';
+    }
 
     this.state = state;
   }
 
   onSearchTermToggle = (filterTerm) => {
     const { filterTerms } = this.state;
-    const newFilterTerms = Object.assign({}, filterTerms);
-    newFilterTerms[filterTerm] = !newFilterTerms[filterTerm];
+
+    const newFilterTerms = filterTerms
+      .map(({ term, enabled }) => term === filterTerm
+        ? ({ term, enabled: !enabled })
+        : ({ term, enabled }));
+
     this.setState({ filterTerms: newFilterTerms }, this.serializeStateToUrl);
   }
 
   onSearchTextChange = (filterText) => {
     const newFilterText = combineTokens(filterText);
     this.setState({ filterText: newFilterText }, this.serializeStateToUrl);
+  }
+
+  onSortOrderChange = (sortOrder) => {
+    this.setState({ sortOrder }, this.serializeStateToUrl);
   }
 
   serializeStateToUrl = () => {
@@ -173,19 +190,30 @@ export default class App extends React.PureComponent {
       hasFilterText(recipe, filterText);
   }
 
+  sort = (recipes) => {
+    const { sortOrder } = this.state;
+
+    const comparator = sortOrders
+      .filter(order => order.value === sortOrder)
+      .map(order => order.comparator)[0];
+
+    if (comparator) {
+      recipes = recipes.sort(comparator);
+    }
+
+    return recipes;
+  }
+
   render() {
     const { recipes, recipesPerPage } = this.props;
-    const { filterTerms, filterText } = this.state;
+    const { filterTerms, filterText, sortOrder } = this.state;
 
-    const displayableRecipes = recipes
-      .sort(byRating)
-      .filter(this.shouldShowRecipe)
-      .map(recipeToCard);
+    const displayableRecipes = this.sort(recipes.filter(this.shouldShowRecipe));
 
     return (
       <div>
         <CheckBoxList
-          terms={filterTerms}
+          items={filterTerms.map(filterToCheckbox)}
           onToggle={this.onSearchTermToggle}
         />
         <SearchBar
@@ -193,9 +221,14 @@ export default class App extends React.PureComponent {
           placeholder="Search for recipes..."
           onChange={this.onSearchTextChange}
         />
+        <RadioList
+          items={sortOrders}
+          checked={sortOrder}
+          onChange={this.onSortOrderChange}
+        />
         <PaginatedCardGroup
           itemsPerPage={recipesPerPage}
-          items={displayableRecipes}
+          items={displayableRecipes.map(recipeToCard)}
         />
       </div>
     );
