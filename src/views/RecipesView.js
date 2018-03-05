@@ -25,6 +25,7 @@ const blacklistWords = new Set([
   'syrup',
   'simple',
   'sugar',
+  'london',
   'brown',
   'year',
   'grand',
