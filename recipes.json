@@ -1,6 +1,11 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "0.75 oz Beefeater London dry gin\n0.75oz Gran Classico bitter\n0.75oz Martini Rossi sweet vermouth\nStir with Russian Caravan tea smoke",
+    "Name": "Negroni"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "1.5oz Sombra mezcal\n2barsp Rosemary rich simple syrup\n1dash Angostura aromatic bitters\n1dash Bittermens mole bitters\n1dash Peychauds aromatic bitters\nRosemary twist\nStir",
     "Name": "Rosemary Mezcal Old Fashioned"
   },
