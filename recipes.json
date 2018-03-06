@@ -1,6 +1,11 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "1.5oz Sombra mezcal\n2barsp Rosemary rich simple syrup\n1dash Angostura aromatic bitters\n1dash Bittermens mole bitters\n1dash Peychauds aromatic bitters\nRosemary twist\nStir",
+    "Name": "Rosemary Mezcal Old Fashioned"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "1oz Old Overholt rye\n1oz Pimm's No 1\n0.75oz Lemon juice\n0.75oz Simple syrup\nShake",
     "Name": "Whiskey Rebellion"
   },
