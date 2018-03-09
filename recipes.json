@@ -1,6 +1,16 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "0.75oz Old Overholt rye\n0.75oz Martini Rossi sweet vermouth\n0.75oz Gran Classico bitter\n2dashes Fee Brothers black walnut bitters\nStir",
+    "Name": "Boulvardier"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "0.75oz tequila\n0.75oz Martini Rossi sweet vermouth\n0.75oz Gran Classico bitter\n2dashes Regan's orange bitters\nStir",
+    "Name": "Agavoni"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "1oz Beefeater London dry gin\n1oz Martini Rossi sweet vermouth\n0.5oz Cynar\n0.5oz Gran Classico bitter\nStir",
     "Name": "Monday February 26, 2018"
   },
