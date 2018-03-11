@@ -11,12 +11,12 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Flor de Cana 4 year old rum\n0.5oz Lime juice\n0.5oz Green tea rich simple syrup\nShake",
+    "Ingredients": "1oz Flor de Cana 4 year old rum\n0.5oz Lime juice\n0.5oz Green tea rich syrup\nShake",
     "Name": "Green Tea Daiquiri"
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Flor de Cana 4 year old rum\n0.5oz Lime juice\n0.5oz Rich simple syrup\nShake",
+    "Ingredients": "1oz Flor de Cana 4 year old rum\n0.5oz Lime juice\n0.5oz Rich syrup\nShake",
     "Name": "Daiquiri"
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Sombra mezcal\n2barsp Rosemary rich simple syrup\n1dash Angostura aromatic bitters\n1dash Bittermens mole bitters\n1dash Peychauds aromatic bitters\nRosemary twist\nStir",
+    "Ingredients": "1.5oz Sombra mezcal\n2barsp Rosemary rich syrup\n1dash Angostura aromatic bitters\n1dash Bittermens mole bitters\n1dash Peychauds aromatic bitters\nRosemary twist\nStir",
     "Name": "Rosemary Mezcal Old Fashioned"
   },
   {
@@ -126,7 +126,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "2oz Rittenhouse Bottled in Bond rye\n1oz Lemon juice\n1oz 2:1 light brown sugar simple syrup with lapsang suchong\n0.5oz Red wine (float)\nShake",
+    "Ingredients": "2oz Rittenhouse Bottled in Bond rye\n1oz Lemon juice\n1oz Light brown sugar rich syrup with lapsang suchong\n0.5oz Red wine (float)\nShake",
     "Name": "New York Sour"
   },
   {
@@ -206,7 +206,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Del Maguey Vida mezcal\n1oz Laird's 100 Apple brandy\n0.75oz Lemon juice\n0.5oz 2:1 honey syrup\nShake",
+    "Ingredients": "1oz Del Maguey Vida mezcal\n1oz Laird's 100 Apple brandy\n0.75oz Lemon juice\n0.5oz Honey rich syrup\nShake",
     "Name": "Moment In The Sun"
   },
   {
@@ -221,7 +221,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Del Maguey Vida mezcal\n0.25oz Lemon juice\n0.25oz Rich simple syrup\n0.25oz Angostura aromatic bitters\nShake",
+    "Ingredients": "0.75oz Del Maguey Vida mezcal\n0.25oz Lemon juice\n0.25oz Rich syrup\n0.25oz Angostura aromatic bitters\nShake",
     "Name": "Johan Goes To Mexico"
   },
   {
@@ -261,7 +261,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.5oz Rittenhouse Bottled in Bond rye\n0.5oz Dolin sweet vermouth\n0.5oz Amaro Montenegro\n2barsp 2:1 light brown sugar simple syrup with lapsang suchong\n1dash Bittermens mole bitters\nStir",
+    "Ingredients": "0.5oz Rittenhouse Bottled in Bond rye\n0.5oz Dolin sweet vermouth\n0.5oz Amaro Montenegro\n2barsp Light brown sugar rich syrup with lapsang suchong\n1dash Bittermens mole bitters\nStir",
     "Name": "Sunday, November 19 2017"
   },
   {
@@ -276,7 +276,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Flor de Cana 4 year old rum\n0.5oz Campari\n0.5oz Lime juice\n0.5oz 2:1 light brown sugar simple syrup with lapsang suchong\n0.125oz Kuestennebel\nShake",
+    "Ingredients": "2oz Flor de Cana 4 year old rum\n0.5oz Campari\n0.5oz Lime juice\n0.5oz Light brown sugar rich syrup with lapsang suchong\n0.125oz Kuestennebel\nShake",
     "Name": "Benjamin Barker Daiquiri"
   },
   {
@@ -331,12 +331,12 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Old Grand Dad bourbon\n1oz 2:1 honey syrup\n0.75oz Lemon juice\nShake",
+    "Ingredients": "2oz Old Grand Dad bourbon\n1oz Honey rich syrup\n0.75oz Lemon juice\nShake",
     "Name": "Gold Rush"
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Old Grand Dad Bonded bourbon\n1oz 2:1 honey syrup\n0.75oz Lemon juice\nShake",
+    "Ingredients": "2oz Old Grand Dad Bonded bourbon\n1oz Honey rich syrup\n0.75oz Lemon juice\nShake",
     "Name": "Gold Rush"
   },
   {
@@ -441,27 +441,27 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Old Grand Dad bourbon\n0.75oz Rittenhouse Bottled in Bond rye\n0.33oz 2:1 light brown sugar simple syrup\n3dashes Peychauds aromatic bitters\nStir",
+    "Ingredients": "1.5oz Old Grand Dad bourbon\n0.75oz Rittenhouse Bottled in Bond rye\n0.33oz Light brown sugar rich syrup\n3dashes Peychauds aromatic bitters\nStir",
     "Name": "Old Fashioned"
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Old Grand Dad bourbon\n0.5oz Laphroaig 10 year old whiskey\n0.5oz Rittenhouse Bottled in Bond rye\n0.75oz 2:1 honey syrup\n0.75oz Lemon juice\n3slices ginger (muddle)\n0.25oz Laphroaig 10 year old whiskey (float)\nShake",
+    "Ingredients": "1oz Old Grand Dad bourbon\n0.5oz Laphroaig 10 year old whiskey\n0.5oz Rittenhouse Bottled in Bond rye\n0.75oz Honey rich syrup\n0.75oz Lemon juice\n3slices ginger (muddle)\n0.25oz Laphroaig 10 year old whiskey (float)\nShake",
     "Name": "Penicillin"
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz The Duke Munich dry gin\n0.75oz Lemon juice\n0.5oz 2:1 light brown sugar simple syrup with lapsang suchong\n15 Mint leaves\n2dashes Peychauds aromatic bitters\nShake",
+    "Ingredients": "2oz The Duke Munich dry gin\n0.75oz Lemon juice\n0.5oz Light brown sugar rich syrup with lapsang suchong\n15 Mint leaves\n2dashes Peychauds aromatic bitters\nShake",
     "Name": "Southside"
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Old Grand Dad bourbon\n0.5oz Del Maguey Vida mezcal\n0.75oz Lemon juice\n0.5oz 2:1 light brown sugar simple syrup\n0.75oz Egg white\nDry shake",
+    "Ingredients": "1oz Old Grand Dad bourbon\n0.5oz Del Maguey Vida mezcal\n0.75oz Lemon juice\n0.5oz Light brown sugar rich syrup\n0.75oz Egg white\nDry shake",
     "Name": "The Aviary"
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz The Duke Munich dry gin\n0.75oz Lime juice\n0.33oz Kuestennebel\n0.33oz 2:1 light brown sugar simple syrup with lapsang suchong\n15 Mint leaves\nShake",
+    "Ingredients": "2oz The Duke Munich dry gin\n0.75oz Lime juice\n0.33oz Kuestennebel\n0.33oz Light brown sugar rich syrup with lapsang suchong\n15 Mint leaves\nShake",
     "Name": "The French Pearl"
   },
   {
@@ -471,7 +471,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.25oz The Duke Munich dry gin\n1.25oz Pimm's No 1\n0.5oz Lemon juice\n0.25oz 2:1 light brown sugar simple syrup\n2dashes Peychauds aromatic bitters\nShake",
+    "Ingredients": "1.25oz The Duke Munich dry gin\n1.25oz Pimm's No 1\n0.5oz Lemon juice\n0.25oz Light brown sugar rich syrup\n2dashes Peychauds aromatic bitters\nShake",
     "Name": "The Tommy Noble"
   },
   {
@@ -531,7 +531,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Wild Turkey 101 bourbon\n0.75oz Old Overholt rye\n0.33oz Rich simple syrup\n3dashes Peychauds aromatic bitters\nOrange twist\nStir",
+    "Ingredients": "1.5oz Wild Turkey 101 bourbon\n0.75oz Old Overholt rye\n0.33oz Rich syrup\n3dashes Peychauds aromatic bitters\nOrange twist\nStir",
     "Name": "Old Fashioned"
   },
   {
@@ -581,7 +581,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Old Overholt rye\n0.75oz Lemon juice\n0.75oz 2:1 honey syrup\n1barsp Green Chartreuse\nShake",
+    "Ingredients": "2oz Old Overholt rye\n0.75oz Lemon juice\n0.75oz Honey rich syrup\n1barsp Green Chartreuse\nShake",
     "Name": "Rye Hummingbird"
   },
   {
@@ -681,7 +681,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Del Maguey Vida mezcal\n1oz Old Grand Dad Bonded bourbon\n1barsp Rich simple syrup\n1dash Angostura aromatic bitters\nStir",
+    "Ingredients": "1oz Del Maguey Vida mezcal\n1oz Old Grand Dad Bonded bourbon\n1barsp rich syrup\n1dash Angostura aromatic bitters\nStir",
     "Name": "Pan Am"
   },
   {
@@ -701,12 +701,12 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Lazzaroni amaretto\n0.75oz Old Grand Dad Bonded bourbon\n1oz Lemon juice\n0.75oz Egg white\n1barsp Rich simple syrup\nReverse Dry Shake",
+    "Ingredients": "1.5oz Lazzaroni amaretto\n0.75oz Old Grand Dad Bonded bourbon\n1oz Lemon juice\n0.75oz Egg white\n1barsp rich syrup\nReverse Dry Shake",
     "Name": "Amaretto Sour"
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Old Grand Dad Bonded bourbon\n0.25oz Lazzaroni amaretto\n0.25oz Cointreau\n3barsp 2:1 honey syrup\n1dash Regan's orange bitters\n1dash Peychauds aromatic bitters\nOrange twist\nBuild on the rocks",
+    "Ingredients": "1.5oz Old Grand Dad Bonded bourbon\n0.25oz Lazzaroni amaretto\n0.25oz Cointreau\n3barsp Honey rich syrup\n1dash Regan's orange bitters\n1dash Peychauds aromatic bitters\nOrange twist\nBuild on the rocks",
     "Name": "Sunday, January 28 2018"
   },
   {
@@ -726,7 +726,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Beefeater London dry gin\n1oz Carpano Antica sweet vermouth\n0.25oz Campari\n0.25oz Angostura aromatic bitters\n1barsp Rich simple syrup\nGrapefruit twist (discarded)\nShake",
+    "Ingredients": "2oz Beefeater London dry gin\n1oz Carpano Antica sweet vermouth\n0.25oz Campari\n0.25oz Angostura aromatic bitters\n1barsp rich syrup\nGrapefruit twist (discarded)\nShake",
     "Name": "Evening Redness no1"
   },
   {
@@ -891,7 +891,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz The Duke Munich dry gin\n0.75oz 2:1 honey syrup\n0.75oz Lemon juice\nShake",
+    "Ingredients": "2oz The Duke Munich dry gin\n0.75oz Honey rich syrup\n0.75oz Lemon juice\nShake",
     "Name": "Bees Knees"
   },
   {
@@ -981,7 +981,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz The Duke Munich dry gin\n0.75oz Lemon juice\n0.75oz 2:1 light brown sugar simple syrup with lapsang suchong\n2dashes Peychauds aromatic bitters\n1pinch Salt\nShake",
+    "Ingredients": "1.5oz The Duke Munich dry gin\n0.75oz Lemon juice\n0.75oz Light brown sugar rich syrup with lapsang suchong\n2dashes Peychauds aromatic bitters\n1pinch Salt\nShake",
     "Name": "Fitzgerald"
   },
   {
@@ -1061,7 +1061,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Del Maguey Vida mezcal\n0.75oz Cointreau\n0.75oz Lime juice\n1barsp 2:1 light brown sugar simple syrup\n1pinch Salt",
+    "Ingredients": "1.5oz Del Maguey Vida mezcal\n0.75oz Cointreau\n0.75oz Lime juice\n1barsp Light brown sugar rich syrup\n1pinch Salt",
     "Name": "Mezcal Margarita"
   },
   {
@@ -1111,27 +1111,27 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Old Grand Dad bourbon\n0.5oz Rittenhouse Bottled in Bond rye\n0.25oz 2:1 light brown sugar simple syrup\n3dashes Peychauds aromatic bitters\n1dash Bittermens mole bitters\nStir",
+    "Ingredients": "1.5oz Old Grand Dad bourbon\n0.5oz Rittenhouse Bottled in Bond rye\n0.25oz Light brown sugar rich syrup\n3dashes Peychauds aromatic bitters\n1dash Bittermens mole bitters\nStir",
     "Name": "Old Fashioned"
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Old Grand Dad bourbon\n1oz Rittenhouse Bottled in Bond rye\n0.25oz 2:1 light brown sugar simple syrup\n3dashes Peychauds aromatic bitters\n1dash Bittermens mole bitters\nStir",
+    "Ingredients": "1.5oz Old Grand Dad bourbon\n1oz Rittenhouse Bottled in Bond rye\n0.25oz Light brown sugar rich syrup\n3dashes Peychauds aromatic bitters\n1dash Bittermens mole bitters\nStir",
     "Name": "Old Fashioned"
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Old Grand Dad bourbon\n0.25oz 2:1 light brown sugar simple syrup\n3dashes Peychauds aromatic bitters\nStir",
+    "Ingredients": "1.5oz Old Grand Dad bourbon\n0.25oz Light brown sugar rich syrup\n3dashes Peychauds aromatic bitters\nStir",
     "Name": "Old Fashioned"
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Old Grand Dad bourbon\n0.25oz 2:1 light brown sugar simple syrup\n3dashes Peychauds aromatic bitters\n1dash Bittermens mole bitters\nStir",
+    "Ingredients": "1.5oz Old Grand Dad bourbon\n0.25oz Light brown sugar rich syrup\n3dashes Peychauds aromatic bitters\n1dash Bittermens mole bitters\nStir",
     "Name": "Old Fashioned"
   },
   {
     "Rating": 3,
-    "Ingredients": "2.5oz Rittenhouse Bottled in Bond rye\n0.33oz 2:1 light brown sugar simple syrup with lapsang suchong\n3dashes Peychauds aromatic bitters\nStir",
+    "Ingredients": "2.5oz Rittenhouse Bottled in Bond rye\n0.33oz Light brown sugar rich syrup with lapsang suchong\n3dashes Peychauds aromatic bitters\nStir",
     "Name": "Old Fashioned"
   },
   {
@@ -1211,7 +1211,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz The Duke Munich dry gin\n0.75oz Grapefruit juice\n0.25oz 2:1 light brown sugar simple syrup with lapsang suchong\n2dashes Peychauds aromatic bitters\nShake",
+    "Ingredients": "1.5oz The Duke Munich dry gin\n0.75oz Grapefruit juice\n0.25oz Light brown sugar rich syrup with lapsang suchong\n2dashes Peychauds aromatic bitters\nShake",
     "Name": "Skipaway"
   },
   {
