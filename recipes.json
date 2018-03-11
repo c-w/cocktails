@@ -1,6 +1,36 @@
 [
   {
     "Rating": 3,
+    "Ingredients": "1oz Sombra mezcal\n0.5oz Espolon Reposado tequila\n0.5oz Punt e Mes sweet vermouth\n0.5oz Cynary\n0.5oz Luxardo Maraschino liqueur\n2dashes Regan's orange bitters\nOrange twist (flamed, discarded)\nStir",
+    "Name": "Mero Mero"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1oz Laphroaig 10 year old whiskey\n0.5oz Lazzaroni amaretto\nStir",
+    "Name": "Godfather"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "1oz Flor de Cana 4 year old rum\n0.5oz Lime juice\n0.5oz Green tea rich simple syrup\nShake",
+    "Name": "Green Tea Daiquiri"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1oz Flor de Cana 4 year old rum\n0.5oz Lime juice\n0.5oz Rich simple syrup\nShake",
+    "Name": "Daiquiri"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1oz Sombra mezcal\n1oz Martini Rossi sweet vermouth\n1oz Gran Classico bitter\n1dash Bittermens mole bitters\n1dash Fee Brothers black walnut bitters\nStir",
+    "Name": "Mezcal Negroni"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "0.5oz Old Overholt rye\n0.5oz Martini Rossi sweet vermouth\n0.5oz Gran Classico bitter\n1dash Fee Brothers black walnut bitters\nStir",
+    "Name": "Boulvardier"
+  },
+  {
+    "Rating": 3,
     "Ingredients": "1oz Beefeater London dry gin\n0.75oz Martini Rossi sweet vermouth\n0.75oz Gran Classico bitter\n1oz Pineapple juice\nShake",
     "Name": "Endless Summer"
   },
@@ -11,7 +41,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz tequila\n0.75oz Martini Rossi sweet vermouth\n0.75oz Gran Classico bitter\n2dashes Regan's orange bitters\nStir",
+    "Ingredients": "0.75oz Espolon Reposado tequila\n0.75oz Martini Rossi sweet vermouth\n0.75oz Gran Classico bitter\n2dashes Regan's orange bitters\nStir",
     "Name": "Agavoni"
   },
   {
