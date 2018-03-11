@@ -38,6 +38,9 @@ const combinedWords = new Set([
   ' juice',
   ' twist',
   ' bitters',
+  'light rum',
+  'aged rum',
+  'coconut rum',
   'dry gin',
   'dry shake',
 ]);
