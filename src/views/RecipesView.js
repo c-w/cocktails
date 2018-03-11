@@ -137,7 +137,8 @@ export default class App extends React.PureComponent {
   }
 
   onSearchTextChange = (filterText) => {
-    const newFilterText = combineTokens(filterText);
+    const { words } = this.props;
+    const newFilterText = combineTokens(filterText, new Set(words.combined));
     this.setState({ filterText: newFilterText }, this.serializeStateToUrl);
   }
 
