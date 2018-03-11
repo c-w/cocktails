@@ -13,15 +13,16 @@ export default class App extends React.Component {
 
     this.state = {
       error: null,
-      recipes: []
+      recipes: [],
+      words: {},
     };
   }
 
   componentDidMount() {
-    const { recipesUrl } = this.props;
+    const { recipesUrl, wordsUrl } = this.props;
 
-    fetchJson(recipesUrl)
-      .then(recipes => this.setState({ recipes }))
+    Promise.all([fetchJson(recipesUrl), fetchJson(wordsUrl)])
+      .then(([recipes, words]) => this.setState({ recipes, words }))
       .catch(error => this.setState({ error }));
   }
 
@@ -32,7 +33,7 @@ export default class App extends React.Component {
   );
 
   render() {
-    const { error, recipes } = this.state;
+    const { error, recipes, words } = this.state;
     const { pageSize, numFilters } = this.props;
 
     if (recipes.length === 0) {
@@ -49,6 +50,7 @@ export default class App extends React.Component {
       <RecipesView
         recipes={recipes}
         recipesPerPage={pageSize}
+        words={words}
         numFilters={numFilters}
       />
     );

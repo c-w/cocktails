@@ -8,44 +8,7 @@ import SearchBar from '../components/SearchBar';
 import StarRating from '../components/StarRating';
 import i8n from '../i8n';
 
-const quantityWords = new Set([
-  'oz',
-  'sp',
-  'pinch',
-  'cup',
-  'drop',
-  'slice',
-  'grain',
-  'cm',
-  'gram',
-  'piece',
-  'dash',
-]);
-
-const blacklistWords = new Set([
-  'old',
-  'syrup',
-  'simple',
-  'sugar',
-  'london',
-  'brown',
-  'year',
-  'grand',
-]);
-
-const combinedWords = new Set([
-  ' vermouth',
-  ' juice',
-  ' twist',
-  ' bitters',
-  'light rum',
-  'aged rum',
-  'coconut rum',
-  'dry gin',
-  'dry shake',
-]);
-
-const combineTokens = (sentence) => {
+const combineTokens = (sentence, combinedWords) => {
   for (const token of combinedWords) {
     const regexp = new RegExp(token, 'gi');
     sentence = sentence.replace(regexp, token.replace(' ', '_'));
@@ -66,25 +29,25 @@ const hasAny = (token, words) => {
   return false;
 }
 
-const isQuantity = (word) => hasAny(word, quantityWords);
+const getFilterTerms = ({ recipes, numFilters, words }) => {
+  const combinedWords = new Set(words.combined || []);
+  const blacklistWords = new Set(words.blacklist || []);
+  const quantityWords = new Set(words.quantity || []);
 
-const isBlacklisted = (word) => hasAny(word, blacklistWords);
-
-const getFilterTerms = (recipes, numFilters) => {
   const recipeWords = [];
   recipes
     .map(recipe => recipe.Ingredients)
     .forEach(ingredients => {
       ingredients.split('\n').forEach(ingredient => {
-        combineTokens(ingredient)
+        combineTokens(ingredient, combinedWords)
           .split(' ')
           .map(word => word.replace(/\([^)]*\)/g, ''))
           .map(word => splitTokens(word))
           .map(word => word.replace(/[^a-zA-Z ]/g, ''))
           .filter(word => word.length > 0)
           .map(word => word.toLowerCase())
-          .filter(word => !isBlacklisted(word))
-          .filter(word => !isQuantity(word))
+          .filter(word => !hasAny(word, blacklistWords))
+          .filter(word => !hasAny(word, quantityWords))
           .forEach(word => recipeWords.push(word));
       });
     });
@@ -150,7 +113,7 @@ export default class App extends React.PureComponent {
     }
 
     if (!state.filterTerms) {
-      state.filterTerms = getFilterTerms(props.recipes, props.numFilters);
+      state.filterTerms = getFilterTerms(props);
     }
     if (!state.filterText) {
       state.filterText = '';
