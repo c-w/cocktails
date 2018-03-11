@@ -30,24 +30,20 @@ const hasAny = (token, words) => {
 }
 
 const getFilterTerms = ({ recipes, numFilters, words }) => {
-  const combinedWords = new Set(words.combined || []);
-  const blacklistWords = new Set(words.blacklist || []);
-  const quantityWords = new Set(words.quantity || []);
-
   const recipeWords = [];
   recipes
     .map(recipe => recipe.Ingredients)
     .forEach(ingredients => {
       ingredients.split('\n').forEach(ingredient => {
-        combineTokens(ingredient, combinedWords)
+        combineTokens(ingredient, words.combined)
           .split(' ')
           .map(word => word.replace(/\([^)]*\)/g, ''))
           .map(word => splitTokens(word))
           .map(word => word.replace(/[^a-zA-Z ]/g, ''))
           .filter(word => word.length > 0)
           .map(word => word.toLowerCase())
-          .filter(word => !hasAny(word, blacklistWords))
-          .filter(word => !hasAny(word, quantityWords))
+          .filter(word => !hasAny(word, words.blacklist))
+          .filter(word => !hasAny(word, words.quantity))
           .forEach(word => recipeWords.push(word));
       });
     });
@@ -138,7 +134,8 @@ export default class App extends React.PureComponent {
 
   onSearchTextChange = (filterText) => {
     const { words } = this.props;
-    const newFilterText = combineTokens(filterText, new Set(words.combined));
+
+    const newFilterText = combineTokens(filterText, words.combined);
     this.setState({ filterText: newFilterText }, this.serializeStateToUrl);
   }
 

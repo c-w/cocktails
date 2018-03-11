@@ -22,7 +22,14 @@ export default class App extends React.Component {
     const { recipesUrl, wordsUrl } = this.props;
 
     Promise.all([fetchJson(recipesUrl), fetchJson(wordsUrl)])
-      .then(([recipes, words]) => this.setState({ recipes, words }))
+      .then(([recipes, words]) => this.setState({
+        recipes,
+        words: {
+          combined: new Set(words.combined || []),
+          blacklist: new Set(words.blacklist || []),
+          quantity: new Set(words.quantity || []),
+        },
+      }))
       .catch(error => this.setState({ error }));
   }
 
