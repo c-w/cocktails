@@ -31,6 +31,11 @@
   },
   {
     "Rating": 3,
+    "Ingredients": "1oz Sombra mezcal\n0.5oz Espolon Reposado tequila\n0.5oz Laird's 100 Apple brandy\n0.25oz Gran Classico bitter\n0.25oz Agave syrup\n0.5oz Lime juice\nShake",
+    "Name": "The Coyocan Cocktail"
+  },
+  {
+    "Rating": 3,
     "Ingredients": "1oz Beefeater London dry gin\n0.75oz Martini Rossi sweet vermouth\n0.75oz Gran Classico bitter\n1oz Pineapple juice\nShake",
     "Name": "Endless Summer"
   },
