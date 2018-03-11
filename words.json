@@ -1,0 +1,36 @@
+{
+  "quantity": [
+    "oz",
+    "sp",
+    "pinch",
+    "cup",
+    "drop",
+    "slice",
+    "grain",
+    "cm",
+    "gram",
+    "piece",
+    "dash"
+  ],
+  "combined": [
+    " vermouth",
+    " juice",
+    " twist",
+    " bitters",
+    "light rum",
+    "aged rum",
+    "coconut rum",
+    "dry gin",
+    "dry shake"
+  ],
+  "blacklist": [
+    "old",
+    "syrup",
+    "simple",
+    "sugar",
+    "london",
+    "brown",
+    "year",
+    "grand"
+  ]
+}
