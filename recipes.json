@@ -11,12 +11,12 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Flor de Cana 4 year old rum\n0.5oz Lime juice\n0.5oz Green tea rich syrup\nShake",
+    "Ingredients": "1oz Flor de Cana 4 year old light rum\n0.5oz Lime juice\n0.5oz Green tea rich syrup\nShake",
     "Name": "Green Tea Daiquiri"
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Flor de Cana 4 year old rum\n0.5oz Lime juice\n0.5oz Rich syrup\nShake",
+    "Ingredients": "1oz Flor de Cana 4 year old light rum\n0.5oz Lime juice\n0.5oz Rich syrup\nShake",
     "Name": "Daiquiri"
   },
   {
@@ -141,17 +141,17 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1oz Bacardi 8 year old rum\n0.75oz Orange juice\n0.75oz Pineapple juice\n0.5oz Lemon juice\n0.25oz Brown sugar simple syrup\n0.25oz Grenadine syrup\n1dash Angostura aromatic bitters",
+    "Ingredients": "1oz Bacardi 8 year old aged rum\n0.75oz Orange juice\n0.75oz Pineapple juice\n0.5oz Lemon juice\n0.25oz Brown sugar simple syrup\n0.25oz Grenadine syrup\n1dash Angostura aromatic bitters",
     "Name": "Planter's Punch"
   },
   {
     "Rating": 5,
-    "Ingredients": "2oz Bacardi 8 year old rum\n1oz Lime juice\n1oz Brown sugar simple syrup\n7 Thai Basil leaves\n1pinch Salt\nMuddle then shake",
+    "Ingredients": "2oz Bacardi 8 year old aged rum\n1oz Lime juice\n1oz Brown sugar simple syrup\n7 Thai Basil leaves\n1pinch Salt\nMuddle then shake",
     "Name": "Thai Basil Daiquiri"
   },
   {
     "Rating": 5,
-    "Ingredients": "2oz Bacardi 8 year old rum\n1oz Lime juice\n0.75oz Brown sugar simple syrup\n5 Thai Basil Leaves\n1pinch Salt\nBlend then shake",
+    "Ingredients": "2oz Bacardi 8 year old aged rum\n1oz Lime juice\n0.75oz Brown sugar simple syrup\n5 Thai Basil Leaves\n1pinch Salt\nBlend then shake",
     "Name": "Thai Basil Daiquiri"
   },
   {
@@ -276,12 +276,12 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Flor de Cana 4 year old rum\n0.5oz Campari\n0.5oz Lime juice\n0.5oz Light brown sugar rich syrup with lapsang suchong\n0.125oz Kuestennebel\nShake",
+    "Ingredients": "2oz Flor de Cana 4 year old light rum\n0.5oz Campari\n0.5oz Lime juice\n0.5oz Light brown sugar rich syrup with lapsang suchong\n0.125oz Kuestennebel\nShake",
     "Name": "Benjamin Barker Daiquiri"
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Flor de Cana 4 year old rum\n0.75oz Amaro Montenegro\n0.75oz Punt E Mes sweet vermouth\nStir",
+    "Ingredients": "0.75oz Flor de Cana 4 year old light rum\n0.75oz Amaro Montenegro\n0.75oz Punt E Mes sweet vermouth\nStir",
     "Name": "Blood Of My Enemies"
   },
   {
@@ -296,27 +296,27 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Flor de Cana 4 year old rum\n0.75oz Lime juice\n0.75oz Light brown sugar simple syrup\n1pinch Salt\nShake",
+    "Ingredients": "1.5oz Flor de Cana 4 year old light rum\n0.75oz Lime juice\n0.75oz Light brown sugar simple syrup\n1pinch Salt\nShake",
     "Name": "Daiquiri"
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Flor de Cana 4 year old rum\n1oz Lime juice\n1oz Simple syrup\nShake",
+    "Ingredients": "2oz Flor de Cana 4 year old light rum\n1oz Lime juice\n1oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Flor de Cana 4 year old rum\n0.75oz Lime juice\n0.75oz Light brown sugar simple syrup\nShake",
+    "Ingredients": "1.5oz Flor de Cana 4 year old light rum\n0.75oz Lime juice\n0.75oz Light brown sugar simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Flor de Cana 4 year old rum\n0.75oz Lime juice\n0.75oz Light brown sugar simple syrup\n2dashes Regan's orange bitters\nShake",
+    "Ingredients": "1.5oz Flor de Cana 4 year old light rum\n0.75oz Lime juice\n0.75oz Light brown sugar simple syrup\n2dashes Regan's orange bitters\nShake",
     "Name": "Daiquiri"
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Bacardi 8 year old rum\n1oz Lime juice\n1oz Simple syrup\nShake",
+    "Ingredients": "2oz Bacardi 8 year old aged rum\n1oz Lime juice\n1oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
@@ -326,7 +326,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Bacardi 8 year old rum\n0.5oz Lime juice\n0.5oz Brown sugar simple syrup\n1oz Grapefruit juice\n1dash Angostura aromatic bitters\nShake",
+    "Ingredients": "1oz Bacardi 8 year old aged rum\n0.5oz Lime juice\n0.5oz Brown sugar simple syrup\n1oz Grapefruit juice\n1dash Angostura aromatic bitters\nShake",
     "Name": "Dirty Diana"
   },
   {
@@ -351,12 +351,12 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Disaronno amaretto\n1oz Malibu rum\n2oz Apple juice\nShake\n",
+    "Ingredients": "1oz Disaronno amaretto\n1oz Malibu coconut rum\n2oz Apple juice\nShake\n",
     "Name": "Italian Surfer"
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Flor de Cana 4 year old rum\n1.5oz Punt E Mes sweet vermouth\n0.25oz Campari\nOrange twist (infuse and muddle in rum, 2 minutes)\nLemon twist (infuse and muddle in rum, 2 minutes)\nStir",
+    "Ingredients": "1.5oz Flor de Cana 4 year old light rum\n1.5oz Punt E Mes sweet vermouth\n0.25oz Campari\nOrange twist (infuse and muddle in rum, 2 minutes)\nLemon twist (infuse and muddle in rum, 2 minutes)\nStir",
     "Name": "John Perona"
   },
   {
@@ -376,12 +376,12 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Malibu rum\n1oz Cranberry juice\n1oz Pineapple juice\nShake",
+    "Ingredients": "1oz Malibu coconut rum\n1oz Cranberry juice\n1oz Pineapple juice\nShake",
     "Name": "Malibu Bay Breeze"
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Malibu rum\n1.5oz Cranberry juice\n0.5oz Lemon juice\n1oz Egg white\nDry shake",
+    "Ingredients": "1oz Malibu coconut rum\n1.5oz Cranberry juice\n0.5oz Lemon juice\n1oz Egg white\nDry shake",
     "Name": "Malibu Cran Sour"
   },
   {
@@ -431,12 +431,12 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.25oz Malibu rum\n0.75oz Grand Marnier\n1oz Orange juice\n1oz Cranberry juice\n1oz Apple juice\nShake",
+    "Ingredients": "1.25oz Malibu coconut rum\n0.75oz Grand Marnier\n1oz Orange juice\n1oz Cranberry juice\n1oz Apple juice\nShake",
     "Name": "Ocean Drive"
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Flor de Cana 4 year old rum\n1oz Cointreau\n0.5oz Lime juice\n0.25oz Light brown sugar simple syrup\nLemon twist\nShake",
+    "Ingredients": "1.5oz Flor de Cana 4 year old light rum\n1oz Cointreau\n0.5oz Lime juice\n0.25oz Light brown sugar simple syrup\nLemon twist\nShake",
     "Name": "Oh Gosh!"
   },
   {
@@ -466,7 +466,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Bacardi 8 year old rum\n1oz Martini Rosso sweet vermouth\n1oz Campari\n3dashes Chocolate bitters\nStir",
+    "Ingredients": "2oz Bacardi 8 year old aged rum\n1oz Martini Rosso sweet vermouth\n1oz Campari\n3dashes Chocolate bitters\nStir",
     "Name": "The Right Hand"
   },
   {
@@ -596,7 +596,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Flor de Cana 4 year old rum\n0.75oz Lime juice\n0.5oz Laphroaig 10 year old whiskey\n0.5oz Maple syrup\nShake",
+    "Ingredients": "1.5oz Flor de Cana 4 year old light rum\n0.75oz Lime juice\n0.5oz Laphroaig 10 year old whiskey\n0.5oz Maple syrup\nShake",
     "Name": "Mr Howell"
   },
   {
@@ -641,7 +641,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz Flor de Cana 4 year old rum\n0.75oz Gran Classico bitter\n0.75oz Cocchi Di Torino sweet vermouth\n1dash Regan's orange bitters\nStir",
+    "Ingredients": "0.75oz Flor de Cana 4 year old light rum\n0.75oz Gran Classico bitter\n0.75oz Cocchi Di Torino sweet vermouth\n1dash Regan's orange bitters\nStir",
     "Name": "Kingston Negroni"
   },
   {
@@ -811,7 +811,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Bacardi 8 year old rum\n1oz Orange juice\n1oz Peach juice\n5drops Angostura aromatic bitters\nLime wedge (garnish)\nMaraschino cherry (garnish)\nShake",
+    "Ingredients": "1oz Bacardi 8 year old aged rum\n1oz Orange juice\n1oz Peach juice\n5drops Angostura aromatic bitters\nLime wedge (garnish)\nMaraschino cherry (garnish)\nShake",
     "Name": "Saturday, July 29 2017"
   },
   {
@@ -821,12 +821,12 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Bacardi 8 year old rum\n1oz Ruso pistachio liqueur\n1.25oz Orange juice\n1oz Peach juice\n0.25oz Lime juice\n1dash Grenadine syrup\nShake",
+    "Ingredients": "1oz Bacardi 8 year old aged rum\n1oz Ruso pistachio liqueur\n1.25oz Orange juice\n1oz Peach juice\n0.25oz Lime juice\n1dash Grenadine syrup\nShake",
     "Name": "Sunday, July 30 2017"
   },
   {
     "Rating": 3,
-    "Ingredients": "3oz Bacardi 8 year old rum\n2oz Cherry puree\n1oz Lime juice\n0.5oz Brown sugar simple syrup\nShake",
+    "Ingredients": "3oz Bacardi 8 year old aged rum\n2oz Cherry puree\n1oz Lime juice\n0.5oz Brown sugar simple syrup\nShake",
     "Name": "Tuesday, August 8 2017"
   },
   {
@@ -856,7 +856,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Disaronno amaretto\n1oz Malibu rum\n1oz Orange juice\n1teaspoon Grenadine\nShake",
+    "Ingredients": "1oz Disaronno amaretto\n1oz Malibu coconut rum\n1oz Orange juice\n1teaspoon Grenadine\nShake",
     "Name": "A Day at the Beach"
   },
   {
@@ -886,7 +886,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Bacardi 8 year old rum\n1oz Lime juice\n0.75oz Simple syrup\n7 Basil Leaves\n1pinch Salt\nMuddle then shake",
+    "Ingredients": "2oz Bacardi 8 year old aged rum\n1oz Lime juice\n0.75oz Simple syrup\n7 Basil Leaves\n1pinch Salt\nMuddle then shake",
     "Name": "Basil Daiquiri"
   },
   {
@@ -936,17 +936,17 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Bacardi 8 year old rum\n2oz Coca cola\n0.5 Lime wedge\nStir",
+    "Ingredients": "1oz Bacardi 8 year old aged rum\n2oz Coca cola\n0.5 Lime wedge\nStir",
     "Name": "Cuba Libre"
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Flor de Cana 4 year old rum\n1oz Punt E Mes sweet vermouth\n1barsp Amaro Montenegro\n2dashes Peychauds aromatic bitters\nOrange twist\nStir",
+    "Ingredients": "1.5oz Flor de Cana 4 year old light rum\n1oz Punt E Mes sweet vermouth\n1barsp Amaro Montenegro\n2dashes Peychauds aromatic bitters\nOrange twist\nStir",
     "Name": "Cuban Liberal"
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Bacardi 8 year old rum\n0.75oz Lime juice\n0.75 Brown sugar simple syrup\nShake",
+    "Ingredients": "2oz Bacardi 8 year old aged rum\n0.75oz Lime juice\n0.75 Brown sugar simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
@@ -956,7 +956,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Flor de Cana 4 year old rum\n0.5oz Punt E Mes sweet vermouth\n1oz Orange juice\n0.33oz Lime juice\n0.33oz Light brown sugar simple syrup\n2dashes Peychauds aromatic bitters\nOrange twist\nShake",
+    "Ingredients": "2oz Flor de Cana 4 year old light rum\n0.5oz Punt E Mes sweet vermouth\n1oz Orange juice\n0.33oz Lime juice\n0.33oz Light brown sugar simple syrup\n2dashes Peychauds aromatic bitters\nOrange twist\nShake",
     "Name": "Eastern Promises"
   },
   {
@@ -1031,12 +1031,12 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Malibu rum\n1.5oz Orange juice\n1.5oz Apple juice\n0.5oz Grenadine\nShake",
+    "Ingredients": "1oz Malibu coconut rum\n1.5oz Orange juice\n1.5oz Apple juice\n0.5oz Grenadine\nShake",
     "Name": "Malibu Heat Wave"
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Malibu rum\n1oz Orange juice\n1oz Lemon juice\n1oz Egg white\nDry shake\n",
+    "Ingredients": "2oz Malibu coconut rum\n1oz Orange juice\n1oz Lemon juice\n1oz Egg white\nDry shake\n",
     "Name": "Malibu Stone Sour"
   },
   {
@@ -1076,12 +1076,12 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Bacardi 8 year old rum\n0.5oz Talisker Skye Single Malt whiskey\n0.75oz Lime juice\n0.5oz Maple syrup\nShake",
+    "Ingredients": "1.5oz Bacardi 8 year old aged rum\n0.5oz Talisker Skye Single Malt whiskey\n0.75oz Lime juice\n0.5oz Maple syrup\nShake",
     "Name": "Mr Howell"
   },
   {
     "Rating": 3,
-    "Ingredients": "1.25oz Flor de Cana 4 year old rum\n0.5oz Punt E Mes sweet vermouth\n0.5oz Campari\nOrange twist\nStir",
+    "Ingredients": "1.25oz Flor de Cana 4 year old light rum\n0.5oz Punt E Mes sweet vermouth\n0.5oz Campari\nOrange twist\nStir",
     "Name": "Mr President"
   },
   {
@@ -1161,7 +1161,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Bacardi 8 year old rum\n1oz Cream of coconut\n0.5cup Pineapple\nBlend",
+    "Ingredients": "1oz Bacardi 8 year old aged rum\n1oz Cream of coconut\n0.5cup Pineapple\nBlend",
     "Name": "Pina Colada"
   },
   {
@@ -1186,17 +1186,17 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Flor de Cana 4 year old rum\n1oz Dolin sweet vermouth\n1oz Campari\n10drops Bittermens mole bitters\n1pinch Salt\nStir",
+    "Ingredients": "1oz Flor de Cana 4 year old light rum\n1oz Dolin sweet vermouth\n1oz Campari\n10drops Bittermens mole bitters\n1pinch Salt\nStir",
     "Name": "Rum Negroni"
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Bacardi 8 year old rum\n1oz Pineapple juice\n1oz Orange juice\nShake",
+    "Ingredients": "1oz Bacardi 8 year old aged rum\n1oz Pineapple juice\n1oz Orange juice\nShake",
     "Name": "Rum Punch"
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Bacardi 8 year old rum\n0.5oz Orange juice\n0.5oz Lime juice\n0.5oz Simple syrup\n0.75oz Egg white\n3drops Angostura aromatic bitters\nDry shake",
+    "Ingredients": "2oz Bacardi 8 year old aged rum\n0.5oz Orange juice\n0.5oz Lime juice\n0.5oz Simple syrup\n0.75oz Egg white\n3drops Angostura aromatic bitters\nDry shake",
     "Name": "Rum Sour"
   },
   {
@@ -1216,12 +1216,12 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Malibu rum\n5oz Apple juice\n2dashes Angostura aromatic bitters\nShake",
+    "Ingredients": "1.5oz Malibu coconut rum\n5oz Apple juice\n2dashes Angostura aromatic bitters\nShake",
     "Name": "Sundowner"
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz rum\n0.33oz Pineapple juice\n0.33oz Orange juice\n0.33oz Lime juice\n1dash Angostura aromatic bitters\nShake",
+    "Ingredients": "2oz Bacardi 8 year old aged rum\n0.33oz Pineapple juice\n0.33oz Orange juice\n0.33oz Lime juice\n1dash Angostura aromatic bitters\nShake",
     "Name": "Tangipahoa Planter's Punch"
   },
   {
@@ -1236,12 +1236,12 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Malibu rum\n1oz Disaronno amaretto\nStir",
+    "Ingredients": "1oz Malibu coconut rum\n1oz Disaronno amaretto\nStir",
     "Name": "Tropical Martini"
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Malibu rum\n0.5oz Grand Marnier\n1.5oz Orange juice\nShake",
+    "Ingredients": "1oz Malibu coconut rum\n0.5oz Grand Marnier\n1.5oz Orange juice\nShake",
     "Name": "Tropical Orgasm 2"
   },
   {
@@ -1266,7 +1266,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Flor de Cana 4 year old rum\n0.5oz Luxardo Maraschino liqueur\n1.5oz Grapefruit juice\n0.75oz Lime juice\n0.25oz Simple syrup\nShake",
+    "Ingredients": "2oz Flor de Cana 4 year old light rum\n0.5oz Luxardo Maraschino liqueur\n1.5oz Grapefruit juice\n0.75oz Lime juice\n0.25oz Simple syrup\nShake",
     "Name": "Hemmingway Daiquiri"
   },
   {
@@ -1311,7 +1311,7 @@
   },
   {
     "Rating": 2,
-    "Ingredients": "1oz Bacardi 8 year old rum\n1oz Peach juice\nShake",
+    "Ingredients": "1oz Bacardi 8 year old aged rum\n1oz Peach juice\nShake",
     "Name": "Saturday, July 29 2017"
   },
   {
@@ -1326,7 +1326,7 @@
   },
   {
     "Rating": 2,
-    "Ingredients": "1.5oz Flor de Cana 4 year old rum\n0.5oz Amaro Montenegro\n0.25oz Cointreau\n0.75oz Lime juice\nShake",
+    "Ingredients": "1.5oz Flor de Cana 4 year old light rum\n0.5oz Amaro Montenegro\n0.25oz Cointreau\n0.75oz Lime juice\nShake",
     "Name": "Thursday November 23, 2017"
   },
   {
@@ -1381,12 +1381,12 @@
   },
   {
     "Rating": 2,
-    "Ingredients": "0.75oz Malibu rum\n1oz Cranberry juice\n1oz Apple juice\nShake\n",
+    "Ingredients": "0.75oz Malibu coconut rum\n1oz Cranberry juice\n1oz Apple juice\nShake\n",
     "Name": "Malibu Bay Breeze"
   },
   {
     "Rating": 2,
-    "Ingredients": "2oz Malibu rum\n1oz Grenadine (slide under)\nTop up with orange juice",
+    "Ingredients": "2oz Malibu coconut rum\n1oz Grenadine (slide under)\nTop up with orange juice",
     "Name": "Malibu Sunrise"
   },
   {
@@ -1426,7 +1426,7 @@
   },
   {
     "Rating": 2,
-    "Ingredients": "2oz Bacardi 8 year old rum\n0.5oz GoldEngel Elixirum Aperitivum\n0.75oz Pineapple juice\n0.75oz Lime juice\n1oz Egg white\n1dash Angostura aromatic bitters\nDry shake",
+    "Ingredients": "2oz Bacardi 8 year old aged rum\n0.5oz GoldEngel Elixirum Aperitivum\n0.75oz Pineapple juice\n0.75oz Lime juice\n1oz Egg white\n1dash Angostura aromatic bitters\nDry shake",
     "Name": "Will Of Alan"
   },
   {
