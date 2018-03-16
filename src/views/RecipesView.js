@@ -35,17 +35,19 @@ const getFilterTerms = ({ recipes, numFilters, words }) => {
   recipes
     .map(recipe => recipe.Ingredients)
     .forEach(ingredients => {
-      ingredients.split('\n').forEach(ingredient => {
-        combineTokens(ingredient, combineWords)
-          .split(' ')
-          .map(word => word.replace(/\([^)]*\)/g, ''))
-          .map(word => splitTokens(word))
-          .map(word => word.replace(/[^a-zA-Z ]/g, ''))
-          .filter(word => word.length > 0)
-          .map(word => word.toLowerCase())
-          .filter(word => !hasAny(word, words.blacklist))
-          .filter(word => !hasAny(word, words.quantity))
-          .forEach(word => recipeWords.push(word));
+      ingredients
+        .split('\n')
+        .filter(word => !hasAny(word, words.blacklist))
+        .forEach(ingredient => {
+          combineTokens(ingredient, combineWords)
+            .split(' ')
+            .map(word => word.replace(/\([^)]*\)/g, ''))
+            .map(word => splitTokens(word))
+            .map(word => word.replace(/[^a-zA-Z ]/g, ''))
+            .filter(word => word.length > 0)
+            .map(word => word.toLowerCase())
+            .filter(word => !hasAny(word, words.quantity))
+            .forEach(word => recipeWords.push(word));
       });
     });
 

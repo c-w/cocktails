@@ -79,11 +79,11 @@
     "light rum",
     "aged rum",
     "coconut rum",
+    "london dry gin",
     "dry gin",
     "dry shake"
   ],
   "blacklist": [
-    "syrup",
-    "london"
+    "syrup"
   ]
 }
