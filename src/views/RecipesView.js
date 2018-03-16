@@ -65,12 +65,12 @@ const hasAllFilterTerms = (recipe, filterTerms) => {
     .every(searchValue => searchCorpus.indexOf(searchValue) !== -1);
 }
 
-const hasFilterText = (recipe, filterText) => {
+const hasFilterText = (recipe, filterText, words) => {
   if (!filterText) {
     return true;
   }
 
-  const searchCorpus = `${recipe.Name} ${recipe.Ingredients}`.toLowerCase();
+  const searchCorpus = combineTokens(`${recipe.Name}\n${recipe.Ingredients}`.toLowerCase(), words.combined);
 
   return filterText
     .split('&&')
@@ -153,9 +153,10 @@ export default class App extends React.PureComponent {
 
   shouldShowRecipe = (recipe) => {
     const { filterTerms, filterText } = this.state;
+    const { words } = this.props;
 
     return hasAllFilterTerms(recipe, filterTerms) &&
-      hasFilterText(recipe, filterText);
+      hasFilterText(recipe, filterText, words);
   }
 
   sort = (recipes) => {
