@@ -27,6 +27,9 @@ export default class PaginatedCardGroup extends React.PureComponent {
 
     return (
       <div className={className}>
+        <div className="group">
+          <Card.Group items={itemsOnPage} />
+        </div>
         <div className="pagination">
           <Pagination
             prevItem={null}
@@ -37,9 +40,6 @@ export default class PaginatedCardGroup extends React.PureComponent {
             onPageChange={this.onPageChange}
             totalPages={totalPages}
           />
-        </div>
-        <div className="group">
-          <Card.Group items={itemsOnPage} />
         </div>
       </div>
     );
