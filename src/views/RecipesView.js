@@ -37,7 +37,7 @@ const getFilterTerms = ({ recipes, numFilters, words }) => {
     .forEach(ingredients => {
       ingredients
         .split('\n')
-        .filter(word => !hasAny(word, words.blacklist))
+        .filter(ingredient => !hasAny(ingredient, words.blacklist))
         .forEach(ingredient => {
           combineTokens(ingredient, combineWords)
             .split(' ')
