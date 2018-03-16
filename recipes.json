@@ -1,6 +1,11 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "1oz Wild Turkey 101 bourbon\n1oz Punt e Mes sweet vermouth\n0.5oz Rothman & Winter apricot liqueur\n0.5oz Gran Classico bitter\n1dash Angostura aromatic bitters\nOrange twist\nStir",
+    "Name": "Intercept"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "1oz Laphroaig 10 year old whiskey\n1oz Gran Classico bitter\n1oz Punt e Mes sweet vermouth\n1dash Angostura aromatic bitters\nStir",
     "Name": "Scotch Negroni"
   },
