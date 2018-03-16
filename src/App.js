@@ -28,6 +28,7 @@ export default class App extends React.Component {
           combined: new Set(words.combined || []),
           blacklist: new Set(words.blacklist || []),
           quantity: new Set(words.quantity || []),
+          brands: new Set(words.brands || []),
         },
       }))
       .catch(error => this.setState({ error }));

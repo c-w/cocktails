@@ -11,7 +11,7 @@ import i8n from '../i8n';
 const combineTokens = (sentence, combinedWords) => {
   for (const token of combinedWords) {
     const regexp = new RegExp(token, 'gi');
-    sentence = sentence.replace(regexp, token.replace(' ', '_'));
+    sentence = sentence.replace(regexp, token.replace(/ /g, '_'));
   }
 
   return sentence;
@@ -30,12 +30,13 @@ const hasAny = (token, words) => {
 }
 
 const getFilterTerms = ({ recipes, numFilters, words }) => {
+  const combineWords = new Set([...words.combined, ...words.brands]);
   const recipeWords = [];
   recipes
     .map(recipe => recipe.Ingredients)
     .forEach(ingredients => {
       ingredients.split('\n').forEach(ingredient => {
-        combineTokens(ingredient, words.combined)
+        combineTokens(ingredient, combineWords)
           .split(' ')
           .map(word => word.replace(/\([^)]*\)/g, ''))
           .map(word => splitTokens(word))
