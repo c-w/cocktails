@@ -1,5 +1,10 @@
 [
   {
+    "Rating": 4,
+    "Ingredients": "1oz Laphroaig 10 year old whiskey\n1oz Gran Classico bitter\n1oz Punt e Mes sweet vermouth\n1dash Angostura aromatic bitters\nStir",
+    "Name": "Scotch Negroni"
+  },
+  {
     "Rating": 3,
     "Ingredients": "1oz Sombra mezcal\n0.5oz Espolon Reposado tequila\n0.5oz Punt e Mes sweet vermouth\n0.5oz Cynary\n0.5oz Luxardo Maraschino liqueur\n2dashes Regan's orange bitters\nOrange twist (flamed, discarded)\nStir",
     "Name": "Mero Mero"
