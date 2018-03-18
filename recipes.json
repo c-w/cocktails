@@ -1,5 +1,15 @@
 [
   {
+    "Rating": 3,
+    "Ingredients": "1.5oz Flor de Cana 4 year old light rum\n0.25oz Rothman & Winter apricot liqueur\n0.5oz Lime juice\n1oz Pineapple juice\n0.5oz Simple syrup\nShake",
+    "Name": "Hotel Nacional"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "0.75oz Flor de Cana 4 year old light rum\n0.75oz Rothman & Winter apricot liqueur\n0.75oz Lime juice\nLime twist\nShake",
+    "Name": "Hop Toad"
+  },
+  {
     "Rating": 4,
     "Ingredients": "1.5oz Cynar\n1oz Punt e Mes sweet vermouth\n0.25oz Lemon juice\n2dashes Regan's orange bitters\nStir",
     "Name": "Bitter Guiseppe"
