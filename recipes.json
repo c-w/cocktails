@@ -336,7 +336,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Disaronno amaretto\n1oz Kahlua\n6oz Orange juice\n1oz Whipped cream (topping)\nShake",
+    "Ingredients": "1oz Disaronno amaretto\n1oz Kahlua coffee liqueur\n6oz Orange juice\n1oz Whipped cream (topping)\nShake",
     "Name": "Burried Treasure"
   },
   {
@@ -366,7 +366,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Kahlua\n2.5oz Apple juice\n1oz Cream\nShake",
+    "Ingredients": "1.5oz Kahlua coffee liqueur\n2.5oz Apple juice\n1oz Cream\nShake",
     "Name": "Dirty Apple"
   },
   {
@@ -841,17 +841,17 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Banff vodka\n0.75oz Frangelico\n0.5oz Kahlua\n0.25oz Lemon juice\nShake",
+    "Ingredients": "1oz Banff vodka\n0.75oz Frangelico hazelnut liqueur\n0.5oz Kahlua coffee liqueur\n0.25oz Lemon juice\nShake",
     "Name": "Saturday July 15, 2017"
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Frangelico\n0.5oz Apple juice\n0.25oz Lime juice\n10grams Blueberries\nShake\n",
+    "Ingredients": "1oz Frangelico hazelnut liqueur\n0.5oz Apple juice\n0.25oz Lime juice\n10grams Blueberries\nShake\n",
     "Name": "Tuesday July 25, 2017"
   },
   {
     "Rating": 3,
-    "Ingredients": "2.5oz Frangelico\n1oz Coffee\n0.5oz Lemon juice\n0.5oz Simple syrup\nShake",
+    "Ingredients": "2.5oz Frangelico hazelnut liqueur\n1oz Coffee\n0.5oz Lemon juice\n0.5oz Simple syrup\nShake",
     "Name": "Wednesday July 26, 2017"
   },
   {
@@ -876,7 +876,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Crown Royal whiskey\n0.5oz Frangelico\n1oz Orange juice\n1oz Brown sugar chamomile simple syrup\n1dash Angostura aromatic bitters\nShake",
+    "Ingredients": "1.5oz Crown Royal whiskey\n0.5oz Frangelico hazelnut liqueur\n1oz Orange juice\n1oz Brown sugar chamomile simple syrup\n1dash Angostura aromatic bitters\nShake",
     "Name": "Wednesday, August 16 2017"
   },
   {
@@ -921,7 +921,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Kahlua\n4oz Milk\n2oz Vanilla ice cream\nBlend",
+    "Ingredients": "1oz Kahlua coffee liqueur\n4oz Milk\n2oz Vanilla ice cream\nBlend",
     "Name": "Baby Eskimo"
   },
   {
@@ -951,7 +951,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Kahlua\n1oz Banff vodka\n1oz Lemon juice\nShake",
+    "Ingredients": "1oz Kahlua coffee liqueur\n1oz Banff vodka\n1oz Lemon juice\nShake",
     "Name": "Black Magic"
   },
   {
@@ -1031,17 +1031,17 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Frangelico\n1oz Cranberry juice\n0.5oz Lemon juice\n0.5oz Brown sugar simple syrup\n0.75oz Egg white\nShake",
+    "Ingredients": "2oz Frangelico hazelnut liqueur\n1oz Cranberry juice\n0.5oz Lemon juice\n0.5oz Brown sugar simple syrup\n0.75oz Egg white\nShake",
     "Name": "Frangelico Cran Sour"
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Frangelico\n1oz Lemon juice\n0.5oz Brown sugar simple syrup\n0.75oz Egg white\nDry shake",
+    "Ingredients": "2oz Frangelico hazelnut liqueur\n1oz Lemon juice\n0.5oz Brown sugar simple syrup\n0.75oz Egg white\nDry shake",
     "Name": "Frangelico Sour"
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Frangelico\n0.5oz Lime juice\n0.5oz Simple syrup\n1oz Egg white\nDry shake",
+    "Ingredients": "2oz Frangelico hazelnut liqueur\n0.5oz Lime juice\n0.5oz Simple syrup\n1oz Egg white\nDry shake",
     "Name": "Frangelico Sour"
   },
   {
@@ -1056,7 +1056,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2.5oz Kahlua\n1oz Lemon juice\n0.5oz Simple syrup\n1oz Egg white\nDry shake",
+    "Ingredients": "2.5oz Kahlua coffee liqueur\n1oz Lemon juice\n0.5oz Simple syrup\n1oz Egg white\nDry shake",
     "Name": "Kahlua Sour"
   },
   {
@@ -1196,7 +1196,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Kahlua\n1oz Banff vodka\n1oz Grand Marnier triple sec\n3oz Orange juice\nShake",
+    "Ingredients": "1oz Kahlua coffee liqueur\n1oz Banff vodka\n1oz Grand Marnier triple sec\n3oz Orange juice\nShake",
     "Name": "Orange Smartie"
   },
   {
@@ -1251,7 +1251,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Disaronno amaretto\n1oz Kahlua\n4oz Milk\n1.5oz Whipped cream (topping)\nShake",
+    "Ingredients": "1oz Disaronno amaretto\n1oz Kahlua coffee liqueur\n4oz Milk\n1.5oz Whipped cream (topping)\nShake",
     "Name": "Silver Cloud"
   },
   {
@@ -1276,7 +1276,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Disaronno amaretto\n1oz Kahlua\n2oz Cream\nShake",
+    "Ingredients": "1oz Disaronno amaretto\n1oz Kahlua coffee liqueur\n2oz Cream\nShake",
     "Name": "Toasted Almond"
   },
   {
@@ -1391,12 +1391,12 @@
   },
   {
     "Rating": 2,
-    "Ingredients": "1oz Kahlua\n3oz Sprite\nStir",
+    "Ingredients": "1oz Kahlua coffee liqueur\n3oz Sprite\nStir",
     "Name": "Cobra"
   },
   {
     "Rating": 2,
-    "Ingredients": "2oz Banff vodka\n1oz Kahlua\n1oz Espresso\nShake",
+    "Ingredients": "2oz Banff vodka\n1oz Kahlua coffee liqueur\n1oz Espresso\nShake",
     "Name": "Espresso Martini"
   },
   {
@@ -1486,7 +1486,7 @@
   },
   {
     "Rating": 1,
-    "Ingredients": "1.5oz Banff vodka\n1oz Kahlua\n4oz Milk\n0.25oz Coca Cola\nStir",
+    "Ingredients": "1.5oz Banff vodka\n1oz Kahlua coffee liqueur\n4oz Milk\n0.25oz Coca Cola\nStir",
     "Name": "Big Dog"
   },
   {
@@ -1496,7 +1496,7 @@
   },
   {
     "Rating": 1,
-    "Ingredients": "2oz Banff vodka\n1.5oz Kahlua\n1.5oz Cream\nShake",
+    "Ingredients": "2oz Banff vodka\n1.5oz Kahlua coffee liqueur\n1.5oz Cream\nShake",
     "Name": "Caucasian"
   },
   {
