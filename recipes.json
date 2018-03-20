@@ -1,6 +1,11 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "1oz Sombra mezcal\n1oz Cynar\n0.75oz Lemon juice\n0.75oz Agave syrup\n3dashes Regan's orange bitters\nShake",
+    "Name": "Flawless Victory"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "1oz Wild Turkey 101 bourbon\n0.75oz Gran Classico bitter\n0.75oz Punt e Mes sweet vermouth\nOrange twist\nStir",
     "Name": "Boulvardier"
   },
