@@ -1,6 +1,16 @@
 [
   {
     "Rating": 3,
+    "Ingredients": "2oz Espolon Reposado tequila\n0.5oz Punt e Mes sweet vermouth\n0.5oz Gran Classico amaro\n0.5oz Cointreau triple sec\nStir",
+    "Name": "Range Life"
+  },
+  {
+    "Rating": 2,
+    "Ingredients": "1oz Old Overholt rye\n0.75oz Punt e Mes sweet vermouth\n0.5oz Luxardo Maraschino liqueur\n0.75oz Peychauds aromatic bitters\nStir",
+    "Name": "Tango 'Till They're Sore"
+  },
+  {
+    "Rating": 3,
     "Ingredients": "0.75oz Laphroaig 10 year old whiskey\n0.75oz Punt e Mes sweet vermouth\n0.75oz Aperol amaro\nOrange twist\nStir",
     "Name": "Ortensia"
   },
