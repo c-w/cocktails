@@ -1,5 +1,15 @@
 [
   {
+    "Rating": 5,
+    "Ingredients": "1oz Old Overholt rye\n0.75oz Punt e Mes sweet vermouth\n0.5oz Cynar amaro\nMaraschino cherry (garnish)\nStir",
+    "Name": "Little Italy"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "1oz Sombra mezcal\n1oz Cynar amaro\n0.75oz Lime juice\n0.75oz Cointreau triple sec\n1barsp Agave syrup\nShake",
+    "Name": "Cynarita"
+  },
+  {
     "Rating": 4,
     "Ingredients": "1.5oz Wild Turkey 101 bourbon\n0.5oz Punt e Mes sweet vermouth\n0.5oz Rothman & Winter apricot liqueur\n0.5oz Gran Classico amaro\nLemon twist\nStir",
     "Name": "Hollow Point"
