@@ -1,5 +1,10 @@
 [
   {
+    "Rating": 4,
+    "Ingredients": "0.75oz Sombra mezcal\n0.75oz Punt e Mes sweet vermouth\n0.75oz Gran Classico amaro\nOrange twist (garnish)\nStir",
+    "Name": "Mezcal Negroni"
+  },
+  {
     "Rating": 5,
     "Ingredients": "1oz Old Overholt rye\n0.75oz Punt e Mes sweet vermouth\n0.5oz Cynar amaro\nMaraschino cherry (garnish)\nStir",
     "Name": "Little Italy"
