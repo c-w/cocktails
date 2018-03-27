@@ -1,6 +1,11 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "2oz Laphroaig 10 year old whiskey\n0.75oz Punt e Mes sweet vermouth\n0.5oz Aperol amaro\n1barsp Luxardo Maraschino liqueur\nOrange twist\nCoffee ice cubes\nStir",
+    "Name": "Strange Bedfellows"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "0.75oz Sombra mezcal\n0.75oz Punt e Mes sweet vermouth\n0.75oz Gran Classico amaro\nOrange twist (garnish)\nStir",
     "Name": "Mezcal Negroni"
   },
