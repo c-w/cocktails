@@ -1,6 +1,11 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "0.75oz Appleton Signature Blend dark rum\n0.75oz Punt e Mes sweet vermouth\n0.75oz Gran Classico amaro\nOrange twist (garnish)\nStir",
+    "Name": "Kingston Negroni"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Punt e Mes sweet vermouth\n0.75oz Aperol amaro\nStir",
     "Name": "Aperol Negroni"
   },
