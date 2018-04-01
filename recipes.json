@@ -1,5 +1,20 @@
 [
   {
+    "Rating": 3,
+    "Ingredients": "1oz Sombra mezcal\n1oz Punt e Mes sweet vermouth\n0.75oz Laird's 100 Apple brandy\n0.25oz Fernet Branca amaro\n0.25oz Luxardo Maraschino liqueur\nApple fan (garnish)\nStir",
+    "Name": "All Jacked Up"
+  },
+  {
+    "Rating": 2,
+    "Ingredients": "1.5oz Fernet Branca amaro\n0.75oz Luxardo Maraschino liqueur\n0.5oz Lemon juice\nShake",
+    "Name": "Mr Clark's Cane"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "0.75oz Fernet Branca amaro\n0.5oz Punt e Mes sweet vermouth\n0.25oz Honey rich syrup\n1dash Regan's orange bitters\nLemon twist (garnish)\nStir",
+    "Name": "Fernet Me Not"
+  },
+  {
     "Rating": 4,
     "Ingredients": "0.75oz Appleton Signature Blend dark rum\n0.75oz Punt e Mes sweet vermouth\n0.75oz Gran Classico amaro\nOrange twist (garnish)\nStir",
     "Name": "Kingston Negroni"
@@ -16,7 +31,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Punt e Mes sweet vermouth\n0.75oz Cynar amaro\nLaird's 100 Apple brandy\nStir",
+    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Punt e Mes sweet vermouth\n0.75oz Cynar amaro\n0.75oz Laird's 100 Apple brandy\nStir",
     "Name": "MI-5"
   },
   {
