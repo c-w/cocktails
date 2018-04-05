@@ -1,6 +1,21 @@
 [
   {
     "Rating": 3,
+    "Ingredients": "1oz Laphroaig 10 year old whiskey\n0.5oz Kopke ruby port\n0.5oz Cynar amaro\n1dash Peychauds aromatic bitters\nOrange twist (garnish)\nStir",
+    "Name": "Red Haven"
+  },
+  {
+    "Rating": 1,
+    "Ingredients": "0.75oz Kopke ruby port\n0.75oz Pierre Ferrand 1840 cognac\nLemon twist (garnish)\nStir",
+    "Name": "Nelson's Blood"
+  },
+  {
+    "Rating": 2,
+    "Ingredients": "2oz Kopke ruby port\n1oz Pierre Ferrand 1840 cognac\n0.25oz Rich syrup\n1 Whole egg\n1pinch Nutmeg (garnish)\nDry shake",
+    "Name": "Coffee Cocktail"
+  },
+  {
+    "Rating": 3,
     "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Kopke ruby port\n0.75oz Aperol amaro\nStir",
     "Name": "Port Aperol Negroni"
   },
