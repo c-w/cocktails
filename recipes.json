@@ -1,5 +1,20 @@
 [
   {
+    "Rating": 2,
+    "Ingredients": "1.5oz Flor de Cana 4 year old light rum\n0.5oz Kopke ruby port\n0.5oz Cointreau triple sec\n0.5oz Lime juice\nShake",
+    "Name": "Saint Valentine"
+  },
+  {
+    "Rating": 2,
+    "Ingredients": "0.75oz Old Overholt rye\n0.5oz Kopke ruby port\n0.25oz Appleton Signature Blend dark rum\nLemon twist (garnish)\nStir",
+    "Name": "Suburban"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "0.75oz Laird's 100 Apple brandy\n0.75oz Kopke ruby port\n0.75oz Cynar amaro\n2dashes Peychauds aromatic bitters\nStir",
+    "Name": "Port Nassau Street Cocktail"
+  },
+  {
     "Rating": 3,
     "Ingredients": "1oz Laphroaig 10 year old whiskey\n0.5oz Kopke ruby port\n0.5oz Cynar amaro\n1dash Peychauds aromatic bitters\nOrange twist (garnish)\nStir",
     "Name": "Red Haven"
