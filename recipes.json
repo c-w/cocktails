@@ -1,6 +1,26 @@
 [
   {
     "Rating": 2,
+    "Ingredients": "0.5oz Appleton Signature Blend dark rum\n0.5oz Green Chartreuse\n0.5oz Rothman & Winter apricot liqueur\n0.5oz Lime juice\nShake\n",
+    "Name": "Final Voyage"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "0.5oz Home-made coffee liqueur\n0.25oz Sombra mezcal\nStir",
+    "Name": "Monday April 9, 2018"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "0.5oz Home-made coffee liqueur\n0.25oz Laphroaig 10 year old whiskey\nStir",
+    "Name": "Monday April 9, 2018"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "0.75oz Home-made coffee liqueur\n0.25oz Lazzaroni amaretto\n0.25oz Laphroaig 10 year old whiskey\n0.25oz C3 Carciofo amaro\nOrange twist (garnish)\nStir",
+    "Name": "Monday April 9, 2018"
+  },
+  {
+    "Rating": 2,
     "Ingredients": "1.5oz Flor de Cana 4 year old light rum\n0.5oz Kopke ruby port\n0.5oz Cointreau triple sec\n0.5oz Lime juice\nShake",
     "Name": "Saint Valentine"
   },
