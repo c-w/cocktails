@@ -1,7 +1,7 @@
 [
   {
     "Rating": 2,
-    "Ingredients": "0.5oz Appleton Signature Blend dark rum\n0.5oz Green Chartreuse\n0.5oz Rothman & Winter apricot liqueur\n0.5oz Lime juice\nShake\n",
+    "Ingredients": "0.5oz Appleton Signature Blend dark rum\n0.5oz Green Chartreuse liqueur\n0.5oz Rothman & Winter apricot liqueur\n0.5oz Lime juice\nShake\n",
     "Name": "Final Voyage"
   },
   {
@@ -386,7 +386,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "0.5oz Laphroaig 10 year old whiskey\n0.5oz Green Chartreuse\n0.5oz Luxardo Maraschino liqueur\n0.5oz Lime juice\nShake",
+    "Ingredients": "0.5oz Laphroaig 10 year old whiskey\n0.5oz Green Chartreuse liqueur\n0.5oz Luxardo Maraschino liqueur\n0.5oz Lime juice\nShake",
     "Name": "Pete's Word"
   },
   {
@@ -611,12 +611,12 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz The Duke Munich dry gin\n0.75oz Green Chartreuse\n0.75oz Luxardo Maraschino liqueur\n0.75oz Lime juice\nShake\n",
+    "Ingredients": "0.75oz The Duke Munich dry gin\n0.75oz Green Chartreuse liqueur\n0.75oz Luxardo Maraschino liqueur\n0.75oz Lime juice\nShake\n",
     "Name": "Last Word"
   },
   {
     "Rating": 4,
-    "Ingredients": "0.5oz Del Maguey Vida mezcal\n0.5oz Dolin sweet vermouth\n0.5oz Green Chartreuse\n2dashes Regan's orange bitters\nStir",
+    "Ingredients": "0.5oz Del Maguey Vida mezcal\n0.5oz Dolin sweet vermouth\n0.5oz Green Chartreuse liqueur\n2dashes Regan's orange bitters\nStir",
     "Name": "Le Saboteur"
   },
   {
@@ -751,7 +751,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Cynar amaro\n1oz Beefeater London dry gin\n0.5oz Green Chartreuse\n0.5oz Egg white\n2dashes Regan's orange bitters\nReverse dry shake",
+    "Ingredients": "2oz Cynar amaro\n1oz Beefeater London dry gin\n0.5oz Green Chartreuse liqueur\n0.5oz Egg white\n2dashes Regan's orange bitters\nReverse dry shake",
     "Name": "Two From LA"
   },
   {
@@ -806,7 +806,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Old Overholt rye\n0.75oz Cocchi Di Torino sweet vermouth\n0.75oz Laird's 100 Apple brandy\n0.25oz Green Chartreuse\n1dash Angostura aromatic bitters\nLemon twist\nStir",
+    "Ingredients": "1oz Old Overholt rye\n0.75oz Cocchi Di Torino sweet vermouth\n0.75oz Laird's 100 Apple brandy\n0.25oz Green Chartreuse liqueur\n1dash Angostura aromatic bitters\nLemon twist\nStir",
     "Name": "Historic Core Cocktail"
   },
   {
@@ -831,7 +831,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Old Overholt rye\n0.75oz Lemon juice\n0.75oz Honey rich syrup\n1barsp Green Chartreuse\nShake",
+    "Ingredients": "2oz Old Overholt rye\n0.75oz Lemon juice\n0.75oz Honey rich syrup\n1barsp Green Chartreuse liqueur\nShake",
     "Name": "Rye Hummingbird"
   },
   {
@@ -876,7 +876,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.5oz Laird's 100 Apple brandy\n0.5oz Old Overholt rye\n0.25oz Green Chartreuse\n0.25oz Luxardo Maraschino liqueur\n1dash Regan's orange bitters\nOrange twist (discarded)\nStir",
+    "Ingredients": "0.5oz Laird's 100 Apple brandy\n0.5oz Old Overholt rye\n0.25oz Green Chartreuse liqueur\n0.25oz Luxardo Maraschino liqueur\n1dash Regan's orange bitters\nOrange twist (discarded)\nStir",
     "Name": "The Swafford"
   },
   {
@@ -941,7 +941,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Del Maguey Vida mezcal\n1oz Carpano Antica sweet vermouth\n0.5oz Green Chartreuse\n2dashes Regan's orange bitters\nStir",
+    "Ingredients": "1oz Del Maguey Vida mezcal\n1oz Carpano Antica sweet vermouth\n0.5oz Green Chartreuse liqueur\n2dashes Regan's orange bitters\nStir",
     "Name": "No. 64"
   },
   {
@@ -981,7 +981,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Tanqueray London dry gin\n1oz Noilly Prat sweet vermouth\n0.5oz Montenegro amaro\n0.25oz Green Chartreuse\n0.25oz Luxardo Maraschino liqueur\nStir",
+    "Ingredients": "1oz Tanqueray London dry gin\n1oz Noilly Prat sweet vermouth\n0.5oz Montenegro amaro\n0.25oz Green Chartreuse liqueur\n0.25oz Luxardo Maraschino liqueur\nStir",
     "Name": "De Palma"
   },
   {
@@ -1151,7 +1151,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz The Duke Munich dry gin\n0.75oz Green Chartreuse\n0.75oz Dolin sweet vermouth\n2dashes Regan's orange bitters\nLemon twist (garnish)\nMaraschino cherry (garnish)\nStir",
+    "Ingredients": "0.75oz The Duke Munich dry gin\n0.75oz Green Chartreuse liqueur\n0.75oz Dolin sweet vermouth\n2dashes Regan's orange bitters\nLemon twist (garnish)\nMaraschino cherry (garnish)\nStir",
     "Name": "Bijou"
   },
   {
@@ -1226,7 +1226,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.5oz Rittenhouse Bottled in Bond rye\n0.5oz Green Chartreuse\n0.5oz Luxardo Maraschino liqueur\n0.5oz Lemon juice\nShake",
+    "Ingredients": "0.5oz Rittenhouse Bottled in Bond rye\n0.5oz Green Chartreuse liqueur\n0.5oz Luxardo Maraschino liqueur\n0.5oz Lemon juice\nShake",
     "Name": "Final Ward"
   },
   {
@@ -1271,7 +1271,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Del Maguey Vida mezcal\n1oz Green Chartreuse\n0.5oz Montenegro amaro\nStir",
+    "Ingredients": "1.5oz Del Maguey Vida mezcal\n1oz Green Chartreuse liqueur\n0.5oz Montenegro amaro\nStir",
     "Name": "Lima Zulu"
   },
   {
@@ -1541,7 +1541,7 @@
   },
   {
     "Rating": 2,
-    "Ingredients": "2oz Old Grand Dad Bonded bourbon\n0.5oz Noilly Prat sweet vermouth\n1barsp Green Chartreuse\n1barsp Luxardo Maraschino liqueur\nStir",
+    "Ingredients": "2oz Old Grand Dad Bonded bourbon\n0.5oz Noilly Prat sweet vermouth\n1barsp Green Chartreuse liqueur\n1barsp Luxardo Maraschino liqueur\nStir",
     "Name": "Duelling Banjos"
   },
   {
@@ -1646,7 +1646,7 @@
   },
   {
     "Rating": 2,
-    "Ingredients": "2oz Becherovka\n0.75oz Lime\n0.25oz Syrup\nShake",
+    "Ingredients": "2oz Becherovka liqueur\n0.75oz Lime\n0.25oz Syrup\nShake",
     "Name": "Oaza"
   },
   {
