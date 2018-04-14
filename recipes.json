@@ -1,5 +1,15 @@
 [
   {
+    "Rating": 3,
+    "Ingredients": "1oz Fernet Branca amaro\n1oz Leopold Bros aperitivo amaro\n0.5oz Beefeater London dry gin\n1barsp Green Chartreuse liqueur\nFee Brothers mint bitters (spray)\nStir",
+    "Name": "My Favorite Things"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "1oz Wild Turkey 101 bourbon\n0.5oz Vya sweet vermouth\n0.5oz Cointreau triple sec\n0.5oz Lime juice\nFee Brothers mint bitters (spray and rinse)\nShake\n",
+    "Name": "Derby"
+  },
+  {
     "Rating": 2,
     "Ingredients": "0.5oz Appleton Signature Blend dark rum\n0.5oz Green Chartreuse liqueur\n0.5oz Rothman & Winter apricot liqueur\n0.5oz Lime juice\nShake\n",
     "Name": "Final Voyage"
