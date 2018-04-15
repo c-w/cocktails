@@ -6,4 +6,6 @@ export default {
   brandSupport: 'Cocktails',
   brandRating: 'Avg Rating',
   brandsSearchPlaceholder: 'Search for brands...',
+  menuEntryRecipes: 'Recipes',
+  menuEntryBrands: 'Top brands',
 };

@@ -1,9 +1,12 @@
 import React from 'react';
 import HashRouter from 'react-router-dom/HashRouter';
+import Link from 'react-router-dom/Link';
 import Redirect from 'react-router-dom/Redirect';
 import Route from 'react-router-dom/Route';
 import Switch from 'react-router-dom/Switch';
 import Container from 'semantic-ui-react/dist/es/elements/Container/Container';
+import Icon from 'semantic-ui-react/dist/es/elements/Icon/Icon';
+import Menu from 'semantic-ui-react/dist/es/collections/Menu/Menu';
 import Message from 'semantic-ui-react/dist/es/collections/Message/Message';
 import BrandsView from './views/BrandsView';
 import RecipesView from './views/RecipesView';
@@ -63,6 +66,23 @@ export default class App extends React.Component {
       ratingsPerPage={this.props.pageSize}
     />
 
+  renderNav = (props) => {
+    const location = props.location.pathname;
+
+    return (
+      <Menu fixed="bottom">
+        <Menu.Item as={Link} to={routes.recipes} active={location === routes.recipes}>
+          <Icon name="cocktail" />
+          {i8n.menuEntryRecipes}
+        </Menu.Item>
+        <Menu.Item as={Link} to={routes.brands} active={location === routes.brands}>
+          <Icon name="line chart" />
+          {i8n.menuEntryBrands}
+        </Menu.Item>
+      </Menu>
+    );
+  }
+
   render() {
     const { error, recipes } = this.state;
 
@@ -81,6 +101,7 @@ export default class App extends React.Component {
     return (
       <HashRouter>
         <Container>
+          <Route path="*" component={this.renderNav} />
           <Switch>
             <Route exact path={routes.index} component={this.renderIndex} />
             <Route exact path={routes.recipes} render={this.renderRecipes} />
