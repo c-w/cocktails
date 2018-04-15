@@ -1,6 +1,26 @@
 [
   {
     "Rating": 3,
+    "Ingredients": "0.75oz Laird's 100 Apple brandy\n0.75oz Vya sweet vermouth\n0.75oz C3 Carciofo amaro\n2dashes Peychauds aromatic bitters\nStir",
+    "Name": "Nassau Street Cocktail"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "0.75oz Sombra mezcal\n0.75oz Vya sweet vermouth\n0.75oz Leopold Bros aperitivo amaro\nStir",
+    "Name": "Mezcal Negroni"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1oz Old Overholt rye\n0.75oz Vya sweet vermouth\n0.5oz C3 Carciofo amaro\nMaraschino cherry (garnish)\nStir",
+    "Name": "Little Italy"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Leopold Bros aperitivo amaro\n0.75oz Vya sweet vermouth\nOrange twist (garnish)\nStir",
+    "Name": "Negroni"
+  },
+  {
+    "Rating": 3,
     "Ingredients": "1oz Fernet Branca amaro\n1oz Leopold Bros aperitivo amaro\n0.5oz Beefeater London dry gin\n1barsp Green Chartreuse liqueur\nFee Brothers mint bitters (spray)\nStir",
     "Name": "My Favorite Things"
   },
