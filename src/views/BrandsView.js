@@ -37,24 +37,23 @@ const toMeanRatings = (recipes, brands) => {
     .sort((a, b) => Math.sign(b.mean - a.mean));
 }
 
-const applyRatingsFilter = (meanRatings, filterText) => {
-  let ratingsFilter;
+const buildRatingsFilter = (filterText) => {
   if (filterText.startsWith('#<')) {
     const maxSupport = parseInt(filterText.substr(2), 10);
-    ratingsFilter = ({ support }) => support < maxSupport;
-  } else if (filterText.startsWith('#>')) {
-    const minSupport = parseInt(filterText.substr(2), 10);
-    ratingsFilter = ({ support }) => support > minSupport;
-  } else {
-    const searchTerms = filterText.toLowerCase().split('||').map(searchTerm => searchTerm.trim());
-
-    ratingsFilter = ({ brand }) => {
-      brand = brand.toLowerCase();
-      return searchTerms.some(searchTerm => brand.indexOf(searchTerm) !== -1);
-    }
+    return ({ support }) => support < maxSupport;
   }
 
-  return meanRatings.filter(ratingsFilter);
+  if (filterText.startsWith('#>')) {
+    const minSupport = parseInt(filterText.substr(2), 10);
+    return ({ support }) => support > minSupport;
+  }
+
+  if (filterText.length > 0) {
+    const searchTerms = filterText.toLowerCase().split('||').map(searchTerm => searchTerm.trim());
+    return ({ brand }) => searchTerms.some(searchTerm => brand.toLowerCase().indexOf(searchTerm) !== -1);
+  }
+
+  return () => true;
 }
 
 export default class BrandsView extends React.PureComponent {
@@ -74,7 +73,8 @@ export default class BrandsView extends React.PureComponent {
     const { words, recipes, ratingsPerPage } = this.props;
     const { filterText } = this.state;
 
-    const meanRatings = applyRatingsFilter(toMeanRatings(recipes, words.brands), filterText);
+    const ratingsFilter = buildRatingsFilter(filterText);
+    const meanRatings = toMeanRatings(recipes, words.brands).filter(ratingsFilter);
 
     return (
       <div>
