@@ -101,27 +101,11 @@ export default class App extends React.PureComponent {
   constructor(props) {
     super(props);
 
-    let state = {};
-    if (window.location.hash) {
-      try {
-        const serializedState = window.location.hash.replace('#/share/', '');
-        state = JSON.parse(atob(decodeURIComponent(serializedState)));
-      } catch (error) {
-        window.location.hash = '';
-      }
-    }
-
-    if (!state.filterTerms) {
-      state.filterTerms = getFilterTerms(props);
-    }
-    if (!state.filterText) {
-      state.filterText = '';
-    }
-    if (!state.sortOrder) {
-      state.sortOrder = 'date';
-    }
-
-    this.state = state;
+    this.state = {
+      sortOrder: 'date',
+      filterText: '',
+      filterTerms: getFilterTerms(props)
+    };
   }
 
   onSearchTermToggle = (filterTerm) => {
@@ -132,23 +116,18 @@ export default class App extends React.PureComponent {
         ? ({ term, enabled: !enabled })
         : ({ term, enabled }));
 
-    this.setState({ filterTerms: newFilterTerms }, this.serializeStateToUrl);
+    this.setState({ filterTerms: newFilterTerms });
   }
 
   onSearchTextChange = (filterText) => {
     const { words } = this.props;
 
     const newFilterText = combineTokens(filterText, words.combined);
-    this.setState({ filterText: newFilterText }, this.serializeStateToUrl);
+    this.setState({ filterText: newFilterText });
   }
 
   onSortOrderChange = (sortOrder) => {
-    this.setState({ sortOrder }, this.serializeStateToUrl);
-  }
-
-  serializeStateToUrl = () => {
-    const serializedState = encodeURIComponent(btoa(JSON.stringify(this.state)));
-    window.location.hash = `#/share/${serializedState}`;
+    this.setState({ sortOrder });
   }
 
   shouldShowRecipe = (recipe) => {
