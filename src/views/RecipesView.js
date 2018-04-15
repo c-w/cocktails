@@ -97,7 +97,7 @@ const filterToCheckbox = (filter) => ({
   checked: filter.enabled
 });
 
-export default class App extends React.PureComponent {
+export default class RecipesView extends React.PureComponent {
   constructor(props) {
     super(props);
 
