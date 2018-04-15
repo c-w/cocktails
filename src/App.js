@@ -34,12 +34,6 @@ export default class App extends React.Component {
       .catch(error => this.setState({ error }));
   }
 
-  wrapContent = (component) => (
-    <Container>
-      {component}
-    </Container>
-  );
-
   render() {
     const { error, recipes, words } = this.state;
     const { pageSize, numFilters } = this.props;
@@ -49,18 +43,22 @@ export default class App extends React.Component {
     }
 
     if (error) {
-      return this.wrapContent(
-        <Message error content={i8n.recipesLoadError} />
+      return (
+        <Container>
+          <Message error content={i8n.recipesLoadError} />
+        </Container>
       );
     }
 
-    return this.wrapContent(
-      <RecipesView
-        recipes={recipes}
-        recipesPerPage={pageSize}
-        words={words}
-        numFilters={numFilters}
-      />
+    return (
+      <Container>
+        <RecipesView
+          recipes={recipes}
+          recipesPerPage={pageSize}
+          words={words}
+          numFilters={numFilters}
+        />
+      </Container>
     );
   }
 }
