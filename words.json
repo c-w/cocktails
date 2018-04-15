@@ -1,6 +1,7 @@
 {
   "brands": [
     "Alberta Premium",
+    "Appleton Signature Blend",
     "Montenegro",
     "Amarula",
     "Angostura",
@@ -12,6 +13,7 @@
     "Beefeater",
     "Bittermens",
     "Black Forest",
+    "C3 Carciofo",
     "Campari",
     "Carpano Antica",
     "Cocchi Di Torino",
@@ -24,6 +26,7 @@
     "El Jimador Reposado",
     "Espolon Reposado",
     "Fee Brothers",
+    "Fernet Branca",
     "Finlandia",
     "Flor de Cana 4 year old",
     "Frangelico",
@@ -33,10 +36,12 @@
     "Green Chartreuse",
     "Jalisco Sierra Reposado",
     "Kahlua",
+    "Kopke",
     "Kuestennebel",
     "Laird's 100",
     "Laphroaig 10 year old",
     "Lazzaroni",
+    "Leopold Bros aperitivo",
     "Luxardo",
     "Maehwasoo",
     "Malibu",
@@ -46,6 +51,7 @@
     "Old Grand Dad",
     "Old Overholt",
     "Peychauds",
+    "Pierre Ferrand 1840",
     "Pimm's No 1",
     "Punt E Mes",
     "Reagan's",
@@ -56,6 +62,7 @@
     "Talisker Skye Single Malt",
     "Tanqueray",
     "The Duke Munich",
+    "Yva",
     "Wild Turkey 101"
   ],
   "quantity": [
