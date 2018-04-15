@@ -5,6 +5,7 @@ import Route from 'react-router-dom/Route';
 import Switch from 'react-router-dom/Switch';
 import Container from 'semantic-ui-react/dist/es/elements/Container/Container';
 import Message from 'semantic-ui-react/dist/es/collections/Message/Message';
+import BrandsView from './views/BrandsView';
 import RecipesView from './views/RecipesView';
 import fetchJson from './utils/fetchJson';
 import i8n from './i8n';
@@ -13,7 +14,8 @@ import './App.css';
 
 const routes = {
   index: '/',
-  recipes: '/recipes'
+  recipes: '/recipes',
+  brands: '/brands',
 };
 
 export default class App extends React.Component {
@@ -54,6 +56,13 @@ export default class App extends React.Component {
       numFilters={this.props.numFilters}
     />
 
+  renderBrands = (props) =>
+    <BrandsView
+      recipes={this.state.recipes}
+      words={this.state.words}
+      ratingsPerPage={this.props.pageSize}
+    />
+
   render() {
     const { error, recipes } = this.state;
 
@@ -75,6 +84,7 @@ export default class App extends React.Component {
           <Switch>
             <Route exact path={routes.index} component={this.renderIndex} />
             <Route exact path={routes.recipes} render={this.renderRecipes} />
+            <Route exact path={routes.brands} render={this.renderBrands} />
           </Switch>
         </Container>
       </HashRouter>

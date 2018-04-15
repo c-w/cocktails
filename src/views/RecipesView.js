@@ -180,7 +180,7 @@ export default class RecipesView extends React.PureComponent {
           />
         </div>
         <PaginatedCardGroup
-          className="recipesList"
+          className="paginatedCardGroup"
           itemsPerPage={recipesPerPage}
           items={displayableRecipes.map(recipeToCard)}
         />

@@ -1,16 +1,20 @@
-.recipesList .pagination {
+.paginatedCardGroup .pagination {
   margin-top: 1em;
   margin-bottom: 1em;
 }
 
-.recipeControls .filters {
-  margin-top: 0.5em;
-}
-
+.brandControls .searchBar,
 .recipeControls .searchBar {
   margin-top: 0.5em;
   margin-bottom: 1em;
+}
+
+.recipeControls .searchBar {
   display: inline-block;
+}
+
+.recipeControls .filters {
+  margin-top: 0.5em;
 }
 
 .recipeControls .sortOrder {
