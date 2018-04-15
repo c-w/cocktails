@@ -1,4 +1,8 @@
 import React from 'react';
+import HashRouter from 'react-router-dom/HashRouter';
+import Redirect from 'react-router-dom/Redirect';
+import Route from 'react-router-dom/Route';
+import Switch from 'react-router-dom/Switch';
 import Container from 'semantic-ui-react/dist/es/elements/Container/Container';
 import Message from 'semantic-ui-react/dist/es/collections/Message/Message';
 import RecipesView from './views/RecipesView';
@@ -6,6 +10,11 @@ import fetchJson from './utils/fetchJson';
 import i8n from './i8n';
 import 'semantic-ui-css/semantic.min.css';
 import './App.css';
+
+const routes = {
+  index: '/',
+  recipes: '/recipes'
+};
 
 export default class App extends React.Component {
   constructor(props) {
@@ -34,9 +43,19 @@ export default class App extends React.Component {
       .catch(error => this.setState({ error }));
   }
 
+  renderIndex = (props) =>
+    <Redirect to={routes.recipes} />
+
+  renderRecipes = (props) =>
+    <RecipesView
+      recipes={this.state.recipes}
+      words={this.state.words}
+      recipesPerPage={this.props.pageSize}
+      numFilters={this.props.numFilters}
+    />
+
   render() {
-    const { error, recipes, words } = this.state;
-    const { pageSize, numFilters } = this.props;
+    const { error, recipes } = this.state;
 
     if (recipes.length === 0) {
       return null;
@@ -51,14 +70,14 @@ export default class App extends React.Component {
     }
 
     return (
-      <Container>
-        <RecipesView
-          recipes={recipes}
-          recipesPerPage={pageSize}
-          words={words}
-          numFilters={numFilters}
-        />
-      </Container>
+      <HashRouter>
+        <Container>
+          <Switch>
+            <Route exact path={routes.index} component={this.renderIndex} />
+            <Route exact path={routes.recipes} render={this.renderRecipes} />
+          </Switch>
+        </Container>
+      </HashRouter>
     );
   }
 }
