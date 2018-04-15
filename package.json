@@ -2,7 +2,7 @@
   "name": "cocktails-blog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://c-w.github.io/cocktails-blog",
+  "homepage": "https://justamouse.com/cocktails-blog",
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
