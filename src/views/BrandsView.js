@@ -46,8 +46,12 @@ const applyRatingsFilter = (meanRatings, filterText) => {
     const minSupport = parseInt(filterText.substr(2), 10);
     ratingsFilter = ({ support }) => support > minSupport;
   } else {
-    const searchTerm = filterText.toLowerCase();
-    ratingsFilter = ({ brand }) => brand.toLowerCase().indexOf(searchTerm) !== -1;
+    const searchTerms = filterText.toLowerCase().split('||').map(searchTerm => searchTerm.trim());
+
+    ratingsFilter = ({ brand }) => {
+      brand = brand.toLowerCase();
+      return searchTerms.some(searchTerm => brand.indexOf(searchTerm) !== -1);
+    }
   }
 
   return meanRatings.filter(ratingsFilter);
