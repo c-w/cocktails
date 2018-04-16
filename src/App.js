@@ -49,6 +49,7 @@ export default class App extends React.Component {
     <RecipesView
       recipes={this.state.recipes}
       words={this.state.words}
+      query={props.match.params.query}
       recipesPerPage={this.props.pageSize}
       numFilters={this.props.numFilters}
     />
@@ -57,6 +58,7 @@ export default class App extends React.Component {
     <BrandsView
       recipes={this.state.recipes}
       words={this.state.words}
+      query={props.match.params.query}
       ratingsPerPage={this.props.pageSize}
     />
 
@@ -98,8 +100,8 @@ export default class App extends React.Component {
           <Route path="*" component={this.renderNav} />
           <Switch>
             <Route exact path="/" component={this.renderIndex} />
-            <Route exact path="/recipes" render={this.renderRecipes} />
-            <Route exact path="/brands" render={this.renderBrands} />
+            <Route exact path="/recipes/:query?" render={this.renderRecipes} />
+            <Route exact path="/brands/:query?" render={this.renderBrands} />
           </Switch>
         </Container>
       </HashRouter>

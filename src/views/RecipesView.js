@@ -103,7 +103,7 @@ export default class RecipesView extends React.PureComponent {
 
     this.state = {
       sortOrder: 'date',
-      filterText: '',
+      filterText: props.query || '',
       filterTerms: getFilterTerms(props)
     };
   }

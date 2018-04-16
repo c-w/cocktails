@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'react-router-dom/Link';
 import Statistic from 'semantic-ui-react/dist/es/views/Statistic/Statistic';
 import PaginatedCardGroup from '../components/PaginatedCardGroup';
 import SearchBar from '../components/SearchBar';
@@ -19,10 +20,12 @@ const meanRatingToCard = ({ brand, mean, support }) => {
     header: brand,
     color,
     description:
-      <Statistic.Group>
-        <Statistic label={i8n.brandSupport} value={support} color={color} />
-        <Statistic label={i8n.brandRating} value={mean.toFixed(2)} color={color} />
-      </Statistic.Group>
+      <Link to={`/recipes/${brand}`}>
+        <Statistic.Group>
+          <Statistic label={i8n.brandSupport} value={support} color={color} />
+          <Statistic label={i8n.brandRating} value={mean.toFixed(2)} color={color} />
+        </Statistic.Group>
+      </Link>
   };
 };
 
@@ -61,7 +64,7 @@ export default class BrandsView extends React.PureComponent {
     super(props);
 
     this.state = {
-      filterText: ''
+      filterText: props.query || ''
     };
   }
 
