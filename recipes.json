@@ -1,5 +1,25 @@
 [
   {
+    "Rating": 2,
+    "Ingredients": "1oz Sombra mezcal\n1oz Flor de Cana 4 year old light rum\n0.75oz C3 Carciofo amaro\n0.25oz Green Chartreuse liqueur\n2dashes Bittermens mole bitters\nStir",
+    "Name": "Up Jumped The Devil"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "0.5oz Beefeater London dry gin\n0.5oz Vya sweet vermouth\n0.25oz Leopold Bros aperitivo amaro\n0.25oz Fernet Branca amaro\n0.25oz Luxardo Maraschino liqueur\nOrange twist (garnish)\nStir",
+    "Name": "Jukebox Opera"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1.5oz Appleton Signature Blend dark rum\n0.75oz Vya sweet vermouth\n0.25oz Cointreau triple sec\n1dash Angostura aromatic bitters\nOrange twist (garnish)\nStir\n",
+    "Name": "Presidente"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "0.75oz Espolon Reposado tequila\n0.75oz Vya sweet vermouth\n0.75oz Leopold Bros aperitivo amaro\n1dash Bittermens mole bitters\nStir",
+    "Name": "1836"
+  },
+  {
     "Rating": 3,
     "Ingredients": "0.75oz Laird's 100 Apple brandy\n0.75oz Vya sweet vermouth\n0.75oz C3 Carciofo amaro\n2dashes Peychauds aromatic bitters\nStir",
     "Name": "Nassau Street Cocktail"
