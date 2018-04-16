@@ -15,12 +15,6 @@ import i8n from './i8n';
 import 'semantic-ui-css/semantic.min.css';
 import './App.css';
 
-const routes = {
-  index: '/',
-  recipes: '/recipes',
-  brands: '/brands',
-};
-
 export default class App extends React.Component {
   constructor(props) {
     super(props);
@@ -49,7 +43,7 @@ export default class App extends React.Component {
   }
 
   renderIndex = (props) =>
-    <Redirect to={routes.recipes} />
+    <Redirect to="/recipes" />
 
   renderRecipes = (props) =>
     <RecipesView
@@ -71,11 +65,11 @@ export default class App extends React.Component {
 
     return (
       <Menu fixed="bottom">
-        <Menu.Item as={Link} to={routes.recipes} active={location === routes.recipes}>
+        <Menu.Item as={Link} to="/recipes" active={location.startsWith('/recipes')}>
           <Icon name="cocktail" />
           {i8n.menuEntryRecipes}
         </Menu.Item>
-        <Menu.Item as={Link} to={routes.brands} active={location === routes.brands}>
+        <Menu.Item as={Link} to="/brands" active={location.startsWith('/brands')}>
           <Icon name="line chart" />
           {i8n.menuEntryBrands}
         </Menu.Item>
@@ -103,9 +97,9 @@ export default class App extends React.Component {
         <Container>
           <Route path="*" component={this.renderNav} />
           <Switch>
-            <Route exact path={routes.index} component={this.renderIndex} />
-            <Route exact path={routes.recipes} render={this.renderRecipes} />
-            <Route exact path={routes.brands} render={this.renderBrands} />
+            <Route exact path="/" component={this.renderIndex} />
+            <Route exact path="/recipes" render={this.renderRecipes} />
+            <Route exact path="/brands" render={this.renderBrands} />
           </Switch>
         </Container>
       </HashRouter>
