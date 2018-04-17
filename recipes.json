@@ -1,5 +1,20 @@
 [
   {
+    "Rating": 3,
+    "Ingredients": "1oz Old Overholt rye\n0.5oz Fernet Branca amaro\n0.5oz Cointreau triple sec\nMaraschino cherry (garnish)\nStir",
+    "Name": "Alcazer"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "1oz Old Overholt rye\n0.5oz Fernet Branca amaro\n0.5oz Aperol amaro\n0.5oz Vya sweet vermouth\n2dashes Peychauds aromatic bitters\nStir",
+    "Name": "Dare I Say"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1oz Wild Turkey 101 bourbon\n1oz Fernet Branca amaro\n0.75oz Lemon juice\n0.5oz Rich syrup\nFee Brothers mint bitters (spray)\nBuild on the rocks",
+    "Name": "Midnight Stinger"
+  },
+  {
     "Rating": 2,
     "Ingredients": "1oz Sombra mezcal\n1oz Flor de Cana 4 year old light rum\n0.75oz C3 Carciofo amaro\n0.25oz Green Chartreuse liqueur\n2dashes Bittermens mole bitters\nStir",
     "Name": "Up Jumped The Devil"
