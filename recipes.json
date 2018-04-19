@@ -1,5 +1,30 @@
 [
   {
+    "Rating": 5,
+    "Ingredients": "1.5oz Finlandia vodka (infused with sweetgrass for 9 days)\n0.25oz Pu Erh rich syrup\n2dashes Fee Brothers black walnut bitters\nStir with Pu Erh smoke",
+    "Name": "Wednesday April 18, 2018"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "1.5oz Vya sweet vermouth\n0.5oz Leopold Bros aperitivo amaro\n0.5oz Aperol amaro\n1oz Club soda\nBuild on the rocks",
+    "Name": "Young American"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1oz Wild Turkey 101 bourbon\n0.75oz Vya sweet vermouth\n0.75oz Leopold Bros aperitivo amaro\nOrange twist (garnish)\nStir",
+    "Name": "Boulvardier"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "1.5oz Wild Turkey 101 bourbon\n1.5oz Leopold Bros aperitivo amaro\n0.75oz Lemon juice\n0.25oz Rich syrup\n1dash Regan's orange bitters\nShake",
+    "Name": "Italian Gentleman"
+  },
+  {
+    "Rating": 2,
+    "Ingredients": "1oz Fernet Branca amaro\n1oz Leopold Bros aperitivo amaro\nStir",
+    "Name": "Ferrari"
+  },
+  {
     "Rating": 3,
     "Ingredients": "1oz Old Overholt rye\n0.5oz Fernet Branca amaro\n0.5oz Cointreau triple sec\nMaraschino cherry (garnish)\nStir",
     "Name": "Alcazer"
