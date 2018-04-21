@@ -1,6 +1,21 @@
 [
   {
     "Rating": 5,
+    "Ingredients": "1.5oz Old Overholt rye\n0.75oz Vya sweet vermouth\n0.33oz Laphroaig 10 year old whiskey\n1barsp Luxardo Maraschino liqueur\nMaraschino cherry (garnish)\nStir",
+    "Name": "Meat Hook"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "0.5oz Pierre Ferrand 1840 cognac\n0.5oz Cointreau triple sec\n0.5oz Beefeater London dry gin\n0.5oz Lemon juice\nLemon twist (garnish)\nShake",
+    "Name": "Jerusalem Between The Sheets"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "2oz Laird's 100 Apple brandy\n0.75oz Lemon juice\n0.5oz Honey rich syrup\nShake",
+    "Name": "Golden Delicious"
+  },
+  {
+    "Rating": 5,
     "Ingredients": "1.5oz Finlandia vodka (infused with sweetgrass for 9 days)\n0.25oz Pu Erh rich syrup\n2dashes Fee Brothers black walnut bitters\nStir with Pu Erh smoke",
     "Name": "Wednesday April 18, 2018"
   },
