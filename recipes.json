@@ -1,5 +1,50 @@
 [
   {
+    "Rating": 4,
+    "Ingredients": "1.5oz Sombra mezcal\n0.33oz Agave syrup\n1dash Angostura aromatic bitters\n1dash Bittermens mole bitters\n1dash Regan's orange bitters\nStir",
+    "Name": "Mezcal Old Fashioned"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1oz Laphroaig 10 year old whiskey\n0.5oz Lazzaroni amaretto\nStir with oak smoke",
+    "Name": "Godfather"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "1.5oz Finlandia vodka (infused with sweetgrass for 9 days)\n0.33oz Pu Erh rich syrup\n2dashes Fee Brothers black walnut bitters\nStir with hickory smoke",
+    "Name": "Wednesday April 18, 2018"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "1.5oz Home-made matcha liqueur\n0.33oz Rothman & Winter apricot liqueur\nStir",
+    "Name": "Saturday April 21, 2018"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1.5oz Old Overholt rye\n0.75oz Vya sweet vermouth\n0.33oz Laphroaig 10 year old whiskey\n1barsp Luxardo Maraschino liqueur\nMaraschino cherry (garnish)\nStir",
+    "Name": "Meat Hook"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Leopold Bros aperitivo amaro\n0.75oz Martini Rossi sweet vermouth\nOrange twist (garnish)\nStir",
+    "Name": "Negroni"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Green Chartreuse liqueur\n0.75oz Luxardo Maraschino liqueur\n0.75oz Lime juice\nShake\n",
+    "Name": "Last Word"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1.5oz Wild Turkey 101 bourbon whiskey\n0.75oz Lemon juice\n0.5oz Rich syrup\nShake",
+    "Name": "Whiskey Sour"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1.5oz Flor de Cana 4 year old light rum\n0.75oz Lime juice\n0.5oz Rich syrup\nShake",
+    "Name": "Daiquiri"
+  },
+  {
     "Rating": 5,
     "Ingredients": "1.5oz Old Overholt rye\n0.75oz Vya sweet vermouth\n0.33oz Laphroaig 10 year old whiskey\n1barsp Luxardo Maraschino liqueur\nMaraschino cherry (garnish)\nStir",
     "Name": "Meat Hook"
