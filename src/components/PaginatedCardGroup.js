@@ -16,6 +16,10 @@ export default class PaginatedCardGroup extends React.PureComponent {
     this.setState({ activePage });
   }
 
+  componentWillReceiveProps() {
+    this.setState({ activePage: 1 });
+  }
+
   render() {
     const { activePage } = this.state;
     const { items, itemsPerPage, className } = this.props;
@@ -36,7 +40,7 @@ export default class PaginatedCardGroup extends React.PureComponent {
             nextItem={null}
             firstItem={null}
             lastItem={null}
-            defaultActivePage={1}
+            activePage={activePage}
             onPageChange={this.onPageChange}
             totalPages={totalPages}
           />
