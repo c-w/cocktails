@@ -1,6 +1,16 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "0.75oz Appleton Signature Blend dark rum\n0.75oz Vya sweet vermouth\n0.75oz C3 Carciofo amaro\nOrange twist (garnish)\nStir",
+    "Name": "Ardent Spirit"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "0.75oz Laphroaig 10 year old whiskey\n0.75oz C3 Carciofo amaro\n0.75oz Vya sweet vermouth\nStir",
+    "Name": "Sin Cyn"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "1.5oz Sombra mezcal\n0.33oz Agave syrup\n1dash Angostura aromatic bitters\n1dash Bittermens mole bitters\n1dash Regan's orange bitters\nStir",
     "Name": "Mezcal Old Fashioned"
   },
