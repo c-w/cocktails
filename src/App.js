@@ -39,7 +39,7 @@ export default class App extends React.Component {
           quantity: new Set(words.quantity || []),
           brands: new Set(words.brands || []),
           ignored: new Set(words.ignored || []),
-          bases: new Set(words.bases || []),
+          spirits: new Set(words.spirits || []),
         },
       }))
       .catch(error => this.setState({ error }));

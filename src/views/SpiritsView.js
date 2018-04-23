@@ -8,7 +8,7 @@ export default class SpiritsView extends React.PureComponent {
 
     return (
       <AverageRatingsDisplay
-        aggregations={words.bases}
+        aggregations={words.spirits}
         searchPlaceholder={i8n.spiritsSearchPlaceholder}
         recipes={recipes}
         ratingsPerPage={ratingsPerPage}
