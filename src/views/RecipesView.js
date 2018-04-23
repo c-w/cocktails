@@ -30,7 +30,7 @@ const hasAny = (token, words) => {
 }
 
 const getFilterTerms = ({ recipes, numFilters, words }) => {
-  const combineWords = new Set([...words.combined, ...words.brands]);
+  const combineWords = new Set([...words.combined, ...words.brands, ...words.bases]);
   const recipeWords = [];
   recipes
     .map(recipe => recipe.Ingredients)
@@ -47,6 +47,7 @@ const getFilterTerms = ({ recipes, numFilters, words }) => {
             .filter(word => word.length > 0)
             .map(word => word.toLowerCase())
             .filter(word => !hasAny(word, words.quantity))
+            .filter(word => !hasAny(word, words.ignored))
             .forEach(word => recipeWords.push(word));
       });
     });

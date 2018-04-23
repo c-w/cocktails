@@ -37,6 +37,8 @@ export default class App extends React.Component {
           blacklist: new Set(words.blacklist || []),
           quantity: new Set(words.quantity || []),
           brands: new Set(words.brands || []),
+          ignored: new Set(words.ignored || []),
+          bases: new Set(words.bases || []),
         },
       }))
       .catch(error => this.setState({ error }));
