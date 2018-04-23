@@ -6,6 +6,8 @@ export default {
   meanRatingSupport: 'Cocktails',
   meanRatingValue: 'Avg Rating',
   brandsSearchPlaceholder: 'Search for brands...',
+  spiritsSearchPlaceholder: 'Search for spirits...',
   menuEntryRecipes: 'Recipes',
+  menuEntrySpirits: 'Top Spirits',
   menuEntryBrands: 'Top brands',
 };

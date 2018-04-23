@@ -10,6 +10,7 @@ import Menu from 'semantic-ui-react/dist/es/collections/Menu/Menu';
 import Message from 'semantic-ui-react/dist/es/collections/Message/Message';
 import BrandsView from './views/BrandsView';
 import RecipesView from './views/RecipesView';
+import SpiritsView from './views/SpiritsView';
 import fetchJson from './utils/fetchJson';
 import i8n from './i8n';
 import 'semantic-ui-css/semantic.min.css';
@@ -56,6 +57,14 @@ export default class App extends React.Component {
       numFilters={this.props.numFilters}
     />
 
+  renderSpirits = (props) =>
+    <SpiritsView
+      recipes={this.state.recipes}
+      words={this.state.words}
+      query={props.match.params.query}
+      ratingsPerPage={this.props.pageSize}
+    />
+
   renderBrands = (props) =>
     <BrandsView
       recipes={this.state.recipes}
@@ -72,6 +81,10 @@ export default class App extends React.Component {
         <Menu.Item as={Link} to="/recipes" active={location.startsWith('/recipes')}>
           <Icon name="cocktail" />
           {i8n.menuEntryRecipes}
+        </Menu.Item>
+        <Menu.Item as={Link} to="/spirits" active={location.startsWith('/spirits')}>
+          <Icon name="bar chart" />
+          {i8n.menuEntrySpirits}
         </Menu.Item>
         <Menu.Item as={Link} to="/brands" active={location.startsWith('/brands')}>
           <Icon name="line chart" />
@@ -103,6 +116,7 @@ export default class App extends React.Component {
           <Switch>
             <Route exact path="/" component={this.renderIndex} />
             <Route exact path="/recipes/:query?" render={this.renderRecipes} />
+            <Route exact path="/spirits/:query?" render={this.renderSpirits} />
             <Route exact path="/brands/:query?" render={this.renderBrands} />
           </Switch>
         </Container>

@@ -32,7 +32,7 @@ const toMeanCard = ({ name, mean, support }) => {
 const toMean = (recipes, aggregations) => {
   const aggregationToRatings = new MultiMap();
   aggregations.forEach(aggregation =>
-    recipes.filter(recipe => recipe.Ingredients.indexOf(aggregation) !== -1).forEach(recipe =>
+    recipes.filter(recipe => recipe.Ingredients.toLowerCase().indexOf(aggregation.toLowerCase()) !== -1).forEach(recipe =>
       aggregationToRatings.add(aggregation, recipe.Rating)));
 
   return aggregationToRatings
