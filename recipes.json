@@ -1,6 +1,16 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Noilly Prat dry vermouth\n0.75oz Rothman & Winter apricot liqueur\n0.5oz Lime juice\nShake",
+    "Name": "Dick, Jr Cocktail"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "0.5oz Beefeater London dry gin\n0.5oz Noilly Prat dry vermouth\n0.5oz Aperol amaro\nOrange twist\nStir",
+    "Name": "Contessa"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "0.5oz Beefeater London dry gin\n0.25oz Noilly Prat dry vermouth\n0.25oz Leopold Bros aperitivo amaro\n0.25oz Cointreau triple sec\nStir",
     "Name": "Lucien Gaudin"
   },
