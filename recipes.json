@@ -1,6 +1,21 @@
 [
   {
     "Rating": 3,
+    "Ingredients": "0.5oz Pierre Ferrand 1840 cognac\n0.5oz Old Overhold rye\n0.25oz Noilly Prat dry vermouth\n0.25oz C3 Carciofo amaro\nStir",
+    "Name": "Windsor Knot"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "1.5oz Old Overhold rye\n1oz Noilly Prat dry vermouth\n0.25oz C3 Carciofo amaro\n0.25oz Luxardo Maraschino liqueur\nStir",
+    "Name": "Bensonhurst"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "0.5oz Leopold Bros aperitivo amaro\n0.5oz Noilly Prat dry vermouth\n0.5oz Lime juice\n0.25oz Rich syrup\n1oz Club soda (float)\nShake",
+    "Name": "Rome With A View"
+  },
+  {
+    "Rating": 3,
     "Ingredients": "0.5oz Wild Turkey 101 bourbon whiskey\n0.5oz Noilly Prat dry vermouth\n0.5oz Cointreau triple sec\n0.5oz Lime juice\nShake",
     "Name": "Haymaker"
   },
