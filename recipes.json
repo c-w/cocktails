@@ -171,7 +171,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Wild Turkey 101 bourbon\n1oz Fernet Branca amaro\n0.75oz Lemon juice\n0.5oz Rich syrup\nFee Brothers mint bitters (spray)\nBuild on the rocks",
+    "Ingredients": "1oz Wild Turkey 101 bourbon\n1oz Fernet Branca amaro\n0.75oz Lemon juice\n0.5oz Rich syrup\n1spray Fee Brothers mint bitters\nBuild on the rocks",
     "Name": "Midnight Stinger"
   },
   {
@@ -216,12 +216,12 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Fernet Branca amaro\n1oz Leopold Bros aperitivo amaro\n0.5oz Beefeater London dry gin\n1barsp Green Chartreuse herbal liqueur\nFee Brothers mint bitters (spray)\nStir",
+    "Ingredients": "1oz Fernet Branca amaro\n1oz Leopold Bros aperitivo amaro\n0.5oz Beefeater London dry gin\n1barsp Green Chartreuse herbal liqueur\n1spray Fee Brothers mint bitters\nStir",
     "Name": "My Favorite Things"
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Wild Turkey 101 bourbon\n0.5oz Vya sweet vermouth\n0.5oz Cointreau triple sec\n0.5oz Lime juice\nFee Brothers mint bitters (spray and rinse)\nShake\n",
+    "Ingredients": "1oz Wild Turkey 101 bourbon\n0.5oz Vya sweet vermouth\n0.5oz Cointreau triple sec\n0.5oz Lime juice\n1rinse Fee Brothers mint bitters\n1spray Fee Brothers mint bitters\nShake\n",
     "Name": "Derby"
   },
   {
@@ -1141,7 +1141,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Espolon Reposado tequila\n0.75oz Cocchi Di Torino sweet vermouth\n0.75oz Aperol amaro\n2dashes Bittermens mole bitters\nLaphroaig 10 year old whiskey and Bittermens mole bitters (rinse)\nLemon twist (discarded)\nStir",
+    "Ingredients": "1.5oz Espolon Reposado tequila\n0.75oz Cocchi Di Torino sweet vermouth\n0.75oz Aperol amaro\n2dashes Bittermens mole bitters\n1rinse Laphroaig 10 year old whiskey\n1rinse Bittermens mole bitters\nLemon twist (discarded)\nStir",
     "Name": "Dolores Haze"
   },
   {
