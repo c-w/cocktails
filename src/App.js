@@ -86,7 +86,7 @@ export default class App extends React.Component {
     const location = props.location.pathname;
 
     return (
-      <Menu fixed="bottom">
+      <Menu icon="labeled" size="mini" fixed="bottom">
         <Menu.Item as={Link} to="/recipes" active={location.startsWith('/recipes')}>
           <Icon name="cocktail" />
           {i8n.menuEntryRecipes}
