@@ -8,6 +8,7 @@ import Container from 'semantic-ui-react/dist/es/elements/Container/Container';
 import Icon from 'semantic-ui-react/dist/es/elements/Icon/Icon';
 import Menu from 'semantic-ui-react/dist/es/collections/Menu/Menu';
 import Message from 'semantic-ui-react/dist/es/collections/Message/Message';
+import BottlesView from './views/BottlesView';
 import BrandsView from './views/BrandsView';
 import RecipesView from './views/RecipesView';
 import SpiritsView from './views/SpiritsView';
@@ -73,6 +74,14 @@ export default class App extends React.Component {
       ratingsPerPage={this.props.pageSize}
     />
 
+  renderBottles = (props) =>
+    <BottlesView
+      recipes={this.state.recipes}
+      words={this.state.words}
+      query={props.match.params.query}
+      ratingsPerPage={this.props.pageSize}
+    />
+
   renderNav = (props) => {
     const location = props.location.pathname;
 
@@ -89,6 +98,10 @@ export default class App extends React.Component {
         <Menu.Item as={Link} to="/brands" active={location.startsWith('/brands')}>
           <Icon name="line chart" />
           {i8n.menuEntryBrands}
+        </Menu.Item>
+        <Menu.Item as={Link} to="/bottles" active={location.startsWith('/bottles')}>
+          <Icon name="winner" />
+          {i8n.menuEntryBottles}
         </Menu.Item>
       </Menu>
     );
@@ -118,6 +131,7 @@ export default class App extends React.Component {
             <Route exact path="/recipes/:query?" render={this.renderRecipes} />
             <Route exact path="/spirits/:query?" render={this.renderSpirits} />
             <Route exact path="/brands/:query?" render={this.renderBrands} />
+            <Route exact path="/bottles/:query?" render={this.renderBottles} />
           </Switch>
         </Container>
       </HashRouter>

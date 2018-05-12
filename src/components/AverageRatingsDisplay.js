@@ -82,12 +82,13 @@ export default class AverageRatingsDisplay extends React.PureComponent {
     return (
       <div>
         <div className="brandControls">
+          {searchPlaceholder &&
           <SearchBar
             className="searchBar"
             defaultValue={filterText}
             placeholder={searchPlaceholder}
             onChange={this.onSearchTextChange}
-          />
+          />}
         </div>
         <PaginatedCardGroup
           className="paginatedCardGroup"

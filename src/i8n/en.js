@@ -7,7 +7,9 @@ export default {
   meanRatingValue: 'Avg Rating',
   brandsSearchPlaceholder: 'Search for brands...',
   spiritsSearchPlaceholder: 'Search for spirits...',
+  bottlesSpiritSelectPlaceholder: 'Select spirit...',
   menuEntryRecipes: 'Recipes',
   menuEntrySpirits: 'Top Spirits',
   menuEntryBrands: 'Top brands',
+  menuEntryBottles: 'Top bottles',
 };
