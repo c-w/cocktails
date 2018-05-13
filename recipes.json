@@ -1,5 +1,20 @@
 [
   {
+    "Rating": 2,
+    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Noilly Prat dry vermouth\nLemon twist\nStir",
+    "Name": "Wet Martini"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "2.5oz Noilly Prat dry vermouth\n1.5oz Leopold Bros aperitivo amaro\n1oz Club soda\nOrange twist\nBuild on the rocks",
+    "Name": "Bicicletta"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "0.75oz Sombra mezcal\n0.75oz Noilly Prat dry vermouth\n0.75oz Leopold Bros aperitivo amaro\nGrapefruit twist\nStir",
+    "Name": "Dry Mezcal Negroni"
+  },
+  {
     "Rating": 4,
     "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Noilly Prat dry vermouth\n0.75oz Rothman & Winter apricot liqueur\nStir",
     "Name": "Holiday Special"
@@ -1371,7 +1386,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2.5oz Dolin dry vermouth\n1.5oz Campari amaro\n1oz Club soda\nBuild on ice",
+    "Ingredients": "2.5oz Dolin dry vermouth\n1.5oz Campari amaro\n1oz Club soda\nBuild on the rocks",
     "Name": "Bicicletta"
   },
   {
