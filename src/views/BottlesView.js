@@ -64,7 +64,6 @@ class SpiritsSelector extends React.PureComponent {
 
     return (
       <Dropdown
-        fluid
         search
         selection
         placeholder={i8n.bottlesSpiritSelectPlaceholder}
