@@ -1,5 +1,25 @@
 [
   {
+    "Rating": 4,
+    "Ingredients": "1.5oz Finlandia vodka (infused with lemon peel)\n0.5oz Cointreau triple sec\n1oz Cranberry juice\n0.25oz Lime juice\nOrange twist (flamed, discarded)\nShake",
+    "Name": "Cosmopolitan"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "0.75oz Finlandia vodka (infused with lapsang souchong tea)\n0.25oz Beefeater London dry gin\n0.25oz Pu Erh rich syrup\n1dash Fee Brothers black walnut bitters\n1dash Bittermens mole bitters\nStir with lapsang souchong smoke",
+    "Name": "Sunday May 13, 2018"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "0.75oz Wild Turkey 101 bourbon\n0.75oz C3 Carciofo amaro\n0.75oz Rothman & Winter apricot liqueur\n0.75oz Lemon juice\nShake",
+    "Name": "One One Thousand"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "1oz Sombra mezcal\n1oz Leopold Bros aperitivo amaro\n1oz C3 Carciofo amaro\n0.25oz Rich syrup\n1 Whole egg\n1pinch Ground coffee (garnish)\nDry shake",
+    "Name": "La Perla De Oaxaca"
+  },
+  {
     "Rating": 2,
     "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Noilly Prat dry vermouth\nLemon twist\nStir",
     "Name": "Wet Martini"
