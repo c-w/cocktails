@@ -1,6 +1,21 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "0.75oz Appleton Signature Blend dark rum\n0.75oz Cocchi Dopo Teatro sweet vermouth\n0.75oz Leopold Bros aperitivo amaro\nOrange twist (garnish)\nStir",
+    "Name": "Kingston Negroni"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "1oz Wild Turkey 101 bourbon\n0.75oz Cocchi Dopo Teatro sweet vermouth\n0.75oz Leopold Bros aperitivo amaro\nOrange twist (discarded)\nStir",
+    "Name": "Boulvardier"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Leopold Bros aperitivo amaro\n0.75oz Cocchi Dopo Teatro sweet vermouth\nStir",
+    "Name": "Negroni"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "1.5oz Finlandia vodka (infused with lemon peel)\n0.5oz Cointreau triple sec\n1oz Cranberry juice\n0.25oz Lime juice\nOrange twist (flamed, discarded)\nShake",
     "Name": "Cosmopolitan"
   },
