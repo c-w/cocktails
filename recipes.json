@@ -1,5 +1,20 @@
 [
   {
+    "Rating": 4,
+    "Ingredients": "0.75oz Wild Turkey 101 bourbon\n1oz Cocchi Dopo Teatro sweet vermouth\n0.75oz Leopold Bros aperitivo amaro\n0.5oz C3 Carciofo amaro\n2dashes Bittermens mole bitters\nOrange twist\nStir",
+    "Name": "Uncle Negroni"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1oz Beefeater London dry gin\n0.5oz Cocchi Dopo Teatro sweet vermouth\n0.5oz Cointreau triple sec\n0.5oz Leopold Bros aperitivo amaro\nStir",
+    "Name": "Wednesday May 16, 2018"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "1oz Wild Turkey 101 bourbon\n0.5oz Cocchi Dopo Teatro sweet vermouth\n0.5oz Leopold Bros aperitivo amaro\n1barsp Fernet Branca amaro\n2dashes Peychauds aromatic bitters\nOrange twist (discarded)\nStir",
+    "Name": "Southpaw"
+  },
+  {
     "Rating": 3,
     "Ingredients": "1oz Bulleit rye\n0.75oz Cocchi Dopo Teatro sweet vermouth\n0.75oz Leopold Bros aperitivo amaro\nStir",
     "Name": "Boulvardier"
