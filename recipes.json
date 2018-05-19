@@ -1,5 +1,15 @@
 [
   {
+    "Rating": 3,
+    "Ingredients": "2oz Wild Turkey 101 bourbon\n1oz Cocchi Dopo Teatro sweet vermouth\n3dashes Regan's orange bitters\nMaraschino cherry (garnish)\nStir",
+    "Name": "Manhattan"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1.5oz Wild Turkey 101 bourbon\n2barsp Rich syrup\n1dash Peychauds aromatic bitters\n1dash Regan's orange bitters\nOrange twist\nStir with hickory smoke",
+    "Name": "Old Fashioned"
+  },
+  {
     "Rating": 4,
     "Ingredients": "0.75oz Wild Turkey 101 bourbon\n1oz Cocchi Dopo Teatro sweet vermouth\n0.75oz Leopold Bros aperitivo amaro\n0.5oz C3 Carciofo amaro\n2dashes Bittermens mole bitters\nOrange twist\nStir",
     "Name": "Uncle Negroni"
