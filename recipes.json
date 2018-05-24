@@ -1,5 +1,25 @@
 [
   {
+    "Rating": 4,
+    "Ingredients": "1.5oz Finlandia vodka (infused with lemon peel)\n0.5oz Cointreau triple sec\n1oz Cranberry juice\n0.25oz Lime juice\nOrange twist (flamed, discarded)\nShake",
+    "Name": "Cosmopolitan"
+  },
+  {
+    "Rating": 2,
+    "Ingredients": "1oz Henry McKenna Bottled in Bond bourbon\n1oz C3 Carciofo amaro\n1oz Red wine\nStir",
+    "Name": "Wine Manhattan"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1oz Laphroaig 10 year old whiskey\n0.5oz Lazzaroni amaretto\nOrange twist\nStir",
+    "Name": "Godfather"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "1oz Old Overholt Bottled in Bond rye\n1oz Green Chartreuse herbal liqueur\n1oz Lemon juice\n1oz Rich syrup\nShake",
+    "Name": "Wednesday May 23, 2018"
+  },
+  {
     "Rating": 3,
     "Ingredients": "1oz Pierre Ferrand 1840 cognac\n0.75oz Leopold Bros aperitivo amaro\n0.75oz Cocchi Dopo Teatro sweet vermouth\n2dashes Regan's orange bitters\nStir",
     "Name": "Cognac Negroni"
