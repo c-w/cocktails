@@ -1,6 +1,21 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Campario amaro\n0.75oz Tribuno sweet vermouth\nStir",
+    "Name": "Negroni"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1oz Sombra mezcal\n0.75oz Campario amaro\n0.75oz Cocchi Dopo Teatro sweet vermouth\n1dash Woodford Reserve orange bitters\nStir",
+    "Name": "Mezcal Negroni"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Campario amaro\n0.75oz Cocchi Dopo Teatro sweet vermouth\nStir",
+    "Name": "Negroni"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "0.75oz Laphroaig 10 year old whiskey\n0.75oz C3 Carciofo amaro\n0.75oz Cocchi Dopo Teatro sweet vermouth\nStir",
     "Name": "Sin Cyn"
   },
