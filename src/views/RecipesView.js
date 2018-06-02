@@ -75,7 +75,6 @@ const hasFilterText = (recipe, filterText, words) => {
 
   return filterText
     .split('&&')
-    .map(searchTerm => searchTerm.replace(/&/g, ''))
     .map(searchTerm => searchTerm.trim())
     .map(searchTerm => searchTerm.toLowerCase())
     .every(searchTerm => searchCorpus.indexOf(searchTerm) !== -1);
