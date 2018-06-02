@@ -6,6 +6,7 @@ import PaginatedCardGroup from '../components/PaginatedCardGroup';
 import RadioList from '../components/RadioList';
 import SearchBar from '../components/SearchBar';
 import StarRating from '../components/StarRating';
+import recipesCache from '../utils/cache';
 import i8n from '../i8n';
 
 const combineTokens = (sentence, combinedWords) => {
@@ -29,7 +30,7 @@ const hasAny = (token, words) => {
   return false;
 }
 
-const getFilterTerms = ({ recipes, numFilters, words }) => {
+const getFilterTerms = recipesCache(({ recipes, numFilters, words }) => {
   const combineWords = new Set([...words.combined, ...words.brands, ...words.spirits]);
   const recipeWords = [];
   recipes
@@ -55,7 +56,7 @@ const getFilterTerms = ({ recipes, numFilters, words }) => {
   return new Counter(recipeWords)
     .mostCommon(numFilters)
     .map(term => ({ term, enabled: false }));
-}
+}, 'getFilterTerms');
 
 const hasAllFilterTerms = (recipe, filterTerms) => {
   if (!filterTerms.length) {
