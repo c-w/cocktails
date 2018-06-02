@@ -1,11 +1,11 @@
 import React from 'react';
 import CheckBoxList from '../components/CheckBoxList';
-import Counter from '../utils/Counter';
 import MultilineText from '../components/MultiLineText';
 import PaginatedCardGroup from '../components/PaginatedCardGroup';
 import RadioList from '../components/RadioList';
 import SearchBar from '../components/SearchBar';
 import StarRating from '../components/StarRating';
+import Counter from '../utils/Counter';
 import recipesCache from '../utils/cache';
 import i8n from '../i8n';
 
