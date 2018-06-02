@@ -58,6 +58,10 @@ const getFilterTerms = ({ recipes, numFilters, words }) => {
 }
 
 const hasAllFilterTerms = (recipe, filterTerms) => {
+  if (!filterTerms.length) {
+    return true;
+  }
+
   const searchCorpus = splitTokens(recipe.Ingredients).toLowerCase();
 
   return filterTerms
