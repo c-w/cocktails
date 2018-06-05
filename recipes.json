@@ -1,6 +1,16 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "1oz Henry McKenna Bottled in Bond bourbon\n0.75oz Tribuno sweet vermouth\n0.75oz Campari amaro\nStir",
+    "Name": "Boulvardier"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1.5oz Tribuno sweet vermouth\n0.5oz Campari amaro\n0.5oz Aperol amaro\n1oz Club soda\nBuild on the rocks",
+    "Name": "Young American"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "0.75oz Sombra mezcal\n0.75oz Aperol amaro\n0.75oz C3 Carciofo amaro\nStir",
     "Name": "Saturday June 2, 2018"
   },
