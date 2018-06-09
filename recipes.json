@@ -1,5 +1,10 @@
 [
   {
+    "Rating": 4,
+    "Ingredients": "1.5oz Plymouth gin\n0.75oz Lemon juice\n0.5oz Rich syrup\n1oz Club soda\nShake",
+    "Name": "Tom Collins"
+  },
+  {
     "Rating": 2,
     "Ingredients": "0.75oz Plymouth gin\n0.75oz Tribuno sweet vermouth\n0.75oz C3 Carciofo amaro\n0.75oz Laird's 100 Apple brandy\nStir",
     "Name": "MI-5"
