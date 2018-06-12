@@ -1,5 +1,15 @@
 [
   {
+    "Rating": 4,
+    "Ingredients": "0.75oz Broker's gin\n0.75oz Campari amaro\n0.75oz Perucchi sweet vermouth\nStir",
+    "Name": "Negroni"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "0.5oz Cointreau triple sec\n0.5oz Tribuno sweet vermouth\n0.5oz Campari amaro\n0.5oz Fernet Branca amaro\nOrange twist (garnish)\nStir",
+    "Name": "Threepenny Opera"
+  },
+  {
     "Rating": 3,
     "Ingredients": "0.5oz Pierre Ferrand 1840 cognac\n0.5oz Rittenhouse Bottled in Bond rye\n0.5oz Laird's 100 Apple brandy\n0.5oz Henry McKenna Bottled in Bond bourbon\n1barsp Rich syrup\n2dashes Angostura aromatic bitters\n1dash Bittermens mole bitters\nOrange twist (garnish)\nLemon twist (garnish)\nStir",
     "Name": "Conference"
