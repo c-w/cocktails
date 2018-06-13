@@ -1,5 +1,15 @@
 [
   {
+    "Rating": 5,
+    "Ingredients": "0.75oz Fidencio mezcal\n0.75oz Campari amaro\n0.75oz Perucchi sweet vermouth\nStir",
+    "Name": "Mezcal Negroni"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1oz Henry McKenna Bottled in Bond bourbon\n0.75oz Perucchi sweet vermouth\n0.75oz Campari amaro\nStir",
+    "Name": "Boulvardier"
+  },
+  {
     "Rating": 4,
     "Ingredients": "0.75oz Broker's gin\n0.75oz Campari amaro\n0.75oz Perucchi sweet vermouth\nStir",
     "Name": "Negroni"
