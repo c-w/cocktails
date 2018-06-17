@@ -1,5 +1,20 @@
 [
   {
+    "Rating": 5,
+    "Ingredients": "0.75oz Ardbeg 10 year old whiskey\n0.75oz C3 Carciofo amaro\n0.75oz Perucchi sweet vermouth\nStir",
+    "Name": "Sin Cyn"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "0.75oz Espolon Reposado tequila\n0.75oz Green Chartreuse herbal liqueur\n0.75oz C3 Carciofo amaro\nLemon twist (garnish)\nStir",
+    "Name": "Toto"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "0.75oz Fidencio mezcal\n0.75oz Campari amaro\n0.75oz C3 Carciofo amaro\n0.75oz Perucchi sweet vermouth\nOrange twist (garnish)\nStir",
+    "Name": "The Last Mechanical Art"
+  },
+  {
     "Rating": 2,
     "Ingredients": "1.5oz Old Overholt Bonded rye\n0.5oz Henry McKenna Bonded bourbon\n0.5oz C3 Carciofo amaro\n0.25oz Luxardo Maraschino liqueur\n0.25oz Fernet Branca amaro\nStir",
     "Name": "Avenue and Davenport"
