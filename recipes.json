@@ -1,5 +1,25 @@
 [
   {
+    "Rating": 3,
+    "Ingredients": "0.75oz Broker's London dry gin\n0.75oz Aperol amaro\n0.75oz C3 Carciofo amaro\nStir",
+    "Name": "Rucula Negroni"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1.5oz C3 Carciofo amaro\n0.5oz Green Chartreuse herbal liqueur\n0.75oz Lime juice\n0.5oz Rich syrup\n14drops Angostura aromatic bitters\nShake",
+    "Name": "The Drink Of Laughter And Forgetting"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "0.75oz Old Overholt rye (infused with coffee for 7 days)\n0.5oz Old Overholt Bonded rye\n0.5oz Henry McKenna Bonded bourbon\n0.25oz Lazzaroni amaretto\n0.75oz Lemon juice\n0.5oz Rich syrup\n0.75oz Egg white\n1pinch Coffee (garnish)\nReverse dry shake",
+    "Name": "Coffee Whiskey Sour"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "1oz Espolon Reposado tequila\n1oz Fidencio mezcal\n0.5oz Cointreau triple sec\n0.5oz Rich syrup\n1oz Lime juice\n0.25piece Avocado\n1pinch Salt\nShake",
+    "Name": "Smoky Avocado Margarita"
+  },
+  {
     "Rating": 5,
     "Ingredients": "0.75oz Ardbeg 10 year old whiskey\n0.75oz C3 Carciofo amaro\n0.75oz Perucchi sweet vermouth\nStir",
     "Name": "Sin Cyn"
