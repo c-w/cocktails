@@ -1,6 +1,11 @@
 [
   {
     "Rating": 3,
+    "Ingredients": "2oz Evan Williams Bonded rye\n1oz Lemon juice\n1oz Rich syrup\nShake",
+    "Name": "Whiskey Sour"
+  },
+  {
+    "Rating": 3,
     "Ingredients": "1.5oz Ardbeg 10 year old whiskey\n1.5oz C3 Carciofo amaro\n1 Whole egg\nReverse dry shake",
     "Name": "Black Diamond Flip"
   },
