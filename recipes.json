@@ -1,6 +1,21 @@
 [
   {
     "Rating": 3,
+    "Ingredients": "2oz Perucchi sweet vermouth\n0.75oz Campari amaro\n0.5oz Heering cherry liqueur\n2dashes Regan's orange bitters\nOrange twist (garnish)\nBuild without ice",
+    "Name": "The Charlatan"
+  },
+  {
+    "Rating": 2,
+    "Ingredients": "1oz Laird's 100 Apple brandy\n0.75oz Heering cherry liqueur\n0.75oz Fernet Branca amaro\n0.5oz Lemon juice\nShake",
+    "Name": "Darkness Till Dawn"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "0.75oz Aperol amaro\n0.75oz Cynar 70 amaro\n0.75oz Perucchi sweet vermouth\nStir",
+    "Name": "L'Amore Di Amaro"
+  },
+  {
+    "Rating": 3,
     "Ingredients": "2oz Evan Williams Bonded bourbon\n1oz Lemon juice\n1oz Rich syrup\nShake",
     "Name": "Whiskey Sour"
   },
