@@ -11,7 +11,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Broker's London dry gin\n0.75oz Green Chartreuse herbal liqueur\n0.75oz Luxardo Maraschino liqueur\n0.75oz Lime juice\nShake\n",
+    "Ingredients": "0.75oz Broker's London dry gin\n0.75oz Green Chartreuse herbal liqueur\n0.75oz Luxardo Maraschino liqueur\n0.75oz Lime juice\nShake",
     "Name": "Last Word"
   },
   {
@@ -176,7 +176,7 @@
   },
   {
     "Rating": 1,
-    "Ingredients": "2oz Plymouth gin\n2dashes Angostura aromatic bitters (rinse)\nLemon twist (discarded)\nServe up",
+    "Ingredients": "2oz Plymouth gin\n2dashes Angostura aromatic bitters (rinse)\nLemon twist (discarded)\nBuild",
     "Name": "Pink Gin"
   },
   {
@@ -1046,7 +1046,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1oz Bacardi 8 year old gold rum\n0.75oz Orange juice\n0.75oz Pineapple juice\n0.5oz Lemon juice\n0.25oz Brown sugar simple syrup\n0.25oz Grenadine syrup\n1dash Angostura aromatic bitters",
+    "Ingredients": "1oz Bacardi 8 year old gold rum\n0.75oz Orange juice\n0.75oz Pineapple juice\n0.5oz Lemon juice\n0.25oz Brown sugar simple syrup\n0.25oz Grenadine syrup\n1dash Angostura aromatic bitters\nShake",
     "Name": "Planter's Punch"
   },
   {
@@ -1966,7 +1966,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Del Maguey Vida mezcal\n0.75oz Cointreau triple sec\n0.75oz Lime juice\n1barsp Light brown sugar rich syrup\n1pinch Salt",
+    "Ingredients": "1.5oz Del Maguey Vida mezcal\n0.75oz Cointreau triple sec\n0.75oz Lime juice\n1barsp Light brown sugar rich syrup\n1pinch Salt\nShake",
     "Name": "Mezcal Margarita"
   },
   {
@@ -2291,7 +2291,7 @@
   },
   {
     "Rating": 2,
-    "Ingredients": "2oz Malibu coconut rum\n1oz Grenadine syrup (slide under)\nTop up with orange juice",
+    "Ingredients": "2oz Malibu coconut rum\n1oz Grenadine syrup (slide under)\nTop up with orange juice\nBuild",
     "Name": "Malibu Sunrise"
   },
   {
