@@ -1,6 +1,16 @@
 [
   {
     "Rating": 3,
+    "Ingredients": "1.5oz Evan Williams bourbon\n2barsp Maple syrup\n1dash Peychauds aromatic bitters\n1dash Regan's orange bitters\nStir with hickory smoke",
+    "Name": "Old Fashioned"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "2oz Evan Williams Bonded bourbon\n1oz Lemon juice\n0.5oz Orange juice\n0.5oz Rich syrup\n1oz Egg white\nReverse dry shake",
+    "Name": "Dan Sabo's Whiskey Sour"
+  },
+  {
+    "Rating": 3,
     "Ingredients": "1oz Evan Williams Bonded bourbon\n0.5oz Heering cherry liqueuer\nStir",
     "Name": "The Hunter"
   },
