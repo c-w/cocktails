@@ -1,5 +1,20 @@
 [
   {
+    "Rating": 3,
+    "Ingredients": "1oz Evan Williams Bonded bourbon\n0.5oz Heering cherry liqueuer\nStir",
+    "Name": "The Hunter"
+  },
+  {
+    "Rating": 2,
+    "Ingredients": "1.5oz Appleton Signature Blend dark rum\n0.75oz Campari amaro\n2oz Pineapple juice\n0.5oz Lime juice\n0.25oz Rich syrup\nShake",
+    "Name": "Jungle Bird"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "2oz Evan Williams Bonded bourbon\n1oz Cointreau triple sec\n0.5oz Perucchi sweet vermouth\n0.5oz Lemon juice\nMaraschino cherry (garnish)\nShake",
+    "Name": "Man O War"
+  },
+  {
     "Rating": 4,
     "Ingredients": "1oz Luksusowa vodka (infused with lychee for 1 day)\n0.25oz Lime juice\n0.25oz Pineapple juice\n1barsp Campari amaro\n1barsp Rich syrup\n1dash Woodford Reserve orange bitters\n5drops Bittermens mole bitters\nShake",
     "Name": "Monday July 2, 2018"
