@@ -1,6 +1,11 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "1.5oz Old Overholt Bonded rye\n0.5oz Heering cherry liqueuer\n0.5oz Perucchi sweet vermouth\n0.5oz Cynar 70 amaro\n1dash Regan's orange bitters\nStir",
+    "Name": "Black Lodge"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "0.75oz Ardbeg 10 year old whiskey\n0.75oz Heering cherry liqueuer\n0.75oz Perucchi sweet vermouth\n0.75oz Orange juice\nShake",
     "Name": "Blood and Sand"
   },
