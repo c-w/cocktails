@@ -1,6 +1,11 @@
 [
   {
     "Rating": 3,
+    "Ingredients": "1oz Henry McKenna Bonded bourbon\n1oz Evan Williams Bonded bourbon\n0.5oz Home-made coffee liqueur\n2dashes Woodford Reserve orange bitters\n2dashes Regan's orange bitters\nStir",
+    "Name": "Revolver"
+  },
+  {
+    "Rating": 3,
     "Ingredients": "1.5oz Broker's London dry gin\n0.75oz Perucchi sweet vermouth\n0.5oz Green Chartreuse herbal liqueur\n0.5oz Cynar 70 amaro\n0.25oz Cointreau triple sec\nStir",
     "Name": "Continuum"
   },
