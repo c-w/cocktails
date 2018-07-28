@@ -1,5 +1,20 @@
 [
   {
+    "Rating": 3,
+    "Ingredients": "1oz Broker's London dry gin\n1oz Perucchi sweet vermouth\n0.5oz Campari orange liqueur\n0.25oz Cynar 70 artichoke liqueur\n0.25oz St Germain elderflower liqueur\nGrapefruit twist (garnish)\nStir",
+    "Name": "Piglet's Lament"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1.5oz Pimm's No 1 amaro\n0.5oz Broker's London dry gin\n0.75oz Lemon juice\n0.5oz Rich syrup\n1dash Peychauds aromatic bitters\n0.25oz Cynar 70 artichoke liqueur (rinse)\nShake",
+    "Name": "Fox Hunt"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "1oz Old Overholt Bonded rye\n1oz Fidencio mezcal\n0.5oz Benedictine herbal liqueur\n1dash Peychauds aromatic bitters\nGlass-age with Hungarian Oak cubes for 19 days\nStir",
+    "Name": "Southland"
+  },
+  {
     "Rating": 4,
     "Ingredients": "1oz Old Overholt Bonded rye\n1oz Aperol amaro\n0.5oz Pimm's No 1 amaro\n0.5oz Cynar 70 artichoke liqueur\n1dash Regan's orange bitters\nStir",
     "Name": "Bitter Improv"
