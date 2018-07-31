@@ -1,5 +1,15 @@
 [
   {
+    "Rating": 4,
+    "Ingredients": "0.5oz Fidencio mezcal\n0.5oz Home-made coffee liqueur\n1oz Campari orange liqueur\n1oz Perucchi sweet vermouth\nStir",
+    "Name": "Sailor's Negroni"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "0.75oz Broker's gin\n0.75oz Aperol amaro\n0.75oz Perucchi sweet vermouth\nStir",
+    "Name": "Aperol Negroni"
+  },
+  {
     "Rating": 5,
     "Ingredients": "1oz Henry McKenna Bonded bourbon\n1oz Pimm's No 1 amaro\n0.75oz Lemon juice\n0.5oz Rich syrup\nShake",
     "Name": "Whiskey Rebellion"
