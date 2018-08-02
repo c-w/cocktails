@@ -1,5 +1,15 @@
 [
   {
+    "Rating": 2,
+    "Ingredients": "1oz Ardbeg 10 year old whiskey\n0.5oz Perucchi sweet vermouth\n1dash Woodford Reserve orange bitters\nStir",
+    "Name": "Rob Roy"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "1oz Pierre Ferrand 1840 cognac\n0.75oz Luxardo Maraschino liqueur\n0.5oz Green Chartreuse herbal liqueur\nBuild without ice",
+    "Name": "Brandy scaffa"
+  },
+  {
     "Rating": 5,
     "Ingredients": "1.5oz Campari orange liqueur\n0.75oz Heering cherry liqueuer\n0.75oz Lemon juice\nShake",
     "Name": "Tiger Blood"
