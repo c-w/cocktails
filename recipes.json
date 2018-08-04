@@ -1,5 +1,15 @@
 [
   {
+    "Rating": 3,
+    "Ingredients": "0.75oz Fidencio mezcal\n0.75oz Heering cherry liqueur\n0.75oz Fernet Branca amaro\n0.75oz Orange juice\nShake",
+    "Name": "A Sainted Devil"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1.5oz Milagro Reposado tequila\n0.5oz Contratto aperitif amaro\n0.5oz St Germain elderflower liqueur\n0.75oz Lemon juice\n2dashes Angostura aromatic bitters\nGrapefruit twist (garnish)\nShake",
+    "Name": "Part-Time Lover"
+  },
+  {
     "Rating": 2,
     "Ingredients": "1oz Ardbeg 10 year old whiskey\n0.5oz Perucchi sweet vermouth\n1dash Woodford Reserve orange bitters\nStir",
     "Name": "Rob Roy"
