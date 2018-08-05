@@ -1,6 +1,11 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "0.75oz Fidencio mezcal\n0.75oz Contratto aperitif amaro\n0.75oz Byrrh quinquina sweet vermouth\nStir",
+    "Name": "Byrrh Mezcal Negroni"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "1.5oz Fidencio mezcal\n1oz Contratto aperitif amaro\n0.5oz Luxardo Maraschino liqueur\nOrange twist (garnish)\nStir",
     "Name": "Tommi's Cocktail"
   },
@@ -16,7 +21,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Broker's London dry gin\n0.75oz Contratto aperitif amaro\n0.75oz Byrrh sweet vermouth\nStir",
+    "Ingredients": "0.75oz Broker's London dry gin\n0.75oz Contratto aperitif amaro\n0.75oz Byrrh quinquina sweet vermouth\nStir",
     "Name": "Byrrh Negroni"
   },
   {
