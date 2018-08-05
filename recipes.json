@@ -1,5 +1,25 @@
 [
   {
+    "Rating": 4,
+    "Ingredients": "1.5oz Fidencio mezcal\n1oz Contratto aperitif amaro\n0.5oz Luxardo Maraschino liqueur\nOrange twist (garnish)\nStir",
+    "Name": "Tommi's Cocktail"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "2oz Appleton Signature Blend dark rum\n0.5oz Luxardo Maraschino liqueur\n1.5oz Grapefruit juice\n0.75oz Lime juice\n0.25oz Simple syrup\nShake",
+    "Name": "Dark Hemmingway Daiquiri"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "1.5oz Appleton Signature Blend dark rum\n0.75oz Lime juice\n0.75oz Rich syrup\nShake",
+    "Name": "Dark Daiquiri"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "0.75oz Broker's London dry gin\n0.75oz Contratto aperitif amaro\n0.75oz Byrrh sweet vermouth\nStir",
+    "Name": "Byrrh Negroni"
+  },
+  {
     "Rating": 3,
     "Ingredients": "0.75oz Fidencio mezcal\n0.75oz Heering cherry liqueur\n0.75oz Fernet Branca amaro\n0.75oz Orange juice\nShake",
     "Name": "A Sainted Devil"
