@@ -1,6 +1,16 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "0.75oz Old Overholt Bonded rye\n0.75oz Byrrh quinquina sweet vermouth\n0.75oz Campari orange liqueur\nStir",
+    "Name": "Streets Of San Miguel"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1.25oz Monkey Shoulder blended whiskey \n0.25oz Ardbeg 10 year old whiskey\n0.5oz Byrrh quinquina sweet vermouth\n0.5oz Cynar 70 artichoke liqueur\n0.5oz Rothman & Winter apricot liqueur\nStir",
+    "Name": "Library Card"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "0.75oz Fidencio mezcal\n0.75oz Contratto aperitif amaro\n0.75oz Byrrh quinquina sweet vermouth\nStir",
     "Name": "Byrrh Mezcal Negroni"
   },
