@@ -1,5 +1,15 @@
 [
   {
+    "Rating": 3,
+    "Ingredients": "1.5oz Milagro Reposado tequila\n0.75oz Campari orange liqueur\n0.5oz Home-made coffee liqueur\n0.5oz Byrrh quinquina sweet vermouth\n1dash Peychauds aromatic bitters\n1dash Bittermens mole bitters\nStir",
+    "Name": "Lonnie Desoto"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "1oz Fidencio mezcal\n1oz Byrrh quinquina sweet vermouth\n0.5oz Contratto aperitif amaro\n0.5oz St Germain elderflower liqueur\n2dashes Bittermens mole bitters\nStir",
+    "Name": "Eyes On The Table"
+  },
+  {
     "Rating": 2,
     "Ingredients": "2oz Old Overholt Bonded rye\n0.75oz Byrrh quinquina sweet vermouth\n0.5oz Pierre Ferrand 1840 cognac\n1barsp Lazzaroni amaretto\n1dash Angostura aromatic bitters\n1dash Peychauds aromatic bitters\nMaraschino cherry (garnish)\nStir",
     "Name": "Blood, Lust, And Diamonds"
