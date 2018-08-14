@@ -1,5 +1,15 @@
 [
   {
+    "Rating": 4,
+    "Ingredients": "1oz El Dorado 12 year old dark rum\n0.75oz Campari orange liqueur\n1oz Byrrh quinquina sweet vermouth\n1barsp Home-made coffee liqueur\nStir",
+    "Name": "Coffee Negroni"
+  },
+  {
+    "Rating": 2,
+    "Ingredients": "1.5oz Pierre Ferrand 1840 cognac\n0.75oz Byrrh quinquina sweet vermouth\n0.25oz Cointreau triple sec\n0.25oz Green Chartreuse herbal liqueur\n1dash Angostura aromatic bitters\nStir",
+    "Name": "Boylan Heights"
+  },
+  {
     "Rating": 3,
     "Ingredients": "1.5oz Broker's London dry gin\n1oz Cynar 70 artichoke liqueur\n0.25oz Byrrh quinquina sweet vermouth\n0.5oz Rich syrup\n0.5oz Lemon juice\n0.25oz Egg white\nReverse dry shake",
     "Name": "Cin Gin Fizz"
