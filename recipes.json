@@ -1,6 +1,16 @@
 [
   {
     "Rating": 3,
+    "Ingredients": "2oz Citadelle gin\n1oz St Germain elderflower liqueur\n0.5oz Lime juice\nShake",
+    "Name": "French Gimlet"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "0.75oz Citadelle gin\n0.75oz Byrrh quinquina sweet vermouth\n0.75oz Contratto aperitif amaro\nStir",
+    "Name": "Aperol Negroni"
+  },
+  {
+    "Rating": 3,
     "Ingredients": "1.5oz El Dorado 12 year old dark rum\n0.75oz Byrrh quinquina sweet vermouth\n1barsp Home-made coffee liqueur\n2dashes Angostura aromatic bitters\n2dashes Regan's orange bitters\nOrange twist (garnish)\nStir",
     "Name": "Coraje"
   },
