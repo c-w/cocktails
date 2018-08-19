@@ -1,5 +1,15 @@
 [
   {
+    "Rating": 3,
+    "Ingredients": "2oz Monkey Shoulder blended whiskey\n1barsp Ardbeg 10 year old whiskey\n0.25oz Cynar 70 artichoke liqueur\n0.5oz Lemon juice\n0.5oz Sweet-potato rich syrup\nShake",
+    "Name": "Something Must Break"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1.5oz El Dorado 12 year old dark rum\n0.75oz Lime juice\n0.5oz Rich syrup\nShake",
+    "Name": "Daiquiri"
+  },
+  {
     "Rating": 4,
     "Ingredients": "0.75oz Milagro Reposado tequila\n0.75oz Contratto aperitif amaro\n0.75oz Heering cherry liqueur\n0.75oz Lemon juice\nShake",
     "Name": "Eclipse"
