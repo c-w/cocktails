@@ -1,6 +1,16 @@
 [
   {
     "Rating": 3,
+    "Ingredients": "2oz El Dorado 12 year old dark rum\n2barsp Maple syrup\n1dash Bittermens mole bitters\n1dash Regan's orange bitters\nStir",
+    "Name": "Rum Old Fashioned"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "1oz El Dorado 12 year old dark rum\n0.5oz Luxardo Maraschino liqueur\n1dash Regan's orange bitters\nStir",
+    "Name": "Georgetown"
+  },
+  {
+    "Rating": 3,
     "Ingredients": "2oz Monkey Shoulder blended whiskey\n1barsp Ardbeg 10 year old whiskey\n0.25oz Cynar 70 artichoke liqueur\n0.5oz Lemon juice\n0.5oz Sweet-potato rich syrup\nShake",
     "Name": "Something Must Break"
   },
