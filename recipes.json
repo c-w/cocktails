@@ -1,5 +1,15 @@
 [
   {
+    "Rating": 4,
+    "Ingredients": "1oz Old Overholt Bonded rye\n0.75oz Byrrh quinquina sweet vermouth\n0.5oz Cynar 70 artichoke liqueur\nMaraschino cherry (garnish)\nStir",
+    "Name": "Little Italy"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "0.75oz Contratto aperitif amaro\n0.75oz Cynar 70 artichoke liqueur\n0.75oz Byrrh quinquina sweet vermouth\nStir",
+    "Name": "L'Amore Di Amaro"
+  },
+  {
     "Rating": 3,
     "Ingredients": "2oz El Dorado 12 year old dark rum\n2barsp Maple syrup\n1dash Bittermens mole bitters\n1dash Regan's orange bitters\nStir",
     "Name": "Rum Old Fashioned"
