@@ -1,5 +1,15 @@
 [
   {
+    "Rating": 3,
+    "Ingredients": "2oz Ardbeg 10 year old whiskey\n0.25oz Water\n2dashes Peychauds aromatic bitters\n1dash Bittermens mole bitters\n2barsp Sugar\nStir",
+    "Name": "Scotch Sazerac"
+  },
+  {
+    "Rating": 2,
+    "Ingredients": "1.5oz Old Overholt Bonded rye\n0.75oz Byrrh quinquina sweet vermouth\n0.25oz Ardbeg 10 year old whiskey\n1barsp Luxardo Maraschino liqueur\nMaraschino cherry (garnish)\nStir",
+    "Name": "Meat Hook"
+  },
+  {
     "Rating": 4,
     "Ingredients": "1oz Old Overholt Bonded rye\n0.75oz Byrrh quinquina sweet vermouth\n0.5oz Cynar 70 artichoke liqueur\nMaraschino cherry (garnish)\nStir",
     "Name": "Little Italy"
