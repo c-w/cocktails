@@ -1,5 +1,20 @@
 [
   {
+    "Rating": 4,
+    "Ingredients": "1oz Fidencio mezcal\n1oz Cynar 70 artichoke liqueur\n0.75oz Lime juice\n0.75oz Cointreau triple sec\nShake",
+    "Name": "Cynarita"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "1.5oz Fidencio mezcal\n0.25oz Agave syrup\n1dash Peychauds aromatic bitters\n1dash Bittermens mole bitters\n1dash Regan's orange bitters\nStir",
+    "Name": "Mezcal Old Fashioned"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "0.75oz Laird's 100 Apple brandy\n0.75oz Campari orange liqueur\n0.75oz St Germain elderflower liqueur\n0.75oz Lime juice\nShake",
+    "Name": "Sideways In Reverse"
+  },
+  {
     "Rating": 2,
     "Ingredients": "1.5oz Henry McKenna Bonded bourbon\n0.5oz Heering cherry liqueur\n0.5oz Byrrh quinquina sweet vermouth\n1barsp Home-made coffee liqueur\n2dashes Bittermens mole bitters\nStir",
     "Name": "Kentucky Royale"
