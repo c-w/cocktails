@@ -1,5 +1,30 @@
 [
   {
+    "Rating": 5,
+    "Ingredients": "2.5oz Henry McKenna Bonded bourbon\n0.5oz Old Overholt Bonded rye\n1oz Lemon juice\n1.5oz Sweetgrass syrup\n1oz Egg white\nReverse dry shake",
+    "Name": "Whiskey Sour"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "1oz Contratto aperitif amaro\n0.5oz Campari orange liqueur\n1.5oz Cynar 70 artichoke liqueur\n1.5oz Boissiere sweet vermouth\nStir",
+    "Name": "L'Amore Di Amaro"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "0.75oz Fernet Branca amaro\n0.75oz Green Chartreuse herbal liqueur\n0.75oz Lime juice\n0.75oz Sweetgrass syrup\nShake",
+    "Name": "Industry Sour"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "0.75oz Fidencio mezcal\n0.75oz Contratto aperitif amaro\n0.75oz Boissiere sweet vermouth\nStir",
+    "Name": "Mezcal Negroni"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "2.5oz Appleton Signature Blend dark rum\n0.5oz El Dorado 12 year old dark rum\n1.5oz Lime juice\n1.5oz Sweetgrass syrup\nShake",
+    "Name": "Daiquiri"
+  },
+  {
     "Rating": 4,
     "Ingredients": "1oz Fidencio mezcal\n1oz Cynar 70 artichoke liqueur\n0.75oz Lime juice\n0.75oz Cointreau triple sec\nShake",
     "Name": "Cynarita"
