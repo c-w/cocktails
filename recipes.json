@@ -1,6 +1,11 @@
 [
   {
     "Rating": 5,
+    "Ingredients": "2oz Ardbeg 10 year old whiskey\n0.25oz Sweetgrass syrup\n2dashes Woodford Reserve orange bitters\n5drops Bittermens mole bitters\nStir",
+    "Name": "Scotch Old Fashioned"
+  },
+  {
+    "Rating": 5,
     "Ingredients": "2.5oz Henry McKenna Bonded bourbon\n0.5oz Old Overholt Bonded rye\n1oz Lemon juice\n1.5oz Sweetgrass syrup\n1oz Egg white\nReverse dry shake",
     "Name": "Whiskey Sour"
   },
