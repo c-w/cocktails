@@ -1,5 +1,15 @@
 [
   {
+    "Rating": 4,
+    "Ingredients": "0.75oz Citadelle gin\n0.75oz Green Chartreuse herbal liqueur\n0.75oz Luxardo Maraschino liqueur\n0.75oz Lime juice\nShake",
+    "Name": "Last Word"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1oz Old Overholt Bonded rye\n0.75oz Boissiere sweet vermouth\n0.5oz Cynar 70 artichoke liqueur\nMaraschino cherry (garnish)\nStir",
+    "Name": "Little Italy"
+  },
+  {
     "Rating": 5,
     "Ingredients": "1oz Broker's London dry gin\n1oz Campari orange liqueur\n1oz Boissiere sweet vermouth\nOrange twist (garnish)\nStir",
     "Name": "Negroni"
