@@ -1,5 +1,10 @@
 [
   {
+    "Rating": 4,
+    "Ingredients": "0.5oz El Dorado 12 year old dark rum\n0.5oz Boissiere sweet vermouth\n0.25oz Campari orange liqueur\n0.25oz Contratto bitter orange liqueur\nStir",
+    "Name": "Kingston Negroni"
+  },
+  {
     "Rating": 5,
     "Ingredients": "1.5oz Pierre Ferrand 1840 cognac\n0.5oz Campari orange liqueur\n0.5oz Contratto bitter orange liqueur\n1oz Boissiere sweet vermouth\n0.25oz Luxardo Maraschino liqueur\n0.25oz Lemon juice\n1dash Angostura aromatic bitters\n1dash Peychauds aromatic bitters\nStir",
     "Name": "Novecento"
