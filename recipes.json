@@ -1,5 +1,20 @@
 [
   {
+    "Rating": 5,
+    "Ingredients": "1.5oz Pierre Ferrand 1840 cognac\n0.5oz Campari orange liqueur\n0.5oz Contratto bitter orange liqueur\n1oz Boissiere sweet vermouth\n0.25oz Luxardo Maraschino liqueur\n0.25oz Lemon juice\n1dash Angostura aromatic bitters\n1dash Peychauds aromatic bitters\nStir",
+    "Name": "Novecento"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "0.75oz Citadelle gin\n0.75oz St Germain elderflower liqueur\n0.75oz Luxardo Maraschino liqueur\n0.75oz Lemon juice\nShake",
+    "Name": "Time Traveller"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "1oz Milagro Reposado tequila\n1oz Boissiere sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Contratto bitter orange liqueur\n1dash Bittermens mole bitters\nStir",
+    "Name": "1836"
+  },
+  {
     "Rating": 3,
     "Ingredients": "1oz Henry McKenna Bonded bourbon\n0.75oz Boissiere sweet vermouth\n0.75oz Campari orange liqueur\nStir",
     "Name": "Boulvardier"
