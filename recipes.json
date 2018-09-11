@@ -1,6 +1,16 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "1.25oz Old Grand Dad bourbon\n1oz Boissiere sweet vermouth\n0.5oz Contratto bitter orange liqueur\n0.5oz Campari orange liqueur\nStir",
+    "Name": "Boulvardier"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1oz Citadelle gin\n0.5oz Contratto bitter orange liqueur\n0.5oz Campari orange liqueur\n1oz Boissiere sweet vermouth\nStir",
+    "Name": "Negroni"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "0.5oz El Dorado 12 year old dark rum\n0.5oz Boissiere sweet vermouth\n0.25oz Campari orange liqueur\n0.25oz Contratto bitter orange liqueur\nStir",
     "Name": "Kingston Negroni"
   },
