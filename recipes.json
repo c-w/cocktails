@@ -1,6 +1,11 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "0.75oz Peloton de la Muerte mezcal\n0.75oz Contratto aperitif amaro\n0.75oz Boissiere sweet vermouth\nStir",
+    "Name": "Mezcal Negroni"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "0.5oz Citadelle gin\n0.5oz Heering cherry liqueur\n0.5oz Benedictine herbal liqueur\n0.5oz Lime juice\n1oz Club soda\n1dash Angostura aromatic bitters (garnish)\nBuild on the rocks",
     "Name": "Singapore Sling"
   },
