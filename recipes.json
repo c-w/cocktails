@@ -1,5 +1,10 @@
 [
   {
+    "Rating": 3,
+    "Ingredients": "1.5oz Pierre Ferrand 1840 cognac\n0.75oz Cointreau triple sec\n0.75oz Lemon juice\n1barsp Rich syrup\nShake",
+    "Name": "Sidecar"
+  },
+  {
     "Rating": 4,
     "Ingredients": "1.5oz Appleton Signature Blend dark rum\n0.5oz El Dorado 12 year old dark rum\n1oz Lime juice\n0.75oz Rich syrup\nShake",
     "Name": "Daiquiri"
