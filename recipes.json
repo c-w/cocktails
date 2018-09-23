@@ -1,6 +1,16 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "1.5oz Appleton Signature Blend dark rum\n0.5oz El Dorado 12 year old dark rum\n1oz Lime juice\n0.75oz Rich syrup\nShake",
+    "Name": "Daiquiri"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "1oz Pierre Ferrand 1840 cognac\n1oz Lazzaroni amaretto\nStir",
+    "Name": "French Connection"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "1.5oz Lazzaroni amaretto\n0.75oz Old Grand Dad 114 bourbon\n1oz Lemon juice\n1barsp Rich syrup\n0.5oz Egg white\nReverse Dry Shake",
     "Name": "Amaretto Sour"
   },
