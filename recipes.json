@@ -1,5 +1,15 @@
 [
   {
+    "Rating": 5,
+    "Ingredients": "2oz Choya plum wine\n0.75oz Lemon juice\n0.25oz Rich syrup\n0.5oz Egg white\n1dash Cinamon powder (garnish)\nReverse dry shake",
+    "Name": "Plum Wine Sour"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "0.5oz Citadelle gin\n0.25oz Contratto bitter orange liqueur\n0.25oz Campari orange liqueur\n0.75oz Choya plum wine\nStir",
+    "Name": "Negroni"
+  },
+  {
     "Rating": 3,
     "Ingredients": "1.5oz Pierre Ferrand 1840 cognac\n0.75oz Cointreau triple sec\n0.75oz Lemon juice\n1barsp Rich syrup\nShake",
     "Name": "Sidecar"
