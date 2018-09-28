@@ -1,6 +1,11 @@
 [
   {
     "Rating": 5,
+    "Ingredients": "2oz Peloton de la Muerte mezcal\n0.25oz Agave syrup\n1dash Peychauds aromatic bitters\n1dash Bittermens mole bitters\n1dash Woodford Reserve orange bitters\nStir",
+    "Name": "Mezcal Old Fashioned"
+  },
+  {
+    "Rating": 5,
     "Ingredients": "2oz Choya plum wine\n0.75oz Lemon juice\n0.25oz Rich syrup\n0.5oz Egg white\n1dash Cinamon powder (garnish)\nReverse dry shake",
     "Name": "Plum Wine Sour"
   },
