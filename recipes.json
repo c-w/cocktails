@@ -1,5 +1,10 @@
 [
   {
+    "Rating": 3,
+    "Ingredients": "3oz El Dorado 12 year old dark rum\n0.25oz Rothman & Winter apricot liqueur\n4barsp Rich syrup\n6drops Bittermens mole bitters\n2dashes Woodford Reserve orange bitters\nStir",
+    "Name": "Rum Old Fashioned"
+  },
+  {
     "Rating": 5,
     "Ingredients": "2oz Peloton de la Muerte mezcal\n0.25oz Agave syrup\n1dash Peychauds aromatic bitters\n1dash Bittermens mole bitters\n1dash Woodford Reserve orange bitters\nStir",
     "Name": "Mezcal Old Fashioned"
