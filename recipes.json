@@ -1,6 +1,21 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "1.5oz El Dorado 12 year old dark rum\n1oz Cocchi Dopo Teatro sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Contratto bitter orange liqueur\n2dashes Bittermens mole bitters\nStir",
+    "Name": "Right Hand"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1oz Old Overholt Bonded rye\n0.75oz Cocchi Dopo Teatro sweet vermouth\n0.5oz Cynar 70 artichoke liqueur\nMaraschino cherry (garnish)\nStir",
+    "Name": "Little Italy"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1.5oz Old Grand Dad 114 bourbon\n0.75oz Lemon juice\n0.75oz Simple syrup\n0.5oz Red wine (float, chianti)\nShake",
+    "Name": "New York Sour"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "2oz Monkey Shoulder blended whiskey\n0.75oz Honey rich syrup\n0.75oz Lemon juice\n3slices ginger (muddle)\n0.25oz Ardbeg 10 year old whiskey (float)\nShake",
     "Name": "Penicillin"
   },
