@@ -1,5 +1,25 @@
 [
   {
+    "Rating": 5,
+    "Ingredients": "1oz Peloton de la Muerte mezcal\n0.5oz Campari orange liqueur\n0.5oz Contratto bitter orange liqueur\n1oz Cynar 70 artichoke liqueur\n0.25oz Simple syrup\n1 Whole egg\n1pinch Ground coffee (garnish)\nDry shake",
+    "Name": "La Perla De Oaxaca"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "2.5oz Hendrick's gin\n0.75oz Simple syrup\n8quarters Lime\n4slices Cucumber\nShake",
+    "Name": "Gordon's Cup"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "2oz Banks Five Island light rum\n1oz Lime juice\n1oz Simple syrup\nShake",
+    "Name": "Daiquiri"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "1.5oz Pierre Ferrand 1840 cognac\n1.5oz Cocchi Dopo Teatro sweet vermouth\n1.5oz Old Overholt Bonded rye\n1dash Angostura aromatic bitters\n1dash Peychauds aromatic bitters\nStir",
+    "Name": "Vieux Carre"
+  },
+  {
     "Rating": 4,
     "Ingredients": "1.5oz El Dorado 12 year old dark rum\n1oz Cocchi Dopo Teatro sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Contratto bitter orange liqueur\n2dashes Bittermens mole bitters\nStir",
     "Name": "Right Hand"
