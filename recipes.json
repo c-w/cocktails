@@ -1,6 +1,16 @@
 [
   {
     "Rating": 3,
+    "Ingredients": "0.75oz Old Grand Dad 114 bourbon\n0.75oz Benedictine herbal liqueur\n0.5oz Pierre Ferrand 1840 cognac\n0.25oz Cointreau triple sec\n3dashes Angostura aromatic bitters\nOrange twist (garnish)\nStir",
+    "Name": "Cock N Bull Special"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "1.5oz Banks Five Island light rum\n0.5oz Cynar 70 artichoke liqueur\n0.5oz Benedictine herbal liqueur\n0.25oz Ardbeg 10 year old whiskey\n1dash Angostura aromatic bitters\n1dash St George verte absinthe\nStir",
+    "Name": "Hundred-Year-Old Cigar"
+  },
+  {
+    "Rating": 3,
     "Ingredients": "1.5oz Citadelle gin\n0.75oz Nardini amaro\n0.75oz Cointreau triple sec\nStir",
     "Name": "Young Blood"
   },
