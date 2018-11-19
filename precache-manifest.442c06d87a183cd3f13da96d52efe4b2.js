@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/cocktails-blog/static/css/1.f7e5b8f8.chunk.css"
   },
   {
-    "revision": "bad4b2d81514e03a3623409499836de7",
+    "revision": "08087b5ff4140d3cf0c8c9dcb5e76ac9",
     "url": "/cocktails-blog/index.html"
   }
 ];
