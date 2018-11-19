@@ -15,7 +15,7 @@ export function recipesCache(decorated, funcName) {
 }
 
 export function storeRecipesData({ recipes, words }) {
-  window.localStorage.setItem(CACHE_KEY, JSON.stringify({
+  localStorage.setItem(CACHE_KEY, JSON.stringify({
     recipes,
     words,
     cacheDate: new Date().toString(),
@@ -23,7 +23,7 @@ export function storeRecipesData({ recipes, words }) {
 }
 
 export function loadRecipesData() {
-  const cached = window.localStorage.getItem(CACHE_KEY);
+  const cached = localStorage.getItem(CACHE_KEY);
   if (!cached) {
     return null;
   }
