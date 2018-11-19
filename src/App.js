@@ -110,16 +110,16 @@ export default class App extends React.Component {
   render() {
     const { error, recipes } = this.state;
 
-    if (recipes.length === 0) {
-      return null;
-    }
-
     if (error) {
       return (
         <Container>
           <Message error content={i8n.recipesLoadError} />
         </Container>
       );
+    }
+
+    if (recipes.length === 0) {
+      return null;
     }
 
     return (
