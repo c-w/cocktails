@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/cocktails-blog/static/media/icons.27c88389.woff2"
   },
   {
-    "revision": "0522163d1aaad8083e71",
+    "revision": "138389af14f13b5941bc",
     "url": "/cocktails-blog/static/css/main.ff8bc652.chunk.css"
   },
   {
@@ -24,27 +24,27 @@ self.__precacheManifest = [
     "url": "/cocktails-blog/static/media/flags.9c74e172.png"
   },
   {
-    "revision": "0522163d1aaad8083e71",
-    "url": "/cocktails-blog/static/js/main.0522163d.chunk.js"
+    "revision": "138389af14f13b5941bc",
+    "url": "/cocktails-blog/static/js/main.138389af.chunk.js"
   },
   {
     "revision": "7bc63d50d4158c6bfd4b30a99c9f9460",
     "url": "/cocktails-blog/static/media/icons.7bc63d50.woff"
   },
   {
-    "revision": "263bfe56755cefdc9e6c3d8070e0868d",
-    "url": "/cocktails-blog/static/media/icons.263bfe56.eot"
-  },
-  {
     "revision": "d3490a32350db6c9c41e69cc9ce99cd0",
     "url": "/cocktails-blog/static/media/icons.d3490a32.ttf"
+  },
+  {
+    "revision": "263bfe56755cefdc9e6c3d8070e0868d",
+    "url": "/cocktails-blog/static/media/icons.263bfe56.eot"
   },
   {
     "revision": "6d30e3ff868a8dd6ae95",
     "url": "/cocktails-blog/static/css/1.f7e5b8f8.chunk.css"
   },
   {
-    "revision": "c2bade284bf54cc899f1b2ec70300526",
+    "revision": "598740e4e7e99c55c265321fa67f2edb",
     "url": "/cocktails-blog/index.html"
   }
 ];
