@@ -12,6 +12,7 @@ import BottlesView from './views/BottlesView';
 import BrandsView from './views/BrandsView';
 import RecipesView from './views/RecipesView';
 import SpiritsView from './views/SpiritsView';
+import { storeRecipesData, loadRecipesData } from './utils/cache';
 import fetchJson from './utils/fetchJson';
 import i8n from './i8n';
 import 'semantic-ui-css/semantic.min.css';
@@ -25,6 +26,7 @@ export default class App extends React.Component {
       error: null,
       recipes: [],
       words: {},
+      cacheDate: '',
     };
   }
 
@@ -32,18 +34,39 @@ export default class App extends React.Component {
     const { recipesUrl, wordsUrl } = this.props;
 
     Promise.all([fetchJson(recipesUrl), fetchJson(wordsUrl)])
-      .then(([recipes, words]) => this.setState({
-        recipes,
-        words: {
-          combined: new Set(words.combined || []),
-          blacklist: new Set(words.blacklist || []),
-          quantity: new Set(words.quantity || []),
-          brands: new Set(words.brands || []),
-          ignored: new Set(words.ignored || []),
-          spirits: new Set(words.spirits || []),
-        },
-      }))
-      .catch(error => this.setState({ error }));
+      .then(([recipes, words]) => {
+        this.onRecipesLoaded({ recipes, words });
+        storeRecipesData({ recipes, words });
+      })
+      .catch(error => {
+        const cached = loadRecipesData();
+        if (!cached) {
+          this.setState({ error });
+          return;
+        }
+
+        const { recipes, words, cacheDate } = cached;
+        this.onRecipesLoaded({ recipes, words }, cacheDate);
+      });
+  }
+
+  onRecipesLoaded = ({ recipes, words }, cacheDate) => {
+    this.setState({
+      recipes,
+      words: {
+        combined: new Set(words.combined || []),
+        blacklist: new Set(words.blacklist || []),
+        quantity: new Set(words.quantity || []),
+        brands: new Set(words.brands || []),
+        ignored: new Set(words.ignored || []),
+        spirits: new Set(words.spirits || []),
+      },
+      cacheDate,
+    });
+  }
+
+  onStaleDataWarningDismiss = () => {
+    this.setState({ cacheDate: '' });
   }
 
   renderIndex = (props) =>
@@ -82,6 +105,23 @@ export default class App extends React.Component {
       ratingsPerPage={this.props.pageSize}
     />
 
+  renderStaleDataWarning = (props) => {
+    const { cacheDate } = props;
+    if (!cacheDate) {
+      return null;
+    }
+
+    return (
+      <Message warning floating icon onDismiss={this.onStaleDataWarningDismiss} className="messageTop">
+        <Icon name="plug" />
+        <Message.Content>
+          <Message.Header>{i8n.recipesLoadError}</Message.Header>
+          {i8n.recipesCacheWarning} {cacheDate}
+        </Message.Content>
+      </Message>
+    );
+  }
+
   renderNav = (props) => {
     const location = props.location.pathname;
 
@@ -108,12 +148,12 @@ export default class App extends React.Component {
   }
 
   render() {
-    const { error, recipes } = this.state;
+    const { error, recipes, cacheDate } = this.state;
 
     if (error) {
       return (
         <Container>
-          <Message error content={i8n.recipesLoadError} />
+          <Message error content={i8n.recipesLoadError} className="messageTop" />
         </Container>
       );
     }
@@ -125,6 +165,7 @@ export default class App extends React.Component {
     return (
       <HashRouter>
         <Container>
+          {this.renderStaleDataWarning({ cacheDate })}
           <Route path="*" component={this.renderNav} />
           <Switch>
             <Route exact path="/" component={this.renderIndex} />

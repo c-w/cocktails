@@ -1,4 +1,5 @@
 export default {
+  recipesCacheWarning: 'Using cached recipes, last updated:',
   recipesLoadError: 'Something went wrong while loading the recipes',
   recipesSearchPlaceholder: 'Search for recipes...',
   recipesSortByDate: 'Sort by date',

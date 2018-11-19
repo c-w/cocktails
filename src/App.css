@@ -1,3 +1,7 @@
+.messageTop {
+  margin-top: 1em !important;
+}
+
 .paginatedCardGroup .pagination {
   margin-top: 1em;
   margin-bottom: 1em;

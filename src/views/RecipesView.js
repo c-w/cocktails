@@ -6,7 +6,7 @@ import RadioList from '../components/RadioList';
 import SearchBar from '../components/SearchBar';
 import StarRating from '../components/StarRating';
 import Counter from '../utils/Counter';
-import recipesCache from '../utils/cache';
+import { recipesCache } from '../utils/cache';
 import i8n from '../i8n';
 
 const combineTokens = (sentence, combinedWords) => {
