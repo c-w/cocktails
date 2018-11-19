@@ -1,40 +1,48 @@
-const CACHE_KEY = 'recipesCache';
+const RECIPES_CACHE_KEY = 'recipesCache.recipes';
 
-function clearRecipesCache(funcName) {
-  for (let i = 0; i < localStorage.length; i++) {
-    const key = localStorage.key(i);
-    if (key.startsWith(`${CACHE_KEY}.`) && key.endsWith(`.${funcName}`)) {
-      localStorage.removeItem(key);
-    }
+const FILTERTERMS_CACHE_KEY = 'recipesCache.filterTerms';
+const FILTERTERMS_IS_DIRTY = 'recipesCache.filterTerms.dirty';
+
+const IS_DIRTY = '1';
+const NOT_DIRTY = '0';
+
+export function storeFilterTerms(filterTerms) {
+  localStorage.setItem(FILTERTERMS_CACHE_KEY, JSON.stringify(filterTerms));
+  localStorage.setItem(FILTERTERMS_IS_DIRTY, NOT_DIRTY);
+}
+
+export function loadFilterTerms() {
+  const cached = localStorage.getItem(FILTERTERMS_CACHE_KEY);
+  if (!cached) {
+    return null;
   }
+
+  const isDirty = localStorage.getItem(FILTERTERMS_IS_DIRTY);
+  if (isDirty === IS_DIRTY) {
+    return null;
+  }
+
+  return JSON.parse(cached);
 }
 
-export function recipesCache(decorated, funcName) {
-  return (args) => {
-    const cacheKey = `${CACHE_KEY}.${args.recipes.length}.${funcName}`;
-    const cached = localStorage.getItem(cacheKey);
-    if (cached != null) {
-      return JSON.parse(cached);
-    }
+export function storeRecipesData(newData) {
+  const oldData = loadRecipesData();
 
-    clearRecipesCache(funcName);
+  if (oldData && oldData.recipes.length === newData.recipes.length && oldData.words.length === newData.words.length) {
+    return;
+  }
 
-    const value = decorated(args);
-    localStorage.setItem(cacheKey, JSON.stringify(value));
-    return value;
-  };
-}
-
-export function storeRecipesData({ recipes, words }) {
-  localStorage.setItem(CACHE_KEY, JSON.stringify({
-    recipes,
-    words,
+  localStorage.setItem(RECIPES_CACHE_KEY, JSON.stringify({
+    recipes: newData.recipes,
+    words: newData.words,
     cacheDate: new Date().toString(),
   }));
+
+  localStorage.setItem(FILTERTERMS_IS_DIRTY, IS_DIRTY);
 }
 
 export function loadRecipesData() {
-  const cached = localStorage.getItem(CACHE_KEY);
+  const cached = localStorage.getItem(RECIPES_CACHE_KEY);
   if (!cached) {
     return null;
   }

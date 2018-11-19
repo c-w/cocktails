@@ -5,10 +5,12 @@ import PaginatedCardGroup from '../components/PaginatedCardGroup';
 import RadioList from '../components/RadioList';
 import SearchBar from '../components/SearchBar';
 import StarRating from '../components/StarRating';
-import Counter from '../utils/Counter';
-import { recipesCache } from '../utils/cache';
+import WebWorker from '../workers/WebWorker';
+import recipesWorker from '../workers/recipesWorker';
+import { loadFilterTerms, storeFilterTerms } from '../utils/cache';
 import i8n from '../i8n';
 
+// FIXME: keep in sync with recipesWorker.js until es6 imports are supported in web workers
 const combineTokens = (sentence, combinedWords) => {
   for (const token of combinedWords) {
     const regexp = new RegExp(token, 'gi');
@@ -18,45 +20,8 @@ const combineTokens = (sentence, combinedWords) => {
   return sentence;
 };
 
+// FIXME: keep in sync with recipesWorker.js until es6 imports are supported in web workers
 const splitTokens = (sentence) => sentence.replace(/_/g, ' ');
-
-const hasAny = (token, words) => {
-  for (const word of words) {
-    if (token.indexOf(word) !== -1) {
-      return true;
-    }
-  }
-
-  return false;
-}
-
-const getFilterTerms = recipesCache(({ recipes, numFilters, words }) => {
-  const combineWords = new Set([...words.combined, ...words.brands, ...words.spirits]);
-  const recipeWords = [];
-  recipes
-    .map(recipe => recipe.Ingredients)
-    .forEach(ingredients => {
-      ingredients
-        .split('\n')
-        .filter(ingredient => !hasAny(ingredient, words.blacklist))
-        .forEach(ingredient => {
-          combineTokens(ingredient, combineWords)
-            .split(' ')
-            .map(word => word.replace(/\([^)]*\)/g, ''))
-            .map(word => splitTokens(word))
-            .map(word => word.replace(/[^a-zA-Z ]/g, ''))
-            .filter(word => word.length > 0)
-            .map(word => word.toLowerCase())
-            .filter(word => !hasAny(word, words.quantity))
-            .filter(word => !hasAny(word, words.ignored))
-            .forEach(word => recipeWords.push(word));
-      });
-    });
-
-  return new Counter(recipeWords)
-    .mostCommon(numFilters)
-    .map(term => ({ term, enabled: false }));
-}, 'getFilterTerms');
 
 const hasAllFilterTerms = (recipe, filterTerms) => {
   if (!filterTerms.length) {
@@ -109,7 +74,7 @@ export default class RecipesView extends React.PureComponent {
     this.state = {
       sortOrder: 'date',
       filterText: props.query || '',
-      filterTerms: getFilterTerms(props)
+      filterTerms: [],
     };
   }
 
@@ -155,6 +120,23 @@ export default class RecipesView extends React.PureComponent {
     }
 
     return recipes;
+  }
+
+  componentDidMount() {
+    const filterTerms = loadFilterTerms();
+    if (filterTerms) {
+      this.setState({ filterTerms });
+      return;
+    }
+
+    const worker = new WebWorker(recipesWorker);
+    worker.postMessage(this.props);
+
+    worker.addEventListener('message', event => {
+      const filterTerms = event.data;
+      storeFilterTerms(filterTerms);
+      this.setState({ filterTerms });
+    });
   }
 
   render() {
