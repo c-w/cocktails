@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
+import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <App
@@ -10,3 +11,5 @@ ReactDOM.render(
     numFilters={parseInt(process.env.REACT_APP_NUM_FILTERS, 10)}
   />,
   document.getElementById('root'));
+
+serviceWorker.register();
