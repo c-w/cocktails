@@ -32,19 +32,19 @@ self.__precacheManifest = [
     "url": "/cocktails-blog/static/media/icons.7bc63d50.woff"
   },
   {
-    "revision": "d3490a32350db6c9c41e69cc9ce99cd0",
-    "url": "/cocktails-blog/static/media/icons.d3490a32.ttf"
-  },
-  {
     "revision": "263bfe56755cefdc9e6c3d8070e0868d",
     "url": "/cocktails-blog/static/media/icons.263bfe56.eot"
+  },
+  {
+    "revision": "d3490a32350db6c9c41e69cc9ce99cd0",
+    "url": "/cocktails-blog/static/media/icons.d3490a32.ttf"
   },
   {
     "revision": "6d30e3ff868a8dd6ae95",
     "url": "/cocktails-blog/static/css/1.f7e5b8f8.chunk.css"
   },
   {
-    "revision": "08087b5ff4140d3cf0c8c9dcb5e76ac9",
+    "revision": "c2bade284bf54cc899f1b2ec70300526",
     "url": "/cocktails-blog/index.html"
   }
 ];
