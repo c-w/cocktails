@@ -1,6 +1,11 @@
 [
   {
     "Rating": 3,
+    "Ingredients": "2oz Banks Five Island light rum\n0.5oz Luxardo Maraschino liqueur\n0.5oz Grapefruit juice\n0.75oz Lime juice\n1barsp St George verte absinthe\nShake",
+    "Name": "The Sun Also Rises"
+  },
+  {
+    "Rating": 3,
     "Ingredients": "0.75oz Old Grand Dad 114 bourbon\n0.75oz Benedictine herbal liqueur\n0.5oz Pierre Ferrand 1840 cognac\n0.25oz Cointreau triple sec\n3dashes Angostura aromatic bitters\nOrange twist (garnish)\nStir",
     "Name": "Cock N Bull Special"
   },
