@@ -143,15 +143,6 @@ export default class RecipesView extends React.PureComponent {
     });
   }
 
-  componentWillReceiveProps(nextProps) {
-    const { query } = nextProps;
-    const { filterText } = this.state;
-
-    if (query !== filterText) {
-      this.setState({ filterText: query });
-    }
-  }
-
   render() {
     const { recipes, recipesPerPage } = this.props;
     const { filterTerms, filterText, sortOrder } = this.state;
@@ -168,7 +159,7 @@ export default class RecipesView extends React.PureComponent {
           />
           <SearchBar
             className="searchBar"
-            value={filterText}
+            defaultValue={filterText}
             placeholder={i8n.recipesSearchPlaceholder}
             onChange={this.onSearchTextChange}
           />
@@ -183,6 +174,7 @@ export default class RecipesView extends React.PureComponent {
           className="paginatedCardGroup"
           itemsPerPage={recipesPerPage}
           items={displayableRecipes.map(recipeToCard)}
+          key={displayableRecipes}
         />
       </div>
     );

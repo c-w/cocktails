@@ -85,7 +85,7 @@ export default class AverageRatingsDisplay extends React.PureComponent {
           {searchPlaceholder &&
           <SearchBar
             className="searchBar"
-            value={filterText}
+            defaultValue={filterText}
             placeholder={searchPlaceholder}
             onChange={this.onSearchTextChange}
           />}
@@ -94,6 +94,7 @@ export default class AverageRatingsDisplay extends React.PureComponent {
           className="paginatedCardGroup"
           itemsPerPage={ratingsPerPage}
           items={meanRatings.map(toMeanCard)}
+          key={meanRatings}
         />
       </div>
     );

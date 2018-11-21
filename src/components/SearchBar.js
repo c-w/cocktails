@@ -9,7 +9,7 @@ export default class SearchBar extends React.Component {
     super(props);
 
     this.state = {
-      value: props.value,
+      value: props.defaultValue,
     };
 
     this._onChange = debounce(props.onChange, ON_CHANGE_DEBOUNCE_MS);
@@ -19,14 +19,6 @@ export default class SearchBar extends React.Component {
     const { value } = props;
 
     this.setState({ value }, () => this._onChange(value));
-  }
-
-  componentWillReceiveProps(nextProps) {
-    const { value } = nextProps;
-
-    if (value !== this.state.value) {
-      this.setState({ value });
-    }
   }
 
   render() {

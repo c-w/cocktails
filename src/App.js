@@ -79,6 +79,7 @@ export default class App extends React.Component {
       query={props.match.params.query}
       recipesPerPage={this.props.pageSize}
       numFilters={this.props.numFilters}
+      key={props.match.params.query}
     />
 
   renderSpirits = (props) =>
