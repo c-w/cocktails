@@ -85,7 +85,7 @@ export default class AverageRatingsDisplay extends React.PureComponent {
           {searchPlaceholder &&
           <SearchBar
             className="searchBar"
-            defaultValue={filterText}
+            value={filterText}
             placeholder={searchPlaceholder}
             onChange={this.onSearchTextChange}
           />}

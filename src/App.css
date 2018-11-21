@@ -1,3 +1,8 @@
+a, a:focus, a:hover, a:visited, a:link, a:active {
+  color: inherit;
+  text-decoration: none;
+}
+
 .messageTop {
   margin-top: 1em !important;
 }

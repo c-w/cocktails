@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'react-router-dom/Link';
 import CheckBoxList from '../components/CheckBoxList';
 import MultilineText from '../components/MultiLineText';
 import PaginatedCardGroup from '../components/PaginatedCardGroup';
@@ -58,7 +59,10 @@ const sortOrders = [
 const recipeToCard = (recipe, i) => ({
   key: `recipe-${i}-${recipe.Name}-${recipe.Ingredients}`,
   header: recipe.Name,
-  description: <MultilineText text={splitTokens(recipe.Ingredients)} />,
+  description:
+    <Link to={`/recipes/${recipe.Name}`}>
+      <MultilineText text={splitTokens(recipe.Ingredients)} />
+    </Link>,
   meta: <StarRating rating={recipe.Rating} />
 });
 
@@ -139,6 +143,15 @@ export default class RecipesView extends React.PureComponent {
     });
   }
 
+  componentWillReceiveProps(nextProps) {
+    const { query } = nextProps;
+    const { filterText } = this.state;
+
+    if (query !== filterText) {
+      this.setState({ filterText: query });
+    }
+  }
+
   render() {
     const { recipes, recipesPerPage } = this.props;
     const { filterTerms, filterText, sortOrder } = this.state;
@@ -155,7 +168,7 @@ export default class RecipesView extends React.PureComponent {
           />
           <SearchBar
             className="searchBar"
-            defaultValue={filterText}
+            value={filterText}
             placeholder={i8n.recipesSearchPlaceholder}
             onChange={this.onSearchTextChange}
           />
