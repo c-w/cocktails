@@ -1,5 +1,20 @@
 [
   {
+    "Rating": 3,
+    "Ingredients": "2oz Gosling's dark rum\n0.75oz Campari orange liqueur\n1oz Pineapple juice\n0.5oz Lime juice\n0.25oz Rich syrup\n1barsp St George verte absinthe\nShake",
+    "Name": "Jungle Bird"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "2oz Gosling's dark rum\n0.5oz Orange juice\n1oz Pineapple juice\n0.5oz Lime juice\n0.25oz Simple syrup\nShake",
+    "Name": "Planter's Punch"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "1oz Old Grand Dad 114 bourbon\n1oz Laird's 100 Apple brandy\n0.5oz Benedictine herbal liqueur\n0.5oz Cointreau triple sec\n0.5oz Lemon juice\n1dash Angostura aromatic bitters\nShake",
+    "Name": "Honeymoon"
+  },
+  {
     "Rating": 4,
     "Ingredients": "0.75oz Citadelle gin\n0.75oz St Germain elderflower liqueur\n0.75oz Benedictine herbal liqueur\n0.75oz Lime juice\n1dash Angostura aromatic bitters\nShake",
     "Name": "Pantorium"
