@@ -1,6 +1,16 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "1.5oz Peloton de la Muerte mezcal\n0.5oz Espolon Reposado tequila\n0.5oz Agave syrup\n0.75oz Lemon juice\n1dash Regan's orange bitters\n3slices ginger (muddle)\nShake",
+    "Name": "Mezcal Penicillin"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1oz Peloton de la Muerte mezcal\n0.5oz Espolon Reposado tequila\n0.5oz Fidencio mezcal\n2barsp Agave syrup\n1dash Angostura aromatic bitters\n1dash Woodford Reserve orange bitters\nOrange twist (garnish)\nStir",
+    "Name": "Mezcal Old Fashioned"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "1.5oz Banks Five Island light rum\n0.75oz Cointreau triple sec\n1oz Lemon juice\n0.5oz Simple syrup\nShake",
     "Name": "Cable Car"
   },
