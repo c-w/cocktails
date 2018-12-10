@@ -1,6 +1,11 @@
 [
   {
     "Rating": 3,
+    "Ingredients": "2oz Old Overholt Bonded rye (infused with chamomile)\n0.75oz Campari orange liqueur\n0.5oz St Germain elderflower liqueur\nStir",
+    "Name": "Dolce Vita"
+  },
+  {
+    "Rating": 3,
     "Ingredients": "1.5oz Monkey Shoulder blended whiskey\n0.5oz Ardbeg 10 year old whiskey\n3dashes Peychauds aromatic bitters\n3drops Angostura aromatic bitters\n1barsp St George verte absinthe\n3barsp Simple syrup\nStir",
     "Name": "Scotch Sazerac"
   },
