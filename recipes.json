@@ -1,6 +1,16 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "0.5oz Citadelle gin\n0.5oz Hendrick's gin\n1oz Nardini amaro\n0.75oz Carpano Antica sweet vermouth\nStir",
+    "Name": "Negromaro"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "1oz Citadelle gin\n0.25oz Martini Rossi sweet vermouth\n0.25oz Carpano Antica sweet vermouth\n0.25oz Campari orange liqueur\n0.5oz Cointreau triple sec\n1.5oz Orange juice\nShake",
+    "Name": "Old Flame"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "0.75oz Fernet Branca amaro (aged with Hungarian Oak cubes)\n0.75oz Green Chartreuse herbal liqueur\n0.75oz Lime juice\n0.75oz Simple syrup\nShake",
     "Name": "Industry Sour"
   },
