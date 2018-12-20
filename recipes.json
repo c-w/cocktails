@@ -1,6 +1,11 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "1.25oz Old Grand Dad 114 bourbon\n0.75oz St Germain elderflower liqueur\n0.25oz Martini Rossi sweet vermouth\n0.25oz Carpano Antica sweet vermouth\n2dashes Angostura aromatic bitters\n1dash Scrappy's grapefruit bitters\nStir",
+    "Name": "Ideal Manhattan"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "0.75oz Old Grand Dad 114 bourbon\n0.75oz Nardini amaro\n0.5oz Martini Rossi sweet vermouth\n0.5oz Carpano Antica sweet vermouth\n1barsp Home-made coffee liqueur\nStir",
     "Name": "The Drink With No Name"
   },
