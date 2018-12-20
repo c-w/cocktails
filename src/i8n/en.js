@@ -9,6 +9,7 @@ export default {
   brandsSearchPlaceholder: 'Search for brands...',
   spiritsSearchPlaceholder: 'Search for spirits...',
   bottlesSpiritSelectPlaceholder: 'Select spirit...',
+  bottlesSpiritAllEntries: '(All)',
   menuEntryRecipes: 'Recipes',
   menuEntrySpirits: 'Top Spirits',
   menuEntryBrands: 'Top brands',

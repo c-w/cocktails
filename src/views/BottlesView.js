@@ -3,8 +3,12 @@ import Dropdown from 'semantic-ui-react/dist/es/modules/Dropdown/Dropdown';
 import AverageRatingsDisplay from '../components/AverageRatingsDisplay';
 import i8n from '../i8n';
 
-function getBottlesForSpirit(spirit, recipes) {
-  const spiritMatcher = new RegExp(`\\s${spirit}(\\s|$)`, 'i');
+function matcherFor(spirits) {
+  return new RegExp(`\\s(${Array.from(spirits).join('|')})(\\s|$)`, 'i');
+}
+
+function getBottlesForSpirit(spirit, spirits, recipes) {
+  const spiritMatcher = !spirit ? matcherFor(spirits) : matcherFor([spirit]);
 
   const bottles = new Set();
 
@@ -46,6 +50,7 @@ export default class BottlesView extends React.PureComponent {
         </div>
         <TopBottlesDisplay
           spirit={selectedSpirit}
+          spirits={words.spirits}
           recipes={recipes}
           ratingsPerPage={ratingsPerPage}
         />
@@ -60,7 +65,9 @@ class SpiritsSelector extends React.PureComponent {
   render() {
     const { spirits, selectedSpirit } = this.props;
 
-    const options = Array.from(spirits).sort().map(spirit => ({ text: spirit, value: spirit }));
+    const allOption = { text: i8n.bottlesSpiritAllEntries, value: '' };
+    const spiritOptions = Array.from(spirits).sort().map(spirit => ({ text: spirit, value: spirit }));
+    const options = [allOption].concat(spiritOptions);
 
     return (
       <Dropdown
@@ -77,15 +84,11 @@ class SpiritsSelector extends React.PureComponent {
 
 class TopBottlesDisplay extends React.PureComponent {
   render() {
-    const { spirit, recipes, ratingsPerPage } = this.props;
-
-    if (!spirit) {
-      return null;
-    }
+    const { spirit, spirits, recipes, ratingsPerPage } = this.props;
 
     return (
       <AverageRatingsDisplay
-        aggregations={getBottlesForSpirit(spirit, recipes)}
+        aggregations={getBottlesForSpirit(spirit, spirits, recipes)}
         recipes={recipes}
         ratingsPerPage={ratingsPerPage}
       />
