@@ -1,6 +1,11 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "0.75oz Hendrick's gin\n0.75oz Sul gin\n0.75oz Carpano Antica sweet vermouth\n0.75oz Cointreau triple sec\n2barsp Fernet Branca amaro\nOrange twist (garnish)\nStir",
+    "Name": "Hocus Pocus"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "1.25oz Old Grand Dad 114 bourbon\n0.75oz St Germain elderflower liqueur\n0.25oz Martini Rossi sweet vermouth\n0.25oz Carpano Antica sweet vermouth\n2dashes Angostura aromatic bitters\n1dash Scrappy's grapefruit bitters\nStir",
     "Name": "Ideal Manhattan"
   },
