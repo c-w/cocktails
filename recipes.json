@@ -1,5 +1,15 @@
 [
   {
+    "Rating": 5,
+    "Ingredients": "1oz Plantation 3 Stars light rum\n0.5oz Lime juice\n0.5oz Butterfly pea flower simple syrup\nShake",
+    "Name": "Daiquiri"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "1.5oz Pierre Ferrand 1840 cognac\n0.75oz Laird's 100 Apple brandy\n0.5oz Martini Rossi sweet vermouth\n0.25oz Carpano Antica sweet vermouth\n0.25oz Benedictine herbal liqueur\n2dashes Peychauds aromatic bitters\nLemon twist (garnish)\nStir",
+    "Name": "Corpse Carre"
+  },
+  {
     "Rating": 4,
     "Ingredients": "0.75oz Hendrick's gin\n0.75oz Sul gin\n0.75oz Carpano Antica sweet vermouth\n0.75oz Cointreau triple sec\n2barsp Fernet Branca amaro\nOrange twist (garnish)\nStir",
     "Name": "Hocus Pocus"
