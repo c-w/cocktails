@@ -1,5 +1,15 @@
 [
   {
+    "Rating": 4,
+    "Ingredients": "0.25oz Citadelle gin\n0.25oz Hendrick's gin\n0.25oz Contratto bitter orange liqueur\n0.25oz Campari orange liqueuer\n0.25oz Carpano Antica sweet vermouth\n0.25 Martini Rossi sweet vermouth\nStir",
+    "Name": "Negroni"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "0.25oz Plantation 5 year old aged rum\n0.25oz Plantation OFTD dark rum\n0.25oz Plantation 3 Stars light rum\n0.25oz Contratto bitter orange liqueur\n0.25oz Campari orange liqueuer\n0.25oz Green Chartreuse herbal liqueur\nStir",
+    "Name": "Archbishop"
+  },
+  {
     "Rating": 5,
     "Ingredients": "1.5oz Plantation 3 Stars light rum\n0.75oz Lime juice\n0.75oz Simple syrup\nShake",
     "Name": "Daiquiri"
