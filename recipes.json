@@ -301,7 +301,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "2oz Choya plum wine\n0.75oz Lemon juice\n0.25oz Rich syrup\n0.5oz Egg white\n1dash Cinamon powder (garnish)\nReverse dry shake",
+    "Ingredients": "2oz Choya plum wine\n0.75oz Lemon juice\n0.25oz Rich syrup\n0.5oz Egg white\n1dash Cinamon powder (garnish)\nDry shake",
     "Name": "Plum Wine Sour"
   },
   {
@@ -326,7 +326,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Lazzaroni amaretto\n0.75oz Old Grand Dad 114 bourbon\n1oz Lemon juice\n1barsp Rich syrup\n0.5oz Egg white\nReverse Dry Shake",
+    "Ingredients": "1.5oz Lazzaroni amaretto\n0.75oz Old Grand Dad 114 bourbon\n1oz Lemon juice\n1barsp Rich syrup\n0.5oz Egg white\nDry shake",
     "Name": "Amaretto Sour"
   },
   {
@@ -426,7 +426,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "2.5oz Henry McKenna Bonded bourbon\n0.5oz Old Overholt Bonded rye\n1oz Lemon juice\n1.5oz Sweetgrass syrup\n1oz Egg white\nReverse dry shake",
+    "Ingredients": "2.5oz Henry McKenna Bonded bourbon\n0.5oz Old Overholt Bonded rye\n1oz Lemon juice\n1.5oz Sweetgrass syrup\n1oz Egg white\nDry shake",
     "Name": "Whiskey Sour"
   },
   {
@@ -546,7 +546,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Broker's London dry gin\n1oz Cynar 70 artichoke liqueur\n0.25oz Byrrh quinquina sweet vermouth\n0.5oz Rich syrup\n0.5oz Lemon juice\n0.25oz Egg white\nReverse dry shake",
+    "Ingredients": "1.5oz Broker's London dry gin\n1oz Cynar 70 artichoke liqueur\n0.25oz Byrrh quinquina sweet vermouth\n0.5oz Rich syrup\n0.5oz Lemon juice\n0.25oz Egg white\nDry shake",
     "Name": "Cin Gin Fizz"
   },
   {
@@ -726,7 +726,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Pierre Ferrand 1840 cognac\n0.5oz Broker's London dry gin\n0.5oz Cointreau triple sec\n0.25oz Lemon juice\n1oz Egg white\nMaraschino cherry (garnish)\nReverse dry shake",
+    "Ingredients": "1oz Pierre Ferrand 1840 cognac\n0.5oz Broker's London dry gin\n0.5oz Cointreau triple sec\n0.25oz Lemon juice\n1oz Egg white\nMaraschino cherry (garnish)\nDry shake",
     "Name": "Saigon Special"
   },
   {
@@ -781,7 +781,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Evan Williams Bonded bourbon\n1oz Lemon juice\n0.5oz Orange juice\n0.5oz Rich syrup\n1oz Egg white\nReverse dry shake",
+    "Ingredients": "2oz Evan Williams Bonded bourbon\n1oz Lemon juice\n0.5oz Orange juice\n0.5oz Rich syrup\n1oz Egg white\nDry shake",
     "Name": "Dan Sabo's Whiskey Sour"
   },
   {
@@ -886,7 +886,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Ardbeg 10 year old whiskey\n1.5oz C3 Carciofo artichoke liqueur\n1 Whole egg\nReverse dry shake",
+    "Ingredients": "1.5oz Ardbeg 10 year old whiskey\n1.5oz C3 Carciofo artichoke liqueur\n1 Whole egg\nDry shake",
     "Name": "Black Diamond Flip"
   },
   {
@@ -911,7 +911,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "0.75oz Old Overholt rye (infused with coffee for 7 days)\n0.5oz Old Overholt Bonded rye\n0.5oz Henry McKenna Bonded bourbon\n0.25oz Lazzaroni amaretto\n0.75oz Lemon juice\n0.5oz Rich syrup\n0.75oz Egg white\n1pinch Coffee (garnish)\nReverse dry shake",
+    "Ingredients": "0.75oz Old Overholt rye (infused with coffee for 7 days)\n0.5oz Old Overholt Bonded rye\n0.5oz Henry McKenna Bonded bourbon\n0.25oz Lazzaroni amaretto\n0.75oz Lemon juice\n0.5oz Rich syrup\n0.75oz Egg white\n1pinch Coffee (garnish)\nDry shake",
     "Name": "Coffee Whiskey Sour"
   },
   {
@@ -1051,12 +1051,12 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Home-made matcha liqueur\n0.75oz Rothman & Winter apricot liqueur\n0.5oz Cointreau triple sec\n0.5oz Lemon juice\n1dash Woodford Reserve orange bitters\n1 Whole egg\nReverse Dry Shake",
+    "Ingredients": "1oz Home-made matcha liqueur\n0.75oz Rothman & Winter apricot liqueur\n0.5oz Cointreau triple sec\n0.5oz Lemon juice\n1dash Woodford Reserve orange bitters\n1 Whole egg\nDry shake",
     "Name": "Thursday May 31, 2018"
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Lazzaroni amaretto\n0.75oz Henry McKenna Bonded bourbon\n1oz Lemon juice\n0.75oz Egg white\nMaraschino cherry (garnish)\nReverse Dry Shake",
+    "Ingredients": "1.5oz Lazzaroni amaretto\n0.75oz Henry McKenna Bonded bourbon\n1oz Lemon juice\n0.75oz Egg white\nMaraschino cherry (garnish)\nDry shake",
     "Name": "Amaretto Sour"
   },
   {
@@ -1071,7 +1071,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Old Overholt Bonded rye\n1oz Lemon juice\n1oz Rosemary rich syrup\n1dash Woodford Reserve orange bitters\n1oz Egg white\nReverse dry shake",
+    "Ingredients": "2oz Old Overholt Bonded rye\n1oz Lemon juice\n1oz Rosemary rich syrup\n1dash Woodford Reserve orange bitters\n1oz Egg white\nDry shake",
     "Name": "Whiskey Sour"
   },
   {
@@ -2231,7 +2231,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Cynar artichoke liqueur\n1oz Beefeater London dry gin\n0.5oz Green Chartreuse herbal liqueur\n0.5oz Egg white\n2dashes Regan's orange bitters\nReverse dry shake",
+    "Ingredients": "2oz Cynar artichoke liqueur\n1oz Beefeater London dry gin\n0.5oz Green Chartreuse herbal liqueur\n0.5oz Egg white\n2dashes Regan's orange bitters\nDry shake",
     "Name": "Two From LA"
   },
   {
@@ -2431,7 +2431,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Lazzaroni amaretto\n0.75oz Old Grand Dad Bonded bourbon\n1oz Lemon juice\n0.75oz Egg white\n1barsp rich syrup\nReverse Dry Shake",
+    "Ingredients": "1.5oz Lazzaroni amaretto\n0.75oz Old Grand Dad Bonded bourbon\n1oz Lemon juice\n0.75oz Egg white\n1barsp rich syrup\nDry shake",
     "Name": "Amaretto Sour"
   },
   {
