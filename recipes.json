@@ -1,5 +1,20 @@
 [
   {
+    "Rating": 4,
+    "Ingredients": "1oz Milagro Reposado tequila\n1oz Peloton de la Muerte mezcal\n0.5oz Campari orange liqueur\n0.5oz Orgeat\n0.5oz Lime juice\n0.5oz Grapefruit juice\n1oz Pineapple juice\n2barsp St George verte absinthe\nBlend",
+    "Name": "Jungle Booby"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "1oz Plantation 5 year old aged rum\n0.5oz Plantation OFTD dark rum\n0.5oz Simple syrup\n0.5oz Lime juice\n0.25cup Sweet corn\n3drops Bittermens mole bitters\nShake",
+    "Name": "Sweet Corn Cocktail"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "1oz Citadelle gin\n1oz Hendrick's gin\n1oz Heering cherry liqueur\n1 Whole egg\n1pinch Nutmeg (garnish)\nDry shake",
+    "Name": "Peter's Gin Flip"
+  },
+  {
     "Rating": 3,
     "Ingredients": "1.5oz Martini Rossi sweet vermouth\n0.25oz Campari orange liqueur\n0.25oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif amaro\n1oz Club soda\nBuild on the rocks",
     "Name": "Young American"
