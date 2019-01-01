@@ -1,5 +1,20 @@
 [
   {
+    "Rating": 3,
+    "Ingredients": "1oz Hendrick's gin\n1oz Contratto bitter orange liqueur\n1oz Vya dry vermouth\nStir",
+    "Name": "Cardinale"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "1oz Peloton de la Muerte mezcal\n1oz Aperol amaro\n1oz Vya dry vermouth\nStir",
+    "Name": "Mezcalero"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1oz Old Grand Dad 114 bourbon\n0.5oz Contratto bitter orange liqueur\n0.5oz Heering cherry liqueur\n1oz Pineapple juice\n0.5oz Lemon juice\nShake",
+    "Name": "Sling and Arrow"
+  },
+  {
     "Rating": 4,
     "Ingredients": "1oz Hendrick's gin\n1oz St Germain elderflower liqueur\n1oz Simple syrup\n1oz Lemon juice\nShake",
     "Name": "Vieux Mot"
