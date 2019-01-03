@@ -1,5 +1,20 @@
 [
   {
+    "Rating": 5,
+    "Ingredients": "1.5oz Plantation 3 Stars light rum\n0.5oz St Germain elderflower liqueur\n0.5oz Vya extra dry vermouth\n0.25oz Lemon juice\n0.25oz Simple syrup\n0.5oz Egg white\nShake",
+    "Name": "Don Daisy"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "1oz Pierre Ferrand 1840 cognac\n0.5oz Vya extra dry vermouth\n1dash Peychauds aromatic bitters\n1dash Woodford Reserve orange bitters\n2barsp Simple syrup\nMaraschino cherry (garnish)\nStir",
+    "Name": "Metropole"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1oz Vya extra dry vermouth\n0.5oz Benedictine herbal liqueur\n1barsp St George verte absinthe\nStir",
+    "Name": "Chrysanthemum"
+  },
+  {
     "Rating": 3,
     "Ingredients": "1oz Hendrick's gin\n1oz Contratto bitter orange liqueur\n1oz Vya extra dry vermouth\nStir",
     "Name": "Cardinale"
