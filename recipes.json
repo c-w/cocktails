@@ -1,6 +1,16 @@
 [
   {
     "Rating": 5,
+    "Ingredients": "0.5oz Fidencio mezcal\n0.5oz Peloton de la Muerte mezcal\n0.25oz Vya extra dry vermouth\n0.25oz Cinnamon syrup\n1dash Woodford Reserve orange bitters\nStir",
+    "Name": "Zocalo"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "0.75oz Hendrick's gin\n0.75oz Sul gin\n0.75oz Vya extra dry vermouth\n0.75oz Orgeat\n1dash Woodford Reserve orange bitters\n1dash St George verte absinthe\nStir",
+    "Name": "Remembrance"
+  },
+  {
+    "Rating": 5,
     "Ingredients": "1.5oz Plantation 3 Stars light rum\n0.5oz St Germain elderflower liqueur\n0.5oz Vya extra dry vermouth\n0.25oz Lemon juice\n0.25oz Simple syrup\n0.5oz Egg white\nShake",
     "Name": "Don Daisy"
   },
