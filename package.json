@@ -1,8 +1,8 @@
 {
-  "name": "cocktails-blog",
+  "name": "cocktails",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://justamouse.com/cocktails-blog",
+  "homepage": "https://justamouse.com/cocktails",
   "dependencies": {
     "lodash.debounce": "^4.0.8",
     "react": "^16.2.0",
