@@ -1,5 +1,15 @@
 [
   {
+    "Rating": 3,
+    "Ingredients": "0.5oz Citadelle gin\n0.5oz Vya extra dry vermouth\n0.5oz Plantation 5 year old aged rum\n0.25oz Lemon juice\n0.25oz Simple syrup\n1pinch Nutmeg (garnish)\nShake",
+    "Name": "Lander's Punch"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "0.75oz Citadelle gin\n0.5oz Vya extra dry vermouth\n0.25oz Plantation 3 Stars light rum\n1dash Woodford Reserve orange bitters\nStir",
+    "Name": "Sirius"
+  },
+  {
     "Rating": 4,
     "Ingredients": "2oz Citadelle gin\n0.75oz Lemon juice\n0.33oz Simple syrup\n12 Basil leaves (infuse and muddle in gin, 10 minutes)\nShake",
     "Name": "Gin Basil Smash"
