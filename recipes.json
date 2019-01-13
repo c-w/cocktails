@@ -1,5 +1,20 @@
 [
   {
+    "Rating": 5,
+    "Ingredients": "1oz Plantation 3 Stars light rum\n1oz Plantation 5 year old aged rum\n0.5oz Rothman & Winter apricot liqueur\n0.5oz Orgeat syrup\n1oz Pineapple juice\n0.75oz Lime juice\nShake",
+    "Name": "Beachbum"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "0.5oz Plantation 3 Stars light rum\n0.25oz Plantation 5 year old aged rum\n0.25oz Plantation OFTD dark rum\n0.25oz Pineapple juice\n0.5oz Passionfruit syrup\n0.5oz Lime juice\nShake",
+    "Name": "Tonga Room Zombie"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "0.5oz Plantation 3 Stars light rum\n0.5oz Plantation 5 year old aged rum\n0.25oz Plantation OFTD dark rum\n0.5oz Rothman & Winter apricot liqueur\n0.5oz Orange juice\n0.5oz Pineapple juice\nShake",
+    "Name": "Zombie"
+  },
+  {
     "Rating": 4,
     "Ingredients": "1oz Plantation 5 year old aged rum\n0.5oz Plantation OFTD dark rum\n1oz Contratto bitter orange liqueur\n1.5oz Orange juice\n1oz Lemon juice\n0.75oz Orgeat syrup\n1pinch Salt\nShake",
     "Name": "Deathstalker"
