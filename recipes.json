@@ -1,5 +1,15 @@
 [
   {
+    "Rating": 5,
+    "Ingredients": "1.5oz Milagro Reposado tequila\n0.75oz St Germain elderflower liqueur\n0.5oz Cinnamon syrup\n0.5oz Lime juice\n1oz Pineapple juice\nShake",
+    "Name": "Flor De Piña"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "1oz Plantation 5 year old aged rum\n1oz Plantation OFTD dark rum\n1oz Grenadine syrup\n0.5oz Cinnamon syrup\n1oz Lime juice\nShake",
+    "Name": "Skull and Bones"
+  },
+  {
     "Rating": 3,
     "Ingredients": "1oz Plantation OFTD dark rum\n1oz Benedictine herbal liqueur\n0.5oz Fernet Branca amaro\n0.25oz Simple syrup\n1.5oz Pineapple juice\n0.75oz Lime juice\n2dashes Angostura aromatic bitters\nShake",
     "Name": "Free Rider"
