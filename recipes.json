@@ -1,5 +1,20 @@
 [
   {
+    "Rating": 4,
+    "Ingredients": "1.75oz Plantation 5 year old aged rum\n0.25oz Plantation OFTD dark rum\n0.25oz Cinnamon syrup\n0.25oz Simple syrup\n0.5oz Lime juice\n0.5oz Pineapple juice\n1dash Angostura aromatic bitters\nShake",
+    "Name": "Autumn Daiquiri"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1.75oz Plantation 5 year old aged rum\n0.25oz Plantation OFTD dark rum\n0.25oz Orgeat syrup\n0.25oz Cinnamon syrup\n0.25oz Simple syrup\n0.75oz Lime juice\n0.5oz Pineapple juice\n2dashes Angostura aromatic bitters (float)\n2dashes Peychauds aromatic bitters (float)\nBlend",
+    "Name": "Behind God's Back"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "0.5oz Plantation 3 Stars light rum\n0.5oz Plantation 5 year old aged rum\n0.25oz Plantation OFTD dark rum (float)\n0.25oz Contratto bitter orange liqueur\n0.25oz Orgeat syrup\n0.25oz Cinnamon syrup\n0.25oz Lime juice\nShake",
+    "Name": "Devil's Left Hand"
+  },
+  {
     "Rating": 5,
     "Ingredients": "1.5oz Milagro Reposado tequila\n0.75oz St Germain elderflower liqueur\n0.5oz Cinnamon syrup\n0.5oz Lime juice\n1oz Pineapple juice\nShake",
     "Name": "Flor De Piña"
