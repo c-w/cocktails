@@ -1,6 +1,16 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "2oz Lazzaroni amaretto\n0.5oz Plantation OFTD dark rum\n0.75oz Lemon juice\n0.75oz Lime juice\n0.25oz Simple syrup\n0.5oz Egg white\n1pinch Salt\nDry shake",
+    "Name": "OFTD Amaretto Sour"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "1.5oz Plantation OFTD dark rum\n0.75oz Simple syrup\n0.5oz Lime juice\n1dash Angostura aromatic bitters\n6drops St George verte absinthe\nBlend",
+    "Name": "151 Swizzle"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "1.75oz Plantation 5 year old aged rum\n0.25oz Plantation OFTD dark rum\n0.25oz Cinnamon syrup\n0.25oz Simple syrup\n0.5oz Lime juice\n0.5oz Pineapple juice\n1dash Angostura aromatic bitters\nShake",
     "Name": "Autumn Daiquiri"
   },
