@@ -1,6 +1,11 @@
 [
   {
     "Rating": 5,
+    "Ingredients": "1oz Union Uno mezcal\n1oz Lustau sweet vermouth\n0.5oz Contratto aperitif amaro\n0.5oz St Germain elderflower liqueur\n2dashes Bittermens mole bitters\nStir",
+    "Name": "Eyes On The Table"
+  },
+  {
+    "Rating": 5,
     "Ingredients": "0.75oz Union Uno mezcal\n0.75oz Lustau sweet vermouth\n0.75oz Contratto bitter orange liqueur\nStir",
     "Name": "Mezcal Negroni"
   },
