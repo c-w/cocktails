@@ -1,6 +1,21 @@
 [
   {
     "Rating": 5,
+    "Ingredients": "0.75oz Union Uno mezcal\n0.75oz Lustau sweet vermouth\n0.75oz Contratto bitter orange liqueur\nStir",
+    "Name": "Mezcal Negroni"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "0.75oz Plantation OFTD dark rum\n0.75oz Lustau sweet vermouth\n0.75oz Contratto bitter orange liqueur\nStir",
+    "Name": "Kingston Negroni"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "1oz Sul gin\n1oz Lustau sweet vermouth\n1oz Contratto bitter orange liqueur\nStir",
+    "Name": "Negroni"
+  },
+  {
+    "Rating": 5,
     "Ingredients": "1.5oz Lustau sweet vermouth\n0.5oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif amaro\n1oz Club soda\nBuild on the rocks",
     "Name": "Young American"
   },
