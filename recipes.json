@@ -1,22 +1,22 @@
 [
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Lustau sweet vermouth\n0.5oz Contratto bitter orange liqueur\n0.5oz Aperol amaro\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "1.5oz Lustau sweet vermouth\n0.5oz Contratto bitter orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
     "Name": "Young American"
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Contratto aperitif amaro\n1oz St George verte absinthe\n0.5oz Lemon juice\n0.25oz Simple syrup\nShake",
+    "Ingredients": "1.5oz Contratto aperitif rhubarb liqueur\n1oz St George verte absinthe\n0.5oz Lemon juice\n0.25oz Simple syrup\nShake",
     "Name": "2to2"
   },
   {
     "Rating": 5,
-    "Ingredients": "0.75oz Sul gin\n0.75oz Lustau sweet vermouth\n0.75oz Contratto aperitif amaro\nStir",
+    "Ingredients": "0.75oz Sul gin\n0.75oz Lustau sweet vermouth\n0.75oz Contratto aperitif rhubarb liqueur\nStir",
     "Name": "Aperol Negroni"
   },
   {
     "Rating": 5,
-    "Ingredients": "1oz Union Uno mezcal\n1oz Lustau sweet vermouth\n0.5oz Contratto aperitif amaro\n0.5oz St Germain elderflower liqueur\n2dashes Bittermens mole bitters\nStir",
+    "Ingredients": "1oz Union Uno mezcal\n1oz Lustau sweet vermouth\n0.5oz Contratto aperitif rhubarb liqueur\n0.5oz St Germain elderflower liqueur\n2dashes Bittermens mole bitters\nStir",
     "Name": "Eyes On The Table"
   },
   {
@@ -36,7 +36,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Lustau sweet vermouth\n0.5oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif amaro\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "1.5oz Lustau sweet vermouth\n0.5oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
     "Name": "Young American"
   },
   {
@@ -176,7 +176,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1oz Peloton de la Muerte mezcal\n1oz Aperol amaro\n1oz Vya extra dry vermouth\nStir",
+    "Ingredients": "1oz Peloton de la Muerte mezcal\n1oz Aperol rhubarb liqueur\n1oz Vya extra dry vermouth\nStir",
     "Name": "Mezcalero"
   },
   {
@@ -196,7 +196,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Peloton de la Muerte mezcal\n1oz Carpano Antica sweet vermouth\n0.5oz Contratto aperitif amaro\n0.5oz St Germain elderflower liqueur\n2dashes Bittermens mole bitters\nStir",
+    "Ingredients": "1oz Peloton de la Muerte mezcal\n1oz Carpano Antica sweet vermouth\n0.5oz Contratto aperitif rhubarb liqueur\n0.5oz St Germain elderflower liqueur\n2dashes Bittermens mole bitters\nStir",
     "Name": "Eyes On The Table"
   },
   {
@@ -221,17 +221,17 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Martini Rossi sweet vermouth\n0.25oz Campari orange liqueur\n0.25oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif amaro\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "1.5oz Martini Rossi sweet vermouth\n0.25oz Campari orange liqueur\n0.25oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
     "Name": "Young American"
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Carpano Antica sweet vermouth\n0.25oz Campari orange liqueur\n0.25oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif amaro\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "1.5oz Carpano Antica sweet vermouth\n0.25oz Campari orange liqueur\n0.25oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
     "Name": "Young American"
   },
   {
     "Rating": 2,
-    "Ingredients": "0.75oz Milagro Reposado tequila\n0.5oz Contratto aperitif amaro\n0.25oz Carpano Antica sweet vermouth\n0.25 Martini Rossi sweet vermouth\n2barsp Fernet Branca amaro\nStir",
+    "Ingredients": "0.75oz Milagro Reposado tequila\n0.5oz Contratto aperitif rhubarb liqueur\n0.25oz Carpano Antica sweet vermouth\n0.25 Martini Rossi sweet vermouth\n2barsp Fernet Branca amaro\nStir",
     "Name": "Decolletage"
   },
   {
@@ -311,7 +311,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Van Brunt Stillhouse bourbon\n0.5oz Martini Rossi sweet vermouth\n0.25oz Carpano Antica sweet vermouth\n0.25oz Contratto bitter orange liqueur\n0.25oz Campari orange liqueur\n0.25oz Contratto aperitif amaro\nStir",
+    "Ingredients": "1.5oz Van Brunt Stillhouse bourbon\n0.5oz Martini Rossi sweet vermouth\n0.25oz Carpano Antica sweet vermouth\n0.25oz Contratto bitter orange liqueur\n0.25oz Campari orange liqueur\n0.25oz Contratto aperitif rhubarb liqueur\nStir",
     "Name": "Boulvardier"
   },
   {
@@ -336,12 +336,12 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "2oz Peloton de la Muerte mezcal\n0.75oz Contratto aperitif amaro\n0.5oz Contratto bitter orange liqueur\n0.25oz Campari orange liqueuer\n0.75oz Carpano Antica sweet vermouth\n0.75 Martini Rossi sweet vermouth\nOrange twist (garnish)\nStir",
+    "Ingredients": "2oz Peloton de la Muerte mezcal\n0.75oz Contratto aperitif rhubarb liqueur\n0.5oz Contratto bitter orange liqueur\n0.25oz Campari orange liqueuer\n0.75oz Carpano Antica sweet vermouth\n0.75 Martini Rossi sweet vermouth\nOrange twist (garnish)\nStir",
     "Name": "Mezcal Negroni"
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Carpano Antica sweet vermouth\n0.75oz Martini Rossi sweet vermouth\n0.25oz Campari orange liqueur\n0.25oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif amaro\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "0.75oz Carpano Antica sweet vermouth\n0.75oz Martini Rossi sweet vermouth\n0.25oz Campari orange liqueur\n0.25oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
     "Name": "Young American"
   },
   {
@@ -556,7 +556,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Peloton de la Muerte mezcal\n0.75oz Contratto aperitif amaro\n0.75oz Boissiere sweet vermouth\nStir",
+    "Ingredients": "0.75oz Peloton de la Muerte mezcal\n0.75oz Contratto aperitif rhubarb liqueur\n0.75oz Boissiere sweet vermouth\nStir",
     "Name": "Mezcal Negroni"
   },
   {
@@ -566,17 +566,17 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Boissiere sweet vermouth\n0.25oz Campari orange liqueur\n0.25oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif amaro\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "1.5oz Boissiere sweet vermouth\n0.25oz Campari orange liqueur\n0.25oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
     "Name": "Young American"
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Boissiere sweet vermouth\n0.5oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif amaro\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "1.5oz Boissiere sweet vermouth\n0.5oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
     "Name": "Young American"
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Boissiere sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Contratto aperitif amaro\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "1.5oz Boissiere sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Contratto aperitif rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
     "Name": "Young American"
   },
   {
@@ -651,7 +651,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1oz Contratto aperitif amaro\n0.5oz Campari orange liqueur\n1.5oz Cynar 70 artichoke liqueur\n1.5oz Boissiere sweet vermouth\nStir",
+    "Ingredients": "1oz Contratto aperitif rhubarb liqueur\n0.5oz Campari orange liqueur\n1.5oz Cynar 70 artichoke liqueur\n1.5oz Boissiere sweet vermouth\nStir",
     "Name": "L'Amore Di Amaro"
   },
   {
@@ -661,7 +661,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Fidencio mezcal\n0.75oz Contratto aperitif amaro\n0.75oz Boissiere sweet vermouth\nStir",
+    "Ingredients": "0.75oz Fidencio mezcal\n0.75oz Contratto aperitif rhubarb liqueur\n0.75oz Boissiere sweet vermouth\nStir",
     "Name": "Mezcal Negroni"
   },
   {
@@ -706,7 +706,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "0.75oz Contratto aperitif amaro\n0.75oz Cynar 70 artichoke liqueur\n0.75oz Byrrh quinquina sweet vermouth\nStir",
+    "Ingredients": "0.75oz Contratto aperitif rhubarb liqueur\n0.75oz Cynar 70 artichoke liqueur\n0.75oz Byrrh quinquina sweet vermouth\nStir",
     "Name": "L'Amore Di Amaro"
   },
   {
@@ -731,7 +731,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Milagro Reposado tequila\n0.75oz Contratto aperitif amaro\n0.75oz Heering cherry liqueur\n0.75oz Lemon juice\nShake",
+    "Ingredients": "0.75oz Milagro Reposado tequila\n0.75oz Contratto aperitif rhubarb liqueur\n0.75oz Heering cherry liqueur\n0.75oz Lemon juice\nShake",
     "Name": "Eclipse"
   },
   {
@@ -741,7 +741,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Citadelle gin\n0.75oz Byrrh quinquina sweet vermouth\n0.75oz Contratto aperitif amaro\nStir",
+    "Ingredients": "0.75oz Citadelle gin\n0.75oz Byrrh quinquina sweet vermouth\n0.75oz Contratto aperitif rhubarb liqueur\nStir",
     "Name": "Aperol Negroni"
   },
   {
@@ -751,7 +751,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Citadelle gin\n0.75oz Byrrh quinquina sweet vermouth\n0.5oz Monkey Shoulder blended whiskey\n0.5oz Contratto aperitif amaro\n0.25oz St Germain elderflower liqueur\nStir",
+    "Ingredients": "1.5oz Citadelle gin\n0.75oz Byrrh quinquina sweet vermouth\n0.5oz Monkey Shoulder blended whiskey\n0.5oz Contratto aperitif rhubarb liqueur\n0.25oz St Germain elderflower liqueur\nStir",
     "Name": "Brown Trout"
   },
   {
@@ -801,7 +801,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1oz Fidencio mezcal\n1oz Byrrh quinquina sweet vermouth\n0.5oz Contratto aperitif amaro\n0.5oz St Germain elderflower liqueur\n2dashes Bittermens mole bitters\nStir",
+    "Ingredients": "1oz Fidencio mezcal\n1oz Byrrh quinquina sweet vermouth\n0.5oz Contratto aperitif rhubarb liqueur\n0.5oz St Germain elderflower liqueur\n2dashes Bittermens mole bitters\nStir",
     "Name": "Eyes On The Table"
   },
   {
@@ -821,12 +821,12 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Fidencio mezcal\n0.75oz Contratto aperitif amaro\n0.75oz Byrrh quinquina sweet vermouth\nStir",
+    "Ingredients": "0.75oz Fidencio mezcal\n0.75oz Contratto aperitif rhubarb liqueur\n0.75oz Byrrh quinquina sweet vermouth\nStir",
     "Name": "Mezcal Negroni"
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Fidencio mezcal\n1oz Contratto aperitif amaro\n0.5oz Luxardo Maraschino liqueur\nOrange twist (garnish)\nStir",
+    "Ingredients": "1.5oz Fidencio mezcal\n1oz Contratto aperitif rhubarb liqueur\n0.5oz Luxardo Maraschino liqueur\nOrange twist (garnish)\nStir",
     "Name": "Tommi's Cocktail"
   },
   {
@@ -841,7 +841,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Broker's London dry gin\n0.75oz Contratto aperitif amaro\n0.75oz Byrrh quinquina sweet vermouth\nStir",
+    "Ingredients": "0.75oz Broker's London dry gin\n0.75oz Contratto aperitif rhubarb liqueur\n0.75oz Byrrh quinquina sweet vermouth\nStir",
     "Name": "Negroni"
   },
   {
@@ -851,7 +851,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Milagro Reposado tequila\n0.5oz Contratto aperitif amaro\n0.5oz St Germain elderflower liqueur\n0.75oz Lemon juice\n2dashes Angostura aromatic bitters\nGrapefruit twist (garnish)\nShake",
+    "Ingredients": "1.5oz Milagro Reposado tequila\n0.5oz Contratto aperitif rhubarb liqueur\n0.5oz St Germain elderflower liqueur\n0.75oz Lemon juice\n2dashes Angostura aromatic bitters\nGrapefruit twist (garnish)\nShake",
     "Name": "Part-Time Lover"
   },
   {
@@ -876,7 +876,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Broker's London dry gin\n0.75oz Aperol amaro\n0.75oz Perucchi sweet vermouth\nStir",
+    "Ingredients": "0.75oz Broker's London dry gin\n0.75oz Aperol rhubarb liqueur\n0.75oz Perucchi sweet vermouth\nStir",
     "Name": "Aperol Negroni"
   },
   {
@@ -911,7 +911,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Old Overholt Bonded rye\n1oz Aperol amaro\n0.5oz Pimm's No 1 amaro\n0.5oz Cynar 70 artichoke liqueur\n1dash Regan's orange bitters\nStir",
+    "Ingredients": "1oz Old Overholt Bonded rye\n1oz Aperol rhubarb liqueur\n0.5oz Pimm's No 1 amaro\n0.5oz Cynar 70 artichoke liqueur\n1dash Regan's orange bitters\nStir",
     "Name": "Bitter Improv"
   },
   {
@@ -1031,7 +1031,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Finlandia vodka (infused with lapsang souchong tea for 1 day)\n0.5oz Rothman & Winter apricot liqueur\n0.25oz Aperol amaro\n2dashes Woodford Reserve orange bitters\nOrange twist (garnish)\nStir",
+    "Ingredients": "0.75oz Finlandia vodka (infused with lapsang souchong tea for 1 day)\n0.5oz Rothman & Winter apricot liqueur\n0.25oz Aperol rhubarb liqueur\n2dashes Woodford Reserve orange bitters\nOrange twist (garnish)\nStir",
     "Name": "Sunday July 1, 2018"
   },
   {
@@ -1096,7 +1096,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "0.75oz Aperol amaro\n0.75oz Cynar 70 artichoke liqueur\n0.75oz Perucchi sweet vermouth\nStir",
+    "Ingredients": "0.75oz Aperol rhubarb liqueur\n0.75oz Cynar 70 artichoke liqueur\n0.75oz Perucchi sweet vermouth\nStir",
     "Name": "L'Amore Di Amaro"
   },
   {
@@ -1116,12 +1116,12 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Perucchi sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Aperol amaro\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "1.5oz Perucchi sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
     "Name": "Young American"
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz Broker's London dry gin\n0.75oz Aperol amaro\n0.75oz C3 Carciofo artichoke liqueur\nStir",
+    "Ingredients": "0.75oz Broker's London dry gin\n0.75oz Aperol rhubarb liqueur\n0.75oz C3 Carciofo artichoke liqueur\nStir",
     "Name": "Rucula Negroni"
   },
   {
@@ -1201,12 +1201,12 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "0.75oz Fidencio mezcal\n0.75oz Aperol amaro\n0.75oz Tribuno sweet vermouth\n1dash Woodford Reserve orange bitters\nStir",
+    "Ingredients": "0.75oz Fidencio mezcal\n0.75oz Aperol rhubarb liqueur\n0.75oz Tribuno sweet vermouth\n1dash Woodford Reserve orange bitters\nStir",
     "Name": "Saturday June 9, 2018"
   },
   {
     "Rating": 5,
-    "Ingredients": "0.75oz Sombra mezcal\n0.75oz Aperol amaro\n0.75oz Tribuno sweet vermouth\n1dash Woodford Reserve orange bitters\nStir",
+    "Ingredients": "0.75oz Sombra mezcal\n0.75oz Aperol rhubarb liqueur\n0.75oz Tribuno sweet vermouth\n1dash Woodford Reserve orange bitters\nStir",
     "Name": "Saturday June 9, 2018"
   },
   {
@@ -1226,7 +1226,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "0.75oz Plymouth gin\n0.75oz Aperol amaro\n0.75oz Tribuno sweet vermouth\nStir",
+    "Ingredients": "0.75oz Plymouth gin\n0.75oz Aperol rhubarb liqueur\n0.75oz Tribuno sweet vermouth\nStir",
     "Name": "Aperol Negroni"
   },
   {
@@ -1246,17 +1246,17 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Tribuno sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Aperol amaro\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "1.5oz Tribuno sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
     "Name": "Young American"
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Sombra mezcal\n0.75oz Aperol amaro\n0.75oz C3 Carciofo artichoke liqueur\nStir",
+    "Ingredients": "0.75oz Sombra mezcal\n0.75oz Aperol rhubarb liqueur\n0.75oz C3 Carciofo artichoke liqueur\nStir",
     "Name": "Saturday June 2, 2018"
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Sombra mezcal\n1oz Aperol amaro\n0.5oz Luxardo Maraschino liqueur\nOrange twist (discarded)\nStir",
+    "Ingredients": "1.5oz Sombra mezcal\n1oz Aperol rhubarb liqueur\n0.5oz Luxardo Maraschino liqueur\nOrange twist (discarded)\nStir",
     "Name": "Tommi's Cocktail"
   },
   {
@@ -1296,7 +1296,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Aperol amaro\n0.75oz Tribuno sweet vermouth\nStir",
+    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Aperol rhubarb liqueur\n0.75oz Tribuno sweet vermouth\nStir",
     "Name": "Aperol Negroni"
   },
   {
@@ -1331,7 +1331,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Old Overholt Bonded rye\n0.5oz Cocchi Dopo Teatro sweet vermouth\n0.5oz Aperol amaro\n0.5oz Fernet Branca amaro\n2dashes Peychauds aromatic bitters\nStir",
+    "Ingredients": "1oz Old Overholt Bonded rye\n0.5oz Cocchi Dopo Teatro sweet vermouth\n0.5oz Aperol rhubarb liqueur\n0.5oz Fernet Branca amaro\n2dashes Peychauds aromatic bitters\nStir",
     "Name": "Dare I Say"
   },
   {
@@ -1391,7 +1391,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Cocchi Dopo Teatro sweet vermouth\n0.5oz Leopold Bros aperitivo orange liqueur\n0.5oz Aperol amaro\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "1.5oz Cocchi Dopo Teatro sweet vermouth\n0.5oz Leopold Bros aperitivo orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
     "Name": "Young American"
   },
   {
@@ -1521,7 +1521,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.5oz Beefeater London dry gin\n0.5oz Noilly Prat dry vermouth\n0.5oz Aperol amaro\nOrange twist\nStir",
+    "Ingredients": "0.5oz Beefeater London dry gin\n0.5oz Noilly Prat dry vermouth\n0.5oz Aperol rhubarb liqueur\nOrange twist\nStir",
     "Name": "Contessa"
   },
   {
@@ -1616,7 +1616,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Vya sweet vermouth\n0.5oz Leopold Bros aperitivo orange liqueur\n0.5oz Aperol amaro\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "1.5oz Vya sweet vermouth\n0.5oz Leopold Bros aperitivo orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
     "Name": "Young American"
   },
   {
@@ -1641,7 +1641,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Old Overholt rye\n0.5oz Fernet Branca amaro\n0.5oz Aperol amaro\n0.5oz Vya sweet vermouth\n2dashes Peychauds aromatic bitters\nStir",
+    "Ingredients": "1oz Old Overholt rye\n0.5oz Fernet Branca amaro\n0.5oz Aperol rhubarb liqueur\n0.5oz Vya sweet vermouth\n2dashes Peychauds aromatic bitters\nStir",
     "Name": "Dare I Say"
   },
   {
@@ -1751,7 +1751,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Kopke ruby port sweet vermouth\n0.75oz Aperol amaro\nStir",
+    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Kopke ruby port sweet vermouth\n0.75oz Aperol rhubarb liqueur\nStir",
     "Name": "Port Aperol Negroni"
   },
   {
@@ -1811,7 +1811,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Carpano Punt E Mes sweet vermouth\n0.75oz Aperol amaro\nStir",
+    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Carpano Punt E Mes sweet vermouth\n0.75oz Aperol rhubarb liqueur\nStir",
     "Name": "Aperol Negroni"
   },
   {
@@ -1831,7 +1831,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Laphroaig 10 year old whiskey\n0.75oz Carpano Punt E Mes sweet vermouth\n0.5oz Aperol amaro\n1barsp Luxardo Maraschino liqueur\nOrange twist\nCoffee ice cubes\nStir",
+    "Ingredients": "2oz Laphroaig 10 year old whiskey\n0.75oz Carpano Punt E Mes sweet vermouth\n0.5oz Aperol rhubarb liqueur\n1barsp Luxardo Maraschino liqueur\nOrange twist\nCoffee ice cubes\nStir",
     "Name": "Strange Bedfellows"
   },
   {
@@ -1861,7 +1861,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Carpano Punt E Mes sweet vermouth\n0.5oz Gran Classico orange liqueur\n0.5oz Aperol amaro\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "1.5oz Carpano Punt E Mes sweet vermouth\n0.5oz Gran Classico orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
     "Name": "Young American"
   },
   {
@@ -1891,7 +1891,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz Laphroaig 10 year old whiskey\n0.75oz Carpano Punt E Mes sweet vermouth\n0.75oz Aperol amaro\nOrange twist\nStir",
+    "Ingredients": "0.75oz Laphroaig 10 year old whiskey\n0.75oz Carpano Punt E Mes sweet vermouth\n0.75oz Aperol rhubarb liqueur\nOrange twist\nStir",
     "Name": "Ortensia"
   },
   {
@@ -2106,12 +2106,12 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "0.75oz The Duke Munich dry gin\n0.75oz Noilly Prat sweet vermouth\n0.75oz Aperol amaro\nStir",
+    "Ingredients": "0.75oz The Duke Munich dry gin\n0.75oz Noilly Prat sweet vermouth\n0.75oz Aperol rhubarb liqueur\nStir",
     "Name": "Aperol Negroni"
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Carpano Antica sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Aperol amaro\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "1.5oz Carpano Antica sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
     "Name": "Young American"
   },
   {
@@ -2151,7 +2151,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Del Maguey Vida mezcal\n1oz Aperol amaro\n0.5oz Luxardo Maraschino liqueur\nOrange twist (discarded)\nStir",
+    "Ingredients": "1.5oz Del Maguey Vida mezcal\n1oz Aperol rhubarb liqueur\n0.5oz Luxardo Maraschino liqueur\nOrange twist (discarded)\nStir",
     "Name": "Tommi's Cocktail"
   },
   {
@@ -2196,12 +2196,12 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Cocchi Di Torino sweet vermouth\n0.5oz Gran Classico orange liqueur\n0.5oz Aperol amaro\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "1.5oz Cocchi Di Torino sweet vermouth\n0.5oz Gran Classico orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
     "Name": "Young American"
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Tanqueray London dry gin\n1oz Aperol amaro\n1oz Cynar artichoke liqueur\nLemon twist\nStir",
+    "Ingredients": "1oz Tanqueray London dry gin\n1oz Aperol rhubarb liqueur\n1oz Cynar artichoke liqueur\nLemon twist\nStir",
     "Name": "Rucula Negroni"
   },
   {
@@ -2441,7 +2441,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.25oz Old Grand Dad Bonded bourbon\n1oz Carpano Antica sweet vermouth\n0.375oz Campari orange liqueur\n0.375oz Aperol amaro\n1dash Angostura aromatic bitters\nLemon twist (discarded)\nStir",
+    "Ingredients": "1.25oz Old Grand Dad Bonded bourbon\n1oz Carpano Antica sweet vermouth\n0.375oz Campari orange liqueur\n0.375oz Aperol rhubarb liqueur\n1dash Angostura aromatic bitters\nLemon twist (discarded)\nStir",
     "Name": "American Negroni"
   },
   {
@@ -2466,7 +2466,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Del Maguey Vida mezcal\n1oz Cocchi Di Torino sweet vermouth\n0.5oz Aperol amaro\n0.5oz Gran Classico orange liqueur\n1dash Bittermens mole bitters\nStir",
+    "Ingredients": "1oz Del Maguey Vida mezcal\n1oz Cocchi Di Torino sweet vermouth\n0.5oz Aperol rhubarb liqueur\n0.5oz Gran Classico orange liqueur\n1dash Bittermens mole bitters\nStir",
     "Name": "Mezcal Negroni"
   },
   {
@@ -2501,7 +2501,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Sombra mezcal\n0.75oz Aperol amaro\n0.5oz Luxardo Maraschino liqueur\n0.75oz Lime juice\nShake",
+    "Ingredients": "1oz Sombra mezcal\n0.75oz Aperol rhubarb liqueur\n0.5oz Luxardo Maraschino liqueur\n0.75oz Lime juice\nShake",
     "Name": "Division Bell"
   },
   {
@@ -2596,7 +2596,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz Old Overholt rye\n0.75oz Aperol amaro\n0.75oz Cynar artichoke liqueur\nGrapefruit twist (discarded)\nStir",
+    "Ingredients": "0.75oz Old Overholt rye\n0.75oz Aperol rhubarb liqueur\n0.75oz Cynar artichoke liqueur\nGrapefruit twist (discarded)\nStir",
     "Name": "Mad Max"
   },
   {
@@ -2616,7 +2616,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Espolon Reposado tequila\n0.75oz Cocchi Di Torino sweet vermouth\n0.75oz Aperol amaro\n2dashes Bittermens mole bitters\n1rinse Laphroaig 10 year old whiskey\n1rinse Bittermens mole bitters\nLemon twist (discarded)\nStir",
+    "Ingredients": "1.5oz Espolon Reposado tequila\n0.75oz Cocchi Di Torino sweet vermouth\n0.75oz Aperol rhubarb liqueur\n2dashes Bittermens mole bitters\n1rinse Laphroaig 10 year old whiskey\n1rinse Bittermens mole bitters\nLemon twist (discarded)\nStir",
     "Name": "Dolores Haze"
   },
   {
@@ -3236,7 +3236,7 @@
   },
   {
     "Rating": 2,
-    "Ingredients": "1oz Old Grand Dad Bonded bourbon\n0.5oz Carpano Antica sweet vermouth\n0.5oz Aperol amaro\nStir",
+    "Ingredients": "1oz Old Grand Dad Bonded bourbon\n0.5oz Carpano Antica sweet vermouth\n0.5oz Aperol rhubarb liqueur\nStir",
     "Name": "Aperol Boulevardier"
   },
   {
