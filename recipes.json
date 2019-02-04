@@ -1,5 +1,15 @@
 [
   {
+    "Rating": 5,
+    "Ingredients": "0.75oz Union Uno mezcal\n0.75oz Lustau sweet vermouth\n0.75oz Aperol rhubarb liqueur\nStir",
+    "Name": "Mezcal Negroni"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "0.75oz Plantation OFTD dark rum\n0.75oz Lustau sweet vermouth\n0.75oz Aperol rhubarb liqueur\nStir",
+    "Name": "Kingston Negroni"
+  },
+  {
     "Rating": 4,
     "Ingredients": "1.5oz Lustau sweet vermouth\n0.5oz Contratto bitter orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
     "Name": "Young American"
