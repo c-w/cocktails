@@ -1,6 +1,16 @@
 [
   {
     "Rating": 3,
+    "Ingredients": "1.5oz Plantation 5 year old aged rum\n0.5oz Lustau sweet vermouth\n0.5oz Grenadine syrup\n0.5oz Lime juice\n4dashes Angostura aromatic bitters\nShake",
+    "Name": "Queen's Park Hotel Super Cocktail"
+  },
+  {
+    "Rating": 2,
+    "Ingredients": "1oz Monkey Shoulder blended whiskey\n0.75oz Lustau sweet vermouth\n0.75oz Contratto bitter orange liqueur\nStir",
+    "Name": "Scotch Boulvardier"
+  },
+  {
+    "Rating": 3,
     "Ingredients": "1.5oz Sul gin\n0.75oz Lustau sweet vermouth\n0.75oz Simple syrup\n0.5oz Lime juice\n1.5oz Pineapple juice\n2dashes Angostura aromatic bitters\n1dash Woodford Reserve orange bitters\nShake",
     "Name": "Mighty Peking Man"
   },
