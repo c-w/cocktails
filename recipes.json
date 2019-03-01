@@ -1,5 +1,10 @@
 [
   {
+    "Rating": 3,
+    "Ingredients": "0.75oz Hendrick's gin\n0.75oz Cinzano rosso sweet vermouth\n0.75oz Campari orange liqueur\nStir",
+    "Name": "Negroni"
+  },
+  {
     "Rating": 5,
     "Ingredients": "1.5oz Cinzano rosso sweet vermouth\n0.5oz Contratto bitter orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
     "Name": "Young American"
