@@ -1,5 +1,20 @@
 [
   {
+    "Rating": 5,
+    "Ingredients": "0.75oz Aperol rhubarb liqueur\n0.75oz Cynar artichoke liqueur\n0.75oz Cinzano rosso sweet vermouth\nStir",
+    "Name": "L'Amore Di Amaro"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1oz Union Uno mezcal\n1oz Cinzano rosso sweet vermouth\n0.5oz Aperol rhubarb liqueur\n0.5oz St Germain elderflower liqueur\n2dashes Bittermens mole bitters\nStir",
+    "Name": "Eyes On The Table"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "1.5oz El Dorado 3 year old light rum\n0.75oz Lime juice\n0.75oz Simple syrup\nShake",
+    "Name": "Daiquiri"
+  },
+  {
     "Rating": 3,
     "Ingredients": "0.75oz Hendrick's gin\n0.75oz Cinzano rosso sweet vermouth\n0.75oz Campari orange liqueur\nStir",
     "Name": "Negroni"
