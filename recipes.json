@@ -1,5 +1,15 @@
 [
   {
+    "Rating": 3,
+    "Ingredients": "1.5oz Cinzano rosso sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\n2dashes St George verte absinthe\nBuild on the rocks",
+    "Name": "Young American"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "0.75oz Laird's 100 Apple brandy\n0.75oz Cinzano rosso sweet vermouth\n0.75oz Cynar artichoke liqueur\n2dashes Peychauds aromatic bitters\nStir",
+    "Name": "Nassau Street Cocktail"
+  },
+  {
     "Rating": 5,
     "Ingredients": "0.75oz Aperol rhubarb liqueur\n0.75oz Cynar artichoke liqueur\n0.75oz Cinzano rosso sweet vermouth\nStir",
     "Name": "L'Amore Di Amaro"
