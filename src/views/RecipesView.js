@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from 'react-router-dom/Link';
+import partition from 'lodash.partition';
 import CheckBoxList from '../components/CheckBoxList';
 import MultilineText from '../components/MultiLineText';
 import PaginatedCardGroup from '../components/PaginatedCardGroup';
@@ -44,11 +45,15 @@ const hasFilterText = (recipe, filterText, words) => {
 
   const searchCorpus = combineTokens(`${recipe.Name}\n${recipe.Ingredients}`.toLowerCase(), words.combined);
 
-  return filterText
+  const searchTerms = filterText
     .split('&&')
     .map(searchTerm => searchTerm.trim())
-    .map(searchTerm => searchTerm.toLowerCase())
-    .every(searchTerm => searchCorpus.indexOf(searchTerm) !== -1);
+    .map(searchTerm => searchTerm.toLowerCase());
+
+  const [ excludeTerms, includeTerms ] = partition(searchTerms, searchTerm => searchTerm.startsWith('!'));
+
+  return includeTerms.every(includeTerm => searchCorpus.indexOf(includeTerm) !== -1)
+      && excludeTerms.every(excludeTerm => searchCorpus.indexOf(excludeTerm.substring(1)) === -1);
 };
 
 const sortOrders = [
