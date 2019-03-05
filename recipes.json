@@ -1,6 +1,16 @@
 [
   {
     "Rating": 3,
+    "Ingredients": "0.75oz Milagro Reposado tequila\n0.75oz Cinzano rosso sweet vermouth\n0.75oz Campari orange liqueur\n2dashes Woodford Reserve orange bitters\nStir",
+    "Name": "Agavoni"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "0.75oz Plantation original dark aged rum\n0.75oz Cinzano rosso sweet vermouth\n0.75oz Campari orange liqueur\nStir",
+    "Name": "Kingston Negroni"
+  },
+  {
+    "Rating": 3,
     "Ingredients": "1.5oz Cinzano rosso sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\n2dashes St George verte absinthe\nBuild on the rocks",
     "Name": "Young American"
   },
