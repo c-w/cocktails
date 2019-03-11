@@ -1,5 +1,15 @@
 [
   {
+    "Rating": 4,
+    "Ingredients": "0.75oz Plantation original dark aged rum\n0.25oz Plantation OFTD dark rum\n0.5oz Cynar artichoke liqueur\n0.5oz Grenadine syrup\n1oz Lime juice\n2dashes Angostura aromatic bitters\nShake",
+    "Name": "Paraiso"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1.5oz Plantation OFTD dark rum\n0.5oz Plantation original dark aged rum\n0.5oz Grenadine syrup\n0.5oz Passionfruit syrup\n0.75oz Lime juice\n1dash St George verte absinthe\n1dash Peychauds aromatic bitters\nShake",
+    "Name": "Skull and Bones"
+  },
+  {
     "Rating": 3,
     "Ingredients": "1oz Plantation original dark aged rum\n0.5oz Plantation OFTD dark rum\n1oz Campari orange liqueur\n1.5oz Orange juice\n1oz Lemon juice\n0.75oz Orgeat syrup\n1pinch Salt\nShake",
     "Name": "Deathstalker"
