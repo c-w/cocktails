@@ -1,6 +1,11 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "1.5oz El Dorado 3 year old light rum\n0.25oz Simple syrup\n1dash Woodford Reserve orange bitters\n5drops Bittermens mole bitters\nStir",
+    "Name": "Rum Old Fashioned"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "0.75oz Plantation original dark aged rum\n0.25oz Plantation OFTD dark rum\n0.5oz Cynar artichoke liqueur\n0.5oz Grenadine syrup\n1oz Lime juice\n2dashes Angostura aromatic bitters\nShake",
     "Name": "Paraiso"
   },
