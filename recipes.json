@@ -1,5 +1,20 @@
 [
   {
+    "Rating": 3,
+    "Ingredients": "2.5oz Martini Rossi dry vermouth\n1.5oz Campari orange liqueur\n1oz Club soda\nBuild on the rocks",
+    "Name": "Bicicletta"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1oz Union Uno mezcal\n1oz Aperol rhubarb liqueur\n1oz Martini Rossi extra dry vermouth\nStir",
+    "Name": "Mezcalero"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "1oz Monkey Shoulder blended whiskey\n1oz Martini Rossi extra dry vermouth\n0.5oz St Germain elderflower liqueur\n0.5oz Cynar artichoke liqueur\nStir",
+    "Name": "Alto Cucina"
+  },
+  {
     "Rating": 4,
     "Ingredients": "1.5oz Milagro Reposado tequila\n0.5oz Aperol rhubarb liqueur\n0.5oz St Germain elderflower liqueur\n0.75oz Lemon juice\n2dashes Angostura aromatic bitters\nShake",
     "Name": "Part-Time Lover"
