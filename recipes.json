@@ -1,6 +1,16 @@
 [
   {
     "Rating": 3,
+    "Ingredients": "1oz Heering cherry liqueur\n0.5oz Fernet Branca amaro\n1teaspoon Lemon juice\n1dash Angostura aromatic bitters\nShake",
+    "Name": "Pinto"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "1.5oz Heering cherry liqueur\n0.75oz Plantation original dark aged rum\n0.5oz Lime juice\nShake",
+    "Name": "Bulldog"
+  },
+  {
+    "Rating": 3,
     "Ingredients": "0.75oz Henry McKenna Bonded bourbon\n0.75oz Martini Rossi extra dry vermouth\n0.75oz Campari orange liqueur\nStir",
     "Name": "Old Pal"
   },
