@@ -1,6 +1,11 @@
 [
   {
     "Rating": 3,
+    "Ingredients": "1oz Henry McKenna Bonded bourbon\n0.25oz Old Grand Dad 114 bourbon\n1oz Cynar artichoke liqueur\n0.5oz Heering cherry liqueur\n2dashes Scrappy's grapefruit bitters\n1dash Woodford Reserve orange bitters\nStir",
+    "Name": "Not The First Cyn"
+  },
+  {
+    "Rating": 3,
     "Ingredients": "1oz Heering cherry liqueur\n0.5oz Fernet Branca amaro\n1teaspoon Lemon juice\n1dash Angostura aromatic bitters\nShake",
     "Name": "Pinto"
   },
