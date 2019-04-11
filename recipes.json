@@ -1,6 +1,11 @@
 [
   {
     "Rating": 3,
+    "Ingredients": "2oz Hendrick's gin (infused with coffee)\n2barsp Maple syrup\n1dash Bittermens mole bitters\n1dash Peychauds aromatic bitters\n1dash Woodford Reserve orange bitters\nOrange twist (garnish)\nStir",
+    "Name": "Gin Old Fashioned"
+  },
+  {
+    "Rating": 3,
     "Ingredients": "2.25oz Monkey Shoulder blended whiskey (infused with peanut)\n1oz Simple syrup\n1oz Lemon juice\nShake",
     "Name": "Whiskey Sour"
   },
