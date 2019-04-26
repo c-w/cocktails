@@ -1,6 +1,11 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "1.5oz Plantation 5 year old aged rum\n0.75oz Lime juice\n0.75oz Simple syrup\nShake",
+    "Name": "Daiquiri"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "1.25oz Peloton de la Muerte mezcal\n2barsp Agave syrup\n1dash Woodford Reserve orange bitters\n1dash Bittermens mole bitters\n1dash St George verte absinthe (rinse)\nStir",
     "Name": "Mezcal Old Fashioned"
   },
