@@ -1,5 +1,10 @@
 [
   {
+    "Rating": 3,
+    "Ingredients": "1oz Meletti bitter orange liqueur\n1.5oz Cocchi Di Torino sweet vermouth\n1oz Club soda\nBuild over ice",
+    "Name": "Americano"
+  },
+  {
     "Rating": 4,
     "Ingredients": "2oz Plantation Stiggins' Fancy Pineapple aged rum\n1oz Lime juice\n0.75oz Simple syrup\nShake",
     "Name": "Daiquiri"
