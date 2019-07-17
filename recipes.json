@@ -1,6 +1,21 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "2oz Plantation Stiggins' Fancy Pineapple aged rum\n1oz Lime juice\n0.75oz Simple syrup\nShake",
+    "Name": "Daiquiri"
+  },
+  {
+    "Rating": 2,
+    "Ingredients": "1oz Plantation Stiggins' Fancy Pineapple aged rum\n0.5oz Meletti bitter orange liqueur\n0.75oz Cocchi Di Torino sweet vermouth\nStir",
+    "Name": "Rum Negroni"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "2oz Plantation Stiggins' Fancy Pineapple aged rum\n0.5oz Meletti bitter orange liqueur\n1oz Pineapple juice\n0.5oz Lime juice\n0.25oz Simple syrup\nShake",
+    "Name": "Jungle Bird"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "1.5oz Plantation 5 year old aged rum\n0.75oz Lime juice\n0.75oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
