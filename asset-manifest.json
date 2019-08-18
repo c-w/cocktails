@@ -1,16 +1,18 @@
 {
-  "main.css": "/cocktails/static/css/main.ba1d2421.chunk.css",
-  "main.js": "/cocktails/static/js/main.4ff0f465.chunk.js",
-  "main.js.map": "/cocktails/static/js/main.4ff0f465.chunk.js.map",
-  "static/css/1.8366a78e.chunk.css": "/cocktails/static/css/1.8366a78e.chunk.css",
-  "static/js/1.5e777fb1.chunk.js": "/cocktails/static/js/1.5e777fb1.chunk.js",
-  "static/js/1.5e777fb1.chunk.js.map": "/cocktails/static/js/1.5e777fb1.chunk.js.map",
-  "runtime~main.js": "/cocktails/static/js/runtime~main.177430a6.js",
-  "runtime~main.js.map": "/cocktails/static/js/runtime~main.177430a6.js.map",
-  "static/media/semantic.min.css": "/cocktails/static/media/outline-icons.cd6c777f.woff2",
-  "static/css/main.ba1d2421.chunk.css.map": "/cocktails/static/css/main.ba1d2421.chunk.css.map",
-  "static/css/1.8366a78e.chunk.css.map": "/cocktails/static/css/1.8366a78e.chunk.css.map",
-  "index.html": "/cocktails/index.html",
-  "precache-manifest.75aa97d900ba246064aa40d5a3950915.js": "/cocktails/precache-manifest.75aa97d900ba246064aa40d5a3950915.js",
-  "service-worker.js": "/cocktails/service-worker.js"
+  "files": {
+    "main.css": "/cocktails/static/css/main.14a6a843.chunk.css",
+    "main.js": "/cocktails/static/js/main.33beb799.chunk.js",
+    "main.js.map": "/cocktails/static/js/main.33beb799.chunk.js.map",
+    "runtime~main.js": "/cocktails/static/js/runtime~main.50295a13.js",
+    "runtime~main.js.map": "/cocktails/static/js/runtime~main.50295a13.js.map",
+    "static/css/2.4f461c2e.chunk.css": "/cocktails/static/css/2.4f461c2e.chunk.css",
+    "static/js/2.6aa81af1.chunk.js": "/cocktails/static/js/2.6aa81af1.chunk.js",
+    "static/js/2.6aa81af1.chunk.js.map": "/cocktails/static/js/2.6aa81af1.chunk.js.map",
+    "index.html": "/cocktails/index.html",
+    "precache-manifest.27b0c71dce1ffb1a0015ad9d9f2aeb38.js": "/cocktails/precache-manifest.27b0c71dce1ffb1a0015ad9d9f2aeb38.js",
+    "service-worker.js": "/cocktails/service-worker.js",
+    "static/css/2.4f461c2e.chunk.css.map": "/cocktails/static/css/2.4f461c2e.chunk.css.map",
+    "static/css/main.14a6a843.chunk.css.map": "/cocktails/static/css/main.14a6a843.chunk.css.map",
+    "static/media/semantic.min.css": "/cocktails/static/media/outline-icons.ef60a4f6.woff"
+  }
 }
