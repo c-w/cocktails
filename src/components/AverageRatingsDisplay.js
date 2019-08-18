@@ -1,5 +1,5 @@
 import React from 'react';
-import Link from 'react-router-dom/Link';
+import { Link } from 'react-router-dom';
 import Statistic from 'semantic-ui-react/dist/es/views/Statistic/Statistic';
 import PaginatedCardGroup from './PaginatedCardGroup';
 import SearchBar from './SearchBar';

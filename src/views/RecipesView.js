@@ -1,6 +1,6 @@
 import React from 'react';
-import Link from 'react-router-dom/Link';
-import partition from 'lodash.partition';
+import { Link } from 'react-router-dom';
+import partition from 'lodash/partition';
 import CheckBoxList from '../components/CheckBoxList';
 import MultilineText from '../components/MultiLineText';
 import PaginatedCardGroup from '../components/PaginatedCardGroup';

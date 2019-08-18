@@ -1,9 +1,5 @@
 import React from 'react';
-import HashRouter from 'react-router-dom/HashRouter';
-import Link from 'react-router-dom/Link';
-import Redirect from 'react-router-dom/Redirect';
-import Route from 'react-router-dom/Route';
-import Switch from 'react-router-dom/Switch';
+import { HashRouter, Link, Redirect, Route, Switch } from 'react-router-dom';
 import Container from 'semantic-ui-react/dist/es/elements/Container/Container';
 import Icon from 'semantic-ui-react/dist/es/elements/Icon/Icon';
 import Menu from 'semantic-ui-react/dist/es/collections/Menu/Menu';

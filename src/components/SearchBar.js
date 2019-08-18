@@ -1,6 +1,6 @@
 import React from 'react';
 import Input from 'semantic-ui-react/dist/es/elements/Input/Input';
-import debounce from 'lodash.debounce';
+import debounce from 'lodash/debounce';
 
 const ON_CHANGE_DEBOUNCE_MS = 250;
 
