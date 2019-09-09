@@ -1,5 +1,10 @@
 [
   {
+    "Rating": 5,
+    "Ingredients": "1.25oz Tanqueray London dry gin\n1oz St Agrestis Inferno bitter orange liqueur\n1oz Cocchi Dopo Teatro sweet vermouth\nStir",
+    "Name": "Negroni"
+  },
+  {
     "Rating": 3,
     "Ingredients": "1oz Meletti bitter orange liqueur\n1.5oz Cocchi Di Torino sweet vermouth\n1oz Club soda\nBuild over ice",
     "Name": "Americano"
