@@ -1,5 +1,15 @@
 [
   {
+    "Rating": 4,
+    "Ingredients": "1.5oz Foursquare The Real McCoy 12 year old aged rum\n0.5oz Lime juice\n0.5oz Simple syrup\nShake",
+    "Name": "Daiquiri"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "1.5oz Foursquare Probitas light rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
+    "Name": "Daiquiri"
+  },
+  {
     "Rating": 5,
     "Ingredients": "2oz Hamilton Navy Strength aged rum\n1oz Pineapple juice\n1oz Orange juice\n1oz Coconut cream\nShake",
     "Name": "Painkiller"
