@@ -2,6 +2,9 @@
   "name": "cocktails",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "npm": "^6.13.4"
+  },
   "homepage": "https://justamouse.com/cocktails",
   "dependencies": {
     "lodash": "^4.17.15",
