@@ -1,6 +1,11 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "1.5oz Foursquare Premise aged rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
+    "Name": "Daiquiri"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "1.5oz Velier Worthy Park 2007 aged rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
