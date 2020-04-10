@@ -1,5 +1,15 @@
 [
   {
+    "Rating": 4,
+    "Ingredients": "1.5oz Neisson blanc agricole rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
+    "Name": "Daiquiri"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "1.5oz Denizen 3 year old light rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
+    "Name": "Daiquiri"
+  },
+  {
     "Rating": 5,
     "Ingredients": "1.5oz El Dorado 15 year old aged rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
     "Name": "Daiquiri"
