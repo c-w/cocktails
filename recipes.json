@@ -1,6 +1,16 @@
 [
   {
     "Rating": 3,
+    "Ingredients": "1.5oz Trincheri sweet vermouth\n0.5oz Aperol rhubarb liqueur\n3oz Club soda\n1slice Orange\nBuild over ice",
+    "Name": "Vermouth Spritzer"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "0.75oz Derrumbes San Luis Potosi mezcal\n0.25oz Trincheri sweet vermouth\n0.5oz Aperol rhubarb liqueur\nStir",
+    "Name": "Mezcal Negroni"
+  },
+  {
+    "Rating": 3,
     "Ingredients": "0.5oz Velier Savanna light rum\n0.5oz Trincheri sweet vermouth\n0.5oz Aperol rhubarb liqueur\nStir",
     "Name": "Rum Negroni"
   },
