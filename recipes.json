@@ -1,6 +1,11 @@
 [
   {
     "Rating": 5,
+    "Ingredients": "1.5oz Holmes Cay Guyana 2005 aged rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
+    "Name": "Daiquiri"
+  },
+  {
+    "Rating": 5,
     "Ingredients": "3oz Cantina Colli Euganei prosecco\n2oz Aperol rhubarb liqueur\n1oz Club soda\n2piece Olive\nBuild over ice",
     "Name": "Spritz Veneziano"
   },
