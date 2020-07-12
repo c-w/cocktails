@@ -27,6 +27,16 @@
     "Vodka",
     "Whiskey"
   ],
+  "bitters": [
+    "aromatic",
+    "chocolate",
+    "grapefruit",
+    "mint",
+    "mole",
+    "orange",
+    "peach",
+    "walnut"
+  ],
   "brands": [
     "Alberta",
     "Angostura",
