@@ -6,17 +6,17 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "3oz Cantina Colli Euganei prosecco\n2oz Aperol rhubarb liqueur\n1oz Club soda\n2piece Olive\nBuild over ice",
+    "Ingredients": "3oz Cantina Colli Euganei prosecco\n2oz Aperol rhubarb liqueur\n1oz Club soda\n2piece Olive\nBuild",
     "Name": "Spritz Veneziano"
   },
   {
     "Rating": 5,
-    "Ingredients": "3oz Borgo Molino prosecco\n2oz Aperol rhubarb liqueur\n1oz Club soda\n1slice Orange\nBuild over ice",
+    "Ingredients": "3oz Borgo Molino prosecco\n2oz Aperol rhubarb liqueur\n1oz Club soda\n1slice Orange\nBuild",
     "Name": "Spritz Veneziano"
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Trincheri sweet vermouth\n0.5oz Aperol rhubarb liqueur\n3oz Club soda\n1slice Orange\nBuild over ice",
+    "Ingredients": "1.5oz Trincheri sweet vermouth\n0.5oz Aperol rhubarb liqueur\n3oz Club soda\n1slice Orange\nBuild",
     "Name": "Vermouth Spritzer"
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Meletti bitter orange liqueur\n1.5oz Cocchi Di Torino sweet vermouth\n1oz Club soda\nBuild over ice",
+    "Ingredients": "1oz Meletti bitter orange liqueur\n1.5oz Cocchi Di Torino sweet vermouth\n1oz Club soda\nBuild",
     "Name": "Americano"
   },
   {
@@ -196,7 +196,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2.5oz Martini Rossi dry vermouth\n1.5oz Campari orange liqueur\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "2.5oz Martini Rossi dry vermouth\n1.5oz Campari orange liqueur\n1oz Club soda\nBuild",
     "Name": "Bicicletta"
   },
   {
@@ -261,7 +261,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Cinzano rosso sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\n2dashes St George verte absinthe\nBuild on the rocks",
+    "Ingredients": "1.5oz Cinzano rosso sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\n2dashes St George verte absinthe\nBuild",
     "Name": "Young American"
   },
   {
@@ -291,7 +291,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Cinzano rosso sweet vermouth\n0.5oz Contratto bitter orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "1.5oz Cinzano rosso sweet vermouth\n0.5oz Contratto bitter orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
@@ -386,7 +386,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Lustau sweet vermouth\n0.5oz Contratto bitter orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "1.5oz Lustau sweet vermouth\n0.5oz Contratto bitter orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
@@ -421,7 +421,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Lustau sweet vermouth\n0.5oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "1.5oz Lustau sweet vermouth\n0.5oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif rhubarb liqueur\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
@@ -606,12 +606,12 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Martini Rossi sweet vermouth\n0.25oz Campari orange liqueur\n0.25oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "1.5oz Martini Rossi sweet vermouth\n0.25oz Campari orange liqueur\n0.25oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif rhubarb liqueur\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Carpano Antica sweet vermouth\n0.25oz Campari orange liqueur\n0.25oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "1.5oz Carpano Antica sweet vermouth\n0.25oz Campari orange liqueur\n0.25oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif rhubarb liqueur\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
@@ -726,7 +726,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Carpano Antica sweet vermouth\n0.75oz Martini Rossi sweet vermouth\n0.25oz Campari orange liqueur\n0.25oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "0.75oz Carpano Antica sweet vermouth\n0.75oz Martini Rossi sweet vermouth\n0.25oz Campari orange liqueur\n0.25oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif rhubarb liqueur\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
@@ -946,22 +946,22 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.5oz Citadelle gin\n0.5oz Heering cherry liqueur\n0.5oz Benedictine herbal liqueur\n0.5oz Lime juice\n1oz Club soda\n1dash Angostura aromatic bitters (garnish)\nBuild on the rocks",
+    "Ingredients": "0.5oz Citadelle gin\n0.5oz Heering cherry liqueur\n0.5oz Benedictine herbal liqueur\n0.5oz Lime juice\n1oz Club soda\n1dash Angostura aromatic bitters (garnish)\nBuild",
     "Name": "Singapore Sling"
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Boissiere sweet vermouth\n0.25oz Campari orange liqueur\n0.25oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "1.5oz Boissiere sweet vermouth\n0.25oz Campari orange liqueur\n0.25oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif rhubarb liqueur\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Boissiere sweet vermouth\n0.5oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "1.5oz Boissiere sweet vermouth\n0.5oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif rhubarb liqueur\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Boissiere sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Contratto aperitif rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "1.5oz Boissiere sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Contratto aperitif rhubarb liqueur\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
@@ -1246,7 +1246,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Pierre Ferrand 1840 cognac\n0.75oz Luxardo Maraschino liqueur\n0.5oz Chartreuse Verte herbal liqueur\nBuild without ice",
+    "Ingredients": "1oz Pierre Ferrand 1840 cognac\n0.75oz Luxardo Maraschino liqueur\n0.5oz Chartreuse Verte herbal liqueur\nbuild (no ice)",
     "Name": "Brandy scaffa"
   },
   {
@@ -1441,7 +1441,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Perucchi sweet vermouth\n0.75oz Campari orange liqueur\n0.5oz Heering cherry liqueur\n2dashes Regan's orange bitters\nOrange twist (garnish)\nBuild without ice",
+    "Ingredients": "2oz Perucchi sweet vermouth\n0.75oz Campari orange liqueur\n0.5oz Heering cherry liqueur\n2dashes Regan's orange bitters\nOrange twist (garnish)\nbuild (no ice)",
     "Name": "The Charlatan"
   },
   {
@@ -1471,7 +1471,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Perucchi sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "1.5oz Perucchi sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
@@ -1591,7 +1591,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Tribuno sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "1.5oz Tribuno sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
@@ -1706,7 +1706,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Cocchi Dopo Teatro sweet vermouth\n0.5oz Leopold Bros aperitivo orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "1.5oz Cocchi Dopo Teatro sweet vermouth\n0.5oz Leopold Bros aperitivo orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
@@ -1771,7 +1771,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "2.5oz Noilly Prat dry vermouth\n1.5oz Leopold Bros aperitivo orange liqueur\n1oz Club soda\nOrange twist\nBuild on the rocks",
+    "Ingredients": "2.5oz Noilly Prat dry vermouth\n1.5oz Leopold Bros aperitivo orange liqueur\n1oz Club soda\nOrange twist\nBuild",
     "Name": "Bicicletta"
   },
   {
@@ -1906,7 +1906,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Vya sweet vermouth\n0.5oz Leopold Bros aperitivo orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "1.5oz Vya sweet vermouth\n0.5oz Leopold Bros aperitivo orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
@@ -1936,7 +1936,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Wild Turkey 101 bourbon\n1oz Fernet Branca amaro\n0.75oz Lemon juice\n0.5oz Rich syrup\n1spray Fee Brothers mint bitters\nBuild on the rocks",
+    "Ingredients": "1oz Wild Turkey 101 bourbon\n1oz Fernet Branca amaro\n0.75oz Lemon juice\n0.5oz Rich syrup\n1spray Fee Brothers mint bitters\nBuild",
     "Name": "Midnight Stinger"
   },
   {
@@ -2136,7 +2136,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Carpano Punt E Mes sweet vermouth\n0.5oz Gran Classico orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "1.5oz Carpano Punt E Mes sweet vermouth\n0.5oz Gran Classico orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
@@ -2371,7 +2371,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Carpano Antica sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "1.5oz Carpano Antica sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
@@ -2451,7 +2451,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Cocchi Di Torino sweet vermouth\n0.5oz Gran Classico orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "1.5oz Cocchi Di Torino sweet vermouth\n0.5oz Gran Classico orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
@@ -2981,12 +2981,12 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Campari orange liqueur\n1.5oz Carpano Punt E Mes sweet vermouth\n3oz Club Soda\nBuild over ice",
+    "Ingredients": "1.5oz Campari orange liqueur\n1.5oz Carpano Punt E Mes sweet vermouth\n3oz Club Soda\nBuild",
     "Name": "Americano"
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Carpano Punt E Mes sweet vermouth\n3oz Club Soda\nBuild over ice",
+    "Ingredients": "1.5oz Carpano Punt E Mes sweet vermouth\n3oz Club Soda\nBuild",
     "Name": "Aperitivo"
   },
   {
@@ -3011,7 +3011,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2.5oz Dolin dry vermouth\n1.5oz Campari orange liqueur\n1oz Club soda\nBuild on the rocks",
+    "Ingredients": "2.5oz Dolin dry vermouth\n1.5oz Campari orange liqueur\n1oz Club soda\nBuild",
     "Name": "Bicicletta"
   },
   {
