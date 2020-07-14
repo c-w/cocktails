@@ -28,12 +28,15 @@ export function loadFilterTerms() {
 export function storeRecipesData(newData) {
   const oldData = loadRecipesData();
 
-  if (oldData && oldData.recipes.length === newData.recipes.length && oldData.words.length === newData.words.length) {
+  if (oldData?.recipes?.length === newData.recipes.length &&
+      oldData?.aiRecipes?.length === newData.aiRecipes.length &&
+      oldData?.words?.length === newData.words.length) {
     return;
   }
 
   localStorage.setItem(RECIPES_CACHE_KEY, JSON.stringify({
     recipes: newData.recipes,
+    aiRecipes: newData.aiRecipes,
     words: newData.words,
     cacheDate: new Date().toString(),
   }));

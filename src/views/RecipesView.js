@@ -65,7 +65,7 @@ const recipeToCard = (recipe, i) => ({
   key: `recipe-${i}-${recipe.Name}-${recipe.Ingredients}`,
   header: recipe.Name,
   description:
-    <Link to={`/recipes/${recipe.Name}`}>
+    <Link to={`/${window.location.href.split('#')[1].split('/')[1]}/${recipe.Name}`}>
       <MultilineText text={splitTokens(recipe.Ingredients)} />
     </Link>,
   meta: <StarRating rating={recipe.Rating} />
@@ -149,7 +149,7 @@ export default class RecipesView extends React.PureComponent {
   }
 
   render() {
-    const { recipes, recipesPerPage } = this.props;
+    const { noSort, numFilters, recipes, recipesPerPage } = this.props;
     const { filterTerms, filterText, sortOrder } = this.state;
 
     const displayableRecipes = this.sort(recipes.filter(this.shouldShowRecipe));
@@ -157,23 +157,23 @@ export default class RecipesView extends React.PureComponent {
     return (
       <div>
         <div className="recipeControls">
-          <CheckBoxList
+          {numFilters > 0 && <CheckBoxList
             className="filters"
             items={filterTerms.map(filterToCheckbox)}
             onToggle={this.onSearchTermToggle}
-          />
+          />}
           <SearchBar
             className="searchBar"
             defaultValue={filterText}
             placeholder={i8n.recipesSearchPlaceholder}
             onChange={this.onSearchTextChange}
           />
-          <RadioList
+          {!noSort && <RadioList
             className="sortOrder"
             items={sortOrders}
             checked={sortOrder}
             onChange={this.onSortOrderChange}
-          />
+          />}
         </div>
         <PaginatedCardGroup
           className="paginatedCardGroup"

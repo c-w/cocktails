@@ -21,18 +21,23 @@ export default class App extends React.Component {
     this.state = {
       error: null,
       recipes: [],
+      aiRecipes: [],
       words: {},
       cacheDate: '',
     };
   }
 
   componentDidMount() {
-    const { recipesUrl, wordsUrl } = this.props;
+    const { recipesUrl, aiRecipesUrl, wordsUrl } = this.props;
 
-    Promise.all([fetchJson(recipesUrl), fetchJson(wordsUrl)])
-      .then(([recipes, words]) => {
-        this.onRecipesLoaded({ recipes, words });
-        storeRecipesData({ recipes, words });
+    Promise.all([
+      fetchJson(recipesUrl),
+      fetchJson(aiRecipesUrl),
+      fetchJson(wordsUrl),
+    ])
+      .then(([recipes, aiRecipes, words]) => {
+        this.onRecipesLoaded({ recipes, aiRecipes, words });
+        storeRecipesData({ recipes, aiRecipes, words });
       })
       .catch(error => {
         const cached = loadRecipesData();
@@ -41,14 +46,15 @@ export default class App extends React.Component {
           return;
         }
 
-        const { recipes, words, cacheDate } = cached;
-        this.onRecipesLoaded({ recipes, words }, cacheDate);
+        const { recipes, aiRecipes, words, cacheDate } = cached;
+        this.onRecipesLoaded({ recipes, aiRecipes, words }, cacheDate);
       });
   }
 
-  onRecipesLoaded = ({ recipes, words }, cacheDate) => {
+  onRecipesLoaded = ({ recipes, aiRecipes, words }, cacheDate) => {
     this.setState({
       recipes,
+      aiRecipes,
       words: {
         combined: new Set(words.combined || []),
         blacklist: new Set(words.blacklist || []),
@@ -102,6 +108,16 @@ export default class App extends React.Component {
       ratingsPerPage={this.props.pageSize}
     />
 
+  renderAI = (props) =>
+    <RecipesView
+      recipes={this.state.aiRecipes}
+      words={this.state.words}
+      query={props.match.params.query}
+      recipesPerPage={this.props.pageSize}
+      key={props.match.params.query}
+      noSort
+    />
+
   renderStaleDataWarning = (props) => {
     const { cacheDate } = props;
     if (!cacheDate) {
@@ -140,6 +156,10 @@ export default class App extends React.Component {
           <Icon name="winner" />
           {i8n.menuEntryBottles}
         </Menu.Item>
+        <Menu.Item as={Link} to="/ai" active={location.startsWith('/ai')}>
+          <Icon name="flask" />
+          {i8n.menuEntryAI}
+        </Menu.Item>
       </Menu>
     );
   }
@@ -170,6 +190,7 @@ export default class App extends React.Component {
             <Route exact path="/spirits/:query?" render={this.renderSpirits} />
             <Route exact path="/brands/:query?" render={this.renderBrands} />
             <Route exact path="/bottles/:query?" render={this.renderBottles} />
+            <Route exact path="/ai/:query?" render={this.renderAI} />
           </Switch>
         </Container>
       </HashRouter>

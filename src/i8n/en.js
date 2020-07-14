@@ -14,4 +14,5 @@ export default {
   menuEntrySpirits: 'Top Spirits',
   menuEntryBrands: 'Top brands',
   menuEntryBottles: 'Top bottles',
+  menuEntryAI: 'AI',
 };

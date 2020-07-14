@@ -84,7 +84,7 @@ export default () => {
   }
 
   self.addEventListener('message', event => { // eslint-disable-line no-restricted-globals
-    if (!event) {
+    if (!event || !event.data.numFilters) {
       return;
     }
 
