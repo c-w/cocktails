@@ -1,10 +1,10 @@
 export default () => {
   // FIXME: keep in sync with RecipesView.js until es6 imports are supported in web workers
   const combineTokens = (sentence, combinedWords) => {
-    for (const token of combinedWords) {
+    combinedWords.forEach(token => {
       const regexp = new RegExp(token, 'gi');
       sentence = sentence.replace(regexp, token.replace(/ /g, '_'));
-    }
+    });
 
     return sentence;
   };
@@ -40,20 +40,22 @@ export default () => {
   }
 
   const hasAny = (token, words) => {
-    for (const word of words) {
-      if (token.indexOf(word) !== -1) {
-        return true;
-      }
-    }
+    let found = false;
 
-    return false;
+    words.forEach(word => {
+      if (token.indexOf(word) !== -1) {
+        found = true;
+      }
+    });
+
+    return found;
   }
 
   const getFilterTerms = ({ recipes, numFilters, words }) => {
     const combineWords = new Set();
-    for (const word of words.combined) combineWords.add(word);
-    for (const word of words.brands) combineWords.add(word);
-    for (const word of words.spirits) combineWords.add(word);
+    words.combined.forEach(word => combineWords.add(word));
+    words.brands.forEach(word => combineWords.add(word));
+    words.spirits.forEach(word => combineWords.add(word));
 
     const recipeWords = [];
     recipes

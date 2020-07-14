@@ -14,10 +14,10 @@ import i8n from '../i8n';
 
 // FIXME: keep in sync with recipesWorker.js until es6 imports are supported in web workers
 const combineTokens = (sentence, combinedWords) => {
-  for (const token of combinedWords) {
+  combinedWords.forEach(token => {
     const regexp = new RegExp(token, 'gi');
     sentence = sentence.replace(regexp, token.replace(/ /g, '_'));
-  }
+  });
 
   return sentence;
 };
