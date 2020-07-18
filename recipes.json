@@ -1,5 +1,15 @@
 [
   {
+    "Rating": 4,
+    "Ingredients": "1oz Velier Savanna light rum\n1.25oz Cocchi Americano Rosa rhubarb liqueur\n1pinch Salt\nStir",
+    "Name": "Reverse Rum Manhattan"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1.5oz Derrumbes San Luis Potosi mezcal\n0.75oz Cynar artichoke liqueur\n0.5oz Maurin sweet vermouth\n1pinch Salt\nStir",
+    "Name": "Mezcal Negroni"
+  },
+  {
     "Rating": 5,
     "Ingredients": "1.5oz Holmes Cay Guyana 2005 aged rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
     "Name": "Daiquiri"
