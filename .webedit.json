@@ -1,0 +1,24 @@
+{
+  "recipes.json": {
+    "schema": {
+      "properties": {
+        "Rating": {
+          "type": "number",
+          "enum": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        "Name": {
+          "type": "string"
+        },
+        "Ingredients": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}
