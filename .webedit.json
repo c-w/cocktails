@@ -19,6 +19,17 @@
           "type": "string"
         }
       }
+    },
+    "ui": {
+      "Rating": {
+        "ui:widget": "radio",
+        "ui:options": {
+          "inline": true
+        }
+      },
+      "Ingredients": {
+        "ui:widget": "textarea"
+      }
     }
   }
 }
