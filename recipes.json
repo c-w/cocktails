@@ -1,6 +1,16 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "2oz Seedlip Grove 42\n0.5oz Lime juice\n0.5oz Simple syrup\n1pinch Salt\nShake",
+    "Name": "Margarita"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "2oz Seedlip Spice 94\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
+    "Name": "Daiquiri"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "1oz Velier Savanna light rum\n1.25oz Cocchi Americano Rosa rhubarb liqueur\n1pinch Salt\nStir",
     "Name": "Reverse Rum Manhattan"
   },
