@@ -326,7 +326,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Milagro Reposado tequila\n0.5oz Union Uno mezcal\n0.5oz Simple syrup\n0.5piece Lime (muddle)\n4 Sage leaves (muddle)\nShake",
+    "Ingredients": "1.5oz Milagro Reposado tequila\n0.5oz Union Uno mezcal\n0.5oz Simple syrup\n0.5piece Lime (muddle)\n4leaves Sage (muddle)\nShake",
     "Name": "Oaxacan Smash"
   },
   {
@@ -526,7 +526,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Citadelle gin\n0.75oz Lemon juice\n0.33oz Simple syrup\n12 Basil leaves (infuse and muddle in gin, 10 minutes)\nShake",
+    "Ingredients": "2oz Citadelle gin\n0.75oz Lemon juice\n0.33oz Simple syrup\n12leaves Basil (infuse and muddle in gin, 10 minutes)\nShake",
     "Name": "Gin Basil Smash"
   },
   {
@@ -2381,12 +2381,12 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "2oz Bacardi 8 year old aged rum\n1oz Lime juice\n1oz Brown sugar simple syrup\n7 Thai Basil leaves (muddle)\n1pinch Salt\nShake",
+    "Ingredients": "2oz Bacardi 8 year old aged rum\n1oz Lime juice\n1oz Brown sugar simple syrup\n7leaves Thai Basil (muddle)\n1pinch Salt\nShake",
     "Name": "Thai Basil Daiquiri"
   },
   {
     "Rating": 5,
-    "Ingredients": "2oz Bacardi 8 year old aged rum\n1oz Lime juice\n0.75oz Brown sugar simple syrup\n5 Thai Basil Leaves\n1pinch Salt\nBlend then shake",
+    "Ingredients": "2oz Bacardi 8 year old aged rum\n1oz Lime juice\n0.75oz Brown sugar simple syrup\n5leaves Thai Basil (muddle)\n1pinch Salt\nBlend then shake",
     "Name": "Thai Basil Daiquiri"
   },
   {
@@ -2676,7 +2676,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz The Duke Munich dry gin\n0.75oz Lemon juice\n0.5oz Light brown sugar rich syrup with lapsang souchong\n15 Mint leaves\n2dashes Peychauds aromatic bitters\nShake",
+    "Ingredients": "2oz The Duke Munich dry gin\n0.75oz Lemon juice\n0.5oz Light brown sugar rich syrup with lapsang souchong\n15leaves Mint\n2dashes Peychauds aromatic bitters\nShake",
     "Name": "Southside"
   },
   {
@@ -2686,7 +2686,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz The Duke Munich dry gin\n0.75oz Lime juice\n0.33oz Kuestennebel absinthe\n0.33oz Light brown sugar rich syrup with lapsang souchong\n15 Mint leaves\nShake",
+    "Ingredients": "2oz The Duke Munich dry gin\n0.75oz Lime juice\n0.33oz Kuestennebel absinthe\n0.33oz Light brown sugar rich syrup with lapsang souchong\n15leaves Mint\nShake",
     "Name": "The French Pearl"
   },
   {
@@ -3026,7 +3026,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Bacardi 8 year old aged rum\n1oz Lime juice\n0.75oz Simple syrup\n7 Basil Leaves (muddle)\n1pinch Salt\nShake",
+    "Ingredients": "2oz Bacardi 8 year old aged rum\n1oz Lime juice\n0.75oz Simple syrup\n7leaves Basil (muddle)\n1pinch Salt\nShake",
     "Name": "Basil Daiquiri"
   },
   {
@@ -3206,7 +3206,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.75oz Alberta Premium rye\n0.75oz Dalwhinnie 15 year old whiskey\n5dashes Peach bitters\n12 Mint leaves\nShake",
+    "Ingredients": "1.75oz Alberta Premium rye\n0.75oz Dalwhinnie 15 year old whiskey\n5dashes Peach bitters\n12leaves Mint\nShake",
     "Name": "Mint Julep"
   },
   {
