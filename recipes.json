@@ -1,5 +1,15 @@
 [
   {
+    "Rating": 4,
+    "Ingredients": "2oz Velier Savanna light rum\n1slice Lime\n2tsp Cane sugar\nBuild",
+    "Name": "Ti' Punch"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "2oz Seedlip Spice 94\n0.5oz Lime juice\n0.5oz Simple syrup\nShake",
+    "Name": "Daiquiri"
+  },
+  {
     "Rating": ,
     "Ingredients": "2oz Seedlip Garden 108\n0.75oz Simple syrup\n0.5oz Lime juice\n3slices Cucumber\n5leaves Mint\nShake",
     "Name": "Eastside"
@@ -15,7 +25,7 @@
     "Name": "Margarita"
   },
   {
-    "Rating": 5,
+    "Rating": 4,
     "Ingredients": "2oz Seedlip Spice 94\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
