@@ -1,6 +1,16 @@
 [
   {
     "Rating": 3,
+    "Ingredients": "2oz Seedlip Spice 94\n3oz FeverTree Ginger Ale\nBuild",
+    "Name": "Spice and Ginger"
+  },
+  {
+    "Rating": 2,
+    "Ingredients": "2oz Seedlip Grove 42\n3oz FeverTree Ginger Ale\nBuild",
+    "Name": "Grove and Ginger"
+  },
+  {
+    "Rating": 3,
     "Ingredients": "2oz Seedlip Garden 108\n3oz FeverTree Ginger Ale\nBuild",
     "Name": "Garden and Ginger"
   },
