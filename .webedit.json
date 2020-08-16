@@ -18,7 +18,12 @@
         "Ingredients": {
           "type": "string"
         }
-      }
+      },
+      "required": [
+        "Rating",
+        "Name",
+        "Ingredients"
+      ]
     },
     "ui": {
       "Rating": {
