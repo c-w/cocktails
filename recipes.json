@@ -1,6 +1,11 @@
 [
   {
     "Rating": 3,
+    "Ingredients": "1oz St George Baller whiskey\n3oz Club soda\nBuild",
+    "Name": "Whiskey Highball"
+  },
+  {
+    "Rating": 3,
     "Ingredients": "2oz Denizen 3 year old light rum\n1slice Lime\n1tsp Cane sugar\nBuild",
     "Name": "Ti' Punch"
   },
