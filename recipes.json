@@ -1,6 +1,11 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "1.5oz St George Baller whiskey\n1.5oz Club soda\nBuild",
+    "Name": "Whiskey Highball"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "1oz St George Baller whiskey\n2oz Club soda\nBuild",
     "Name": "Whiskey Highball"
   },
