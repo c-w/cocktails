@@ -1,6 +1,11 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "2oz St George Baller whiskey\n1oz Pineapple juice\n1oz Orange juice\n1oz Coconut cream\nShake",
+    "Name": "Painkiller"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "1.5oz St George Baller whiskey\n1.5oz Club soda\nBuild",
     "Name": "Whiskey Highball"
   },
