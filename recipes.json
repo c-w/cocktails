@@ -1,6 +1,21 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "1.5oz Wray and Nephew light rum\n1oz Lime juice\n1oz Simple syrup\nShake",
+    "Name": "Daiquiri"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "1oz Tanqueray London dry gin\n1oz Noilly Prat sweet vermouth\n1oz Aperol rhubarb liqueur\nStir",
+    "Name": "Negroni"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "1.25oz Del Maguey Vida mezcal\n1oz Noilly Prat sweet vermouth\n1oz Aperol rhubarb liqueur\nStir",
+    "Name": "Mezcal Negroni"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "2oz Foursquare Probitas light rum\n1slice Lime\n2tsp Cane sugar\nBuild",
     "Name": "Ti' Punch"
   },
