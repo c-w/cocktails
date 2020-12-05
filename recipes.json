@@ -1,5 +1,15 @@
 [
   {
+    "Rating": 4,
+    "Ingredients": "1oz Tanqueray London dry gin\n1oz Noilly Prat sweet vermouth\n0.5oz Campari bitter orange liqueur\n0.5oz Rossbacher Magenbitter herbal liqueur\nStir",
+    "Name": "Negroni"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1oz Del Maguey Vida mezcal\n1oz Noilly Prat sweet vermouth\n0.5oz Aperol rhubarb liqueur\n0.5oz GoldEngel Elixirum Aperitivum elderflower liqueur\n2dashes Bitter Truth mole bitters\nStir",
+    "Name": "Eyes On The Table"
+  },
+  {
     "Rating": 3,
     "Ingredients": "1oz Jalisco Sierra tequila\n1oz Campari bitter orange liqueur\n1oz Cynar artichoke liqueur\n0.25oz Simple syrup\n1 Whole egg\n1pinch Ground coffee (garnish)\nDry shake",
     "Name": "La Perla De Oaxaca"
