@@ -1,6 +1,16 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "0.75oz Rossbacher Magenbitter herbal liqueur\n0.75oz Chartreuse Verte herbal liqueur\n0.75oz Lime juice\n0.75oz Simple syrup\nShake",
+    "Name": "Industry Sour"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "0.75oz Aperol rhubarb liqueur\n0.75oz Cynar artichoke liqueur\n0.5oz Noilly Prat sweet vermouth\n0.25oz Carpano Punt E Mes sweet vermouth\nStir",
+    "Name": "L'Amore Di Amaro"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "1oz Tanqueray London dry gin\n1oz Noilly Prat sweet vermouth\n0.5oz Campari bitter orange liqueur\n0.5oz Rossbacher Magenbitter herbal liqueur\nStir",
     "Name": "Negroni"
   },
