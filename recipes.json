@@ -1,5 +1,15 @@
 [
   {
+    "Rating": 3,
+    "Ingredients": "2oz Jalisco Sierra tequila\n0.5oz Pineapple juice\n0.5oz Lime juice\n0.5oz Simple syrup\n1pinch Cinnamon\nShake",
+    "Name": "Gilda"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1.5oz Jalisco Sierra tequila\n0.75oz GoldEngel Elixirum Aperitivum elderflower liqueur\n0.5oz Simple syrup\n0.5oz Lime juice\n1oz Pineapple juice\n1pinch Cinnamon\nShake",
+    "Name": "Flor De Piña"
+  },
+  {
     "Rating": 5,
     "Ingredients": "1.5oz Wray and Nephew light rum\n1slice Lime\n1tsp Cane sugar\nBuild",
     "Name": "Ti' Punch"
