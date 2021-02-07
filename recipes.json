@@ -1,5 +1,10 @@
 [
   {
+    "Rating": 3,
+    "Ingredients": "2oz Zafra Master Reserve 21 aged rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
+    "Name": "Daiquiri"
+  },
+  {
     "Rating": 5,
     "Ingredients": "0.75oz Havana Club 7-Year aged rum\n0.5oz Velier Clairin Vaval light rum\n0.25oz El Dorado 12 year old aged rum\n0.5oz Cynar artichoke liqueur\n0.5oz Averna amaro herbal liqueur\n0.25oz Laphroaig 10 year old whiskey\n2barsp Simple syrup\nStir",
     "Name": "Hundred-Year-Old Cigar"
