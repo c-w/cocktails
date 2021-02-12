@@ -6,7 +6,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "2oz Ghia\n1oz Pineapple juice\n1oz Orange juice\n1oz Coconut cream\n1dash Nutmeg (garnish)\nShake",
+    "Ingredients": "2oz Ghia spirit-free\n1oz Pineapple juice\n1oz Orange juice\n1oz Coconut cream\n1dash Nutmeg (garnish)\nShake",
     "Name": "Painkiller"
   },
   {
@@ -191,12 +191,12 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Seedlip Spice 94\n0.5oz Lemon juice\n1oz Maple Simple syrup\nShake",
+    "Ingredients": "1.5oz Seedlip Spice 94 spirit-free\n0.5oz Lemon juice\n1oz Maple Simple syrup\nShake",
     "Name": "Maple Cooler"
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Seedlip Spice 94\n0.75oz Lemon juice\n0.75oz Maple Simple syrup\nShake",
+    "Ingredients": "1.5oz Seedlip Spice 94 spirit-free\n0.75oz Lemon juice\n0.75oz Maple Simple syrup\nShake",
     "Name": "Maple Cooler"
   },
   {
@@ -206,7 +206,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "2oz Seedlip Garden 108\n0.5oz Lime juice\n0.5oz Simple syrup\nShake",
+    "Ingredients": "2oz Seedlip Garden 108 spirit-free\n0.5oz Lime juice\n0.5oz Simple syrup\nShake",
     "Name": "Garden Cooler"
   },
   {
@@ -216,32 +216,32 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Seedlip Spice 94\n1slice Lime\n1tsp Cane sugar\nBuild",
+    "Ingredients": "2oz Seedlip Spice 94 spirit-free\n1slice Lime\n1tsp Cane sugar\nBuild",
     "Name": "Ti' Punch"
   },
   {
     "Rating": 2,
-    "Ingredients": "2oz Seedlip Spice 94\n3oz FeverTree Indian Tonic Water\nBuild",
+    "Ingredients": "2oz Seedlip Spice 94 spirit-free\n3oz FeverTree Indian Tonic Water\nBuild",
     "Name": "Spice and Tonic"
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Seedlip Garden 108\n3oz FeverTree Indian Tonic Water\nBuild",
+    "Ingredients": "2oz Seedlip Garden 108 spirit-free\n3oz FeverTree Indian Tonic Water\nBuild",
     "Name": "Garden and Tonic"
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Seedlip Spice 94\n3oz FeverTree Ginger Ale\nBuild",
+    "Ingredients": "2oz Seedlip Spice 94 spirit-free\n3oz FeverTree Ginger Ale\nBuild",
     "Name": "Spice and Ginger"
   },
   {
     "Rating": 2,
-    "Ingredients": "2oz Seedlip Grove 42\n3oz FeverTree Ginger Ale\nBuild",
+    "Ingredients": "2oz Seedlip Grove 42 spirit-free\n3oz FeverTree Ginger Ale\nBuild",
     "Name": "Grove and Ginger"
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Seedlip Garden 108\n3oz FeverTree Ginger Ale\nBuild",
+    "Ingredients": "2oz Seedlip Garden 108 spirit-free\n3oz FeverTree Ginger Ale\nBuild",
     "Name": "Garden and Ginger"
   },
   {
@@ -256,27 +256,27 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "2oz Seedlip Spice 94\n0.5oz Lime juice\n0.5oz Simple syrup\nShake",
+    "Ingredients": "2oz Seedlip Spice 94 spirit-free\n0.5oz Lime juice\n0.5oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Seedlip Garden 108\n0.75oz Simple syrup\n0.5oz Lime juice\n3slices Cucumber\n5leaves Mint\nShake",
+    "Ingredients": "2oz Seedlip Garden 108 spirit-free\n0.75oz Simple syrup\n0.5oz Lime juice\n3slices Cucumber\n5leaves Mint\nShake",
     "Name": "Eastside"
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Seedlip Garden 108\n0.5oz Seedlip Grove 42\n0.75oz Lime juice\n0.5oz Simple syrup\n1pinch Salt\nShake",
+    "Ingredients": "2oz Seedlip Garden 108 spirit-free\n0.5oz Seedlip Grove 42 spirit-free\n0.75oz Lime juice\n0.5oz Simple syrup\n1pinch Salt\nShake",
     "Name": "Garden Party"
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Seedlip Grove 42\n0.5oz Lime juice\n0.5oz Simple syrup\n1pinch Salt\nShake",
+    "Ingredients": "2oz Seedlip Grove 42 spirit-free\n0.5oz Lime juice\n0.5oz Simple syrup\n1pinch Salt\nShake",
     "Name": "Margarita"
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Seedlip Spice 94\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
+    "Ingredients": "2oz Seedlip Spice 94 spirit-free\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
