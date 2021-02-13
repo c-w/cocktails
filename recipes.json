@@ -1,6 +1,16 @@
 [
   {
     "Rating": 3,
+    "Ingredients": "1.5oz Ghia spirit-free\n0.75oz Lemon juice\n0.75oz Simple syrup\nShake",
+    "Name": "Amaro Sour"
+  },
+  {
+    "Rating": 2,
+    "Ingredients": "1.5oz Sombra mezcal\n0.75oz St Petersburg Tippler's triple sec\n0.75oz Lemon juice\nShake",
+    "Name": "Margarita"
+  },
+  {
+    "Rating": 3,
     "Ingredients": "2oz Appleton Reserve 8 year old aged rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
