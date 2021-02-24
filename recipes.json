@@ -1,6 +1,16 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "1.5oz Flor de Cana 4 year old light rum\n1.25oz Appleton Reserve 8 year old aged rum\n0.25oz Wray and Nephew light rum\n1oz Passionfruit syrup\n1oz Simple syrup\n3oz Orange juice\n2oz Lemon juice\nShake",
+    "Name": "Chief Lapu Lapu"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "1oz Hamilton 151 aged rum\n1oz Appleton Reserve 8 year old aged rum\n1.5oz Passionfruit syrup\n0.75oz Pineapple juice\n0.75oz Orange juice\n0.75oz Lime juice\nShake",
+    "Name": "Rum Barrel"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "2oz Matcha tea\n1oz Pineapple juice\n1oz Orange juice\n1oz Coconut cream\nRoll",
     "Name": "Painkiller"
   },
