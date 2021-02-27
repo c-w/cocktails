@@ -1,7 +1,7 @@
 [
   {
     "Rating": 3,
-    "Ingredients": "1oz Jim Beam Old Tub Bonded bourbon\n1oz Wray and Nephew Appleton Reserve 8 year old aged rum\n0.5oz Hamilton 151 aged rum\n0.5oz Pierre Ferrand dry curacao triple sec\n1oz Pineapple juice\n0.75oz Lemon juice\n0.5oz Passionfruit syrup\nShake",
+    "Ingredients": "1oz Jim Beam Old Tub Bonded bourbon\n1oz Wray and Nephew Appleton Reserve 8 year old rum\n0.5oz Hamilton 151 rum\n0.5oz Pierre Ferrand dry curacao triple sec\n1oz Pineapple juice\n0.75oz Lemon juice\n0.5oz Passionfruit syrup\nShake",
     "Name": "Tropical Itch"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1oz Wray and Nephew Appleton Reserve 8 year old aged rum\n1oz Foursquare Doorly's 8 year old aged rum\n0.5oz Pierre Ferrand dry curacao triple sec\n1oz Lime juice\n0.5oz Orgeat syrup\n0.25oz Simple syrup\nShake",
+    "Ingredients": "1oz Wray and Nephew Appleton Reserve 8 year old rum\n1oz Foursquare Doorly's 8 year old rum\n0.5oz Pierre Ferrand dry curacao triple sec\n1oz Lime juice\n0.5oz Orgeat syrup\n0.25oz Simple syrup\nShake",
     "Name": "Mai Tai"
   },
   {
@@ -26,12 +26,12 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Flor de Cana 4 year old light rum\n1.25oz Wray and Nephew Appleton Reserve 8 year old aged rum\n0.25oz Wray and Nephew light rum\n1oz Passionfruit syrup\n1oz Simple syrup\n3oz Orange juice\n2oz Lemon juice\nShake",
+    "Ingredients": "1.5oz Flor de Cana 4 year old rum\n1.25oz Wray and Nephew Appleton Reserve 8 year old rum\n0.25oz Wray and Nephew rum\n1oz Passionfruit syrup\n1oz Simple syrup\n3oz Orange juice\n2oz Lemon juice\nShake",
     "Name": "Chief Lapu Lapu"
   },
   {
     "Rating": 5,
-    "Ingredients": "1oz Hamilton 151 aged rum\n1oz Wray and Nephew Appleton Reserve 8 year old aged rum\n1.5oz Passionfruit syrup\n0.75oz Pineapple juice\n0.75oz Orange juice\n0.75oz Lime juice\nShake",
+    "Ingredients": "1oz Hamilton 151 rum\n1oz Wray and Nephew Appleton Reserve 8 year old rum\n1.5oz Passionfruit syrup\n0.75oz Pineapple juice\n0.75oz Orange juice\n0.75oz Lime juice\nShake",
     "Name": "Rum Barrel"
   },
   {
@@ -41,12 +41,12 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Wray and Nephew light rum\n1oz Pineapple juice\n1oz Orange juice\n1oz Coconut cream\n1pinch Nutmeg (garnish)\nRoll",
+    "Ingredients": "1.5oz Wray and Nephew rum\n1oz Pineapple juice\n1oz Orange juice\n1oz Coconut cream\n1pinch Nutmeg (garnish)\nRoll",
     "Name": "Painkiller"
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Hamilton 151 aged rum\n0.75oz Lime juice\n0.75oz Simple syrup\nShake",
+    "Ingredients": "1.5oz Hamilton 151 rum\n0.75oz Lime juice\n0.75oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
@@ -56,17 +56,17 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Foursquare Doorly's 8 year old aged rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
+    "Ingredients": "2oz Foursquare Doorly's 8 year old rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Flor de Cana 4 year old light rum\n0.75oz Lime juice\n0.75oz Simple syrup\nShake",
+    "Ingredients": "1.5oz Flor de Cana 4 year old rum\n0.75oz Lime juice\n0.75oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Hamilton 151 aged rum\n1oz Pineapple juice\n1oz Orange juice\n1oz Coconut cream\n1pinch Nutmeg (garnish)\nRoll",
+    "Ingredients": "1.5oz Hamilton 151 rum\n1oz Pineapple juice\n1oz Orange juice\n1oz Coconut cream\n1pinch Nutmeg (garnish)\nRoll",
     "Name": "Painkiller"
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "2oz Foursquare Doorly's 8 year old aged rum\n1oz Pineapple juice\n1oz Orange juice\n1oz Coconut cream\n1pinch Nutmeg (garnish)\nRoll",
+    "Ingredients": "2oz Foursquare Doorly's 8 year old rum\n1oz Pineapple juice\n1oz Orange juice\n1oz Coconut cream\n1pinch Nutmeg (garnish)\nRoll",
     "Name": "Painkiller"
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "2oz Wray and Nephew Appleton Reserve 8 year old aged rum\n1oz Passionfruit syrup\n1oz Lemon juice\nShake",
+    "Ingredients": "2oz Wray and Nephew Appleton Reserve 8 year old rum\n1oz Passionfruit syrup\n1oz Lemon juice\nShake",
     "Name": "Hurricane"
   },
   {
@@ -136,7 +136,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Wray and Nephew Appleton Reserve 8 year old aged rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
+    "Ingredients": "2oz Wray and Nephew Appleton Reserve 8 year old rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
@@ -151,22 +151,22 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "2oz Wray and Nephew Appleton Reserve 8 year old aged rum\n1oz Pineapple juice\n1oz Orange juice\n1oz Coconut cream\n1pinch Nutmeg (garnish)\nRoll",
+    "Ingredients": "2oz Wray and Nephew Appleton Reserve 8 year old rum\n1oz Pineapple juice\n1oz Orange juice\n1oz Coconut cream\n1pinch Nutmeg (garnish)\nRoll",
     "Name": "Painkiller"
   },
   {
     "Rating": 5,
-    "Ingredients": "2oz Zafra Master Reserve 21 aged rum\n1oz Pineapple juice\n1oz Orange juice\n1oz Coconut cream\n1pinch Nutmeg (garnish)\nRoll",
+    "Ingredients": "2oz Zafra Master Reserve 21 rum\n1oz Pineapple juice\n1oz Orange juice\n1oz Coconut cream\n1pinch Nutmeg (garnish)\nRoll",
     "Name": "Painkiller"
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Zafra Master Reserve 21 aged rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
+    "Ingredients": "2oz Zafra Master Reserve 21 rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
     "Rating": 5,
-    "Ingredients": "0.75oz Havana Club 7-Year aged rum\n0.5oz Velier Clairin Vaval light rum\n0.25oz El Dorado 12 year old aged rum\n0.5oz Cynar artichoke liqueur\n0.5oz Averna amaro herbal liqueur\n0.25oz Laphroaig 10 year old whiskey\n2barsp Simple syrup\nStir",
+    "Ingredients": "0.75oz Havana Club 7-Year rum\n0.5oz Velier Clairin Vaval rum\n0.25oz El Dorado 12 year old rum\n0.5oz Cynar artichoke liqueur\n0.5oz Averna amaro herbal liqueur\n0.25oz Laphroaig 10 year old whiskey\n2barsp Simple syrup\nStir",
     "Name": "Hundred-Year-Old Cigar"
   },
   {
@@ -176,22 +176,22 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "0.75oz Bacardi Carta Oro aged rum\n0.5oz Velier Clairin Vaval light rum\n0.25oz El Dorado 12 year old aged rum\n0.5oz Cynar artichoke liqueur\n0.5oz Averna amaro herbal liqueur\n0.25oz Laphroaig 10 year old whiskey\n2barsp Simple syrup\nStir",
+    "Ingredients": "0.75oz Bacardi Carta Oro rum\n0.5oz Velier Clairin Vaval rum\n0.25oz El Dorado 12 year old rum\n0.5oz Cynar artichoke liqueur\n0.5oz Averna amaro herbal liqueur\n0.25oz Laphroaig 10 year old whiskey\n2barsp Simple syrup\nStir",
     "Name": "Hundred-Year-Old Cigar"
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Velier Clairin Vaval light rum\n1slice Lime\n1tsp Cane sugar\nBuild",
+    "Ingredients": "1.5oz Velier Clairin Vaval rum\n1slice Lime\n1tsp Cane sugar\nBuild",
     "Name": "Ti' Punch"
   },
   {
     "Rating": 5,
-    "Ingredients": "1.75oz Velier Clairin Vaval light rum\n0.75oz Lime juice\n0.75oz Simple syrup\nShake",
+    "Ingredients": "1.75oz Velier Clairin Vaval rum\n0.75oz Lime juice\n0.75oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Bacardi Carta Oro aged rum\n0.75oz Lime juice\n0.75oz Simple syrup\nShake",
+    "Ingredients": "1.5oz Bacardi Carta Oro rum\n0.75oz Lime juice\n0.75oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
@@ -206,12 +206,12 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Wray and Nephew light rum\n1slice Lime\n1tsp Cane sugar\nBuild",
+    "Ingredients": "1.5oz Wray and Nephew rum\n1slice Lime\n1tsp Cane sugar\nBuild",
     "Name": "Ti' Punch"
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Wray and Nephew light rum\n0.5oz Cynar artichoke liqueur\n0.5oz Rossbacher Magenbitter herbal liqueur\n1barsp Laphroaig Select whiskey\n1barsp Kilchoman Machir Bay whiskey\n2barsp Simple syrup\n1barsp Pernod Pastis absinthe\n1dash Angostura aromatic bitters\nStir",
+    "Ingredients": "1.5oz Wray and Nephew rum\n0.5oz Cynar artichoke liqueur\n0.5oz Rossbacher Magenbitter herbal liqueur\n1barsp Laphroaig Select whiskey\n1barsp Kilchoman Machir Bay whiskey\n2barsp Simple syrup\n1barsp Pernod Pastis absinthe\n1dash Angostura aromatic bitters\nStir",
     "Name": "Hundred-Year-Old Cigar"
   },
   {
@@ -246,7 +246,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Wray and Nephew light rum\n1oz Lime juice\n1oz Simple syrup\nShake",
+    "Ingredients": "1.5oz Wray and Nephew rum\n1oz Lime juice\n1oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
@@ -261,37 +261,37 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Foursquare Probitas light rum\n1slice Lime\n2tsp Cane sugar\nBuild",
+    "Ingredients": "2oz Foursquare Probitas rum\n1slice Lime\n2tsp Cane sugar\nBuild",
     "Name": "Ti' Punch"
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Neisson blanc agricole rum\n1slice Lime\n2tsp Cane sugar\nBuild",
+    "Ingredients": "2oz Neisson Blanc rum\n1slice Lime\n2tsp Cane sugar\nBuild",
     "Name": "Ti' Punch"
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Velier Clairin Sajous light rum\n1slice Lime\n1tsp Cane sugar\nBuild",
+    "Ingredients": "2oz Velier Clairin Sajous rum\n1slice Lime\n1tsp Cane sugar\nBuild",
     "Name": "Ti' Punch"
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Velier Clairin Sajous light rum\n1slice Lime\n2tsp Cane sugar\nBuild",
+    "Ingredients": "2oz Velier Clairin Sajous rum\n1slice Lime\n2tsp Cane sugar\nBuild",
     "Name": "Ti' Punch"
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Foursquare Probitas light rum\n1oz Pineapple juice\n1oz Orange juice\n1oz Coconut cream\nRoll",
+    "Ingredients": "2oz Foursquare Probitas rum\n1oz Pineapple juice\n1oz Orange juice\n1oz Coconut cream\nRoll",
     "Name": "Painkiller"
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Neisson blanc agricole rum\n1oz Pineapple juice\n1oz Orange juice\n1oz Coconut cream\nRoll",
+    "Ingredients": "2oz Neisson Blanc rum\n1oz Pineapple juice\n1oz Orange juice\n1oz Coconut cream\nRoll",
     "Name": "Painkiller"
   },
   {
     "Rating": 5,
-    "Ingredients": "2oz Velier Worthy Park 2007 aged rum\n1oz Pineapple juice\n1oz Orange juice\n1oz Coconut cream\nRoll",
+    "Ingredients": "2oz Velier Worthy Park 2007 rum\n1oz Pineapple juice\n1oz Orange juice\n1oz Coconut cream\nRoll",
     "Name": "Painkiller"
   },
   {
@@ -316,12 +316,12 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Denizen 3 year old light rum\n1slice Lime\n1tsp Cane sugar\nBuild",
+    "Ingredients": "2oz Denizen 3 year old rum\n1slice Lime\n1tsp Cane sugar\nBuild",
     "Name": "Ti' Punch"
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Denizen 3 year old light rum\n1slice Lime\n2tsp Cane sugar\nBuild",
+    "Ingredients": "2oz Denizen 3 year old rum\n1slice Lime\n2tsp Cane sugar\nBuild",
     "Name": "Ti' Punch"
   },
   {
@@ -336,7 +336,7 @@
   },
   {
     "Rating": 2,
-    "Ingredients": "2oz Holmes Cay Guyana 2005 aged rum\n1slice Lime\n1tsp Cane sugar\nBuild",
+    "Ingredients": "2oz Holmes Cay Guyana 2005 rum\n1slice Lime\n1tsp Cane sugar\nBuild",
     "Name": "Ti' Punch"
   },
   {
@@ -346,7 +346,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Denizen 3 year old light rum\n1oz Pineapple juice\n1oz Orange juice\n1oz Coconut cream\nRoll",
+    "Ingredients": "2oz Denizen 3 year old rum\n1oz Pineapple juice\n1oz Orange juice\n1oz Coconut cream\nRoll",
     "Name": "Painkiller"
   },
   {
@@ -381,12 +381,12 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Velier Savanna light rum\n1slice Lime\n3tsp Cane sugar\nBuild",
+    "Ingredients": "2oz Velier Savanna rum\n1slice Lime\n3tsp Cane sugar\nBuild",
     "Name": "Ti' Punch"
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Velier Savanna light rum\n1slice Lime\n2tsp Cane sugar\nBuild",
+    "Ingredients": "2oz Velier Savanna rum\n1slice Lime\n2tsp Cane sugar\nBuild",
     "Name": "Ti' Punch"
   },
   {
@@ -416,7 +416,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Velier Savanna light rum\n1.25oz Cocchi Americano Rosa rhubarb liqueur\n1pinch Salt\nStir",
+    "Ingredients": "1oz Velier Savanna rum\n1.25oz Cocchi Americano Rosa rhubarb liqueur\n1pinch Salt\nStir",
     "Name": "Reverse Rum Manhattan"
   },
   {
@@ -426,7 +426,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Holmes Cay Guyana 2005 aged rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
+    "Ingredients": "1.5oz Holmes Cay Guyana 2005 rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
@@ -451,7 +451,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.5oz Velier Savanna light rum\n0.5oz Trincheri sweet vermouth\n0.5oz Aperol rhubarb liqueur\nStir",
+    "Ingredients": "0.5oz Velier Savanna rum\n0.5oz Trincheri sweet vermouth\n0.5oz Aperol rhubarb liqueur\nStir",
     "Name": "Rum Negroni"
   },
   {
@@ -461,52 +461,52 @@
   },
   {
     "Rating": 2,
-    "Ingredients": "1.5oz Velier Savanna light rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
+    "Ingredients": "1.5oz Velier Savanna rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Neisson blanc agricole rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
+    "Ingredients": "1.5oz Neisson Blanc rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Denizen 3 year old light rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
+    "Ingredients": "1.5oz Denizen 3 year old rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz El Dorado 15 year old aged rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
+    "Ingredients": "1.5oz El Dorado 15 year old rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Foursquare Premise aged rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
+    "Ingredients": "1.5oz Foursquare Premise rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Velier Worthy Park 2007 aged rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
+    "Ingredients": "1.5oz Velier Worthy Park 2007 rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Velier Clairin Sajous light rum\n0.75oz Lime juice\n0.75oz Simple syrup\nShake",
+    "Ingredients": "1.5oz Velier Clairin Sajous rum\n0.75oz Lime juice\n0.75oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Foursquare The Real McCoy 12 year old aged rum\n0.75oz Lime juice\n0.75oz Simple syrup\nShake",
+    "Ingredients": "1.5oz Foursquare The Real McCoy 12 year old rum\n0.75oz Lime juice\n0.75oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Foursquare Probitas light rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
+    "Ingredients": "1.5oz Foursquare Probitas rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
     "Rating": 5,
-    "Ingredients": "2oz Hamilton Navy Strength aged rum\n1oz Pineapple juice\n1oz Orange juice\n1oz Coconut cream\nRoll",
+    "Ingredients": "2oz Hamilton Navy Strength rum\n1oz Pineapple juice\n1oz Orange juice\n1oz Coconut cream\nRoll",
     "Name": "Painkiller"
   },
   {
@@ -526,22 +526,22 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Plantation Stiggins' Fancy Pineapple aged rum\n1oz Lime juice\n0.75oz Simple syrup\nShake",
+    "Ingredients": "2oz Plantation Stiggins' Fancy Pineapple rum\n1oz Lime juice\n0.75oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
     "Rating": 2,
-    "Ingredients": "1oz Plantation Stiggins' Fancy Pineapple aged rum\n0.5oz Meletti bitter orange liqueur\n0.75oz Cocchi Di Torino sweet vermouth\nStir",
+    "Ingredients": "1oz Plantation Stiggins' Fancy Pineapple rum\n0.5oz Meletti bitter orange liqueur\n0.75oz Cocchi Di Torino sweet vermouth\nStir",
     "Name": "Rum Negroni"
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Plantation Stiggins' Fancy Pineapple aged rum\n0.5oz Meletti bitter orange liqueur\n1oz Pineapple juice\n0.5oz Lime juice\n0.25oz Simple syrup\nShake",
+    "Ingredients": "2oz Plantation Stiggins' Fancy Pineapple rum\n0.5oz Meletti bitter orange liqueur\n1oz Pineapple juice\n0.5oz Lime juice\n0.25oz Simple syrup\nShake",
     "Name": "Jungle Bird"
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Plantation 5 year old aged rum\n0.75oz Lime juice\n0.75oz Simple syrup\nShake",
+    "Ingredients": "1.5oz Plantation 5 year old rum\n0.75oz Lime juice\n0.75oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
@@ -571,7 +571,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "2oz El Dorado 8 year old aged rum\n1oz Pineapple juice\n1oz Orange juice\n1oz Coconut cream\nRoll",
+    "Ingredients": "2oz El Dorado 8 year old rum\n1oz Pineapple juice\n1oz Orange juice\n1oz Coconut cream\nRoll",
     "Name": "Painkiller"
   },
   {
@@ -596,7 +596,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Heering cherry liqueur\n0.75oz Plantation Original Dark aged rum\n0.5oz Lime juice\nShake",
+    "Ingredients": "1.5oz Heering cherry liqueur\n0.75oz Plantation Original Dark rum\n0.5oz Lime juice\nShake",
     "Name": "Bulldog"
   },
   {
@@ -646,22 +646,22 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz El Dorado 3 year old light rum\n0.25oz Simple syrup\n1dash Woodford Reserve orange bitters\n5drops Bittermens mole bitters\nStir",
+    "Ingredients": "1.5oz El Dorado 3 year old rum\n0.25oz Simple syrup\n1dash Woodford Reserve orange bitters\n5drops Bittermens mole bitters\nStir",
     "Name": "Rum Old Fashioned"
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Plantation Original Dark aged rum\n0.25oz Plantation OFTD dark rum\n0.5oz Cynar artichoke liqueur\n0.5oz Grenadine syrup\n1oz Lime juice\n2dashes Angostura aromatic bitters\nShake",
+    "Ingredients": "0.75oz Plantation Original Dark rum\n0.25oz Plantation OFTD rum\n0.5oz Cynar artichoke liqueur\n0.5oz Grenadine syrup\n1oz Lime juice\n2dashes Angostura aromatic bitters\nShake",
     "Name": "Paraiso"
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Plantation OFTD dark rum\n0.5oz Plantation Original Dark aged rum\n0.5oz Grenadine syrup\n0.5oz Passionfruit syrup\n0.75oz Lime juice\n1dash St George verte absinthe\n1dash Peychauds aromatic bitters\nShake",
+    "Ingredients": "1.5oz Plantation OFTD rum\n0.5oz Plantation Original Dark rum\n0.5oz Grenadine syrup\n0.5oz Passionfruit syrup\n0.75oz Lime juice\n1dash St George verte absinthe\n1dash Peychauds aromatic bitters\nShake",
     "Name": "Skull and Bones"
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Plantation Original Dark aged rum\n0.5oz Plantation OFTD dark rum\n1oz Campari orange liqueur\n1.5oz Orange juice\n1oz Lemon juice\n0.75oz Orgeat syrup\n1pinch Salt\nShake",
+    "Ingredients": "1oz Plantation Original Dark rum\n0.5oz Plantation OFTD rum\n1oz Campari orange liqueur\n1.5oz Orange juice\n1oz Lemon juice\n0.75oz Orgeat syrup\n1pinch Salt\nShake",
     "Name": "Deathstalker"
   },
   {
@@ -671,7 +671,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz El Dorado 3 year old light rum\n1oz Plantation Original Dark aged rum\n0.5oz Rothman & Winter apricot liqueur\n0.5oz Orgeat syrup\n1oz Pineapple juice\n0.75oz Lime juice\nShake",
+    "Ingredients": "1oz El Dorado 3 year old rum\n1oz Plantation Original Dark rum\n0.5oz Rothman & Winter apricot liqueur\n0.5oz Orgeat syrup\n1oz Pineapple juice\n0.75oz Lime juice\nShake",
     "Name": "Beachbum"
   },
   {
@@ -681,7 +681,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz Plantation Original Dark aged rum\n0.75oz Cinzano rosso sweet vermouth\n0.75oz Campari orange liqueur\nStir",
+    "Ingredients": "0.75oz Plantation Original Dark rum\n0.75oz Cinzano rosso sweet vermouth\n0.75oz Campari orange liqueur\nStir",
     "Name": "Kingston Negroni"
   },
   {
@@ -706,7 +706,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz El Dorado 3 year old light rum\n0.75oz Lime juice\n0.75oz Simple syrup\nShake",
+    "Ingredients": "1.5oz El Dorado 3 year old rum\n0.75oz Lime juice\n0.75oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
@@ -721,7 +721,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1oz El Dorado 3 year old light rum\n0.75oz Plantation Original Dark aged rum\n0.25oz Plantation OFTD dark rum\n1oz Pineapple juice\n1oz Orange juice\n1oz Coconut cream\n1pinch Nutmeg (garnish)\nRoll",
+    "Ingredients": "1oz El Dorado 3 year old rum\n0.75oz Plantation Original Dark rum\n0.25oz Plantation OFTD rum\n1oz Pineapple juice\n1oz Orange juice\n1oz Coconut cream\n1pinch Nutmeg (garnish)\nRoll",
     "Name": "Painkiller"
   },
   {
@@ -736,7 +736,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Plantation 5 year old aged rum\n0.5oz Plantation OFTD dark rum\n0.5oz Contratto bitter orange liqueur\n0.5oz Passionfruit syrup\n1.5oz Pineapple juice\n0.5oz Lime juice\nShake",
+    "Ingredients": "1oz Plantation 5 year old rum\n0.5oz Plantation OFTD rum\n0.5oz Contratto bitter orange liqueur\n0.5oz Passionfruit syrup\n1.5oz Pineapple juice\n0.5oz Lime juice\nShake",
     "Name": "Commando Bird"
   },
   {
@@ -751,7 +751,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Plantation OFTD dark rum\n0.75oz Lime juice\n0.75oz Simple syrup\nShake",
+    "Ingredients": "2oz Plantation OFTD rum\n0.75oz Lime juice\n0.75oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
@@ -766,7 +766,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1oz Union Uno mezcal\n1oz Plantation 5 year old aged rum\n1oz Pineapple juice\n0.75oz Lemon juice\n0.75oz Orgeat syrup\n2dashes Bittermens mole bitters\n2dashes Angostura aromatic bitters (garnish)\n1pinch Allspice (garnish)\nBlend",
+    "Ingredients": "1oz Union Uno mezcal\n1oz Plantation 5 year old rum\n1oz Pineapple juice\n0.75oz Lemon juice\n0.75oz Orgeat syrup\n2dashes Bittermens mole bitters\n2dashes Angostura aromatic bitters (garnish)\n1pinch Allspice (garnish)\nBlend",
     "Name": "Scorpion Reef"
   },
   {
@@ -781,7 +781,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Plantation 5 year old aged rum\n0.5oz Lustau sweet vermouth\n0.5oz Grenadine syrup\n0.5oz Lime juice\n4dashes Angostura aromatic bitters\nShake",
+    "Ingredients": "1.5oz Plantation 5 year old rum\n0.5oz Lustau sweet vermouth\n0.5oz Grenadine syrup\n0.5oz Lime juice\n4dashes Angostura aromatic bitters\nShake",
     "Name": "Queen's Park Hotel Super Cocktail"
   },
   {
@@ -806,7 +806,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Plantation OFTD dark rum\n0.75oz Lustau sweet vermouth\n0.75oz Aperol rhubarb liqueur\nStir",
+    "Ingredients": "0.75oz Plantation OFTD rum\n0.75oz Lustau sweet vermouth\n0.75oz Aperol rhubarb liqueur\nStir",
     "Name": "Kingston Negroni"
   },
   {
@@ -836,7 +836,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Plantation OFTD dark rum\n0.75oz Lustau sweet vermouth\n0.75oz Contratto bitter orange liqueur\nStir",
+    "Ingredients": "0.75oz Plantation OFTD rum\n0.75oz Lustau sweet vermouth\n0.75oz Contratto bitter orange liqueur\nStir",
     "Name": "Kingston Negroni"
   },
   {
@@ -851,27 +851,27 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Lazzaroni amaretto\n0.5oz Plantation OFTD dark rum\n0.75oz Lemon juice\n0.75oz Lime juice\n0.25oz Simple syrup\n0.5oz Egg white\n1pinch Salt\nDry shake",
+    "Ingredients": "2oz Lazzaroni amaretto\n0.5oz Plantation OFTD rum\n0.75oz Lemon juice\n0.75oz Lime juice\n0.25oz Simple syrup\n0.5oz Egg white\n1pinch Salt\nDry shake",
     "Name": "OFTD Amaretto Sour"
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Plantation OFTD dark rum\n0.75oz Simple syrup\n0.5oz Lime juice\n1dash Angostura aromatic bitters\n6drops St George verte absinthe\nBlend",
+    "Ingredients": "1.5oz Plantation OFTD rum\n0.75oz Simple syrup\n0.5oz Lime juice\n1dash Angostura aromatic bitters\n6drops St George verte absinthe\nBlend",
     "Name": "151 Swizzle"
   },
   {
     "Rating": 4,
-    "Ingredients": "1.75oz Plantation 5 year old aged rum\n0.25oz Plantation OFTD dark rum\n0.25oz Cinnamon syrup\n0.25oz Simple syrup\n0.5oz Lime juice\n0.5oz Pineapple juice\n1dash Angostura aromatic bitters\nShake",
+    "Ingredients": "1.75oz Plantation 5 year old rum\n0.25oz Plantation OFTD rum\n0.25oz Cinnamon syrup\n0.25oz Simple syrup\n0.5oz Lime juice\n0.5oz Pineapple juice\n1dash Angostura aromatic bitters\nShake",
     "Name": "Autumn Daiquiri"
   },
   {
     "Rating": 4,
-    "Ingredients": "1.75oz Plantation 5 year old aged rum\n0.25oz Plantation OFTD dark rum\n0.25oz Orgeat syrup\n0.25oz Cinnamon syrup\n0.25oz Simple syrup\n0.75oz Lime juice\n0.5oz Pineapple juice\n2dashes Angostura aromatic bitters (float)\n2dashes Peychauds aromatic bitters (float)\nBlend",
+    "Ingredients": "1.75oz Plantation 5 year old rum\n0.25oz Plantation OFTD rum\n0.25oz Orgeat syrup\n0.25oz Cinnamon syrup\n0.25oz Simple syrup\n0.75oz Lime juice\n0.5oz Pineapple juice\n2dashes Angostura aromatic bitters (float)\n2dashes Peychauds aromatic bitters (float)\nBlend",
     "Name": "Behind God's Back"
   },
   {
     "Rating": 3,
-    "Ingredients": "0.5oz Plantation 3 Stars light rum\n0.5oz Plantation 5 year old aged rum\n0.25oz Plantation OFTD dark rum (float)\n0.25oz Contratto bitter orange liqueur\n0.25oz Orgeat syrup\n0.25oz Cinnamon syrup\n0.25oz Lime juice\nShake",
+    "Ingredients": "0.5oz Plantation 3 Stars rum\n0.5oz Plantation 5 year old rum\n0.25oz Plantation OFTD rum (float)\n0.25oz Contratto bitter orange liqueur\n0.25oz Orgeat syrup\n0.25oz Cinnamon syrup\n0.25oz Lime juice\nShake",
     "Name": "Devil's Left Hand"
   },
   {
@@ -881,47 +881,47 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1oz Plantation 5 year old aged rum\n1oz Plantation OFTD dark rum\n1oz Grenadine syrup\n0.5oz Cinnamon syrup\n1oz Lime juice\nShake",
+    "Ingredients": "1oz Plantation 5 year old rum\n1oz Plantation OFTD rum\n1oz Grenadine syrup\n0.5oz Cinnamon syrup\n1oz Lime juice\nShake",
     "Name": "Skull and Bones"
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Plantation OFTD dark rum\n1oz Benedictine herbal liqueur\n0.5oz Fernet Branca amaro\n0.25oz Simple syrup\n1.5oz Pineapple juice\n0.75oz Lime juice\n2dashes Angostura aromatic bitters\nShake",
+    "Ingredients": "1oz Plantation OFTD rum\n1oz Benedictine herbal liqueur\n0.5oz Fernet Branca amaro\n0.25oz Simple syrup\n1.5oz Pineapple juice\n0.75oz Lime juice\n2dashes Angostura aromatic bitters\nShake",
     "Name": "Free Rider"
   },
   {
     "Rating": 5,
-    "Ingredients": "1oz Plantation 3 Stars light rum\n1oz Plantation 5 year old aged rum\n0.5oz Rothman & Winter apricot liqueur\n0.5oz Orgeat syrup\n1oz Pineapple juice\n0.75oz Lime juice\nShake",
+    "Ingredients": "1oz Plantation 3 Stars rum\n1oz Plantation 5 year old rum\n0.5oz Rothman & Winter apricot liqueur\n0.5oz Orgeat syrup\n1oz Pineapple juice\n0.75oz Lime juice\nShake",
     "Name": "Beachbum"
   },
   {
     "Rating": 5,
-    "Ingredients": "0.5oz Plantation 3 Stars light rum\n0.25oz Plantation 5 year old aged rum\n0.25oz Plantation OFTD dark rum\n0.25oz Pineapple juice\n0.5oz Passionfruit syrup\n0.5oz Lime juice\nShake",
+    "Ingredients": "0.5oz Plantation 3 Stars rum\n0.25oz Plantation 5 year old rum\n0.25oz Plantation OFTD rum\n0.25oz Pineapple juice\n0.5oz Passionfruit syrup\n0.5oz Lime juice\nShake",
     "Name": "Tonga Room Zombie"
   },
   {
     "Rating": 3,
-    "Ingredients": "0.5oz Plantation 3 Stars light rum\n0.5oz Plantation 5 year old aged rum\n0.25oz Plantation OFTD dark rum\n0.5oz Rothman & Winter apricot liqueur\n0.5oz Orange juice\n0.5oz Pineapple juice\nShake",
+    "Ingredients": "0.5oz Plantation 3 Stars rum\n0.5oz Plantation 5 year old rum\n0.25oz Plantation OFTD rum\n0.5oz Rothman & Winter apricot liqueur\n0.5oz Orange juice\n0.5oz Pineapple juice\nShake",
     "Name": "Zombie"
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Plantation 5 year old aged rum\n0.5oz Plantation OFTD dark rum\n1oz Contratto bitter orange liqueur\n1.5oz Orange juice\n1oz Lemon juice\n0.75oz Orgeat syrup\n1pinch Salt\nShake",
+    "Ingredients": "1oz Plantation 5 year old rum\n0.5oz Plantation OFTD rum\n1oz Contratto bitter orange liqueur\n1.5oz Orange juice\n1oz Lemon juice\n0.75oz Orgeat syrup\n1pinch Salt\nShake",
     "Name": "Deathstalker"
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Plantation 5 year old aged rum\n0.5oz Plantation OFTD dark rum\n1oz Passionfruit syrup\n1oz Lemon juice\nShake",
+    "Ingredients": "1.5oz Plantation 5 year old rum\n0.5oz Plantation OFTD rum\n1oz Passionfruit syrup\n1oz Lemon juice\nShake",
     "Name": "Hurricane"
   },
   {
     "Rating": 3,
-    "Ingredients": "0.5oz Citadelle gin\n0.5oz Vya extra dry vermouth\n0.5oz Plantation 5 year old aged rum\n0.25oz Lemon juice\n0.25oz Simple syrup\n1pinch Nutmeg (garnish)\nShake",
+    "Ingredients": "0.5oz Citadelle gin\n0.5oz Vya extra dry vermouth\n0.5oz Plantation 5 year old rum\n0.25oz Lemon juice\n0.25oz Simple syrup\n1pinch Nutmeg (garnish)\nShake",
     "Name": "Lander's Punch"
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz Citadelle gin\n0.5oz Vya extra dry vermouth\n0.25oz Plantation 3 Stars light rum\n1dash Woodford Reserve orange bitters\nStir",
+    "Ingredients": "0.75oz Citadelle gin\n0.5oz Vya extra dry vermouth\n0.25oz Plantation 3 Stars rum\n1dash Woodford Reserve orange bitters\nStir",
     "Name": "Sirius"
   },
   {
@@ -966,7 +966,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Plantation 3 Stars light rum\n0.5oz St Germain elderflower liqueur\n0.5oz Vya extra dry vermouth\n0.25oz Lemon juice\n0.25oz Simple syrup\n0.5oz Egg white\nShake",
+    "Ingredients": "1.5oz Plantation 3 Stars rum\n0.5oz St Germain elderflower liqueur\n0.5oz Vya extra dry vermouth\n0.25oz Lemon juice\n0.25oz Simple syrup\n0.5oz Egg white\nShake",
     "Name": "Don Daisy"
   },
   {
@@ -1021,7 +1021,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Plantation 5 year old aged rum\n0.5oz Plantation OFTD dark rum\n0.5oz Simple syrup\n0.5oz Lime juice\n0.25cup Sweet corn\n3drops Bittermens mole bitters\nShake",
+    "Ingredients": "1oz Plantation 5 year old rum\n0.5oz Plantation OFTD rum\n0.5oz Simple syrup\n0.5oz Lime juice\n0.25cup Sweet corn\n3drops Bittermens mole bitters\nShake",
     "Name": "Sweet Corn Cocktail"
   },
   {
@@ -1051,12 +1051,12 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.25oz Plantation 5 year old aged rum\n0.25oz Plantation OFTD dark rum\n0.25oz Plantation 3 Stars light rum\n0.25oz Contratto bitter orange liqueur\n0.25oz Campari orange liqueuer\n0.25oz Chartreuse Verte herbal liqueur\nStir",
+    "Ingredients": "0.25oz Plantation 5 year old rum\n0.25oz Plantation OFTD rum\n0.25oz Plantation 3 Stars rum\n0.25oz Contratto bitter orange liqueur\n0.25oz Campari orange liqueuer\n0.25oz Chartreuse Verte herbal liqueur\nStir",
     "Name": "Archbishop"
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Plantation 3 Stars light rum\n0.75oz Lime juice\n0.75oz Simple syrup\nShake",
+    "Ingredients": "1.5oz Plantation 3 Stars rum\n0.75oz Lime juice\n0.75oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
@@ -1066,7 +1066,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.25oz Plantation 5 year old aged rum\n0.25oz Plantation OFTD dark rum\n0.25oz Plantation 3 Stars light rum\n0.25oz Contratto bitter orange liqueur\n0.25oz Campari orange liqueuer\n0.25oz Carpano Antica sweet vermouth\n0.25oz Martini Rossi sweet vermouth\nStir",
+    "Ingredients": "0.25oz Plantation 5 year old rum\n0.25oz Plantation OFTD rum\n0.25oz Plantation 3 Stars rum\n0.25oz Contratto bitter orange liqueur\n0.25oz Campari orange liqueuer\n0.25oz Carpano Antica sweet vermouth\n0.25oz Martini Rossi sweet vermouth\nStir",
     "Name": "Kingston Negroni"
   },
   {
@@ -1076,7 +1076,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1oz Plantation 3 Stars light rum\n0.5oz Lime juice\n0.5oz Butterfly pea flower simple syrup\nShake",
+    "Ingredients": "1oz Plantation 3 Stars rum\n0.5oz Lime juice\n0.5oz Butterfly pea flower simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
@@ -1101,7 +1101,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "0.5oz Plantation 5 year old aged rum\n0.5oz Plantation OFTD dark rum\n0.5oz Plantation 3 Stars light rum\n0.25oz Simple syrup\n2barsp Lapsang souchong syrup\n1dash St George verte absinthe\n1dash Regan's orange bitters\n1dash Angostura aromatic bitters\nStir",
+    "Ingredients": "0.5oz Plantation 5 year old rum\n0.5oz Plantation OFTD rum\n0.5oz Plantation 3 Stars rum\n0.25oz Simple syrup\n2barsp Lapsang souchong syrup\n1dash St George verte absinthe\n1dash Regan's orange bitters\n1dash Angostura aromatic bitters\nStir",
     "Name": "Rum Old Fashioned"
   },
   {
@@ -1126,7 +1126,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1oz Banks Five Island light rum\n1oz El Dorado 12 year old aged rum\n1oz Lime juice\n0.75oz Simple syrup\nShake",
+    "Ingredients": "1oz Banks Five Island rum\n1oz El Dorado 12 year old rum\n1oz Lime juice\n0.75oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
@@ -1141,7 +1141,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Banks Five Island light rum\n0.5oz Cynar 70 artichoke liqueur\n0.5oz Benedictine herbal liqueur\n0.25oz Ardbeg 10 year old whiskey\n1dash Angostura aromatic bitters\n1dash St George verte absinthe\nStir",
+    "Ingredients": "1.5oz Banks Five Island rum\n0.5oz Cynar 70 artichoke liqueur\n0.5oz Benedictine herbal liqueur\n0.25oz Ardbeg 10 year old whiskey\n1dash Angostura aromatic bitters\n1dash St George verte absinthe\nStir",
     "Name": "Hundred-Year-Old Cigar"
   },
   {
@@ -1186,32 +1186,32 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Banks Five Island light rum\n0.75oz Cointreau triple sec\n1oz Lemon juice\n0.5oz Simple syrup\nShake",
+    "Ingredients": "1.5oz Banks Five Island rum\n0.75oz Cointreau triple sec\n1oz Lemon juice\n0.5oz Simple syrup\nShake",
     "Name": "Cable Car"
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Banks Five Island light rum\n0.25oz Nardini amaro\n0.25oz Simple syrup\n1oz Coffee\n2dashes Peychauds aromatic bitters\nStir",
+    "Ingredients": "1oz Banks Five Island rum\n0.25oz Nardini amaro\n0.25oz Simple syrup\n1oz Coffee\n2dashes Peychauds aromatic bitters\nStir",
     "Name": "Flor De Cafe"
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Banks Five Island light rum\n0.5oz Orange juice\n0.5oz Pineapple juice\n0.5oz Lime juice\n0.25oz Simple syrup\n2drops St George verte absinthe\nShake",
+    "Ingredients": "1.5oz Banks Five Island rum\n0.5oz Orange juice\n0.5oz Pineapple juice\n0.5oz Lime juice\n0.25oz Simple syrup\n2drops St George verte absinthe\nShake",
     "Name": "Planter's Punch"
   },
   {
     "Rating": 5,
-    "Ingredients": "2oz Gosling's dark rum\n0.75oz Cointreau triple sec\n1oz Lemon juice\n0.5oz Simple syrup\nShake",
+    "Ingredients": "2oz Gosling's rum\n0.75oz Cointreau triple sec\n1oz Lemon juice\n0.5oz Simple syrup\nShake",
     "Name": "Cable Car"
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Gosling's dark rum\n0.75oz Campari orange liqueur\n1oz Pineapple juice\n0.5oz Lime juice\n0.25oz Rich syrup\n1barsp St George verte absinthe\nShake",
+    "Ingredients": "2oz Gosling's rum\n0.75oz Campari orange liqueur\n1oz Pineapple juice\n0.5oz Lime juice\n0.25oz Rich syrup\n1barsp St George verte absinthe\nShake",
     "Name": "Jungle Bird"
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Gosling's dark rum\n0.5oz Orange juice\n1oz Pineapple juice\n0.5oz Lime juice\n0.25oz Simple syrup\nShake",
+    "Ingredients": "2oz Gosling's rum\n0.5oz Orange juice\n1oz Pineapple juice\n0.5oz Lime juice\n0.25oz Simple syrup\nShake",
     "Name": "Planter's Punch"
   },
   {
@@ -1236,7 +1236,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Banks Five Island light rum\n0.5oz Luxardo Maraschino liqueur\n0.5oz Grapefruit juice\n0.75oz Lime juice\n1barsp St George verte absinthe\nShake",
+    "Ingredients": "2oz Banks Five Island rum\n0.5oz Luxardo Maraschino liqueur\n0.5oz Grapefruit juice\n0.75oz Lime juice\n1barsp St George verte absinthe\nShake",
     "Name": "The Sun Also Rises"
   },
   {
@@ -1246,7 +1246,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Banks Five Island light rum\n0.5oz Cynar 70 artichoke liqueur\n0.5oz Benedictine herbal liqueur\n0.25oz Ardbeg 10 year old whiskey\n1dash Angostura aromatic bitters\n1dash St George verte absinthe\nStir",
+    "Ingredients": "1.5oz Banks Five Island rum\n0.5oz Cynar 70 artichoke liqueur\n0.5oz Benedictine herbal liqueur\n0.25oz Ardbeg 10 year old whiskey\n1dash Angostura aromatic bitters\n1dash St George verte absinthe\nStir",
     "Name": "Hundred-Year-Old Cigar"
   },
   {
@@ -1256,7 +1256,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Banks Five Island light rum\n1oz Nardini amaro\n0.5oz Pineapple juice\n0.5oz Orange juice\nOrange twist (garnish)\nShake",
+    "Ingredients": "1.5oz Banks Five Island rum\n1oz Nardini amaro\n0.5oz Pineapple juice\n0.5oz Orange juice\nOrange twist (garnish)\nShake",
     "Name": "Fat Tire"
   },
   {
@@ -1271,7 +1271,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "2oz Banks Five Island light rum\n1oz Lime juice\n1oz Simple syrup\nShake",
+    "Ingredients": "2oz Banks Five Island rum\n1oz Lime juice\n1oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
@@ -1281,7 +1281,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz El Dorado 12 year old aged rum\n1oz Cocchi Dopo Teatro sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Contratto bitter orange liqueur\n2dashes Bittermens mole bitters\nStir",
+    "Ingredients": "1.5oz El Dorado 12 year old rum\n1oz Cocchi Dopo Teatro sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Contratto bitter orange liqueur\n2dashes Bittermens mole bitters\nStir",
     "Name": "Right Hand"
   },
   {
@@ -1316,12 +1316,12 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Banks Five Island light rum\n0.75oz Lime juice\n0.75oz Rich syrup\nShake",
+    "Ingredients": "1.5oz Banks Five Island rum\n0.75oz Lime juice\n0.75oz Rich syrup\nShake",
     "Name": "Daiquiri"
   },
   {
     "Rating": 3,
-    "Ingredients": "3oz El Dorado 12 year old aged rum\n0.25oz Rothman & Winter apricot liqueur\n4barsp Rich syrup\n6drops Bittermens mole bitters\n2dashes Woodford Reserve orange bitters\nStir",
+    "Ingredients": "3oz El Dorado 12 year old rum\n0.25oz Rothman & Winter apricot liqueur\n4barsp Rich syrup\n6drops Bittermens mole bitters\n2dashes Woodford Reserve orange bitters\nStir",
     "Name": "Rum Old Fashioned"
   },
   {
@@ -1346,7 +1346,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Wray and Nephew Appleton Signature Blend aged rum\n0.5oz El Dorado 12 year old aged rum\n1oz Lime juice\n0.75oz Rich syrup\nShake",
+    "Ingredients": "1.5oz Wray and Nephew Appleton Signature Blend rum\n0.5oz El Dorado 12 year old rum\n1oz Lime juice\n0.75oz Rich syrup\nShake",
     "Name": "Daiquiri"
   },
   {
@@ -1401,7 +1401,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.5oz El Dorado 12 year old aged rum\n0.5oz Boissiere sweet vermouth\n0.25oz Campari orange liqueur\n0.25oz Contratto bitter orange liqueur\nStir",
+    "Ingredients": "0.5oz El Dorado 12 year old rum\n0.5oz Boissiere sweet vermouth\n0.25oz Campari orange liqueur\n0.25oz Contratto bitter orange liqueur\nStir",
     "Name": "Kingston Negroni"
   },
   {
@@ -1476,7 +1476,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "2.5oz Wray and Nephew Appleton Signature Blend aged rum\n0.5oz El Dorado 12 year old aged rum\n1.5oz Lime juice\n1.5oz Sweetgrass syrup\nShake",
+    "Ingredients": "2.5oz Wray and Nephew Appleton Signature Blend rum\n0.5oz El Dorado 12 year old rum\n1.5oz Lime juice\n1.5oz Sweetgrass syrup\nShake",
     "Name": "Daiquiri"
   },
   {
@@ -1521,12 +1521,12 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz El Dorado 12 year old aged rum\n2barsp Maple syrup\n1dash Bittermens mole bitters\n1dash Regan's orange bitters\nStir",
+    "Ingredients": "2oz El Dorado 12 year old rum\n2barsp Maple syrup\n1dash Bittermens mole bitters\n1dash Regan's orange bitters\nStir",
     "Name": "Rum Old Fashioned"
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz El Dorado 12 year old aged rum\n0.5oz Luxardo Maraschino liqueur\n1dash Regan's orange bitters\nStir",
+    "Ingredients": "1oz El Dorado 12 year old rum\n0.5oz Luxardo Maraschino liqueur\n1dash Regan's orange bitters\nStir",
     "Name": "Georgetown"
   },
   {
@@ -1536,7 +1536,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz El Dorado 12 year old aged rum\n0.75oz Lime juice\n0.5oz Rich syrup\nShake",
+    "Ingredients": "1.5oz El Dorado 12 year old rum\n0.75oz Lime juice\n0.5oz Rich syrup\nShake",
     "Name": "Daiquiri"
   },
   {
@@ -1556,7 +1556,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz El Dorado 12 year old aged rum\n0.75oz Byrrh quinquina sweet vermouth\n1barsp Home-made coffee liqueur\n2dashes Angostura aromatic bitters\n2dashes Regan's orange bitters\nOrange twist (garnish)\nStir",
+    "Ingredients": "1.5oz El Dorado 12 year old rum\n0.75oz Byrrh quinquina sweet vermouth\n1barsp Home-made coffee liqueur\n2dashes Angostura aromatic bitters\n2dashes Regan's orange bitters\nOrange twist (garnish)\nStir",
     "Name": "Coraje"
   },
   {
@@ -1566,7 +1566,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz El Dorado 12 year old aged rum\n0.75oz Campari orange liqueur\n1oz Byrrh quinquina sweet vermouth\n1barsp Home-made coffee liqueur\nStir",
+    "Ingredients": "1oz El Dorado 12 year old rum\n0.75oz Campari orange liqueur\n1oz Byrrh quinquina sweet vermouth\n1barsp Home-made coffee liqueur\nStir",
     "Name": "Coffee Negroni"
   },
   {
@@ -1641,12 +1641,12 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Wray and Nephew Appleton Signature Blend aged rum\n0.5oz Luxardo Maraschino liqueur\n1.5oz Grapefruit juice\n0.75oz Lime juice\n0.25oz Simple syrup\nShake",
+    "Ingredients": "2oz Wray and Nephew Appleton Signature Blend rum\n0.5oz Luxardo Maraschino liqueur\n1.5oz Grapefruit juice\n0.75oz Lime juice\n0.25oz Simple syrup\nShake",
     "Name": "Hemmingway Daiquiri"
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Wray and Nephew Appleton Signature Blend aged rum\n0.75oz Lime juice\n0.75oz Rich syrup\nShake",
+    "Ingredients": "1.5oz Wray and Nephew Appleton Signature Blend rum\n0.75oz Lime juice\n0.75oz Rich syrup\nShake",
     "Name": "Daiquiri"
   },
   {
@@ -1786,7 +1786,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz Wray and Nephew Appleton Signature Blend aged rum\n0.75oz Cynar 70 artichoke liqueur\n1dash Woodford Reserve orange bitters\nCombine without ice",
+    "Ingredients": "0.75oz Wray and Nephew Appleton Signature Blend rum\n0.75oz Cynar 70 artichoke liqueur\n1dash Woodford Reserve orange bitters\nCombine without ice",
     "Name": "Rum Scaffa"
   },
   {
@@ -1816,7 +1816,7 @@
   },
   {
     "Rating": 2,
-    "Ingredients": "1.5oz Wray and Nephew Appleton Signature Blend aged rum\n0.75oz Campari orange liqueur\n2oz Pineapple juice\n0.5oz Lime juice\n0.25oz Rich syrup\nShake",
+    "Ingredients": "1.5oz Wray and Nephew Appleton Signature Blend rum\n0.75oz Campari orange liqueur\n2oz Pineapple juice\n0.5oz Lime juice\n0.25oz Rich syrup\nShake",
     "Name": "Jungle Bird"
   },
   {
@@ -2001,7 +2001,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz Wray and Nephew Appleton Signature Blend aged rum\n0.75oz Tribuno sweet vermouth\n0.75oz C3 Carciofo artichoke liqueur\nOrange twist (garnish)\nStir",
+    "Ingredients": "0.75oz Wray and Nephew Appleton Signature Blend rum\n0.75oz Tribuno sweet vermouth\n0.75oz C3 Carciofo artichoke liqueur\nOrange twist (garnish)\nStir",
     "Name": "Ardent Spirit"
   },
   {
@@ -2126,7 +2126,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Pierre Ferrand 1840 cognac\n1oz Wray and Nephew Appleton Signature Blend aged rum\n0.75oz Cocchi Dopo Teatro sweet vermouth\n0.25oz Luxardo Maraschino liqueur\n1dash Angostura aromatic bitters\nStir",
+    "Ingredients": "1oz Pierre Ferrand 1840 cognac\n1oz Wray and Nephew Appleton Signature Blend rum\n0.75oz Cocchi Dopo Teatro sweet vermouth\n0.25oz Luxardo Maraschino liqueur\n1dash Angostura aromatic bitters\nStir",
     "Name": "Martica"
   },
   {
@@ -2161,7 +2161,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Wray and Nephew Appleton Signature Blend aged rum\n0.75oz Cocchi Dopo Teatro sweet vermouth\n0.75oz Leopold Bros aperitivo orange liqueur\nOrange twist (garnish)\nStir",
+    "Ingredients": "0.75oz Wray and Nephew Appleton Signature Blend rum\n0.75oz Cocchi Dopo Teatro sweet vermouth\n0.75oz Leopold Bros aperitivo orange liqueur\nOrange twist (garnish)\nStir",
     "Name": "Kingston Negroni"
   },
   {
@@ -2271,7 +2271,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Wray and Nephew Appleton Signature Blend aged rum\n0.75oz Vya sweet vermouth\n0.75oz C3 Carciofo artichoke liqueur\nOrange twist (garnish)\nStir",
+    "Ingredients": "0.75oz Wray and Nephew Appleton Signature Blend rum\n0.75oz Vya sweet vermouth\n0.75oz C3 Carciofo artichoke liqueur\nOrange twist (garnish)\nStir",
     "Name": "Ardent Spirit"
   },
   {
@@ -2311,7 +2311,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Flor de Cana 4 year old light rum\n0.75oz Lime juice\n0.5oz Rich syrup\nShake",
+    "Ingredients": "1.5oz Flor de Cana 4 year old rum\n0.75oz Lime juice\n0.5oz Rich syrup\nShake",
     "Name": "Daiquiri"
   },
   {
@@ -2366,7 +2366,7 @@
   },
   {
     "Rating": 2,
-    "Ingredients": "1oz Sombra mezcal\n1oz Flor de Cana 4 year old light rum\n0.75oz C3 Carciofo artichoke liqueur\n0.25oz Chartreuse Verte herbal liqueur\n2dashes Bittermens mole bitters\nStir",
+    "Ingredients": "1oz Sombra mezcal\n1oz Flor de Cana 4 year old rum\n0.75oz C3 Carciofo artichoke liqueur\n0.25oz Chartreuse Verte herbal liqueur\n2dashes Bittermens mole bitters\nStir",
     "Name": "Up Jumped The Devil"
   },
   {
@@ -2376,7 +2376,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Wray and Nephew Appleton Signature Blend aged rum\n0.75oz Vya sweet vermouth\n0.25oz Cointreau triple sec\n1dash Angostura aromatic bitters\nOrange twist (garnish)\nStir\n",
+    "Ingredients": "1.5oz Wray and Nephew Appleton Signature Blend rum\n0.75oz Vya sweet vermouth\n0.25oz Cointreau triple sec\n1dash Angostura aromatic bitters\nOrange twist (garnish)\nStir\n",
     "Name": "Presidente"
   },
   {
@@ -2416,17 +2416,17 @@
   },
   {
     "Rating": 2,
-    "Ingredients": "0.5oz Wray and Nephew Appleton Signature Blend aged rum\n0.5oz Chartreuse Verte herbal liqueur\n0.5oz Rothman & Winter apricot liqueur\n0.5oz Lime juice\nShake\n",
+    "Ingredients": "0.5oz Wray and Nephew Appleton Signature Blend rum\n0.5oz Chartreuse Verte herbal liqueur\n0.5oz Rothman & Winter apricot liqueur\n0.5oz Lime juice\nShake\n",
     "Name": "Final Voyage"
   },
   {
     "Rating": 2,
-    "Ingredients": "1.5oz Flor de Cana 4 year old light rum\n0.5oz Kopke ruby port sweet vermouth\n0.5oz Cointreau triple sec\n0.5oz Lime juice\nShake",
+    "Ingredients": "1.5oz Flor de Cana 4 year old rum\n0.5oz Kopke ruby port sweet vermouth\n0.5oz Cointreau triple sec\n0.5oz Lime juice\nShake",
     "Name": "Saint Valentine"
   },
   {
     "Rating": 2,
-    "Ingredients": "0.75oz Old Overholt rye\n0.5oz Kopke ruby port sweet vermouth\n0.25oz Wray and Nephew Appleton Signature Blend aged rum\nLemon twist (garnish)\nStir",
+    "Ingredients": "0.75oz Old Overholt rye\n0.5oz Kopke ruby port sweet vermouth\n0.25oz Wray and Nephew Appleton Signature Blend rum\nLemon twist (garnish)\nStir",
     "Name": "Suburban"
   },
   {
@@ -2471,12 +2471,12 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Wray and Nephew Appleton Signature Blend aged rum\n0.75oz Carpano Punt E Mes sweet vermouth\n0.75oz Gran Classico orange liqueur\n2dashes Bittermens mole bitters\nStir",
+    "Ingredients": "1.5oz Wray and Nephew Appleton Signature Blend rum\n0.75oz Carpano Punt E Mes sweet vermouth\n0.75oz Gran Classico orange liqueur\n2dashes Bittermens mole bitters\nStir",
     "Name": "Right Hand"
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Wray and Nephew Appleton Signature Blend aged rum\n0.75oz Carpano Punt E Mes sweet vermouth\n0.75oz Cynar artichoke liqueur\nOrange twist (garnish)\nStir",
+    "Ingredients": "0.75oz Wray and Nephew Appleton Signature Blend rum\n0.75oz Carpano Punt E Mes sweet vermouth\n0.75oz Cynar artichoke liqueur\nOrange twist (garnish)\nStir",
     "Name": "Ardent Spirit"
   },
   {
@@ -2506,7 +2506,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Wray and Nephew Appleton Signature Blend aged rum\n0.75oz Carpano Punt E Mes sweet vermouth\n0.75oz Gran Classico orange liqueur\nOrange twist (garnish)\nStir",
+    "Ingredients": "0.75oz Wray and Nephew Appleton Signature Blend rum\n0.75oz Carpano Punt E Mes sweet vermouth\n0.75oz Gran Classico orange liqueur\nOrange twist (garnish)\nStir",
     "Name": "Kingston Negroni"
   },
   {
@@ -2611,12 +2611,12 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Flor de Cana 4 year old light rum\n0.25oz Rothman & Winter apricot liqueur\n0.5oz Lime juice\n1oz Pineapple juice\n0.5oz Simple syrup\nShake",
+    "Ingredients": "1.5oz Flor de Cana 4 year old rum\n0.25oz Rothman & Winter apricot liqueur\n0.5oz Lime juice\n1oz Pineapple juice\n0.5oz Simple syrup\nShake",
     "Name": "Hotel Nacional"
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz Flor de Cana 4 year old light rum\n0.75oz Rothman & Winter apricot liqueur\n0.75oz Lime juice\nLime twist\nShake",
+    "Ingredients": "0.75oz Flor de Cana 4 year old rum\n0.75oz Rothman & Winter apricot liqueur\n0.75oz Lime juice\nLime twist\nShake",
     "Name": "Hop Toad"
   },
   {
@@ -2651,12 +2651,12 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Flor de Cana 4 year old light rum\n0.5oz Lime juice\n0.5oz Green tea rich syrup\nShake",
+    "Ingredients": "1oz Flor de Cana 4 year old rum\n0.5oz Lime juice\n0.5oz Green tea rich syrup\nShake",
     "Name": "Green Tea Daiquiri"
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Flor de Cana 4 year old light rum\n0.5oz Lime juice\n0.5oz Rich syrup\nShake",
+    "Ingredients": "1oz Flor de Cana 4 year old rum\n0.5oz Lime juice\n0.5oz Rich syrup\nShake",
     "Name": "Daiquiri"
   },
   {
@@ -2776,17 +2776,17 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1oz Bacardi 8 year old aged rum\n0.75oz Orange juice\n0.75oz Pineapple juice\n0.5oz Lemon juice\n0.25oz Brown sugar simple syrup\n0.25oz Grenadine syrup\n1dash Angostura aromatic bitters\nShake",
+    "Ingredients": "1oz Bacardi 8 year old rum\n0.75oz Orange juice\n0.75oz Pineapple juice\n0.5oz Lemon juice\n0.25oz Brown sugar simple syrup\n0.25oz Grenadine syrup\n1dash Angostura aromatic bitters\nShake",
     "Name": "Planter's Punch"
   },
   {
     "Rating": 5,
-    "Ingredients": "2oz Bacardi 8 year old aged rum\n1oz Lime juice\n1oz Brown sugar simple syrup\n7leaves Thai Basil (muddle)\n1pinch Salt\nShake",
+    "Ingredients": "2oz Bacardi 8 year old rum\n1oz Lime juice\n1oz Brown sugar simple syrup\n7leaves Thai Basil (muddle)\n1pinch Salt\nShake",
     "Name": "Thai Basil Daiquiri"
   },
   {
     "Rating": 5,
-    "Ingredients": "2oz Bacardi 8 year old aged rum\n1oz Lime juice\n0.75oz Brown sugar simple syrup\n5leaves Thai Basil (muddle)\n1pinch Salt\nBlend then shake",
+    "Ingredients": "2oz Bacardi 8 year old rum\n1oz Lime juice\n0.75oz Brown sugar simple syrup\n5leaves Thai Basil (muddle)\n1pinch Salt\nBlend then shake",
     "Name": "Thai Basil Daiquiri"
   },
   {
@@ -2901,12 +2901,12 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Flor de Cana 4 year old light rum\n0.5oz Campari orange liqueur\n0.5oz Lime juice\n0.5oz Light brown sugar rich syrup with lapsang souchong\n0.125oz Kuestennebel absinthe\nShake",
+    "Ingredients": "2oz Flor de Cana 4 year old rum\n0.5oz Campari orange liqueur\n0.5oz Lime juice\n0.5oz Light brown sugar rich syrup with lapsang souchong\n0.125oz Kuestennebel absinthe\nShake",
     "Name": "Benjamin Barker Daiquiri"
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Flor de Cana 4 year old light rum\n0.75oz Montenegro amaro\n0.75oz Carpano Punt E Mes sweet vermouth\nStir",
+    "Ingredients": "0.75oz Flor de Cana 4 year old rum\n0.75oz Montenegro amaro\n0.75oz Carpano Punt E Mes sweet vermouth\nStir",
     "Name": "Blood Of My Enemies"
   },
   {
@@ -2921,27 +2921,27 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Flor de Cana 4 year old light rum\n0.75oz Lime juice\n0.75oz Light brown sugar simple syrup\n1pinch Salt\nShake",
+    "Ingredients": "1.5oz Flor de Cana 4 year old rum\n0.75oz Lime juice\n0.75oz Light brown sugar simple syrup\n1pinch Salt\nShake",
     "Name": "Daiquiri"
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Flor de Cana 4 year old light rum\n1oz Lime juice\n1oz Simple syrup\nShake",
+    "Ingredients": "2oz Flor de Cana 4 year old rum\n1oz Lime juice\n1oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Flor de Cana 4 year old light rum\n0.75oz Lime juice\n0.75oz Light brown sugar simple syrup\nShake",
+    "Ingredients": "1.5oz Flor de Cana 4 year old rum\n0.75oz Lime juice\n0.75oz Light brown sugar simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Flor de Cana 4 year old light rum\n0.75oz Lime juice\n0.75oz Light brown sugar simple syrup\n2dashes Regan's orange bitters\nShake",
+    "Ingredients": "1.5oz Flor de Cana 4 year old rum\n0.75oz Lime juice\n0.75oz Light brown sugar simple syrup\n2dashes Regan's orange bitters\nShake",
     "Name": "Daiquiri"
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Bacardi 8 year old aged rum\n1oz Lime juice\n1oz Simple syrup\nShake",
+    "Ingredients": "2oz Bacardi 8 year old rum\n1oz Lime juice\n1oz Simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
@@ -2951,7 +2951,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Bacardi 8 year old aged rum\n0.5oz Lime juice\n0.5oz Brown sugar simple syrup\n1oz Grapefruit juice\n1dash Angostura aromatic bitters\nShake",
+    "Ingredients": "1oz Bacardi 8 year old rum\n0.5oz Lime juice\n0.5oz Brown sugar simple syrup\n1oz Grapefruit juice\n1dash Angostura aromatic bitters\nShake",
     "Name": "Dirty Diana"
   },
   {
@@ -2976,12 +2976,12 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Disaronno amaretto\n1oz Malibu coconut rum\n2oz Apple juice\nShake\n",
+    "Ingredients": "1oz Disaronno amaretto\n1oz Malibu Original rum\n2oz Apple juice\nShake\n",
     "Name": "Italian Surfer"
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Flor de Cana 4 year old light rum\n1.5oz Carpano Punt E Mes sweet vermouth\n0.25oz Campari orange liqueur\nOrange twist (infuse and muddle in rum, 2 minutes)\nLemon twist (infuse and muddle in rum, 2 minutes)\nStir",
+    "Ingredients": "1.5oz Flor de Cana 4 year old rum\n1.5oz Carpano Punt E Mes sweet vermouth\n0.25oz Campari orange liqueur\nOrange twist (infuse and muddle in rum, 2 minutes)\nLemon twist (infuse and muddle in rum, 2 minutes)\nStir",
     "Name": "John Perona"
   },
   {
@@ -3001,12 +3001,12 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Malibu coconut rum\n1oz Cranberry juice\n1oz Pineapple juice\nShake",
+    "Ingredients": "1oz Malibu Original rum\n1oz Cranberry juice\n1oz Pineapple juice\nShake",
     "Name": "Malibu Bay Breeze"
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Malibu coconut rum\n1.5oz Cranberry juice\n0.5oz Lemon juice\n1oz Egg white\nDry shake",
+    "Ingredients": "1oz Malibu Original rum\n1.5oz Cranberry juice\n0.5oz Lemon juice\n1oz Egg white\nDry shake",
     "Name": "Malibu Cran Sour"
   },
   {
@@ -3056,12 +3056,12 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.25oz Malibu coconut rum\n0.75oz Grand Marnier triple sec\n1oz Orange juice\n1oz Cranberry juice\n1oz Apple juice\nShake",
+    "Ingredients": "1.25oz Malibu Original rum\n0.75oz Grand Marnier triple sec\n1oz Orange juice\n1oz Cranberry juice\n1oz Apple juice\nShake",
     "Name": "Ocean Drive"
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Flor de Cana 4 year old light rum\n1oz Cointreau triple sec\n0.5oz Lime juice\n0.25oz Light brown sugar simple syrup\nLemon twist\nShake",
+    "Ingredients": "1.5oz Flor de Cana 4 year old rum\n1oz Cointreau triple sec\n0.5oz Lime juice\n0.25oz Light brown sugar simple syrup\nLemon twist\nShake",
     "Name": "Oh Gosh!"
   },
   {
@@ -3091,7 +3091,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Bacardi 8 year old aged rum\n1oz Martini Rossi sweet vermouth\n1oz Campari orange liqueur\n3dashes Chocolate bitters\nStir",
+    "Ingredients": "2oz Bacardi 8 year old rum\n1oz Martini Rossi sweet vermouth\n1oz Campari orange liqueur\n3dashes Chocolate bitters\nStir",
     "Name": "The Right Hand"
   },
   {
@@ -3216,7 +3216,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Flor de Cana 4 year old light rum\n0.75oz Lime juice\n0.5oz Laphroaig 10 year old whiskey\n0.5oz Maple syrup\nShake",
+    "Ingredients": "1.5oz Flor de Cana 4 year old rum\n0.75oz Lime juice\n0.5oz Laphroaig 10 year old whiskey\n0.5oz Maple syrup\nShake",
     "Name": "Mr Howell"
   },
   {
@@ -3261,7 +3261,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz Flor de Cana 4 year old light rum\n0.75oz Gran Classico orange liqueur\n0.75oz Cocchi Di Torino sweet vermouth\n1dash Regan's orange bitters\nStir",
+    "Ingredients": "0.75oz Flor de Cana 4 year old rum\n0.75oz Gran Classico orange liqueur\n0.75oz Cocchi Di Torino sweet vermouth\n1dash Regan's orange bitters\nStir",
     "Name": "Kingston Negroni"
   },
   {
@@ -3396,7 +3396,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Disaronno amaretto\n1oz Malibu coconut rum\n1oz Orange juice\n1teaspoon Grenadine\nShake",
+    "Ingredients": "1oz Disaronno amaretto\n1oz Malibu Original rum\n1oz Orange juice\n1teaspoon Grenadine\nShake",
     "Name": "A Day at the Beach"
   },
   {
@@ -3426,7 +3426,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Bacardi 8 year old aged rum\n1oz Lime juice\n0.75oz Simple syrup\n7leaves Basil (muddle)\n1pinch Salt\nShake",
+    "Ingredients": "2oz Bacardi 8 year old rum\n1oz Lime juice\n0.75oz Simple syrup\n7leaves Basil (muddle)\n1pinch Salt\nShake",
     "Name": "Basil Daiquiri"
   },
   {
@@ -3476,17 +3476,17 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Bacardi 8 year old aged rum\n2oz Coca cola\n0.5 Lime wedge\nStir",
+    "Ingredients": "1oz Bacardi 8 year old rum\n2oz Coca cola\n0.5 Lime wedge\nStir",
     "Name": "Cuba Libre"
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Flor de Cana 4 year old light rum\n1oz Carpano Punt E Mes sweet vermouth\n1barsp Montenegro amaro\n2dashes Peychauds aromatic bitters\nOrange twist\nStir",
+    "Ingredients": "1.5oz Flor de Cana 4 year old rum\n1oz Carpano Punt E Mes sweet vermouth\n1barsp Montenegro amaro\n2dashes Peychauds aromatic bitters\nOrange twist\nStir",
     "Name": "Cuban Liberal"
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Bacardi 8 year old aged rum\n0.75oz Lime juice\n0.75oz Brown sugar simple syrup\nShake",
+    "Ingredients": "2oz Bacardi 8 year old rum\n0.75oz Lime juice\n0.75oz Brown sugar simple syrup\nShake",
     "Name": "Daiquiri"
   },
   {
@@ -3496,7 +3496,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Flor de Cana 4 year old light rum\n0.5oz Carpano Punt E Mes sweet vermouth\n1oz Orange juice\n0.33oz Lime juice\n0.33oz Light brown sugar simple syrup\n2dashes Peychauds aromatic bitters\nOrange twist\nShake",
+    "Ingredients": "2oz Flor de Cana 4 year old rum\n0.5oz Carpano Punt E Mes sweet vermouth\n1oz Orange juice\n0.33oz Lime juice\n0.33oz Light brown sugar simple syrup\n2dashes Peychauds aromatic bitters\nOrange twist\nShake",
     "Name": "Eastern Promises"
   },
   {
@@ -3571,12 +3571,12 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Malibu coconut rum\n1.5oz Orange juice\n1.5oz Apple juice\n0.5oz Grenadine\nShake",
+    "Ingredients": "1oz Malibu Original rum\n1.5oz Orange juice\n1.5oz Apple juice\n0.5oz Grenadine\nShake",
     "Name": "Malibu Heat Wave"
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Malibu coconut rum\n1oz Orange juice\n1oz Lemon juice\n1oz Egg white\nDry shake\n",
+    "Ingredients": "2oz Malibu Original rum\n1oz Orange juice\n1oz Lemon juice\n1oz Egg white\nDry shake\n",
     "Name": "Malibu Stone Sour"
   },
   {
@@ -3616,12 +3616,12 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Bacardi 8 year old aged rum\n0.5oz Talisker Skye Single Malt whiskey\n0.75oz Lime juice\n0.5oz Maple syrup\nShake",
+    "Ingredients": "1.5oz Bacardi 8 year old rum\n0.5oz Talisker Skye Single Malt whiskey\n0.75oz Lime juice\n0.5oz Maple syrup\nShake",
     "Name": "Mr Howell"
   },
   {
     "Rating": 3,
-    "Ingredients": "1.25oz Flor de Cana 4 year old light rum\n0.5oz Carpano Punt E Mes sweet vermouth\n0.5oz Campari orange liqueur\nOrange twist\nStir",
+    "Ingredients": "1.25oz Flor de Cana 4 year old rum\n0.5oz Carpano Punt E Mes sweet vermouth\n0.5oz Campari orange liqueur\nOrange twist\nStir",
     "Name": "Mr President"
   },
   {
@@ -3701,7 +3701,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Bacardi 8 year old aged rum\n1oz Coconut cream\n0.5cup Pineapple\nBlend",
+    "Ingredients": "1oz Bacardi 8 year old rum\n1oz Coconut cream\n0.5cup Pineapple\nBlend",
     "Name": "Piña Colada"
   },
   {
@@ -3726,17 +3726,17 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Flor de Cana 4 year old light rum\n1oz Dolin sweet vermouth\n1oz Campari orange liqueur\n10drops Bittermens mole bitters\n1pinch Salt\nStir",
+    "Ingredients": "1oz Flor de Cana 4 year old rum\n1oz Dolin sweet vermouth\n1oz Campari orange liqueur\n10drops Bittermens mole bitters\n1pinch Salt\nStir",
     "Name": "Kingston Negroni"
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Bacardi 8 year old aged rum\n1oz Pineapple juice\n1oz Orange juice\nShake",
+    "Ingredients": "1oz Bacardi 8 year old rum\n1oz Pineapple juice\n1oz Orange juice\nShake",
     "Name": "Rum Punch"
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Bacardi 8 year old aged rum\n0.5oz Orange juice\n0.5oz Lime juice\n0.5oz Simple syrup\n0.75oz Egg white\n3drops Angostura aromatic bitters\nDry shake",
+    "Ingredients": "2oz Bacardi 8 year old rum\n0.5oz Orange juice\n0.5oz Lime juice\n0.5oz Simple syrup\n0.75oz Egg white\n3drops Angostura aromatic bitters\nDry shake",
     "Name": "Rum Sour"
   },
   {
@@ -3756,12 +3756,12 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Malibu coconut rum\n5oz Apple juice\n2dashes Angostura aromatic bitters\nShake",
+    "Ingredients": "1.5oz Malibu Original rum\n5oz Apple juice\n2dashes Angostura aromatic bitters\nShake",
     "Name": "Sundowner"
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Bacardi 8 year old aged rum\n0.33oz Pineapple juice\n0.33oz Orange juice\n0.33oz Lime juice\n1dash Angostura aromatic bitters\nShake",
+    "Ingredients": "2oz Bacardi 8 year old rum\n0.33oz Pineapple juice\n0.33oz Orange juice\n0.33oz Lime juice\n1dash Angostura aromatic bitters\nShake",
     "Name": "Tangipahoa Planter's Punch"
   },
   {
@@ -3776,12 +3776,12 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Malibu coconut rum\n1oz Disaronno amaretto\nStir",
+    "Ingredients": "1oz Malibu Original rum\n1oz Disaronno amaretto\nStir",
     "Name": "Tropical Martini"
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Malibu coconut rum\n0.5oz Grand Marnier triple sec\n1.5oz Orange juice\nShake",
+    "Ingredients": "1oz Malibu Original rum\n0.5oz Grand Marnier triple sec\n1.5oz Orange juice\nShake",
     "Name": "Tropical Orgasm 2"
   },
   {
@@ -3806,7 +3806,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Flor de Cana 4 year old light rum\n0.5oz Luxardo Maraschino liqueur\n1.5oz Grapefruit juice\n0.75oz Lime juice\n0.25oz Simple syrup\nShake",
+    "Ingredients": "2oz Flor de Cana 4 year old rum\n0.5oz Luxardo Maraschino liqueur\n1.5oz Grapefruit juice\n0.75oz Lime juice\n0.25oz Simple syrup\nShake",
     "Name": "Hemmingway Daiquiri"
   },
   {
@@ -3896,12 +3896,12 @@
   },
   {
     "Rating": 2,
-    "Ingredients": "0.75oz Malibu coconut rum\n1oz Cranberry juice\n1oz Apple juice\nShake\n",
+    "Ingredients": "0.75oz Malibu Original rum\n1oz Cranberry juice\n1oz Apple juice\nShake\n",
     "Name": "Malibu Bay Breeze"
   },
   {
     "Rating": 2,
-    "Ingredients": "2oz Malibu coconut rum\n1oz Grenadine syrup (slide under)\nTop up with orange juice\nBuild",
+    "Ingredients": "2oz Malibu Original rum\n1oz Grenadine syrup (slide under)\nTop up with orange juice\nBuild",
     "Name": "Malibu Sunrise"
   },
   {
@@ -3941,7 +3941,7 @@
   },
   {
     "Rating": 2,
-    "Ingredients": "2oz Bacardi 8 year old aged rum\n0.5oz GoldEngel Elixirum Aperitivum elderflower liqueur\n0.75oz Pineapple juice\n0.75oz Lime juice\n1oz Egg white\n1dash Angostura aromatic bitters\nDry shake",
+    "Ingredients": "2oz Bacardi 8 year old rum\n0.5oz GoldEngel Elixirum Aperitivum elderflower liqueur\n0.75oz Pineapple juice\n0.75oz Lime juice\n1oz Egg white\n1dash Angostura aromatic bitters\nDry shake",
     "Name": "Will Of Alan"
   },
   {
