@@ -1,6 +1,16 @@
 [
   {
     "Rating": 5,
+    "Ingredients": "1oz Tanqueray Rangpur gin\n0.75oz Imbue sweet vermouth\n0.75oz Campari orange liqueur\nStir",
+    "Name": "Negroni"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1oz Foursquare Doorly's 8 Year Old rum\n0.5oz Flor de Cana 4 Year Old rum\n0.75oz Imbue sweet vermouth\n1oz Hamilton 151 rum (float)\n0.5oz Pierre Ferrand dry curacao triple sec\n1oz Pineapple juice\n1oz Orange juice\n0.5oz Lemon juice\n0.25oz Falernum syrup\n2dashes Angostura aromatic bitters\nShake",
+    "Name": "South Seas Zombie"
+  },
+  {
+    "Rating": 5,
     "Ingredients": "1.5oz Sombra mezcal\n1oz Imbue sweet vermouth\n1oz Aperol rhubarb liqueur\nStir",
     "Name": "Mezcal Negroni"
   },
