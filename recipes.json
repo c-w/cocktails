@@ -882,7 +882,7 @@
   {
     "Rating": 2,
     "Ingredients": "1oz Monkey Shoulder blended whiskey\n0.75oz Lustau sweet vermouth\n0.75oz Contratto bitter orange liqueur\nStir",
-    "Name": "Scotch Boulvardier"
+    "Name": "Scotch Boulevardier"
   },
   {
     "Rating": 3,
@@ -1217,7 +1217,7 @@
   {
     "Rating": 5,
     "Ingredients": "1.5oz Van Brunt Stillhouse bourbon\n0.5oz Martini Rossi sweet vermouth\n0.25oz Carpano Antica sweet vermouth\n0.25oz Contratto bitter orange liqueur\n0.25oz Campari orange liqueur\n0.25oz Contratto aperitif rhubarb liqueur\nStir",
-    "Name": "Boulvardier"
+    "Name": "Boulevardier"
   },
   {
     "Rating": 5,
@@ -1487,7 +1487,7 @@
   {
     "Rating": 4,
     "Ingredients": "1.25oz Old Grand Dad bourbon\n1oz Boissiere sweet vermouth\n0.5oz Contratto bitter orange liqueur\n0.5oz Campari orange liqueur\nStir",
-    "Name": "Boulvardier"
+    "Name": "Boulevardier"
   },
   {
     "Rating": 4,
@@ -1517,7 +1517,7 @@
   {
     "Rating": 3,
     "Ingredients": "1oz Henry McKenna Bonded bourbon\n0.75oz Boissiere sweet vermouth\n0.75oz Campari orange liqueur\nStir",
-    "Name": "Boulvardier"
+    "Name": "Boulevardier"
   },
   {
     "Rating": 5,
@@ -1692,7 +1692,7 @@
   {
     "Rating": 4,
     "Ingredients": "1oz Henry McKenna Bonded bourbon\n0.75oz Byrrh quinquina sweet vermouth\n0.75oz Campari orange liqueur\nStir",
-    "Name": "Boulvardier"
+    "Name": "Boulevardier"
   },
   {
     "Rating": 4,
@@ -1947,7 +1947,7 @@
   {
     "Rating": 3,
     "Ingredients": "1oz Evan Williams Bonded bourbon\n0.75oz Perucchi sweet vermouth\n0.75oz Campari orange liqueur\nStir",
-    "Name": "Boulvardier"
+    "Name": "Boulevardier"
   },
   {
     "Rating": 5,
@@ -2057,7 +2057,7 @@
   {
     "Rating": 4,
     "Ingredients": "1oz Henry McKenna Bonded bourbon\n0.75oz Perucchi sweet vermouth\n0.75oz Campari orange liqueur\nStir",
-    "Name": "Boulvardier"
+    "Name": "Boulevardier"
   },
   {
     "Rating": 4,
@@ -2107,7 +2107,7 @@
   {
     "Rating": 4,
     "Ingredients": "1oz Henry McKenna Bonded bourbon\n0.75oz Tribuno sweet vermouth\n0.75oz Campari orange liqueur\nStir",
-    "Name": "Boulvardier"
+    "Name": "Boulevardier"
   },
   {
     "Rating": 4,
@@ -2187,12 +2187,12 @@
   {
     "Rating": 5,
     "Ingredients": "1oz Henry McKenna Bonded bourbon\n0.75oz Cocchi Dopo Teatro sweet vermouth\n0.75oz Leopold Bros aperitivo orange liqueur\nOrange twist\nStir",
-    "Name": "Boulvardier"
+    "Name": "Boulevardier"
   },
   {
     "Rating": 4,
     "Ingredients": "1oz Old Overholt rye (infused with coffee for 7 days)\n0.75oz Cocchi Dopo Teatro sweet vermouth\n0.75oz Leopold Bros aperitivo orange liqueur\n1dash Regan's orange bitters\nOrange twist\nStir",
-    "Name": "Coffee Boulvardier"
+    "Name": "Coffee Boulevardier"
   },
   {
     "Rating": 4,
@@ -2252,7 +2252,7 @@
   {
     "Rating": 3,
     "Ingredients": "1oz Bulleit rye\n0.75oz Cocchi Dopo Teatro sweet vermouth\n0.75oz Leopold Bros aperitivo orange liqueur\nStir",
-    "Name": "Boulvardier"
+    "Name": "Boulevardier"
   },
   {
     "Rating": 4,
@@ -2262,7 +2262,7 @@
   {
     "Rating": 5,
     "Ingredients": "1oz Wild Turkey 101 bourbon\n0.75oz Cocchi Dopo Teatro sweet vermouth\n0.75oz Leopold Bros aperitivo orange liqueur\nOrange twist (discarded)\nStir",
-    "Name": "Boulvardier"
+    "Name": "Boulevardier"
   },
   {
     "Rating": 4,
@@ -2432,7 +2432,7 @@
   {
     "Rating": 4,
     "Ingredients": "1oz Wild Turkey 101 bourbon\n0.75oz Vya sweet vermouth\n0.75oz Leopold Bros aperitivo orange liqueur\nOrange twist (garnish)\nStir",
-    "Name": "Boulvardier"
+    "Name": "Boulevardier"
   },
   {
     "Rating": 3,
@@ -2557,7 +2557,7 @@
   {
     "Rating": 4,
     "Ingredients": "1oz Wild Turkey 101 bourbon\n0.75oz Gran Classico orange liqueur\n0.75oz Kopke ruby port sweet vermouth\nOrange twist (garnish)\nStir",
-    "Name": "Port Boulvardier"
+    "Name": "Port Boulevardier"
   },
   {
     "Rating": 4,
@@ -2692,7 +2692,7 @@
   {
     "Rating": 3,
     "Ingredients": "0.75oz Old Overholt rye\n0.75oz Carpano Punt E Mes sweet vermouth\n0.75oz Gran Classico orange liqueur\n2dashes Fee Brothers black walnut bitters\nStir",
-    "Name": "Boulvardier"
+    "Name": "Boulevardier"
   },
   {
     "Rating": 4,
@@ -2702,7 +2702,7 @@
   {
     "Rating": 4,
     "Ingredients": "1oz Wild Turkey 101 bourbon\n0.75oz Gran Classico orange liqueur\n0.75oz Carpano Punt E Mes sweet vermouth\nOrange twist\nStir",
-    "Name": "Boulvardier"
+    "Name": "Boulevardier"
   },
   {
     "Rating": 3,
@@ -2762,7 +2762,7 @@
   {
     "Rating": 4,
     "Ingredients": "0.5oz Old Overholt rye\n0.5oz Martini Rossi sweet vermouth\n0.5oz Gran Classico orange liqueur\n1dash Fee Brothers black walnut bitters\nStir",
-    "Name": "Boulvardier"
+    "Name": "Boulevardier"
   },
   {
     "Rating": 3,
@@ -2777,7 +2777,7 @@
   {
     "Rating": 4,
     "Ingredients": "0.75oz Old Overholt rye\n0.75oz Martini Rossi sweet vermouth\n0.75oz Gran Classico orange liqueur\n2dashes Fee Brothers black walnut bitters\nStir",
-    "Name": "Boulvardier"
+    "Name": "Boulevardier"
   },
   {
     "Rating": 4,
@@ -2817,7 +2817,7 @@
   {
     "Rating": 5,
     "Ingredients": "1oz Rittenhouse Bonded rye\n1oz Carpano Punt E Mes sweet vermouth\n1oz Campari orange liqueur\n1pinch Salt\nOrange twist\nStir",
-    "Name": "Boulvardier"
+    "Name": "Boulevardier"
   },
   {
     "Rating": 5,
@@ -3232,7 +3232,7 @@
   {
     "Rating": 4,
     "Ingredients": "0.75oz Old Overholt rye\n0.5oz Cocchi Di Torino sweet vermouth\n0.25oz Gran Classico orange liqueur\n1dash Regan's orange bitters\nStir",
-    "Name": "Boulvardier"
+    "Name": "Boulevardier"
   },
   {
     "Rating": 4,
@@ -3482,7 +3482,7 @@
   {
     "Rating": 3,
     "Ingredients": "1.5oz Old Grand Dad bourbon\n0.75oz Campari orange liqueur\n0.75oz Dolin sweet vermouth\nStir",
-    "Name": "Boulvardier"
+    "Name": "Boulevardier"
   },
   {
     "Rating": 3,
@@ -3547,7 +3547,7 @@
   {
     "Rating": 3,
     "Ingredients": "1oz Old Grand Dad bourbon\n1oz Dolin sweet vermouth\n1oz Campari orange liqueur\n1pinch Salt\n10drops Bittermens mole bitters\nStir",
-    "Name": "Boulvardier"
+    "Name": "Boulevardier"
   },
   {
     "Rating": 3,
@@ -3812,7 +3812,7 @@
   {
     "Rating": 3,
     "Ingredients": "1.5oz Old Grand Dad Bonded bourbon\n0.75oz Campari orange liqueur\n0.75oz Dolin sweet vermouth\nStir",
-    "Name": "Boulvardier"
+    "Name": "Boulevardier"
   },
   {
     "Rating": 3,
@@ -3952,7 +3952,7 @@
   {
     "Rating": 2,
     "Ingredients": "1.5oz Old Grand Dad bourbon (washed with burnt butter)\n0.75oz Campari orange liqueur\n0.75oz Dolin sweet vermouth\nStir",
-    "Name": "Boulvardier"
+    "Name": "Boulevardier"
   },
   {
     "Rating": 2,
