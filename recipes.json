@@ -1,5 +1,15 @@
 [
   {
+    "Rating": 4,
+    "Ingredients": "1.5oz Imbue sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Aperol rhubarb liqueur\n1oz Club soda\nBuild",
+    "Name": "Young American"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1oz Jim Beam Old Tub Bonded bourbon\n0.75oz Imbue sweet vermouth\n0.75oz Campari orange liqueur\nStir",
+    "Name": "Boulevardier"
+  },
+  {
     "Rating": 5,
     "Ingredients": "1oz Tanqueray Rangpur gin\n0.75oz Imbue sweet vermouth\n0.75oz Campari orange liqueur\nStir",
     "Name": "Negroni"
