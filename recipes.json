@@ -1,6 +1,11 @@
 [
   {
     "Rating": 4,
+    "Ingredients": "1oz Wray and Nephew Appleton Reserve 8 Year Old rum\n1oz Rhum JM VSOP rum\n0.5oz Pierre Ferrand dry curacao triple sec\n1oz Lime juice\n0.5oz Orgeat syrup\n0.25oz Simple syrup\nShake",
+    "Name": "Mai Tai"
+  },
+  {
+    "Rating": 4,
     "Ingredients": "2oz Jim Beam Old Tub Bonded bourbon\n1oz Pineapple juice\n0.75oz Lemon juice\n0.5oz Falernum syrup\n0.5oz Simple syrup\n2dashes Angostura aromatic bitters\nShake",
     "Name": "Iron Ranger"
   },
