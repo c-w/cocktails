@@ -1,5 +1,10 @@
 [
   {
+    "Rating": 5,
+    "Ingredients": "1.5oz Clement Premiere Canne rum\n0.75oz Lime juice\n0.5oz Simple syrup\nShake",
+    "Name": "Daiquiri"
+  },
+  {
     "Rating": 4,
     "Ingredients": "1oz Wray and Nephew Appleton Reserve 8 Year Old rum\n1oz Rhum JM VSOP rum\n0.5oz Pierre Ferrand dry curacao triple sec\n1oz Lime juice\n0.5oz Orgeat syrup\n0.25oz Simple syrup\nShake",
     "Name": "Mai Tai"
