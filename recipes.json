@@ -16,7 +16,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz El Dorado 8 Year Old rum\n0.5oz Wray and Nephew Appleton Reserve 8 Year Old rum\n0.5oz Smith and Cross rum\n0.5oz Home-made coffee liqueur\n0.5oz Campari orange liqueur\n0.25oz Home-made allspice liqueur (float)\n1.5oz Pineapple juice\n0.5oz Lemon juice\nShake",
+    "Ingredients": "1oz El Dorado 8 Year Old rum\n0.5oz Wray and Nephew Appleton Reserve 8 Year Old rum\n0.5oz Smith and Cross rum\n0.5oz Home-made coffee liqueur\n0.5oz Campari bitter\n0.25oz Home-made allspice liqueur (float)\n1.5oz Pineapple juice\n0.5oz Lemon juice\nShake",
     "Name": "The Sex Live Of Cannibals"
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Wray and Nephew Overproof rum\n0.5oz Campari orange liqueur\n0.5oz Lime juice\n0.5oz Cinnamon syrup\nShake",
+    "Ingredients": "1.5oz Wray and Nephew Overproof rum\n0.5oz Campari bitter\n0.5oz Lime juice\n0.5oz Cinnamon syrup\nShake",
     "Name": "Firewalker"
   },
   {
@@ -111,7 +111,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1oz Wray and Nephew Appleton Reserve 8 Year Old rum\n0.25oz Hamilton 151 Overproof rum (float)\n0.75oz Campari orange liqueur\n0.75oz Imbue sweet vermouth\n0.75oz Pineapple juice\n0.75oz Coconut cream\nShake",
+    "Ingredients": "1oz Wray and Nephew Appleton Reserve 8 Year Old rum\n0.25oz Hamilton 151 Overproof rum (float)\n0.75oz Campari bitter\n0.75oz Imbue sweet vermouth\n0.75oz Pineapple juice\n0.75oz Coconut cream\nShake",
     "Name": "Amore Di Coco"
   },
   {
@@ -126,17 +126,17 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Imbue sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Aperol aperitif\n1oz Club soda\nBuild",
+    "Ingredients": "1.5oz Imbue sweet vermouth\n0.5oz Campari bitter\n0.5oz Aperol aperitif\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Jim Beam Old Tub Bonded bourbon\n0.75oz Imbue sweet vermouth\n0.75oz Campari orange liqueur\nStir",
+    "Ingredients": "1oz Jim Beam Old Tub Bonded bourbon\n0.75oz Imbue sweet vermouth\n0.75oz Campari bitter\nStir",
     "Name": "Boulevardier"
   },
   {
     "Rating": 5,
-    "Ingredients": "1oz Tanqueray Rangpur gin\n0.75oz Imbue sweet vermouth\n0.75oz Campari orange liqueur\nStir",
+    "Ingredients": "1oz Tanqueray Rangpur gin\n0.75oz Imbue sweet vermouth\n0.75oz Campari bitter\nStir",
     "Name": "Negroni"
   },
   {
@@ -456,7 +456,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Tanqueray London dry gin\n1oz Noilly Prat sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Rossbacher Magenbitter herbal liqueur\nStir",
+    "Ingredients": "1oz Tanqueray London dry gin\n1oz Noilly Prat sweet vermouth\n0.5oz Campari bitter\n0.5oz Rossbacher Magenbitter herbal liqueur\nStir",
     "Name": "Negroni"
   },
   {
@@ -466,12 +466,12 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Jalisco Sierra tequila\n1oz Campari orange liqueur\n1oz Cynar artichoke liqueur\n0.25oz Simple syrup\n1 Whole egg\n1pinch Ground coffee (garnish)\nDry shake",
+    "Ingredients": "1oz Jalisco Sierra tequila\n1oz Campari bitter\n1oz Cynar artichoke liqueur\n0.25oz Simple syrup\n1 Whole egg\n1pinch Ground coffee (garnish)\nDry shake",
     "Name": "La Perla De Oaxaca"
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Del Maguey Vida mezcal\n1oz Campari orange liqueur\n1oz Cynar artichoke liqueur\n0.25oz Simple syrup\n1 Whole egg\n1pinch Ground coffee (garnish)\nDry shake",
+    "Ingredients": "1oz Del Maguey Vida mezcal\n1oz Campari bitter\n1oz Cynar artichoke liqueur\n0.25oz Simple syrup\n1 Whole egg\n1pinch Ground coffee (garnish)\nDry shake",
     "Name": "La Perla De Oaxaca"
   },
   {
@@ -741,17 +741,17 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Banhez Espadin & Barril mezcal\n1oz Cocchi Di Torino sweet vermouth\n1oz Forthave Spirits Red orange liqueur\nStir",
+    "Ingredients": "1.5oz Banhez Espadin & Barril mezcal\n1oz Cocchi Di Torino sweet vermouth\n1oz Forthave Spirits Red bitter\nStir",
     "Name": "Mezcal Negroni"
   },
   {
     "Rating": 5,
-    "Ingredients": "1.25oz Tanqueray London dry gin\n1oz St Agrestis Inferno bitter orange liqueur\n1oz Cocchi Dopo Teatro sweet vermouth\nStir",
+    "Ingredients": "1.25oz Tanqueray London dry gin\n1oz St Agrestis Inferno bitter\n1oz Cocchi Dopo Teatro sweet vermouth\nStir",
     "Name": "Negroni"
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Meletti bitter orange liqueur\n1.5oz Cocchi Di Torino sweet vermouth\n1oz Club soda\nBuild",
+    "Ingredients": "1oz Meletti bitter\n1.5oz Cocchi Di Torino sweet vermouth\n1oz Club soda\nBuild",
     "Name": "Americano"
   },
   {
@@ -761,12 +761,12 @@
   },
   {
     "Rating": 2,
-    "Ingredients": "1oz Plantation Stiggins' Fancy Pineapple rum\n0.5oz Meletti bitter orange liqueur\n0.75oz Cocchi Di Torino sweet vermouth\nStir",
+    "Ingredients": "1oz Plantation Stiggins' Fancy Pineapple rum\n0.5oz Meletti bitter\n0.75oz Cocchi Di Torino sweet vermouth\nStir",
     "Name": "Rum Negroni"
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Plantation Stiggins' Fancy Pineapple rum\n0.5oz Meletti bitter orange liqueur\n1oz Pineapple juice\n0.5oz Lime juice\n0.25oz Simple syrup\nShake",
+    "Ingredients": "2oz Plantation Stiggins' Fancy Pineapple rum\n0.5oz Meletti bitter\n1oz Pineapple juice\n0.5oz Lime juice\n0.25oz Simple syrup\nShake",
     "Name": "Jungle Bird"
   },
   {
@@ -831,7 +831,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz Henry McKenna Bonded bourbon\n0.75oz Martini Rossi extra dry vermouth\n0.75oz Campari orange liqueur\nStir",
+    "Ingredients": "0.75oz Henry McKenna Bonded bourbon\n0.75oz Martini Rossi extra dry vermouth\n0.75oz Campari bitter\nStir",
     "Name": "Old Pal"
   },
   {
@@ -841,7 +841,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Hendrick's gin\n1oz Campari orange liqueur\n1oz St Germain elderflower liqueur\n2dashes Peychauds aromatic bitters\nStir",
+    "Ingredients": "1oz Hendrick's gin\n1oz Campari bitter\n1oz St Germain elderflower liqueur\n2dashes Peychauds aromatic bitters\nStir",
     "Name": "Cell #34"
   },
   {
@@ -851,7 +851,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2.5oz Martini Rossi dry vermouth\n1.5oz Campari orange liqueur\n1oz Club soda\nBuild",
+    "Ingredients": "2.5oz Martini Rossi dry vermouth\n1.5oz Campari bitter\n1oz Club soda\nBuild",
     "Name": "Bicicletta"
   },
   {
@@ -891,7 +891,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Plantation Original Dark rum\n0.5oz Plantation OFTD rum\n1oz Campari orange liqueur\n1.5oz Orange juice\n1oz Lemon juice\n0.75oz Orgeat syrup\n1pinch Salt\nShake",
+    "Ingredients": "1oz Plantation Original Dark rum\n0.5oz Plantation OFTD rum\n1oz Campari bitter\n1.5oz Orange juice\n1oz Lemon juice\n0.75oz Orgeat syrup\n1pinch Salt\nShake",
     "Name": "Deathstalker"
   },
   {
@@ -906,17 +906,17 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz Milagro Reposado tequila\n0.75oz Cinzano rosso sweet vermouth\n0.75oz Campari orange liqueur\n2dashes Woodford Reserve orange bitters\nStir",
+    "Ingredients": "0.75oz Milagro Reposado tequila\n0.75oz Cinzano rosso sweet vermouth\n0.75oz Campari bitter\n2dashes Woodford Reserve orange bitters\nStir",
     "Name": "Agavoni"
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz Plantation Original Dark rum\n0.75oz Cinzano rosso sweet vermouth\n0.75oz Campari orange liqueur\nStir",
+    "Ingredients": "0.75oz Plantation Original Dark rum\n0.75oz Cinzano rosso sweet vermouth\n0.75oz Campari bitter\nStir",
     "Name": "Kingston Negroni"
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Cinzano rosso sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Aperol aperitif\n1oz Club soda\n2dashes St George verte absinthe\nBuild",
+    "Ingredients": "1.5oz Cinzano rosso sweet vermouth\n0.5oz Campari bitter\n0.5oz Aperol aperitif\n1oz Club soda\n2dashes St George verte absinthe\nBuild",
     "Name": "Young American"
   },
   {
@@ -941,12 +941,12 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz Hendrick's gin\n0.75oz Cinzano rosso sweet vermouth\n0.75oz Campari orange liqueur\nStir",
+    "Ingredients": "0.75oz Hendrick's gin\n0.75oz Cinzano rosso sweet vermouth\n0.75oz Campari bitter\nStir",
     "Name": "Negroni"
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Cinzano rosso sweet vermouth\n0.5oz Contratto bitter orange liqueur\n0.5oz Aperol aperitif\n1oz Club soda\nBuild",
+    "Ingredients": "1.5oz Cinzano rosso sweet vermouth\n0.5oz Contratto bitter\n0.5oz Aperol aperitif\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
@@ -966,7 +966,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Plantation 5 Year Old rum\n0.5oz Plantation OFTD rum\n0.5oz Contratto bitter orange liqueur\n0.5oz Passionfruit syrup\n1.5oz Pineapple juice\n0.5oz Lime juice\nShake",
+    "Ingredients": "1oz Plantation 5 Year Old rum\n0.5oz Plantation OFTD rum\n0.5oz Contratto bitter\n0.5oz Passionfruit syrup\n1.5oz Pineapple juice\n0.5oz Lime juice\nShake",
     "Name": "Commando Bird"
   },
   {
@@ -1016,7 +1016,7 @@
   },
   {
     "Rating": 2,
-    "Ingredients": "1oz Monkey Shoulder blended whiskey\n0.75oz Lustau sweet vermouth\n0.75oz Contratto bitter orange liqueur\nStir",
+    "Ingredients": "1oz Monkey Shoulder blended whiskey\n0.75oz Lustau sweet vermouth\n0.75oz Contratto bitter\nStir",
     "Name": "Scotch Boulevardier"
   },
   {
@@ -1041,7 +1041,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Lustau sweet vermouth\n0.5oz Contratto bitter orange liqueur\n0.5oz Aperol aperitif\n1oz Club soda\nBuild",
+    "Ingredients": "1.5oz Lustau sweet vermouth\n0.5oz Contratto bitter\n0.5oz Aperol aperitif\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
@@ -1061,22 +1061,22 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "0.75oz Union Uno mezcal\n0.75oz Lustau sweet vermouth\n0.75oz Contratto bitter orange liqueur\nStir",
+    "Ingredients": "0.75oz Union Uno mezcal\n0.75oz Lustau sweet vermouth\n0.75oz Contratto bitter\nStir",
     "Name": "Mezcal Negroni"
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Plantation OFTD rum\n0.75oz Lustau sweet vermouth\n0.75oz Contratto bitter orange liqueur\nStir",
+    "Ingredients": "0.75oz Plantation OFTD rum\n0.75oz Lustau sweet vermouth\n0.75oz Contratto bitter\nStir",
     "Name": "Kingston Negroni"
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Sul gin\n1oz Lustau sweet vermouth\n1oz Contratto bitter orange liqueur\nStir",
+    "Ingredients": "1oz Sul gin\n1oz Lustau sweet vermouth\n1oz Contratto bitter\nStir",
     "Name": "Negroni"
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Lustau sweet vermouth\n0.5oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif\n1oz Club soda\nBuild",
+    "Ingredients": "1.5oz Lustau sweet vermouth\n0.5oz Contratto bitter\n0.5oz Contratto aperitif\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
@@ -1101,7 +1101,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.5oz Plantation 3 Stars rum\n0.5oz Plantation 5 Year Old rum\n0.25oz Plantation OFTD rum (float)\n0.25oz Contratto bitter orange liqueur\n0.25oz Orgeat syrup\n0.25oz Cinnamon syrup\n0.25oz Lime juice\nShake",
+    "Ingredients": "0.5oz Plantation 3 Stars rum\n0.5oz Plantation 5 Year Old rum\n0.25oz Plantation OFTD rum (float)\n0.25oz Contratto bitter\n0.25oz Orgeat syrup\n0.25oz Cinnamon syrup\n0.25oz Lime juice\nShake",
     "Name": "Devil's Left Hand"
   },
   {
@@ -1136,7 +1136,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Plantation 5 Year Old rum\n0.5oz Plantation OFTD rum\n1oz Contratto bitter orange liqueur\n1.5oz Orange juice\n1oz Lemon juice\n0.75oz Orgeat syrup\n1pinch Salt\nShake",
+    "Ingredients": "1oz Plantation 5 Year Old rum\n0.5oz Plantation OFTD rum\n1oz Contratto bitter\n1.5oz Orange juice\n1oz Lemon juice\n0.75oz Orgeat syrup\n1pinch Salt\nShake",
     "Name": "Deathstalker"
   },
   {
@@ -1211,7 +1211,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Hendrick's gin\n1oz Contratto bitter orange liqueur\n1oz Vya extra dry vermouth\nStir",
+    "Ingredients": "1oz Hendrick's gin\n1oz Contratto bitter\n1oz Vya extra dry vermouth\nStir",
     "Name": "Cardinale"
   },
   {
@@ -1221,7 +1221,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Old Grand Dad 114 bourbon\n0.5oz Contratto bitter orange liqueur\n0.5oz Heering cherry liqueur\n1oz Pineapple juice\n0.5oz Lemon juice\nShake",
+    "Ingredients": "1oz Old Grand Dad 114 bourbon\n0.5oz Contratto bitter\n0.5oz Heering cherry liqueur\n1oz Pineapple juice\n0.5oz Lemon juice\nShake",
     "Name": "Sling and Arrow"
   },
   {
@@ -1246,7 +1246,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Milagro Reposado tequila\n1oz Peloton de la Muerte mezcal\n0.5oz Campari orange liqueur\n0.5oz Orgeat syrup\n0.5oz Lime juice\n0.5oz Grapefruit juice\n1oz Pineapple juice\n2barsp St George verte absinthe\nBlend",
+    "Ingredients": "1oz Milagro Reposado tequila\n1oz Peloton de la Muerte mezcal\n0.5oz Campari bitter\n0.5oz Orgeat syrup\n0.5oz Lime juice\n0.5oz Grapefruit juice\n1oz Pineapple juice\n2barsp St George verte absinthe\nBlend",
     "Name": "Jungle Booby"
   },
   {
@@ -1261,12 +1261,12 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Martini Rossi sweet vermouth\n0.25oz Campari orange liqueur\n0.25oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif\n1oz Club soda\nBuild",
+    "Ingredients": "1.5oz Martini Rossi sweet vermouth\n0.25oz Campari bitter\n0.25oz Contratto bitter\n0.5oz Contratto aperitif\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Carpano Antica sweet vermouth\n0.25oz Campari orange liqueur\n0.25oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif\n1oz Club soda\nBuild",
+    "Ingredients": "1.5oz Carpano Antica sweet vermouth\n0.25oz Campari bitter\n0.25oz Contratto bitter\n0.5oz Contratto aperitif\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
@@ -1276,12 +1276,12 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.25oz Citadelle gin\n0.25oz Hendrick's gin\n0.25oz Contratto bitter orange liqueur\n0.25oz Campari orange liqueuer\n0.25oz Carpano Antica sweet vermouth\n0.25oz Martini Rossi sweet vermouth\nStir",
+    "Ingredients": "0.25oz Citadelle gin\n0.25oz Hendrick's gin\n0.25oz Contratto bitter\n0.25oz Campari orange liqueuer\n0.25oz Carpano Antica sweet vermouth\n0.25oz Martini Rossi sweet vermouth\nStir",
     "Name": "Negroni"
   },
   {
     "Rating": 3,
-    "Ingredients": "0.25oz Plantation 5 Year Old rum\n0.25oz Plantation OFTD rum\n0.25oz Plantation 3 Stars rum\n0.25oz Contratto bitter orange liqueur\n0.25oz Campari orange liqueuer\n0.25oz Chartreuse Verte herbal liqueur\nStir",
+    "Ingredients": "0.25oz Plantation 5 Year Old rum\n0.25oz Plantation OFTD rum\n0.25oz Plantation 3 Stars rum\n0.25oz Contratto bitter\n0.25oz Campari orange liqueuer\n0.25oz Chartreuse Verte herbal liqueur\nStir",
     "Name": "Archbishop"
   },
   {
@@ -1296,12 +1296,12 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.25oz Plantation 5 Year Old rum\n0.25oz Plantation OFTD rum\n0.25oz Plantation 3 Stars rum\n0.25oz Contratto bitter orange liqueur\n0.25oz Campari orange liqueuer\n0.25oz Carpano Antica sweet vermouth\n0.25oz Martini Rossi sweet vermouth\nStir",
+    "Ingredients": "0.25oz Plantation 5 Year Old rum\n0.25oz Plantation OFTD rum\n0.25oz Plantation 3 Stars rum\n0.25oz Contratto bitter\n0.25oz Campari orange liqueuer\n0.25oz Carpano Antica sweet vermouth\n0.25oz Martini Rossi sweet vermouth\nStir",
     "Name": "Kingston Negroni"
   },
   {
     "Rating": 3,
-    "Ingredients": "0.25oz Citadelle gin\n0.25oz Hendrick's gin\n0.25oz Contratto bitter orange liqueur\n0.25oz Campari orange liqueuer\n0.25oz Carpano Antica sweet vermouth\n0.25oz Martini Rossi sweet vermouth\n2barsp St George verte absinthe\nStir",
+    "Ingredients": "0.25oz Citadelle gin\n0.25oz Hendrick's gin\n0.25oz Contratto bitter\n0.25oz Campari orange liqueuer\n0.25oz Carpano Antica sweet vermouth\n0.25oz Martini Rossi sweet vermouth\n2barsp St George verte absinthe\nStir",
     "Name": "Quill"
   },
   {
@@ -1341,7 +1341,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Citadelle gin\n0.25oz Martini Rossi sweet vermouth\n0.25oz Carpano Antica sweet vermouth\n0.25oz Campari orange liqueur\n0.5oz Cointreau triple sec\n1.5oz Orange juice\nShake",
+    "Ingredients": "1oz Citadelle gin\n0.25oz Martini Rossi sweet vermouth\n0.25oz Carpano Antica sweet vermouth\n0.25oz Campari bitter\n0.5oz Cointreau triple sec\n1.5oz Orange juice\nShake",
     "Name": "Old Flame"
   },
   {
@@ -1351,7 +1351,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Van Brunt Stillhouse bourbon\n0.5oz Martini Rossi sweet vermouth\n0.25oz Carpano Antica sweet vermouth\n0.25oz Contratto bitter orange liqueur\n0.25oz Campari orange liqueur\n0.25oz Contratto aperitif\nStir",
+    "Ingredients": "1.5oz Van Brunt Stillhouse bourbon\n0.5oz Martini Rossi sweet vermouth\n0.25oz Carpano Antica sweet vermouth\n0.25oz Contratto bitter\n0.25oz Campari bitter\n0.25oz Contratto aperitif\nStir",
     "Name": "Boulevardier"
   },
   {
@@ -1361,7 +1361,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "0.75oz Campari orange liqueur\n0.75oz Contratto bitter orange liqueur\n0.75oz Heering cherry liqueur\n0.75oz Lemon juice\nShake",
+    "Ingredients": "0.75oz Campari bitter\n0.75oz Contratto bitter\n0.75oz Heering cherry liqueur\n0.75oz Lemon juice\nShake",
     "Name": "Tiger Blood"
   },
   {
@@ -1376,12 +1376,12 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "2oz Peloton de la Muerte mezcal\n0.75oz Contratto aperitif\n0.5oz Contratto bitter orange liqueur\n0.25oz Campari orange liqueuer\n0.75oz Carpano Antica sweet vermouth\n0.75oz Martini Rossi sweet vermouth\nOrange twist (garnish)\nStir",
+    "Ingredients": "2oz Peloton de la Muerte mezcal\n0.75oz Contratto aperitif\n0.5oz Contratto bitter\n0.25oz Campari orange liqueuer\n0.75oz Carpano Antica sweet vermouth\n0.75oz Martini Rossi sweet vermouth\nOrange twist (garnish)\nStir",
     "Name": "Mezcal Negroni"
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Carpano Antica sweet vermouth\n0.75oz Martini Rossi sweet vermouth\n0.25oz Campari orange liqueur\n0.25oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif\n1oz Club soda\nBuild",
+    "Ingredients": "0.75oz Carpano Antica sweet vermouth\n0.75oz Martini Rossi sweet vermouth\n0.25oz Campari bitter\n0.25oz Contratto bitter\n0.5oz Contratto aperitif\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
@@ -1391,7 +1391,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Old Overholt Bonded rye (infused with chamomile)\n0.75oz Campari orange liqueur\n0.5oz St Germain elderflower liqueur\nStir",
+    "Ingredients": "2oz Old Overholt Bonded rye (infused with chamomile)\n0.75oz Campari bitter\n0.5oz St Germain elderflower liqueur\nStir",
     "Name": "Dolce Vita"
   },
   {
@@ -1401,7 +1401,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1oz Peloton de la Muerte mezcal\n1oz Contratto bitter orange liqueur\n1oz Cynar 70 artichoke liqueur\n0.25oz Simple syrup\n1 Whole egg\n1pinch Ground coffee (garnish)\nDry shake",
+    "Ingredients": "1oz Peloton de la Muerte mezcal\n1oz Contratto bitter\n1oz Cynar 70 artichoke liqueur\n0.25oz Simple syrup\n1 Whole egg\n1pinch Ground coffee (garnish)\nDry shake",
     "Name": "La Perla De Oaxaca"
   },
   {
@@ -1436,7 +1436,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Gosling's rum\n0.75oz Campari orange liqueur\n1oz Pineapple juice\n0.5oz Lime juice\n0.25oz Rich syrup\n1barsp St George verte absinthe\nShake",
+    "Ingredients": "2oz Gosling's rum\n0.75oz Campari bitter\n1oz Pineapple juice\n0.5oz Lime juice\n0.25oz Rich syrup\n1barsp St George verte absinthe\nShake",
     "Name": "Jungle Bird"
   },
   {
@@ -1461,7 +1461,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Citadelle gin\n0.5oz Campari orange liqueur\n0.25oz St Germain elderflower liqueur\n0.75oz Grapefruit juice\nShake",
+    "Ingredients": "1.5oz Citadelle gin\n0.5oz Campari bitter\n0.25oz St Germain elderflower liqueur\n0.75oz Grapefruit juice\nShake",
     "Name": "Old Friend"
   },
   {
@@ -1491,7 +1491,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1oz Peloton de la Muerte mezcal\n0.5oz Campari orange liqueur\n0.5oz Contratto bitter orange liqueur\n1oz Cynar 70 artichoke liqueur\n0.25oz Simple syrup\n1 Whole egg\n1pinch Ground coffee (garnish)\nDry shake",
+    "Ingredients": "1oz Peloton de la Muerte mezcal\n0.5oz Campari bitter\n0.5oz Contratto bitter\n1oz Cynar 70 artichoke liqueur\n0.25oz Simple syrup\n1 Whole egg\n1pinch Ground coffee (garnish)\nDry shake",
     "Name": "La Perla De Oaxaca"
   },
   {
@@ -1511,7 +1511,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz El Dorado 12 Year Old rum\n1oz Cocchi Dopo Teatro sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Contratto bitter orange liqueur\n2dashes Bittermens mole bitters\nStir",
+    "Ingredients": "1.5oz El Dorado 12 Year Old rum\n1oz Cocchi Dopo Teatro sweet vermouth\n0.5oz Campari bitter\n0.5oz Contratto bitter\n2dashes Bittermens mole bitters\nStir",
     "Name": "Right Hand"
   },
   {
@@ -1566,7 +1566,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.5oz Citadelle gin\n0.25oz Contratto bitter orange liqueur\n0.25oz Campari orange liqueur\n0.75oz Choya plum wine\nStir",
+    "Ingredients": "0.5oz Citadelle gin\n0.25oz Contratto bitter\n0.25oz Campari bitter\n0.75oz Choya plum wine\nStir",
     "Name": "Negroni"
   },
   {
@@ -1606,37 +1606,37 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Boissiere sweet vermouth\n0.25oz Campari orange liqueur\n0.25oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif\n1oz Club soda\nBuild",
+    "Ingredients": "1.5oz Boissiere sweet vermouth\n0.25oz Campari bitter\n0.25oz Contratto bitter\n0.5oz Contratto aperitif\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Boissiere sweet vermouth\n0.5oz Contratto bitter orange liqueur\n0.5oz Contratto aperitif\n1oz Club soda\nBuild",
+    "Ingredients": "1.5oz Boissiere sweet vermouth\n0.5oz Contratto bitter\n0.5oz Contratto aperitif\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Boissiere sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Contratto aperitif\n1oz Club soda\nBuild",
+    "Ingredients": "1.5oz Boissiere sweet vermouth\n0.5oz Campari bitter\n0.5oz Contratto aperitif\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
     "Rating": 4,
-    "Ingredients": "1.25oz Old Grand Dad bourbon\n1oz Boissiere sweet vermouth\n0.5oz Contratto bitter orange liqueur\n0.5oz Campari orange liqueur\nStir",
+    "Ingredients": "1.25oz Old Grand Dad bourbon\n1oz Boissiere sweet vermouth\n0.5oz Contratto bitter\n0.5oz Campari bitter\nStir",
     "Name": "Boulevardier"
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Citadelle gin\n0.5oz Contratto bitter orange liqueur\n0.5oz Campari orange liqueur\n1oz Boissiere sweet vermouth\nStir",
+    "Ingredients": "1oz Citadelle gin\n0.5oz Contratto bitter\n0.5oz Campari bitter\n1oz Boissiere sweet vermouth\nStir",
     "Name": "Negroni"
   },
   {
     "Rating": 4,
-    "Ingredients": "0.5oz El Dorado 12 Year Old rum\n0.5oz Boissiere sweet vermouth\n0.25oz Campari orange liqueur\n0.25oz Contratto bitter orange liqueur\nStir",
+    "Ingredients": "0.5oz El Dorado 12 Year Old rum\n0.5oz Boissiere sweet vermouth\n0.25oz Campari bitter\n0.25oz Contratto bitter\nStir",
     "Name": "Kingston Negroni"
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Pierre Ferrand 1840 cognac\n0.5oz Campari orange liqueur\n0.5oz Contratto bitter orange liqueur\n1oz Boissiere sweet vermouth\n0.25oz Luxardo Maraschino liqueur\n0.25oz Lemon juice\n1dash Angostura aromatic bitters\n1dash Peychauds aromatic bitters\nStir",
+    "Ingredients": "1.5oz Pierre Ferrand 1840 cognac\n0.5oz Campari bitter\n0.5oz Contratto bitter\n1oz Boissiere sweet vermouth\n0.25oz Luxardo Maraschino liqueur\n0.25oz Lemon juice\n1dash Angostura aromatic bitters\n1dash Peychauds aromatic bitters\nStir",
     "Name": "Novecento"
   },
   {
@@ -1646,12 +1646,12 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Milagro Reposado tequila\n1oz Boissiere sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Contratto bitter orange liqueur\n1dash Bittermens mole bitters\nStir",
+    "Ingredients": "1oz Milagro Reposado tequila\n1oz Boissiere sweet vermouth\n0.5oz Campari bitter\n0.5oz Contratto bitter\n1dash Bittermens mole bitters\nStir",
     "Name": "1836"
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Henry McKenna Bonded bourbon\n0.75oz Boissiere sweet vermouth\n0.75oz Campari orange liqueur\nStir",
+    "Ingredients": "1oz Henry McKenna Bonded bourbon\n0.75oz Boissiere sweet vermouth\n0.75oz Campari bitter\nStir",
     "Name": "Boulevardier"
   },
   {
@@ -1671,7 +1671,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1oz Broker's London dry gin\n1oz Campari orange liqueur\n1oz Boissiere sweet vermouth\nOrange twist (garnish)\nStir",
+    "Ingredients": "1oz Broker's London dry gin\n1oz Campari bitter\n1oz Boissiere sweet vermouth\nOrange twist (garnish)\nStir",
     "Name": "Negroni"
   },
   {
@@ -1691,7 +1691,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1oz Contratto aperitif\n0.5oz Campari orange liqueur\n1.5oz Cynar 70 artichoke liqueur\n1.5oz Boissiere sweet vermouth\nStir",
+    "Ingredients": "1oz Contratto aperitif\n0.5oz Campari bitter\n1.5oz Cynar 70 artichoke liqueur\n1.5oz Boissiere sweet vermouth\nStir",
     "Name": "L'Amore Di Amaro"
   },
   {
@@ -1721,7 +1721,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Laird's 100 Apple brandy\n0.75oz Campari orange liqueur\n0.75oz St Germain elderflower liqueur\n0.75oz Lime juice\nShake",
+    "Ingredients": "0.75oz Laird's 100 Apple brandy\n0.75oz Campari bitter\n0.75oz St Germain elderflower liqueur\n0.75oz Lime juice\nShake",
     "Name": "Sideways In Reverse"
   },
   {
@@ -1796,7 +1796,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz El Dorado 12 Year Old rum\n0.75oz Campari orange liqueur\n1oz Byrrh quinquina sweet vermouth\n1barsp Home-made coffee liqueur\nStir",
+    "Ingredients": "1oz El Dorado 12 Year Old rum\n0.75oz Campari bitter\n1oz Byrrh quinquina sweet vermouth\n1barsp Home-made coffee liqueur\nStir",
     "Name": "Coffee Negroni"
   },
   {
@@ -1816,7 +1816,7 @@
   },
   {
     "Rating": 2,
-    "Ingredients": "1oz Broker's London dry gin\n1oz Campari orange liqueur\n0.5oz Byrrh quinquina sweet vermouth\n0.5oz Fernet Branca amaro\nStir",
+    "Ingredients": "1oz Broker's London dry gin\n1oz Campari bitter\n0.5oz Byrrh quinquina sweet vermouth\n0.5oz Fernet Branca amaro\nStir",
     "Name": "Countless Night"
   },
   {
@@ -1826,17 +1826,17 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Henry McKenna Bonded bourbon\n0.75oz Byrrh quinquina sweet vermouth\n0.75oz Campari orange liqueur\nStir",
+    "Ingredients": "1oz Henry McKenna Bonded bourbon\n0.75oz Byrrh quinquina sweet vermouth\n0.75oz Campari bitter\nStir",
     "Name": "Boulevardier"
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Broker's London dry gin\n0.75oz Campari orange liqueur\n0.75oz Byrrh quinquina sweet vermouth\nStir",
+    "Ingredients": "0.75oz Broker's London dry gin\n0.75oz Campari bitter\n0.75oz Byrrh quinquina sweet vermouth\nStir",
     "Name": "Negroni"
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Milagro Reposado tequila\n0.75oz Campari orange liqueur\n0.5oz Home-made coffee liqueur\n0.5oz Byrrh quinquina sweet vermouth\n1dash Peychauds aromatic bitters\n1dash Bittermens mole bitters\nStir",
+    "Ingredients": "1.5oz Milagro Reposado tequila\n0.75oz Campari bitter\n0.5oz Home-made coffee liqueur\n0.5oz Byrrh quinquina sweet vermouth\n1dash Peychauds aromatic bitters\n1dash Bittermens mole bitters\nStir",
     "Name": "Lonnie Desoto"
   },
   {
@@ -1851,7 +1851,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Old Overholt Bonded rye\n0.75oz Byrrh quinquina sweet vermouth\n0.75oz Campari orange liqueur\nStir",
+    "Ingredients": "0.75oz Old Overholt Bonded rye\n0.75oz Byrrh quinquina sweet vermouth\n0.75oz Campari bitter\nStir",
     "Name": "Streets Of San Miguel"
   },
   {
@@ -1906,12 +1906,12 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Campari orange liqueur\n0.75oz Heering cherry liqueur\n0.75oz Lemon juice\nShake",
+    "Ingredients": "1.5oz Campari bitter\n0.75oz Heering cherry liqueur\n0.75oz Lemon juice\nShake",
     "Name": "Tiger Blood"
   },
   {
     "Rating": 4,
-    "Ingredients": "0.5oz Fidencio mezcal\n0.5oz Home-made coffee liqueur\n1oz Campari orange liqueur\n1oz Perucchi sweet vermouth\nStir",
+    "Ingredients": "0.5oz Fidencio mezcal\n0.5oz Home-made coffee liqueur\n1oz Campari bitter\n1oz Perucchi sweet vermouth\nStir",
     "Name": "Sailor's Negroni"
   },
   {
@@ -1936,7 +1936,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Broker's London dry gin\n1oz Perucchi sweet vermouth\n0.5oz Campari orange liqueur\n0.25oz Cynar 70 artichoke liqueur\n0.25oz St Germain elderflower liqueur\nGrapefruit twist (garnish)\nStir",
+    "Ingredients": "1oz Broker's London dry gin\n1oz Perucchi sweet vermouth\n0.5oz Campari bitter\n0.25oz Cynar 70 artichoke liqueur\n0.25oz St Germain elderflower liqueur\nGrapefruit twist (garnish)\nStir",
     "Name": "Piglet's Lament"
   },
   {
@@ -1956,7 +1956,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz Broker's London dry gin\n0.75oz Campari orange liqueur\n0.75oz Pimm's No 1 amaro\nStir",
+    "Ingredients": "0.75oz Broker's London dry gin\n0.75oz Campari bitter\n0.75oz Pimm's No 1 amaro\nStir",
     "Name": "Oxford Negroni"
   },
   {
@@ -1986,12 +1986,12 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Pierre Ferrand 1840 cognac\n0.75oz Perucchi sweet vermouth\n0.5oz Campari orange liqueur\n0.25oz Benedictine herbal liqueur\n2dashes Regan's orange bitters\nStir",
+    "Ingredients": "1.5oz Pierre Ferrand 1840 cognac\n0.75oz Perucchi sweet vermouth\n0.5oz Campari bitter\n0.25oz Benedictine herbal liqueur\n2dashes Regan's orange bitters\nStir",
     "Name": "Phoenix Feather"
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Broker's London dry gin\n0.75oz Rothman & Winter apricot liqueur\n0.5oz Campari orange liqueur\n0.75oz Lemon juice\n1pinch Salt\nShake",
+    "Ingredients": "1oz Broker's London dry gin\n0.75oz Rothman & Winter apricot liqueur\n0.5oz Campari bitter\n0.75oz Lemon juice\n1pinch Salt\nShake",
     "Name": "Juniper #3"
   },
   {
@@ -2011,7 +2011,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Old Overholt Bonded rye\n0.25oz Henry McKenna Bonded bourbon\n1oz Campari orange liqueur\n0.75oz Heering cherry liqueur\n2dashes Bittermens mole bitters\n1dash Regan's orange bitters\nStir",
+    "Ingredients": "1oz Old Overholt Bonded rye\n0.25oz Henry McKenna Bonded bourbon\n1oz Campari bitter\n0.75oz Heering cherry liqueur\n2dashes Bittermens mole bitters\n1dash Regan's orange bitters\nStir",
     "Name": "Arbitrary Nature Of Time"
   },
   {
@@ -2046,7 +2046,7 @@
   },
   {
     "Rating": 2,
-    "Ingredients": "1.5oz Wray and Nephew Appleton Signature Blend rum\n0.75oz Campari orange liqueur\n2oz Pineapple juice\n0.5oz Lime juice\n0.25oz Rich syrup\nShake",
+    "Ingredients": "1.5oz Wray and Nephew Appleton Signature Blend rum\n0.75oz Campari bitter\n2oz Pineapple juice\n0.5oz Lime juice\n0.25oz Rich syrup\nShake",
     "Name": "Jungle Bird"
   },
   {
@@ -2071,7 +2071,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz Broker's London dry gin\n0.75oz Campari orange liqueur\n0.75oz Perucchi sweet vermouth\nStir",
+    "Ingredients": "0.75oz Broker's London dry gin\n0.75oz Campari bitter\n0.75oz Perucchi sweet vermouth\nStir",
     "Name": "Negroni"
   },
   {
@@ -2081,7 +2081,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Evan Williams Bonded bourbon\n0.75oz Perucchi sweet vermouth\n0.75oz Campari orange liqueur\nStir",
+    "Ingredients": "1oz Evan Williams Bonded bourbon\n0.75oz Perucchi sweet vermouth\n0.75oz Campari bitter\nStir",
     "Name": "Boulevardier"
   },
   {
@@ -2096,7 +2096,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Perucchi sweet vermouth\n0.75oz Campari orange liqueur\n0.5oz Heering cherry liqueur\n2dashes Regan's orange bitters\nOrange twist (garnish)\nbuild (no ice)",
+    "Ingredients": "2oz Perucchi sweet vermouth\n0.75oz Campari bitter\n0.5oz Heering cherry liqueur\n2dashes Regan's orange bitters\nOrange twist (garnish)\nbuild (no ice)",
     "Name": "The Charlatan"
   },
   {
@@ -2126,7 +2126,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Perucchi sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Aperol aperitif\n1oz Club soda\nBuild",
+    "Ingredients": "1.5oz Perucchi sweet vermouth\n0.5oz Campari bitter\n0.5oz Aperol aperitif\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
@@ -2161,7 +2161,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Fidencio mezcal\n0.75oz Campari orange liqueur\n0.75oz C3 Carciofo artichoke liqueur\n0.75oz Perucchi sweet vermouth\nOrange twist (garnish)\nStir",
+    "Ingredients": "0.75oz Fidencio mezcal\n0.75oz Campari bitter\n0.75oz C3 Carciofo artichoke liqueur\n0.75oz Perucchi sweet vermouth\nOrange twist (garnish)\nStir",
     "Name": "The Last Mechanical Art"
   },
   {
@@ -2181,27 +2181,27 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Espolon Reposado tequila\n0.75oz Perucchi sweet vermouth\n0.75oz Campari orange liqueur\n1dash Bittermens mole bitters\nStir",
+    "Ingredients": "0.75oz Espolon Reposado tequila\n0.75oz Perucchi sweet vermouth\n0.75oz Campari bitter\n1dash Bittermens mole bitters\nStir",
     "Name": "1836"
   },
   {
     "Rating": 5,
-    "Ingredients": "0.75oz Fidencio mezcal\n0.75oz Campari orange liqueur\n0.75oz Perucchi sweet vermouth\nStir",
+    "Ingredients": "0.75oz Fidencio mezcal\n0.75oz Campari bitter\n0.75oz Perucchi sweet vermouth\nStir",
     "Name": "Mezcal Negroni"
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Henry McKenna Bonded bourbon\n0.75oz Perucchi sweet vermouth\n0.75oz Campari orange liqueur\nStir",
+    "Ingredients": "1oz Henry McKenna Bonded bourbon\n0.75oz Perucchi sweet vermouth\n0.75oz Campari bitter\nStir",
     "Name": "Boulevardier"
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Broker's London dry gin\n0.75oz Campari orange liqueur\n0.75oz Perucchi sweet vermouth\nStir",
+    "Ingredients": "0.75oz Broker's London dry gin\n0.75oz Campari bitter\n0.75oz Perucchi sweet vermouth\nStir",
     "Name": "Negroni"
   },
   {
     "Rating": 4,
-    "Ingredients": "0.5oz Cointreau triple sec\n0.5oz Tribuno sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Fernet Branca amaro\nOrange twist (garnish)\nStir",
+    "Ingredients": "0.5oz Cointreau triple sec\n0.5oz Tribuno sweet vermouth\n0.5oz Campari bitter\n0.5oz Fernet Branca amaro\nOrange twist (garnish)\nStir",
     "Name": "Threepenny Opera"
   },
   {
@@ -2236,17 +2236,17 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Plymouth gin\n1oz Campari orange liqueur\n1oz Tribuno sweet vermouth\nStir",
+    "Ingredients": "1oz Plymouth gin\n1oz Campari bitter\n1oz Tribuno sweet vermouth\nStir",
     "Name": "Negroni"
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Henry McKenna Bonded bourbon\n0.75oz Tribuno sweet vermouth\n0.75oz Campari orange liqueur\nStir",
+    "Ingredients": "1oz Henry McKenna Bonded bourbon\n0.75oz Tribuno sweet vermouth\n0.75oz Campari bitter\nStir",
     "Name": "Boulevardier"
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Tribuno sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Aperol aperitif\n1oz Club soda\nBuild",
+    "Ingredients": "1.5oz Tribuno sweet vermouth\n0.5oz Campari bitter\n0.5oz Aperol aperitif\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
@@ -2261,7 +2261,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Sombra mezcal\n0.75oz Campari orange liqueur\n0.75oz Tribuno sweet vermouth\nStir",
+    "Ingredients": "1oz Sombra mezcal\n0.75oz Campari bitter\n0.75oz Tribuno sweet vermouth\nStir",
     "Name": "Mezcal Negroni"
   },
   {
@@ -2286,17 +2286,17 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Campari orange liqueur\n0.75oz Tribuno sweet vermouth\nStir",
+    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Campari bitter\n0.75oz Tribuno sweet vermouth\nStir",
     "Name": "Negroni"
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Sombra mezcal\n0.75oz Campari orange liqueur\n0.75oz Cocchi Dopo Teatro sweet vermouth\n1dash Woodford Reserve orange bitters\nStir",
+    "Ingredients": "1oz Sombra mezcal\n0.75oz Campari bitter\n0.75oz Cocchi Dopo Teatro sweet vermouth\n1dash Woodford Reserve orange bitters\nStir",
     "Name": "Mezcal Negroni"
   },
   {
     "Rating": 5,
-    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Campari orange liqueur\n0.75oz Cocchi Dopo Teatro sweet vermouth\nStir",
+    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Campari bitter\n0.75oz Cocchi Dopo Teatro sweet vermouth\nStir",
     "Name": "Negroni"
   },
   {
@@ -2306,7 +2306,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz Fernet Branca amaro\n0.75oz Leopold Bros aperitivo orange liqueur\n0.75oz Laphroaig 10 Year Old whiskey\nStir",
+    "Ingredients": "0.75oz Fernet Branca amaro\n0.75oz Leopold Bros Aperitivo bitter\n0.75oz Laphroaig 10 Year Old whiskey\nStir",
     "Name": "The End Of The Road"
   },
   {
@@ -2321,12 +2321,12 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1oz Henry McKenna Bonded bourbon\n0.75oz Cocchi Dopo Teatro sweet vermouth\n0.75oz Leopold Bros aperitivo orange liqueur\nOrange twist\nStir",
+    "Ingredients": "1oz Henry McKenna Bonded bourbon\n0.75oz Cocchi Dopo Teatro sweet vermouth\n0.75oz Leopold Bros Aperitivo bitter\nOrange twist\nStir",
     "Name": "Boulevardier"
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Old Overholt rye (infused with coffee for 7 days)\n0.75oz Cocchi Dopo Teatro sweet vermouth\n0.75oz Leopold Bros aperitivo orange liqueur\n1dash Regan's orange bitters\nOrange twist\nStir",
+    "Ingredients": "1oz Old Overholt rye (infused with coffee for 7 days)\n0.75oz Cocchi Dopo Teatro sweet vermouth\n0.75oz Leopold Bros Aperitivo bitter\n1dash Regan's orange bitters\nOrange twist\nStir",
     "Name": "Coffee Boulevardier"
   },
   {
@@ -2346,12 +2346,12 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Pierre Ferrand 1840 cognac\n0.75oz Leopold Bros aperitivo orange liqueur\n0.75oz Cocchi Dopo Teatro sweet vermouth\n2dashes Regan's orange bitters\nStir",
+    "Ingredients": "1oz Pierre Ferrand 1840 cognac\n0.75oz Leopold Bros Aperitivo bitter\n0.75oz Cocchi Dopo Teatro sweet vermouth\n2dashes Regan's orange bitters\nStir",
     "Name": "Cognac Negroni"
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Pierre Ferrand 1840 cognac\n1oz Leopold Bros aperitivo orange liqueur\n1oz Cocchi Dopo Teatro sweet vermouth\n0.25oz Luxardo Maraschino liqueur\n0.25oz Lemon juice\n1dash Angostura aromatic bitters\n1dash Peychauds aromatic bitters\nLemon twist (garnish)\nStir",
+    "Ingredients": "1.5oz Pierre Ferrand 1840 cognac\n1oz Leopold Bros Aperitivo bitter\n1oz Cocchi Dopo Teatro sweet vermouth\n0.25oz Luxardo Maraschino liqueur\n0.25oz Lemon juice\n1dash Angostura aromatic bitters\n1dash Peychauds aromatic bitters\nLemon twist (garnish)\nStir",
     "Name": "Novecento"
   },
   {
@@ -2361,7 +2361,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Cocchi Dopo Teatro sweet vermouth\n0.5oz Leopold Bros aperitivo orange liqueur\n0.5oz Aperol aperitif\n1oz Club soda\nBuild",
+    "Ingredients": "1.5oz Cocchi Dopo Teatro sweet vermouth\n0.5oz Leopold Bros Aperitivo bitter\n0.5oz Aperol aperitif\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
@@ -2376,32 +2376,32 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Wild Turkey 101 bourbon\n1oz Cocchi Dopo Teatro sweet vermouth\n0.75oz Leopold Bros aperitivo orange liqueur\n0.5oz C3 Carciofo artichoke liqueur\n2dashes Bittermens mole bitters\nOrange twist\nStir",
+    "Ingredients": "0.75oz Wild Turkey 101 bourbon\n1oz Cocchi Dopo Teatro sweet vermouth\n0.75oz Leopold Bros Aperitivo bitter\n0.5oz C3 Carciofo artichoke liqueur\n2dashes Bittermens mole bitters\nOrange twist\nStir",
     "Name": "Uncle Negroni"
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Wild Turkey 101 bourbon\n0.5oz Cocchi Dopo Teatro sweet vermouth\n0.5oz Leopold Bros aperitivo orange liqueur\n1barsp Fernet Branca amaro\n2dashes Peychauds aromatic bitters\nOrange twist (discarded)\nStir",
+    "Ingredients": "1oz Wild Turkey 101 bourbon\n0.5oz Cocchi Dopo Teatro sweet vermouth\n0.5oz Leopold Bros Aperitivo bitter\n1barsp Fernet Branca amaro\n2dashes Peychauds aromatic bitters\nOrange twist (discarded)\nStir",
     "Name": "Southpaw"
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Bulleit rye\n0.75oz Cocchi Dopo Teatro sweet vermouth\n0.75oz Leopold Bros aperitivo orange liqueur\nStir",
+    "Ingredients": "1oz Bulleit rye\n0.75oz Cocchi Dopo Teatro sweet vermouth\n0.75oz Leopold Bros Aperitivo bitter\nStir",
     "Name": "Boulevardier"
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Wray and Nephew Appleton Signature Blend rum\n0.75oz Cocchi Dopo Teatro sweet vermouth\n0.75oz Leopold Bros aperitivo orange liqueur\nOrange twist (garnish)\nStir",
+    "Ingredients": "0.75oz Wray and Nephew Appleton Signature Blend rum\n0.75oz Cocchi Dopo Teatro sweet vermouth\n0.75oz Leopold Bros Aperitivo bitter\nOrange twist (garnish)\nStir",
     "Name": "Kingston Negroni"
   },
   {
     "Rating": 5,
-    "Ingredients": "1oz Wild Turkey 101 bourbon\n0.75oz Cocchi Dopo Teatro sweet vermouth\n0.75oz Leopold Bros aperitivo orange liqueur\nOrange twist (discarded)\nStir",
+    "Ingredients": "1oz Wild Turkey 101 bourbon\n0.75oz Cocchi Dopo Teatro sweet vermouth\n0.75oz Leopold Bros Aperitivo bitter\nOrange twist (discarded)\nStir",
     "Name": "Boulevardier"
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Leopold Bros aperitivo orange liqueur\n0.75oz Cocchi Dopo Teatro sweet vermouth\nStir",
+    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Leopold Bros Aperitivo bitter\n0.75oz Cocchi Dopo Teatro sweet vermouth\nStir",
     "Name": "Negroni"
   },
   {
@@ -2416,7 +2416,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1oz Sombra mezcal\n1oz Leopold Bros aperitivo orange liqueur\n1oz C3 Carciofo artichoke liqueur\n0.25oz Rich syrup\n1 Whole egg\n1pinch Ground coffee (garnish)\nDry shake",
+    "Ingredients": "1oz Sombra mezcal\n1oz Leopold Bros Aperitivo bitter\n1oz C3 Carciofo artichoke liqueur\n0.25oz Rich syrup\n1 Whole egg\n1pinch Ground coffee (garnish)\nDry shake",
     "Name": "La Perla De Oaxaca"
   },
   {
@@ -2426,12 +2426,12 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "2.5oz Noilly Prat dry vermouth\n1.5oz Leopold Bros aperitivo orange liqueur\n1oz Club soda\nOrange twist\nBuild",
+    "Ingredients": "2.5oz Noilly Prat dry vermouth\n1.5oz Leopold Bros Aperitivo bitter\n1oz Club soda\nOrange twist\nBuild",
     "Name": "Bicicletta"
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Sombra mezcal\n0.75oz Noilly Prat dry vermouth\n0.75oz Leopold Bros aperitivo orange liqueur\nGrapefruit twist\nStir",
+    "Ingredients": "0.75oz Sombra mezcal\n0.75oz Noilly Prat dry vermouth\n0.75oz Leopold Bros Aperitivo bitter\nGrapefruit twist\nStir",
     "Name": "Dry Mezcal Negroni"
   },
   {
@@ -2446,7 +2446,7 @@
   },
   {
     "Rating": 2,
-    "Ingredients": "2oz Pierre Ferrand 1840 cognac\n0.5oz Noilly Prat dry vermouth\n0.5oz Leopold Bros aperitivo orange liqueur\n0.5oz Lemon juice\nShake",
+    "Ingredients": "2oz Pierre Ferrand 1840 cognac\n0.5oz Noilly Prat dry vermouth\n0.5oz Leopold Bros Aperitivo bitter\n0.5oz Lemon juice\nShake",
     "Name": "The Day 3ish"
   },
   {
@@ -2466,7 +2466,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.5oz Leopold Bros aperitivo orange liqueur\n0.5oz Noilly Prat dry vermouth\n0.5oz Lime juice\n0.25oz Rich syrup\n1oz Club soda (float)\nShake",
+    "Ingredients": "0.5oz Leopold Bros Aperitivo bitter\n0.5oz Noilly Prat dry vermouth\n0.5oz Lime juice\n0.25oz Rich syrup\n1oz Club soda (float)\nShake",
     "Name": "Rome With A View"
   },
   {
@@ -2486,12 +2486,12 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.5oz Beefeater London dry gin\n0.25oz Noilly Prat dry vermouth\n0.25oz Leopold Bros aperitivo orange liqueur\n0.25oz Cointreau triple sec\nStir",
+    "Ingredients": "0.5oz Beefeater London dry gin\n0.25oz Noilly Prat dry vermouth\n0.25oz Leopold Bros Aperitivo bitter\n0.25oz Cointreau triple sec\nStir",
     "Name": "Lucien Gaudin"
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz Old Overholt rye\n0.75oz Noilly Prat dry vermouth\n0.75oz Leopold Bros aperitivo orange liqueur\nStir",
+    "Ingredients": "0.75oz Old Overholt rye\n0.75oz Noilly Prat dry vermouth\n0.75oz Leopold Bros Aperitivo bitter\nStir",
     "Name": "Old Pal"
   },
   {
@@ -2526,7 +2526,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Leopold Bros aperitivo orange liqueur\n0.75oz Martini Rossi sweet vermouth\nOrange twist (garnish)\nStir",
+    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Leopold Bros Aperitivo bitter\n0.75oz Martini Rossi sweet vermouth\nOrange twist (garnish)\nStir",
     "Name": "Negroni"
   },
   {
@@ -2561,22 +2561,22 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Vya sweet vermouth\n0.5oz Leopold Bros aperitivo orange liqueur\n0.5oz Aperol aperitif\n1oz Club soda\nBuild",
+    "Ingredients": "1.5oz Vya sweet vermouth\n0.5oz Leopold Bros Aperitivo bitter\n0.5oz Aperol aperitif\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Wild Turkey 101 bourbon\n0.75oz Vya sweet vermouth\n0.75oz Leopold Bros aperitivo orange liqueur\nOrange twist (garnish)\nStir",
+    "Ingredients": "1oz Wild Turkey 101 bourbon\n0.75oz Vya sweet vermouth\n0.75oz Leopold Bros Aperitivo bitter\nOrange twist (garnish)\nStir",
     "Name": "Boulevardier"
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Wild Turkey 101 bourbon\n1.5oz Leopold Bros aperitivo orange liqueur\n0.75oz Lemon juice\n0.25oz Rich syrup\n1dash Regan's orange bitters\nShake",
+    "Ingredients": "1.5oz Wild Turkey 101 bourbon\n1.5oz Leopold Bros Aperitivo bitter\n0.75oz Lemon juice\n0.25oz Rich syrup\n1dash Regan's orange bitters\nShake",
     "Name": "Italian Gentleman"
   },
   {
     "Rating": 2,
-    "Ingredients": "1oz Fernet Branca amaro\n1oz Leopold Bros aperitivo orange liqueur\nStir",
+    "Ingredients": "1oz Fernet Branca amaro\n1oz Leopold Bros Aperitivo bitter\nStir",
     "Name": "Ferrari"
   },
   {
@@ -2601,7 +2601,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.5oz Beefeater London dry gin\n0.5oz Vya sweet vermouth\n0.25oz Leopold Bros aperitivo orange liqueur\n0.25oz Fernet Branca amaro\n0.25oz Luxardo Maraschino liqueur\nOrange twist (garnish)\nStir",
+    "Ingredients": "0.5oz Beefeater London dry gin\n0.5oz Vya sweet vermouth\n0.25oz Leopold Bros Aperitivo bitter\n0.25oz Fernet Branca amaro\n0.25oz Luxardo Maraschino liqueur\nOrange twist (garnish)\nStir",
     "Name": "Jukebox Opera"
   },
   {
@@ -2611,7 +2611,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Espolon Reposado tequila\n0.75oz Vya sweet vermouth\n0.75oz Leopold Bros aperitivo orange liqueur\n1dash Bittermens mole bitters\nStir",
+    "Ingredients": "0.75oz Espolon Reposado tequila\n0.75oz Vya sweet vermouth\n0.75oz Leopold Bros Aperitivo bitter\n1dash Bittermens mole bitters\nStir",
     "Name": "1836"
   },
   {
@@ -2621,7 +2621,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Sombra mezcal\n0.75oz Vya sweet vermouth\n0.75oz Leopold Bros aperitivo orange liqueur\nStir",
+    "Ingredients": "0.75oz Sombra mezcal\n0.75oz Vya sweet vermouth\n0.75oz Leopold Bros Aperitivo bitter\nStir",
     "Name": "Mezcal Negroni"
   },
   {
@@ -2631,12 +2631,12 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Leopold Bros aperitivo orange liqueur\n0.75oz Vya sweet vermouth\nOrange twist (garnish)\nStir",
+    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Leopold Bros Aperitivo bitter\n0.75oz Vya sweet vermouth\nOrange twist (garnish)\nStir",
     "Name": "Negroni"
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Fernet Branca amaro\n1oz Leopold Bros aperitivo orange liqueur\n0.5oz Beefeater London dry gin\n1barsp Chartreuse Verte herbal liqueur\n1spray Fee Brothers mint bitters\nStir",
+    "Ingredients": "1oz Fernet Branca amaro\n1oz Leopold Bros Aperitivo bitter\n0.5oz Beefeater London dry gin\n1barsp Chartreuse Verte herbal liqueur\n1spray Fee Brothers mint bitters\nStir",
     "Name": "My Favorite Things"
   },
   {
@@ -2691,17 +2691,17 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Wild Turkey 101 bourbon\n0.75oz Gran Classico orange liqueur\n0.75oz Kopke ruby port sweet vermouth\nOrange twist (garnish)\nStir",
+    "Ingredients": "1oz Wild Turkey 101 bourbon\n0.75oz Gran Classico bitter\n0.75oz Kopke ruby port sweet vermouth\nOrange twist (garnish)\nStir",
     "Name": "Port Boulevardier"
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Kopke ruby port sweet vermouth\n0.75oz Gran Classico orange liqueur\nOrange twist (garnish)\nStir",
+    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Kopke ruby port sweet vermouth\n0.75oz Gran Classico bitter\nOrange twist (garnish)\nStir",
     "Name": "Port Negroni"
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Wray and Nephew Appleton Signature Blend rum\n0.75oz Carpano Punt E Mes sweet vermouth\n0.75oz Gran Classico orange liqueur\n2dashes Bittermens mole bitters\nStir",
+    "Ingredients": "1.5oz Wray and Nephew Appleton Signature Blend rum\n0.75oz Carpano Punt E Mes sweet vermouth\n0.75oz Gran Classico bitter\n2dashes Bittermens mole bitters\nStir",
     "Name": "Right Hand"
   },
   {
@@ -2716,7 +2716,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz Fernet Branca amaro\n0.75oz Cynar artichoke liqueur\n0.75oz Gran Classico orange liqueur\n1pinch Salt\nOrange twist (garnish)\nStir",
+    "Ingredients": "0.75oz Fernet Branca amaro\n0.75oz Cynar artichoke liqueur\n0.75oz Gran Classico bitter\n1pinch Salt\nOrange twist (garnish)\nStir",
     "Name": "Bottecchia"
   },
   {
@@ -2736,7 +2736,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Wray and Nephew Appleton Signature Blend rum\n0.75oz Carpano Punt E Mes sweet vermouth\n0.75oz Gran Classico orange liqueur\nOrange twist (garnish)\nStir",
+    "Ingredients": "0.75oz Wray and Nephew Appleton Signature Blend rum\n0.75oz Carpano Punt E Mes sweet vermouth\n0.75oz Gran Classico bitter\nOrange twist (garnish)\nStir",
     "Name": "Kingston Negroni"
   },
   {
@@ -2766,7 +2766,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Sombra mezcal\n0.75oz Carpano Punt E Mes sweet vermouth\n0.75oz Gran Classico orange liqueur\nOrange twist (garnish)\nStir",
+    "Ingredients": "0.75oz Sombra mezcal\n0.75oz Carpano Punt E Mes sweet vermouth\n0.75oz Gran Classico bitter\nOrange twist (garnish)\nStir",
     "Name": "Mezcal Negroni"
   },
   {
@@ -2781,7 +2781,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Wild Turkey 101 bourbon\n0.5oz Carpano Punt E Mes sweet vermouth\n0.5oz Rothman & Winter apricot liqueur\n0.5oz Gran Classico orange liqueur\nLemon twist\nStir",
+    "Ingredients": "1.5oz Wild Turkey 101 bourbon\n0.5oz Carpano Punt E Mes sweet vermouth\n0.5oz Rothman & Winter apricot liqueur\n0.5oz Gran Classico bitter\nLemon twist\nStir",
     "Name": "Hollow Point"
   },
   {
@@ -2791,12 +2791,12 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Carpano Punt E Mes sweet vermouth\n0.5oz Gran Classico orange liqueur\n0.5oz Aperol aperitif\n1oz Club soda\nBuild",
+    "Ingredients": "1.5oz Carpano Punt E Mes sweet vermouth\n0.5oz Gran Classico bitter\n0.5oz Aperol aperitif\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Espolon Reposado tequila\n0.75oz Carpano Punt E Mes sweet vermouth\n0.75oz Gran Classico orange liqueur\nOrange twist\nStir",
+    "Ingredients": "0.75oz Espolon Reposado tequila\n0.75oz Carpano Punt E Mes sweet vermouth\n0.75oz Gran Classico bitter\nOrange twist\nStir",
     "Name": "El Pedroni"
   },
   {
@@ -2806,7 +2806,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Espolon Reposado tequila\n0.5oz Carpano Punt E Mes sweet vermouth\n0.5oz Gran Classico orange liqueur\n0.5oz Cointreau triple sec\nStir",
+    "Ingredients": "2oz Espolon Reposado tequila\n0.5oz Carpano Punt E Mes sweet vermouth\n0.5oz Gran Classico bitter\n0.5oz Cointreau triple sec\nStir",
     "Name": "Range Life"
   },
   {
@@ -2826,7 +2826,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz Old Overholt rye\n0.75oz Carpano Punt E Mes sweet vermouth\n0.75oz Gran Classico orange liqueur\n2dashes Fee Brothers black walnut bitters\nStir",
+    "Ingredients": "0.75oz Old Overholt rye\n0.75oz Carpano Punt E Mes sweet vermouth\n0.75oz Gran Classico bitter\n2dashes Fee Brothers black walnut bitters\nStir",
     "Name": "Boulevardier"
   },
   {
@@ -2836,7 +2836,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Wild Turkey 101 bourbon\n0.75oz Gran Classico orange liqueur\n0.75oz Carpano Punt E Mes sweet vermouth\nOrange twist\nStir",
+    "Ingredients": "1oz Wild Turkey 101 bourbon\n0.75oz Gran Classico bitter\n0.75oz Carpano Punt E Mes sweet vermouth\nOrange twist\nStir",
     "Name": "Boulevardier"
   },
   {
@@ -2856,17 +2856,17 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Carpano Punt E Mes sweet vermouth\n0.75oz Gran Classico orange liqueur\nStir",
+    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Carpano Punt E Mes sweet vermouth\n0.75oz Gran Classico bitter\nStir",
     "Name": "Negroni"
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Wild Turkey 101 bourbon\n1oz Carpano Punt E Mes sweet vermouth\n0.5oz Rothman & Winter apricot liqueur\n0.5oz Gran Classico orange liqueur\n1dash Angostura aromatic bitters\nOrange twist\nStir",
+    "Ingredients": "1oz Wild Turkey 101 bourbon\n1oz Carpano Punt E Mes sweet vermouth\n0.5oz Rothman & Winter apricot liqueur\n0.5oz Gran Classico bitter\n1dash Angostura aromatic bitters\nOrange twist\nStir",
     "Name": "Intercept"
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Laphroaig 10 Year Old whiskey\n1oz Gran Classico orange liqueur\n1oz Carpano Punt E Mes sweet vermouth\n1dash Angostura aromatic bitters\nStir",
+    "Ingredients": "1oz Laphroaig 10 Year Old whiskey\n1oz Gran Classico bitter\n1oz Carpano Punt E Mes sweet vermouth\n1dash Angostura aromatic bitters\nStir",
     "Name": "Scotch Negroni"
   },
   {
@@ -2891,37 +2891,37 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Sombra mezcal\n1oz Martini Rossi sweet vermouth\n1oz Gran Classico orange liqueur\n1dash Bittermens mole bitters\n1dash Fee Brothers black walnut bitters\nStir",
+    "Ingredients": "1oz Sombra mezcal\n1oz Martini Rossi sweet vermouth\n1oz Gran Classico bitter\n1dash Bittermens mole bitters\n1dash Fee Brothers black walnut bitters\nStir",
     "Name": "Mezcal Negroni"
   },
   {
     "Rating": 4,
-    "Ingredients": "0.5oz Old Overholt rye\n0.5oz Martini Rossi sweet vermouth\n0.5oz Gran Classico orange liqueur\n1dash Fee Brothers black walnut bitters\nStir",
+    "Ingredients": "0.5oz Old Overholt rye\n0.5oz Martini Rossi sweet vermouth\n0.5oz Gran Classico bitter\n1dash Fee Brothers black walnut bitters\nStir",
     "Name": "Boulevardier"
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Sombra mezcal\n0.5oz Espolon Reposado tequila\n0.5oz Laird's 100 Apple brandy\n0.25oz Gran Classico orange liqueur\n0.25oz Agave syrup\n0.5oz Lime juice\nShake",
+    "Ingredients": "1oz Sombra mezcal\n0.5oz Espolon Reposado tequila\n0.5oz Laird's 100 Apple brandy\n0.25oz Gran Classico bitter\n0.25oz Agave syrup\n0.5oz Lime juice\nShake",
     "Name": "The Coyocan Cocktail"
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Beefeater London dry gin\n0.75oz Martini Rossi sweet vermouth\n0.75oz Gran Classico orange liqueur\n1oz Pineapple juice\nShake",
+    "Ingredients": "1oz Beefeater London dry gin\n0.75oz Martini Rossi sweet vermouth\n0.75oz Gran Classico bitter\n1oz Pineapple juice\nShake",
     "Name": "Endless Summer"
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Old Overholt rye\n0.75oz Martini Rossi sweet vermouth\n0.75oz Gran Classico orange liqueur\n2dashes Fee Brothers black walnut bitters\nStir",
+    "Ingredients": "0.75oz Old Overholt rye\n0.75oz Martini Rossi sweet vermouth\n0.75oz Gran Classico bitter\n2dashes Fee Brothers black walnut bitters\nStir",
     "Name": "Boulevardier"
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Espolon Reposado tequila\n0.75oz Martini Rossi sweet vermouth\n0.75oz Gran Classico orange liqueur\n2dashes Regan's orange bitters\nStir",
+    "Ingredients": "0.75oz Espolon Reposado tequila\n0.75oz Martini Rossi sweet vermouth\n0.75oz Gran Classico bitter\n2dashes Regan's orange bitters\nStir",
     "Name": "Agavoni"
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Beefeater London dry gin\n0.75oz Martini Rossi sweet vermouth\n0.5oz Gran Classico orange liqueur\nStir",
+    "Ingredients": "1oz Beefeater London dry gin\n0.75oz Martini Rossi sweet vermouth\n0.5oz Gran Classico bitter\nStir",
     "Name": "Negroni"
   },
   {
@@ -2931,7 +2931,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Gran Classico orange liqueur\n0.75oz Martini Rossi sweet vermouth\nStir with Russian Caravan tea smoke",
+    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Gran Classico bitter\n0.75oz Martini Rossi sweet vermouth\nStir with Russian Caravan tea smoke",
     "Name": "Negroni"
   },
   {
@@ -2946,12 +2946,12 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Gran Classico orange liqueur\n0.75oz Martini Rossi sweet vermouth\nStir with Applewood smoke",
+    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Gran Classico bitter\n0.75oz Martini Rossi sweet vermouth\nStir with Applewood smoke",
     "Name": "Negroni"
   },
   {
     "Rating": 5,
-    "Ingredients": "1oz Rittenhouse Bonded rye\n1oz Carpano Punt E Mes sweet vermouth\n1oz Campari orange liqueur\n1pinch Salt\nOrange twist\nStir",
+    "Ingredients": "1oz Rittenhouse Bonded rye\n1oz Carpano Punt E Mes sweet vermouth\n1oz Campari bitter\n1pinch Salt\nOrange twist\nStir",
     "Name": "Boulevardier"
   },
   {
@@ -2966,17 +2966,17 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1oz Tanqueray London dry gin\n0.5oz Dolin dry vermouth\n0.5oz Cointreau triple sec\n0.5oz Campari orange liqueur\nStir",
+    "Ingredients": "1oz Tanqueray London dry gin\n0.5oz Dolin dry vermouth\n0.5oz Cointreau triple sec\n0.5oz Campari bitter\nStir",
     "Name": "Lucien Gaudin"
   },
   {
     "Rating": 5,
-    "Ingredients": "1oz Del Maguey Vida mezcal\n1oz Dolin sweet vermouth\n1oz Campari orange liqueur\n10drops Bittermens mole bitters\n1pinch Salt\nStir",
+    "Ingredients": "1oz Del Maguey Vida mezcal\n1oz Dolin sweet vermouth\n1oz Campari bitter\n10drops Bittermens mole bitters\n1pinch Salt\nStir",
     "Name": "Mezcal Negroni"
   },
   {
     "Rating": 5,
-    "Ingredients": "1oz Del Maguey Vida mezcal\n1oz Dolin sweet vermouth\n1oz Campari orange liqueur\nStir",
+    "Ingredients": "1oz Del Maguey Vida mezcal\n1oz Dolin sweet vermouth\n1oz Campari bitter\nStir",
     "Name": "Mezcal Negroni"
   },
   {
@@ -2996,7 +2996,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "0.75oz Rittenhouse Bonded rye\n0.75oz Dolin dry vermouth\n0.75oz Campari orange liqueur\nStir",
+    "Ingredients": "0.75oz Rittenhouse Bonded rye\n0.75oz Dolin dry vermouth\n0.75oz Campari bitter\nStir",
     "Name": "Old Pal"
   },
   {
@@ -3026,12 +3026,12 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Carpano Antica sweet vermouth\n0.5oz Campari orange liqueur\n0.5oz Aperol aperitif\n1oz Club soda\nBuild",
+    "Ingredients": "1.5oz Carpano Antica sweet vermouth\n0.5oz Campari bitter\n0.5oz Aperol aperitif\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
     "Rating": 5,
-    "Ingredients": "1oz Espolon Reposado tequila\n1oz Carpano Antica sweet vermouth\n1oz Campari orange liqueur\n2dashes Bittermens mole bitters\nStir",
+    "Ingredients": "1oz Espolon Reposado tequila\n1oz Carpano Antica sweet vermouth\n1oz Campari bitter\n2dashes Bittermens mole bitters\nStir",
     "Name": "1836"
   },
   {
@@ -3046,7 +3046,7 @@
   },
   {
     "Rating": 5,
-    "Ingredients": "1.5oz Laird's 100 Apple brandy\n0.75oz Gran Classico orange liqueur\n0.75oz Lemon juice\n0.5oz Simple syrup\n2dashes Angostura aromatic bitters\nShake",
+    "Ingredients": "1.5oz Laird's 100 Apple brandy\n0.75oz Gran Classico bitter\n0.75oz Lemon juice\n0.5oz Simple syrup\n2dashes Angostura aromatic bitters\nShake",
     "Name": "Steam Powered Aero Plane"
   },
   {
@@ -3076,7 +3076,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Del Maguey Vida mezcal\n0.75oz Cocchi Di Torino sweet vermouth\n0.75oz Gran Classico orange liqueur\nStir",
+    "Ingredients": "0.75oz Del Maguey Vida mezcal\n0.75oz Cocchi Di Torino sweet vermouth\n0.75oz Gran Classico bitter\nStir",
     "Name": "Mezcal Negroni"
   },
   {
@@ -3086,7 +3086,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Old Overholt rye\n1oz Cocchi Di Torino sweet vermouth\n1oz Montenegro amaro\n1barsp Gran Classico orange liqueur\nMaraschino cherry (garnish)\nStir",
+    "Ingredients": "1oz Old Overholt rye\n1oz Cocchi Di Torino sweet vermouth\n1oz Montenegro amaro\n1barsp Gran Classico bitter\nMaraschino cherry (garnish)\nStir",
     "Name": "San Gennaro"
   },
   {
@@ -3106,7 +3106,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Cocchi Di Torino sweet vermouth\n0.5oz Gran Classico orange liqueur\n0.5oz Aperol aperitif\n1oz Club soda\nBuild",
+    "Ingredients": "1.5oz Cocchi Di Torino sweet vermouth\n0.5oz Gran Classico bitter\n0.5oz Aperol aperitif\n1oz Club soda\nBuild",
     "Name": "Young American"
   },
   {
@@ -3131,7 +3131,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Flor de Cana 4 Year Old rum\n0.5oz Campari orange liqueur\n0.5oz Lime juice\n0.5oz Light brown sugar rich syrup with lapsang souchong\n0.125oz Kuestennebel absinthe\nShake",
+    "Ingredients": "2oz Flor de Cana 4 Year Old rum\n0.5oz Campari bitter\n0.5oz Lime juice\n0.5oz Light brown sugar rich syrup with lapsang souchong\n0.125oz Kuestennebel absinthe\nShake",
     "Name": "Benjamin Barker Daiquiri"
   },
   {
@@ -3196,7 +3196,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Black Forest dry gin\n1oz Martini Rossi sweet vermouth\n1oz Grapefruit juice\n0.5oz Campari orange liqueur\nShake",
+    "Ingredients": "1.5oz Black Forest dry gin\n1oz Martini Rossi sweet vermouth\n1oz Grapefruit juice\n0.5oz Campari bitter\nShake",
     "Name": "Grapefruit Negroni"
   },
   {
@@ -3211,7 +3211,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Flor de Cana 4 Year Old rum\n1.5oz Carpano Punt E Mes sweet vermouth\n0.25oz Campari orange liqueur\nOrange twist (infuse and muddle in rum, 2 minutes)\nLemon twist (infuse and muddle in rum, 2 minutes)\nStir",
+    "Ingredients": "1.5oz Flor de Cana 4 Year Old rum\n1.5oz Carpano Punt E Mes sweet vermouth\n0.25oz Campari bitter\nOrange twist (infuse and muddle in rum, 2 minutes)\nLemon twist (infuse and muddle in rum, 2 minutes)\nStir",
     "Name": "John Perona"
   },
   {
@@ -3246,32 +3246,32 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Black Forest dry gin\n1oz Campari orange liqueur\n1oz Martini Rossi sweet vermouth\nStir",
+    "Ingredients": "1oz Black Forest dry gin\n1oz Campari bitter\n1oz Martini Rossi sweet vermouth\nStir",
     "Name": "Negroni"
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Tanqueray London dry gin\n1oz Campari orange liqueur\n1oz Martini Rossi sweet vermouth\nStir",
+    "Ingredients": "1oz Tanqueray London dry gin\n1oz Campari bitter\n1oz Martini Rossi sweet vermouth\nStir",
     "Name": "Negroni"
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Tanqueray London dry gin\n0.75oz Campari orange liqueur\n0.75oz Noilly Prat sweet vermouth\nStir",
+    "Ingredients": "0.75oz Tanqueray London dry gin\n0.75oz Campari bitter\n0.75oz Noilly Prat sweet vermouth\nStir",
     "Name": "Negroni"
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz The Duke Munich dry gin\n0.75oz Noilly Prat sweet vermouth\n0.75oz Campari orange liqueur\nStir",
+    "Ingredients": "0.75oz The Duke Munich dry gin\n0.75oz Noilly Prat sweet vermouth\n0.75oz Campari bitter\nStir",
     "Name": "Negroni"
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz The Duke Munich dry gin\n0.75oz Dolin sweet vermouth\n0.75oz Campari orange liqueur\nStir",
+    "Ingredients": "0.75oz The Duke Munich dry gin\n0.75oz Dolin sweet vermouth\n0.75oz Campari bitter\nStir",
     "Name": "Negroni"
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Tanqueray London dry gin\n0.75oz Dolin sweet vermouth\n0.75oz Campari orange liqueur\nStir",
+    "Ingredients": "0.75oz Tanqueray London dry gin\n0.75oz Dolin sweet vermouth\n0.75oz Campari bitter\nStir",
     "Name": "Negroni"
   },
   {
@@ -3321,7 +3321,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Bacardi 8 Year Old rum\n1oz Martini Rossi sweet vermouth\n1oz Campari orange liqueur\n3dashes Chocolate bitters\nStir",
+    "Ingredients": "2oz Bacardi 8 Year Old rum\n1oz Martini Rossi sweet vermouth\n1oz Campari bitter\n3dashes Chocolate bitters\nStir",
     "Name": "The Right Hand"
   },
   {
@@ -3341,17 +3341,17 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Old Grand Dad Bonded bourbon\n0.75oz Carpano Antica sweet vermouth\n0.5oz Campari orange liqueur\n0.25oz Cynar artichoke liqueur\nStir",
+    "Ingredients": "1.5oz Old Grand Dad Bonded bourbon\n0.75oz Carpano Antica sweet vermouth\n0.5oz Campari bitter\n0.25oz Cynar artichoke liqueur\nStir",
     "Name": "Left Hand Of Darkness"
   },
   {
     "Rating": 4,
-    "Ingredients": "1.25oz Old Grand Dad Bonded bourbon\n1oz Carpano Antica sweet vermouth\n0.375oz Campari orange liqueur\n0.375oz Aperol aperitif\n1dash Angostura aromatic bitters\nLemon twist (discarded)\nStir",
+    "Ingredients": "1.25oz Old Grand Dad Bonded bourbon\n1oz Carpano Antica sweet vermouth\n0.375oz Campari bitter\n0.375oz Aperol aperitif\n1dash Angostura aromatic bitters\nLemon twist (discarded)\nStir",
     "Name": "American Negroni"
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Cocchi Di Torino sweet vermouth\n0.75oz Campari orange liqueur\nStir",
+    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Cocchi Di Torino sweet vermouth\n0.75oz Campari bitter\nStir",
     "Name": "Negroni"
   },
   {
@@ -3366,22 +3366,22 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Old Overholt rye\n0.5oz Cocchi Di Torino sweet vermouth\n0.25oz Gran Classico orange liqueur\n1dash Regan's orange bitters\nStir",
+    "Ingredients": "0.75oz Old Overholt rye\n0.5oz Cocchi Di Torino sweet vermouth\n0.25oz Gran Classico bitter\n1dash Regan's orange bitters\nStir",
     "Name": "Boulevardier"
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Del Maguey Vida mezcal\n1oz Cocchi Di Torino sweet vermouth\n0.5oz Aperol aperitif\n0.5oz Gran Classico orange liqueur\n1dash Bittermens mole bitters\nStir",
+    "Ingredients": "1oz Del Maguey Vida mezcal\n1oz Cocchi Di Torino sweet vermouth\n0.5oz Aperol aperitif\n0.5oz Gran Classico bitter\n1dash Bittermens mole bitters\nStir",
     "Name": "Mezcal Negroni"
   },
   {
     "Rating": 4,
-    "Ingredients": "0.5oz Tanqueray London dry gin\n0.5oz Campari orange liqueur\n0.5oz Noilly Prat sweet vermouth\nGlass-age with Hungarian Oak cubes for 35 days\nStir",
+    "Ingredients": "0.5oz Tanqueray London dry gin\n0.5oz Campari bitter\n0.5oz Noilly Prat sweet vermouth\nGlass-age with Hungarian Oak cubes for 35 days\nStir",
     "Name": "Negroni"
   },
   {
     "Rating": 4,
-    "Ingredients": "0.5oz Tanqueray London dry gin\n0.5oz Campari orange liqueur\n0.5oz Noilly Prat sweet vermouth\nGlass-age with Hungarian Oak cubes for 49 days\nStir",
+    "Ingredients": "0.5oz Tanqueray London dry gin\n0.5oz Campari bitter\n0.5oz Noilly Prat sweet vermouth\nGlass-age with Hungarian Oak cubes for 49 days\nStir",
     "Name": "Negroni"
   },
   {
@@ -3401,7 +3401,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.5oz Tanqueray London dry gin\n0.5oz Campari orange liqueur\n0.5oz Noilly Prat sweet vermouth\nGlass-age for 49 days\nStir",
+    "Ingredients": "0.5oz Tanqueray London dry gin\n0.5oz Campari bitter\n0.5oz Noilly Prat sweet vermouth\nGlass-age for 49 days\nStir",
     "Name": "Negroni"
   },
   {
@@ -3416,7 +3416,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Beefeater London dry gin\n1oz Cocchi Di Torino sweet vermouth\n0.25oz Cynar artichoke liqueur\n0.25oz Gran Classico orange liqueur\n13drops Regan's orange bitters\nOrange twist\nLemon twist\nStir",
+    "Ingredients": "2oz Beefeater London dry gin\n1oz Cocchi Di Torino sweet vermouth\n0.25oz Cynar artichoke liqueur\n0.25oz Gran Classico bitter\n13drops Regan's orange bitters\nOrange twist\nLemon twist\nStir",
     "Name": "Negroni Tredici"
   },
   {
@@ -3426,7 +3426,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz Espolon Reposado tequila\n0.75oz Cocchi Di Torino sweet vermouth\n0.75oz Gran Classico orange liqueur\nStir",
+    "Ingredients": "0.75oz Espolon Reposado tequila\n0.75oz Cocchi Di Torino sweet vermouth\n0.75oz Gran Classico bitter\nStir",
     "Name": "Count Camillo's Paloma"
   },
   {
@@ -3461,7 +3461,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Wild Turkey 101 bourbon\n0.25oz Gran Classico orange liqueur\n0.25oz Luxardo Maraschino liqueur\n0.75oz Orange juice\nShake",
+    "Ingredients": "1oz Wild Turkey 101 bourbon\n0.25oz Gran Classico bitter\n0.25oz Luxardo Maraschino liqueur\n0.75oz Orange juice\nShake",
     "Name": "Union Club"
   },
   {
@@ -3491,7 +3491,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz Flor de Cana 4 Year Old rum\n0.75oz Gran Classico orange liqueur\n0.75oz Cocchi Di Torino sweet vermouth\n1dash Regan's orange bitters\nStir",
+    "Ingredients": "0.75oz Flor de Cana 4 Year Old rum\n0.75oz Gran Classico bitter\n0.75oz Cocchi Di Torino sweet vermouth\n1dash Regan's orange bitters\nStir",
     "Name": "Kingston Negroni"
   },
   {
@@ -3501,7 +3501,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Cocchi Di Torino sweet vermouth\n0.75oz Gran Classico orange liqueur\nStir",
+    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Cocchi Di Torino sweet vermouth\n0.75oz Gran Classico bitter\nStir",
     "Name": "Gran Classico Negroni"
   },
   {
@@ -3521,7 +3521,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.5oz Tanqueray London dry gin\n0.5oz Campari orange liqueur\n0.5oz Noilly Prat sweet vermouth\nGlass-age with Hungarian Oak cubes for 15 days\nStir",
+    "Ingredients": "0.5oz Tanqueray London dry gin\n0.5oz Campari bitter\n0.5oz Noilly Prat sweet vermouth\nGlass-age with Hungarian Oak cubes for 15 days\nStir",
     "Name": "Negroni"
   },
   {
@@ -3556,22 +3556,22 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Old Grand Dad Bonded bourbon\n0.5oz Carpano Antica sweet vermouth\n0.5oz Campari orange liqueur\nStir",
+    "Ingredients": "1oz Old Grand Dad Bonded bourbon\n0.5oz Carpano Antica sweet vermouth\n0.5oz Campari bitter\nStir",
     "Name": "Boulevardier"
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Old Grand Dad Bonded bourbon\n0.5oz Carpano Antica sweet vermouth\n0.5oz Campari orange liqueur\n1pinch Salt\nStir",
+    "Ingredients": "1oz Old Grand Dad Bonded bourbon\n0.5oz Carpano Antica sweet vermouth\n0.5oz Campari bitter\n1pinch Salt\nStir",
     "Name": "Boulevardier"
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Carpano Antica sweet vermouth\n0.75oz Campari orange liqueur\nStir",
+    "Ingredients": "0.75oz Beefeater London dry gin\n0.75oz Carpano Antica sweet vermouth\n0.75oz Campari bitter\nStir",
     "Name": "Negroni"
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Beefeater London dry gin\n1oz Carpano Antica sweet vermouth\n0.25oz Campari orange liqueur\n0.25oz Angostura aromatic bitters\n1barsp rich syrup\nGrapefruit twist (discarded)\nShake",
+    "Ingredients": "2oz Beefeater London dry gin\n1oz Carpano Antica sweet vermouth\n0.25oz Campari bitter\n0.25oz Angostura aromatic bitters\n1barsp rich syrup\nGrapefruit twist (discarded)\nShake",
     "Name": "Evening Redness no1"
   },
   {
@@ -3581,7 +3581,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Carpano Antica sweet vermouth\n0.75oz Tanqueray London dry gin\n0.75oz Campari orange liqueur\n0.5oz Cynar artichoke liqueur\n2dashes Bittermens mole bitters\nStir",
+    "Ingredients": "1oz Carpano Antica sweet vermouth\n0.75oz Tanqueray London dry gin\n0.75oz Campari bitter\n0.5oz Cynar artichoke liqueur\n2dashes Bittermens mole bitters\nStir",
     "Name": "Uncle Negroni"
   },
   {
@@ -3606,7 +3606,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Old Grand Dad Bonded bourbon\n0.5oz Campari orange liqueur\n0.5oz Luxardo Maraschino liqueur\n1.5oz Orange juice\n1pinch Salt\nShake",
+    "Ingredients": "2oz Old Grand Dad Bonded bourbon\n0.5oz Campari bitter\n0.5oz Luxardo Maraschino liqueur\n1.5oz Orange juice\n1pinch Salt\nShake",
     "Name": "Union Club"
   },
   {
@@ -3616,12 +3616,12 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Old Grand Dad bourbon\n0.75oz Campari orange liqueur\n0.75oz Dolin sweet vermouth\nStir",
+    "Ingredients": "1.5oz Old Grand Dad bourbon\n0.75oz Campari bitter\n0.75oz Dolin sweet vermouth\nStir",
     "Name": "Boulevardier"
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Rittenhouse Bonded rye\n0.5oz Dolin sweet vermouth\n0.5oz Campari orange liqueur\n2dashes Bittermens mole bitters\n2dashes Regan's orange bitters\nStir\n",
+    "Ingredients": "1oz Rittenhouse Bonded rye\n0.5oz Dolin sweet vermouth\n0.5oz Campari bitter\n2dashes Bittermens mole bitters\n2dashes Regan's orange bitters\nStir\n",
     "Name": "1794"
   },
   {
@@ -3631,12 +3631,12 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Rittenhouse Bonded rye\n0.75oz Carpano Punt E Mes sweet vermouth\n0.25oz Campari orange liqueur\nOrange twist\nStir",
+    "Ingredients": "1.5oz Rittenhouse Bonded rye\n0.75oz Carpano Punt E Mes sweet vermouth\n0.25oz Campari bitter\nOrange twist\nStir",
     "Name": "Al Capone"
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Campari orange liqueur\n1.5oz Carpano Punt E Mes sweet vermouth\n3oz Club Soda\nBuild",
+    "Ingredients": "1.5oz Campari bitter\n1.5oz Carpano Punt E Mes sweet vermouth\n3oz Club Soda\nBuild",
     "Name": "Americano"
   },
   {
@@ -3666,7 +3666,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2.5oz Dolin dry vermouth\n1.5oz Campari orange liqueur\n1oz Club soda\nBuild",
+    "Ingredients": "2.5oz Dolin dry vermouth\n1.5oz Campari bitter\n1oz Club soda\nBuild",
     "Name": "Bicicletta"
   },
   {
@@ -3681,7 +3681,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Old Grand Dad bourbon\n1oz Dolin sweet vermouth\n1oz Campari orange liqueur\n1pinch Salt\n10drops Bittermens mole bitters\nStir",
+    "Ingredients": "1oz Old Grand Dad bourbon\n1oz Dolin sweet vermouth\n1oz Campari bitter\n1pinch Salt\n10drops Bittermens mole bitters\nStir",
     "Name": "Boulevardier"
   },
   {
@@ -3696,7 +3696,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz Campari orange liqueur\n1.5oz Orange juice\nShake",
+    "Ingredients": "0.75oz Campari bitter\n1.5oz Orange juice\nShake",
     "Name": "Campari Orange"
   },
   {
@@ -3731,7 +3731,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Tanqueray London dry gin\n1oz Carpano Punt E Mes sweet vermouth\n0.25oz Campari orange liqueur\n0.25oz Peychauds aromatic bitters\n1barsp Light brown sugar simple syrup\nLemon twist\nShake",
+    "Ingredients": "2oz Tanqueray London dry gin\n1oz Carpano Punt E Mes sweet vermouth\n0.25oz Campari bitter\n0.25oz Peychauds aromatic bitters\n1barsp Light brown sugar simple syrup\nLemon twist\nShake",
     "Name": "Evening Redness no1"
   },
   {
@@ -3776,7 +3776,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Tanqueray London dry gin\n1oz Cointreau triple sec\n0.75oz Campari orange liqueur\n0.5oz Lemon juice\nShake\n",
+    "Ingredients": "1.5oz Tanqueray London dry gin\n1oz Cointreau triple sec\n0.75oz Campari bitter\n0.5oz Lemon juice\nShake\n",
     "Name": "Jasmine"
   },
   {
@@ -3841,7 +3841,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.5oz Tanqueray London dry gin\n0.5oz Campari orange liqueur\n0.5oz Montenegro amaro\n1pinch Salt\nStir",
+    "Ingredients": "0.5oz Tanqueray London dry gin\n0.5oz Campari bitter\n0.5oz Montenegro amaro\n1pinch Salt\nStir",
     "Name": "Montenegroni"
   },
   {
@@ -3851,7 +3851,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.25oz Flor de Cana 4 Year Old rum\n0.5oz Carpano Punt E Mes sweet vermouth\n0.5oz Campari orange liqueur\nOrange twist\nStir",
+    "Ingredients": "1.25oz Flor de Cana 4 Year Old rum\n0.5oz Carpano Punt E Mes sweet vermouth\n0.5oz Campari bitter\nOrange twist\nStir",
     "Name": "Mr President"
   },
   {
@@ -3861,22 +3861,22 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz The Duke Munich dry gin\n1oz Dolin sweet vermouth\n0.5oz Campari orange liqueur\nStir",
+    "Ingredients": "1oz The Duke Munich dry gin\n1oz Dolin sweet vermouth\n0.5oz Campari bitter\nStir",
     "Name": "Negroni"
   },
   {
     "Rating": 3,
-    "Ingredients": "0.5oz Tanqueray London dry gin\n0.5oz Campari orange liqueur\n0.5oz Carpano Punt E Mes sweet vermouth\n1pinch Salt\nStir",
+    "Ingredients": "0.5oz Tanqueray London dry gin\n0.5oz Campari bitter\n0.5oz Carpano Punt E Mes sweet vermouth\n1pinch Salt\nStir",
     "Name": "Negroni"
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz Tanqueray London dry gin\n0.5oz Carpano Punt E Mes sweet vermouth\n0.33oz Campari orange liqueur\nStir",
+    "Ingredients": "0.75oz Tanqueray London dry gin\n0.5oz Carpano Punt E Mes sweet vermouth\n0.33oz Campari bitter\nStir",
     "Name": "Negroni"
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz The Duke Munich dry gin\n0.75oz Del Maguey Vida mezcal\n0.75oz Dolin sweet vermouth\n0.75oz Campari orange liqueur\n1dash Bittermens mole bitters\nStir",
+    "Ingredients": "1oz The Duke Munich dry gin\n0.75oz Del Maguey Vida mezcal\n0.75oz Dolin sweet vermouth\n0.75oz Campari bitter\n1dash Bittermens mole bitters\nStir",
     "Name": "Oaxacan Negroni"
   },
   {
@@ -3936,7 +3936,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz Dolin sweet vermouth\n0.5oz The Duke Munich dry gin\n0.5oz Kuestennebel absinthe\n0.5oz Campari orange liqueur\n0.25oz Montenegro amaro\n3dashes Regan's orange bitters\nShake",
+    "Ingredients": "0.75oz Dolin sweet vermouth\n0.5oz The Duke Munich dry gin\n0.5oz Kuestennebel absinthe\n0.5oz Campari bitter\n0.25oz Montenegro amaro\n3dashes Regan's orange bitters\nShake",
     "Name": "Pontarlier Julep"
   },
   {
@@ -3946,7 +3946,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Old Grand Dad Bonded bourbon\n0.75oz Campari orange liqueur\n0.75oz Dolin sweet vermouth\nStir",
+    "Ingredients": "1.5oz Old Grand Dad Bonded bourbon\n0.75oz Campari bitter\n0.75oz Dolin sweet vermouth\nStir",
     "Name": "Boulevardier"
   },
   {
@@ -3956,7 +3956,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1oz Flor de Cana 4 Year Old rum\n1oz Dolin sweet vermouth\n1oz Campari orange liqueur\n10drops Bittermens mole bitters\n1pinch Salt\nStir",
+    "Ingredients": "1oz Flor de Cana 4 Year Old rum\n1oz Dolin sweet vermouth\n1oz Campari bitter\n10drops Bittermens mole bitters\n1pinch Salt\nStir",
     "Name": "Kingston Negroni"
   },
   {
@@ -4046,12 +4046,12 @@
   },
   {
     "Rating": 2,
-    "Ingredients": "0.5oz Tanqueray London dry gin\n0.5oz Campari orange liqueur\n0.5oz Noilly Prat sweet vermouth\nGlass-age for 15 days\nStir",
+    "Ingredients": "0.5oz Tanqueray London dry gin\n0.5oz Campari bitter\n0.5oz Noilly Prat sweet vermouth\nGlass-age for 15 days\nStir",
     "Name": "Negroni"
   },
   {
     "Rating": 2,
-    "Ingredients": "0.5oz Tanqueray London dry gin\n0.5oz Campari orange liqueur\n0.5oz Noilly Prat sweet vermouth\nGlass-age for 35 days\nStir",
+    "Ingredients": "0.5oz Tanqueray London dry gin\n0.5oz Campari bitter\n0.5oz Noilly Prat sweet vermouth\nGlass-age for 35 days\nStir",
     "Name": "Negroni"
   },
   {
@@ -4086,7 +4086,7 @@
   },
   {
     "Rating": 2,
-    "Ingredients": "1.5oz Old Grand Dad bourbon (washed with burnt butter)\n0.75oz Campari orange liqueur\n0.75oz Dolin sweet vermouth\nStir",
+    "Ingredients": "1.5oz Old Grand Dad bourbon (washed with burnt butter)\n0.75oz Campari bitter\n0.75oz Dolin sweet vermouth\nStir",
     "Name": "Boulevardier"
   },
   {
@@ -4111,7 +4111,7 @@
   },
   {
     "Rating": 2,
-    "Ingredients": "1.5oz Tanqueray London dry gin\n0.75oz Campari orange liqueur\n0.75oz Lemon juice\n1.5oz Egg white\n4dashes Regan's orange bitters\nDry shake",
+    "Ingredients": "1.5oz Tanqueray London dry gin\n0.75oz Campari bitter\n0.75oz Lemon juice\n1.5oz Egg white\n4dashes Regan's orange bitters\nDry shake",
     "Name": "Gin-Campari Sour"
   },
   {

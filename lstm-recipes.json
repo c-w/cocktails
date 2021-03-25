@@ -5,7 +5,7 @@
   },
   {
     "Name": "ecols",
-    "Ingredients": "1oz mezcal\n1oz aperitif\n1.5oz orange liqueur\n0.5oz gin\n0.5oz lemon juice\n1barsp maraschino liqueur\nstir"
+    "Ingredients": "1oz mezcal\n1oz aperitif\n1.5oz bitter\n0.5oz gin\n0.5oz lemon juice\n1barsp maraschino liqueur\nstir"
   },
   {
     "Name": "fersin club",
@@ -21,11 +21,11 @@
   },
   {
     "Name": "mezcal negroni",
-    "Ingredients": "1.5oz tequila\n0.75oz sweet vermouth\n0.5oz orange liqueur\n1dash aromatic bitters\nstir"
+    "Ingredients": "1.5oz tequila\n0.75oz sweet vermouth\n0.5oz bitter\n1dash aromatic bitters\nstir"
   },
   {
     "Name": "mezcal negroni",
-    "Ingredients": "0.5oz mezcal\n0.75oz orange liqueur\n0.75oz sweet vermouth\nstir"
+    "Ingredients": "0.5oz mezcal\n0.75oz bitter\n0.75oz sweet vermouth\nstir"
   },
   {
     "Name": "pintes col canna3",
@@ -33,11 +33,11 @@
   },
   {
     "Name": "stlingis linge",
-    "Ingredients": "2oz gin\n1oz orange liqueur\n1.5oz sweet vermouth\nstir"
+    "Ingredients": "2oz gin\n1oz bitter\n1.5oz sweet vermouth\nstir"
   },
   {
     "Name": "feschennetar",
-    "Ingredients": "2oz rum\n1oz orange liqueur\n1.5oz sweet vermouth\nstir"
+    "Ingredients": "2oz rum\n1oz bitter\n1.5oz sweet vermouth\nstir"
   },
   {
     "Name": "rigod hosoe",
@@ -45,7 +45,7 @@
   },
   {
     "Name": "mercunle",
-    "Ingredients": "1.5oz orange liqueur\n0.5oz lemon juice\n1barsp syrup\n2dash orange bitters\nstir"
+    "Ingredients": "1.5oz bitter\n0.5oz lemon juice\n1barsp syrup\n2dash orange bitters\nstir"
   },
   {
     "Name": "frantes caninaes",
@@ -81,7 +81,7 @@
   },
   {
     "Name": "boulvardier",
-    "Ingredients": "0.75oz rye\n0.75oz orange liqueur\n0.75oz sweet vermouth\nstir"
+    "Ingredients": "0.75oz rye\n0.75oz bitter\n0.75oz sweet vermouth\nstir"
   },
   {
     "Name": "daroigarol seur  cocktail",
@@ -93,7 +93,7 @@
   },
   {
     "Name": "young american",
-    "Ingredients": "1.5oz sweet vermouth\n0.75oz orange liqueur\nstir"
+    "Ingredients": "1.5oz sweet vermouth\n0.75oz bitter\nstir"
   },
   {
     "Name": "lamile did",
@@ -101,11 +101,11 @@
   },
   {
     "Name": "nr nige",
-    "Ingredients": "2oz orange liqueur\n0.5oz orange liqueur\n0.5oz dry vermouth\n1dash orange bitters\nstir"
+    "Ingredients": "2oz bitter\n0.5oz bitter\n0.5oz dry vermouth\n1dash orange bitters\nstir"
   },
   {
     "Name": "maxtale canen",
-    "Ingredients": "1oz gin\n1oz orange liqueur\n0.75oz sweet vermouth\nstir"
+    "Ingredients": "1oz gin\n1oz bitter\n0.75oz sweet vermouth\nstir"
   },
   {
     "Name": "boulvardier",
@@ -113,7 +113,7 @@
   },
   {
     "Name": "f lime",
-    "Ingredients": "0.75oz cognac\n0.5oz dry vermouth\n0.25oz orange liqueur\n2dash aromatic bitters\nstir"
+    "Ingredients": "0.75oz cognac\n0.5oz dry vermouth\n0.25oz bitter\n2dash aromatic bitters\nstir"
   },
   {
     "Name": "mezcal mezcal negroni",
@@ -129,7 +129,7 @@
   },
   {
     "Name": "glonetecana",
-    "Ingredients": "0.75oz mezcal\n0.75oz sweet vermouth\n0.75oz orange liqueur\n0.75oz elderflower liqueur\n1dash mole bitters\nstir"
+    "Ingredients": "0.75oz mezcal\n0.75oz sweet vermouth\n0.75oz bitter\n0.75oz elderflower liqueur\n1dash mole bitters\nstir"
   },
   {
     "Name": "pingard celn nogr",
@@ -141,7 +141,7 @@
   },
   {
     "Name": "whiskey sour",
-    "Ingredients": "0.75oz bourbon\n0.5oz sweet vermouth\n0.5oz orange liqueur\n0.75oz sweet vermouth\nstir"
+    "Ingredients": "0.75oz bourbon\n0.5oz sweet vermouth\n0.5oz bitter\n0.75oz sweet vermouth\nstir"
   },
   {
     "Name": "negroni",
@@ -161,11 +161,11 @@
   },
   {
     "Name": "flon taveet bonk",
-    "Ingredients": "0.75oz bourbon\n1oz sweet vermouth\n0.75oz orange liqueur\n1dash aromatic bitters\nstir"
+    "Ingredients": "0.75oz bourbon\n1oz sweet vermouth\n0.75oz bitter\n1dash aromatic bitters\nstir"
   },
   {
     "Name": "gelol minte",
-    "Ingredients": "2.5oz rum\n0.75oz sweet vermouth\n0.75oz orange liqueur\nstir"
+    "Ingredients": "2.5oz rum\n0.75oz sweet vermouth\n0.75oz bitter\nstir"
   },
   {
     "Name": "old pary",
@@ -177,7 +177,7 @@
   },
   {
     "Name": "lemroni",
-    "Ingredients": "0.75oz gin\n0.75oz oranga liqueur\n0.75oz orange liqueur\nstir"
+    "Ingredients": "0.75oz gin\n0.75oz oranga liqueur\n0.75oz bitter\nstir"
   },
   {
     "Name": "regeon and band",
@@ -185,19 +185,19 @@
   },
   {
     "Name": "negroni",
-    "Ingredients": "7oz gin\n0.75oz sweet vermouth\n0.5oz orange liqueur\n1pinch salt\nstir"
+    "Ingredients": "7oz gin\n0.75oz sweet vermouth\n0.5oz bitter\n1pinch salt\nstir"
   },
   {
     "Name": "genjupen",
-    "Ingredients": "2oz vodka\n1oz orange liqueur\n0.5oz herbal liqueur\n0.5oz maraschino liqueur\nstir"
+    "Ingredients": "2oz vodka\n1oz bitter\n0.5oz herbal liqueur\n0.5oz maraschino liqueur\nstir"
   },
   {
     "Name": "kegnon don tejay",
-    "Ingredients": "2oz bourbon\n0.25oz mezcal\n0.75oz sweet vermouth\n0.5oz orange liqueur\n0.25oz orange liqueur\n0.5oz orange liqueur\n0.5oz aperitif\n2oz club soda\nbuild"
+    "Ingredients": "2oz bourbon\n0.25oz mezcal\n0.75oz sweet vermouth\n0.5oz bitter\n0.25oz bitter\n0.5oz bitter\n0.5oz aperitif\n2oz club soda\nbuild"
   },
   {
     "Name": "boulv rdier",
-    "Ingredients": "1oz tequila\n1oz sweet vermouth\n0.75oz orange liqueur\nstir"
+    "Ingredients": "1oz tequila\n1oz sweet vermouth\n0.75oz bitter\nstir"
   },
   {
     "Name": "folsele topa",
@@ -213,11 +213,11 @@
   },
   {
     "Name": "the sarton",
-    "Ingredients": "0.75oz amaro\n1.5oz orange liqueur\n0.5oz grapefruit juice\nshake"
+    "Ingredients": "0.75oz amaro\n1.5oz bitter\n0.5oz grapefruit juice\nshake"
   },
   {
     "Name": "boulvardier",
-    "Ingredients": "1oz rye\n1oz sweet vermouth\n0.25oz orange liqueur\n1oz orange juice\n2dash aromatic bitters\nstir"
+    "Ingredients": "1oz rye\n1oz sweet vermouth\n0.25oz bitter\n1oz orange juice\n2dash aromatic bitters\nstir"
   },
   {
     "Name": "aperol negroni",
@@ -225,7 +225,7 @@
   },
   {
     "Name": "lins pord der",
-    "Ingredients": "1oz tequila\n1oz coffee liqueur\n0.75oz orange liqueur\n0.75oz lemon juice\n0.5oz syrup\n0.25oz apple juice\nshake"
+    "Ingredients": "1oz tequila\n1oz coffee liqueur\n0.75oz bitter\n0.75oz lemon juice\n0.5oz syrup\n0.25oz apple juice\nshake"
   },
   {
     "Name": "cint",
@@ -237,11 +237,11 @@
   },
   {
     "Name": "palimin labronr",
-    "Ingredients": "1oz rum\n0.75oz sweet vermouth\n0.75oz orange liqueur\nstir"
+    "Ingredients": "1oz rum\n0.75oz sweet vermouth\n0.75oz bitter\nstir"
   },
   {
     "Name": "young american",
-    "Ingredients": "1.5oz sweet vermouth\n0.25oz orange liqueur\n2dash mole bitters\nstir"
+    "Ingredients": "1.5oz sweet vermouth\n0.25oz bitter\n2dash mole bitters\nstir"
   },
   {
     "Name": "anders nogroni",
@@ -265,7 +265,7 @@
   },
   {
     "Name": "dol nemmoni",
-    "Ingredients": "0.75oz tequila\n0.75oz sweet vermouth\n1oz orange liqueur\n0.75oz sweet vermouth\n13linch salt\nstir"
+    "Ingredients": "0.75oz tequila\n0.75oz sweet vermouth\n1oz bitter\n0.75oz sweet vermouth\n13linch salt\nstir"
   },
   {
     "Name": "negroni",
@@ -285,15 +285,15 @@
   },
   {
     "Name": "artor",
-    "Ingredients": "0.75oz orange liqueur\n0.75oz aperitif\n0.5oz awtichoke liqueur\nstir"
+    "Ingredients": "0.75oz bitter\n0.75oz aperitif\n0.5oz awtichoke liqueur\nstir"
   },
   {
     "Name": "nigurod pal promine",
-    "Ingredients": "1.5oz bourbon\n0.75oz sweet vermouth\n0.5oz orange liqueur\n0.5oz sweet vermouth\n0.5oz maraschino liqueur\n2dash aromatic bitters\n1dash mole bitters\n1dash orange bitters\nstir"
+    "Ingredients": "1.5oz bourbon\n0.75oz sweet vermouth\n0.5oz bitter\n0.5oz sweet vermouth\n0.5oz maraschino liqueur\n2dash aromatic bitters\n1dash mole bitters\n1dash orange bitters\nstir"
   },
   {
     "Name": "the coaollon",
-    "Ingredients": "0.5oz mezcal\n0.75oz orange liqueur\n0.75oz sweet vermouth\nstir"
+    "Ingredients": "0.5oz mezcal\n0.75oz bitter\n0.75oz sweet vermouth\nstir"
   },
   {
     "Name": "bouble negroni",
@@ -313,7 +313,7 @@
   },
   {
     "Name": "american negroni",
-    "Ingredients": "1oz rye\n0.75oz sweet vermouth\n1oz orange liqueur\n0.25oz artichoke liqueur\nstir"
+    "Ingredients": "1oz rye\n0.75oz sweet vermouth\n1oz bitter\n0.25oz artichoke liqueur\nstir"
   },
   {
     "Name": "drimunes old farhioned",
@@ -341,7 +341,7 @@
   },
   {
     "Name": "sromone pinevor",
-    "Ingredients": "0.5oz tequila\n0.75oz sweet vermouth\n0.75oz orange liqueur\nstir"
+    "Ingredients": "0.5oz tequila\n0.75oz sweet vermouth\n0.75oz bitter\nstir"
   },
   {
     "Name": "andarop negroni",
@@ -361,7 +361,7 @@
   },
   {
     "Name": "legroni",
-    "Ingredients": "1oz mezcal\n0.5oz sweet vermouth\n0.5oz orange liqueur\nstir"
+    "Ingredients": "1oz mezcal\n0.5oz sweet vermouth\n0.5oz bitter\nstir"
   },
   {
     "Name": "ayeor  roume",
