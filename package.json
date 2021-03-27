@@ -15,14 +15,9 @@
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^0.87.3"
   },
-  "devDependencies": {
-    "gh-pages": "^2.2.0"
-  },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "build": "react-scripts build"
   },
   "browserslist": [
     ">0.2%",
