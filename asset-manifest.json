@@ -1,26 +1,24 @@
 {
   "files": {
-    "main.css": "/cocktails/static/css/main.14a6a843.chunk.css",
-    "main.js": "/cocktails/static/js/main.4155638c.chunk.js",
-    "main.js.map": "/cocktails/static/js/main.4155638c.chunk.js.map",
-    "runtime-main.js": "/cocktails/static/js/runtime-main.c873d078.js",
-    "runtime-main.js.map": "/cocktails/static/js/runtime-main.c873d078.js.map",
-    "static/css/2.4cf99d49.chunk.css": "/cocktails/static/css/2.4cf99d49.chunk.css",
-    "static/js/2.c5b5d60b.chunk.js": "/cocktails/static/js/2.c5b5d60b.chunk.js",
-    "static/js/2.c5b5d60b.chunk.js.map": "/cocktails/static/js/2.c5b5d60b.chunk.js.map",
+    "main.css": "/cocktails/static/css/main.37bdef15.chunk.css",
+    "main.js": "/cocktails/static/js/main.cbff6d67.chunk.js",
+    "main.js.map": "/cocktails/static/js/main.cbff6d67.chunk.js.map",
+    "runtime-main.js": "/cocktails/static/js/runtime-main.a559392c.js",
+    "runtime-main.js.map": "/cocktails/static/js/runtime-main.a559392c.js.map",
+    "static/css/2.7ca8fc77.chunk.css": "/cocktails/static/css/2.7ca8fc77.chunk.css",
+    "static/js/2.e9f05c1c.chunk.js": "/cocktails/static/js/2.e9f05c1c.chunk.js",
+    "static/js/2.e9f05c1c.chunk.js.map": "/cocktails/static/js/2.e9f05c1c.chunk.js.map",
     "index.html": "/cocktails/index.html",
-    "precache-manifest.170ce31875db2427b84c3371d50c6557.js": "/cocktails/precache-manifest.170ce31875db2427b84c3371d50c6557.js",
-    "service-worker.js": "/cocktails/service-worker.js",
-    "static/css/2.4cf99d49.chunk.css.map": "/cocktails/static/css/2.4cf99d49.chunk.css.map",
-    "static/css/main.14a6a843.chunk.css.map": "/cocktails/static/css/main.14a6a843.chunk.css.map",
-    "static/js/2.c5b5d60b.chunk.js.LICENSE.txt": "/cocktails/static/js/2.c5b5d60b.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/cocktails/static/media/outline-icons.ef60a4f6.woff"
+    "static/css/2.7ca8fc77.chunk.css.map": "/cocktails/static/css/2.7ca8fc77.chunk.css.map",
+    "static/css/main.37bdef15.chunk.css.map": "/cocktails/static/css/main.37bdef15.chunk.css.map",
+    "static/js/2.e9f05c1c.chunk.js.LICENSE.txt": "/cocktails/static/js/2.e9f05c1c.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/cocktails/static/media/outline-icons.ddae9b1b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.c873d078.js",
-    "static/css/2.4cf99d49.chunk.css",
-    "static/js/2.c5b5d60b.chunk.js",
-    "static/css/main.14a6a843.chunk.css",
-    "static/js/main.4155638c.chunk.js"
+    "static/js/runtime-main.a559392c.js",
+    "static/css/2.7ca8fc77.chunk.css",
+    "static/js/2.e9f05c1c.chunk.js",
+    "static/css/main.37bdef15.chunk.css",
+    "static/js/main.cbff6d67.chunk.js"
   ]
 }
