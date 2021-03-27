@@ -9,7 +9,6 @@ ReactDOM.render(
     aiRecipesUrl={process.env.REACT_APP_AI_RECIPES_URL}
     wordsUrl={process.env.REACT_APP_WORDS_URL}
     pageSize={parseInt(process.env.REACT_APP_PAGE_SIZE, 10)}
-    numFilters={parseInt(process.env.REACT_APP_NUM_FILTERS, 10)}
   />,
   document.getElementById('root'));
 

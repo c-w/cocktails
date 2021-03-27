@@ -80,7 +80,6 @@ export default class App extends React.Component {
       words={this.state.words}
       query={props.match.params.query}
       recipesPerPage={this.props.pageSize}
-      numFilters={this.props.numFilters}
       key={props.match.params.query}
     />
 
