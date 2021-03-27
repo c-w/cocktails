@@ -56,11 +56,7 @@ export default class App extends React.Component {
       recipes,
       aiRecipes,
       words: {
-        combined: new Set(words.combined || []),
-        blacklist: new Set(words.blacklist || []),
-        quantity: new Set(words.quantity || []),
         brands: new Set(words.brands || []),
-        ignored: new Set(words.ignored || []),
         spirits: new Set(words.spirits || []),
       },
       cacheDate,

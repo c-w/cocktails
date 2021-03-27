@@ -18,8 +18,7 @@ if (!fs.existsSync('./words.json')) {
 const recipes = JSON.parse(fs.readFileSync('./recipes.json', 'utf-8'));
 const words = JSON.parse(fs.readFileSync('./words.json', 'utf-8'));
 
-const brands = new RegExp(`(${words.quantity.join('|')})[^ ]* (${words.brands.join('|')})[a-z0-9&' ]* (${words.spirits.join('|')})`, 'gi');
-const bitters = new RegExp(`(${words.quantity.join('|')})[^ ]* [a-z0-9&' ]*(${words.bitters.join('|')})`, 'gi');
+const brands = new RegExp(`(${words.brands.join('|')})[a-z0-9&' ]* (${words.spirits.join('|')})`, 'gi');
 
 const data = recipes
   .filter(recipe =>
@@ -30,9 +29,8 @@ const data = recipes
         .toLowerCase()
         .replace(/anise liqueur/gi, 'absinthe')
         .replace(/home-made /gi, '')
-        .replace(brands, '$1 $3')
+        .replace(brands, '$2')
         .replace(/(oz|barsp) [a-z -]* syrup[^\n]*/gi, '$1 syrup')
-        .replace(bitters, '$1 $2')
         .split('\n')
         .map(line =>
           line.replace(/(build|stir|shake).*$/gi, '$1'))

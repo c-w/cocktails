@@ -8,23 +8,12 @@ import SearchBar from '../components/SearchBar';
 import StarRating from '../components/StarRating';
 import i8n from '../i8n';
 
-const combineTokens = (sentence, combinedWords) => {
-  combinedWords.forEach(token => {
-    const regexp = new RegExp(token, 'gi');
-    sentence = sentence.replace(regexp, token.replace(/ /g, '_'));
-  });
-
-  return sentence;
-};
-
-const splitTokens = (sentence) => sentence.replace(/_/g, ' ');
-
-const hasFilterText = (recipe, filterText, words) => {
+const hasFilterText = (recipe, filterText) => {
   if (!filterText) {
     return true;
   }
 
-  const searchCorpus = combineTokens(`${recipe.Name}\n${recipe.Ingredients}`.toLowerCase(), words.combined);
+  const searchCorpus = `${recipe.Name}\n${recipe.Ingredients}`.toLowerCase();
 
   const searchTerms = filterText
     .split('&&')
@@ -47,14 +36,9 @@ const recipeToCard = (recipe, i) => ({
   header: recipe.Name,
   description:
     <Link to={`/${window.location.href.split('#')[1].split('/')[1]}/${recipe.Name}`}>
-      <MultilineText text={splitTokens(recipe.Ingredients)} />
+      <MultilineText text={recipe.Ingredients} />
     </Link>,
   meta: <StarRating rating={recipe.Rating} />
-});
-
-const filterToCheckbox = (filter) => ({
-  label: filter.term,
-  checked: filter.enabled
 });
 
 export default class RecipesView extends React.PureComponent {
@@ -68,10 +52,7 @@ export default class RecipesView extends React.PureComponent {
   }
 
   onSearchTextChange = (filterText) => {
-    const { words } = this.props;
-
-    const newFilterText = combineTokens(filterText, words.combined);
-    this.setState({ filterText: newFilterText });
+    this.setState({ filterText });
   }
 
   onSortOrderChange = (sortOrder) => {
@@ -80,9 +61,8 @@ export default class RecipesView extends React.PureComponent {
 
   shouldShowRecipe = (recipe) => {
     const { filterText } = this.state;
-    const { words } = this.props;
 
-    return hasFilterText(recipe, filterText, words);
+    return hasFilterText(recipe, filterText);
   }
 
   sort = (recipes) => {

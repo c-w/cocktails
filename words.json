@@ -29,16 +29,6 @@
     "Vodka",
     "Whiskey"
   ],
-  "bitters": [
-    "aromatic",
-    "chocolate",
-    "grapefruit",
-    "mint",
-    "mole",
-    "orange",
-    "peach",
-    "walnut"
-  ],
   "brands": [
     "Alberta",
     "Angostura",
@@ -168,44 +158,5 @@
     "Woodford Reserve",
     "Wray and Nephew",
     "Zafra"
-  ],
-  "quantity": [
-    "oz",
-    "sp",
-    "tsp",
-    "pinch",
-    "cup",
-    "drop",
-    "slice",
-    "grain",
-    "cm",
-    "gram",
-    "leaves",
-    "leaf",
-    "spray",
-    "rinse",
-    "piece",
-    "quarter",
-    "dash"
-  ],
-  "combined": [
-    " juice",
-    " twist",
-    " bitters",
-    "egg white",
-    "dry shake"
-  ],
-  "ignored": [
-    "bottled",
-    "in",
-    "bond",
-    "bonded",
-    "year",
-    "old",
-    "london",
-    "dry"
-  ],
-  "blacklist": [
-    "syrup"
   ]
 }
