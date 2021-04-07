@@ -111,6 +111,7 @@ export default class App extends React.Component {
       recipesPerPage={this.props.pageSize}
       key={props.match.params.query}
       noSort
+      noPantry
     />
 
   renderStaleDataWarning = (props) => {
