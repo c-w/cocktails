@@ -21,6 +21,16 @@ export default class SearchBar extends React.Component {
     this.setState({ value }, () => this._onChange(value));
   }
 
+  onIconClick = () => {
+    const { value } = this.state;
+
+    if (value) {
+      this.setState({ value: '' }, () => this._onChange(''));
+    } else {
+      this._onChange(value);
+    }
+  }
+
   render() {
     const { placeholder, className } = this.props;
     const { value } = this.state;
@@ -28,11 +38,18 @@ export default class SearchBar extends React.Component {
     return (
       <div className={className}>
         <Input
-          icon="search"
+          icon
           value={value}
           placeholder={placeholder}
           onChange={this.onChange}
-        />
+        >
+          <input />
+          <i
+            className={`link icon ${value ? 'close' : 'search'}`}
+            onClick={this.onIconClick}
+            aria-hidden
+          />
+        </Input>
       </div>
     );
   }
