@@ -14,6 +14,8 @@ a, a:focus, a:hover, a:visited, a:link, a:active {
 
 .brandControls .searchBar,
 .bottleControls .dropdown,
+.recipeControls .pantryToggle,
+.recipeControls .pantryFilter,
 .recipeControls .searchBar {
   margin-top: 0.5em;
   margin-bottom: 1em;
