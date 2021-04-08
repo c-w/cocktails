@@ -174,6 +174,7 @@ export default class RecipesView extends React.PureComponent {
               label="Check pantry"
               checked={pantryEnabled}
               onChange={this.onPantryToggle}
+              disabled={Object.values(pantry).every(available => !available)}
             />
             <Pantry
               onChange={this.onPantryChange}
