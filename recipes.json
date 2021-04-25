@@ -62,7 +62,7 @@
   {
     "Rating": 5,
     "Name": "Tabu Tabu Grog",
-    "Ingredients": "0.75oz El Dorado 8 Year Old rum\n0.25oz Hamilton 151 Overproof rum\n0.5oz Appleton Estate Signature Blend rum\n0.5oz Smith and Cross rum\n0.25oz Home-made allspice liqueur\n0.75oz Grapefruit juice\n0.75oz Lime juice\n0.5oz Passionfruit syrup\n0.5oz Honey simple syrup\n2dashes Angostura aromatic bitters\nShake"
+    "Ingredients": "0.75oz El Dorado 8 Year Old rum\n0.25oz Hamilton 151 Overproof rum\n0.5oz Appleton Estate Signature Blend rum\n0.5oz Smith and Cross rum\n0.25oz Home-made allspice liqueur\n0.75oz Grapefruit juice\n0.75oz Lime juice\n0.5oz Passionfruit syrup\n0.5oz Honey syrup\n2dashes Angostura aromatic bitters\nShake"
   },
   {
     "Name": "Port Light",
@@ -107,7 +107,7 @@
   {
     "Name": "Gin Pennant Grog",
     "Rating": 3,
-    "Ingredients": "2oz Tanqueray Rangpur gin\n0.25oz Home-made allspice liqueur\n0.75oz Grapefruit juice\n0.75oz Lime juice\n0.75oz Honey simple syrup\n1oz Club soda (float)\nShake"
+    "Ingredients": "2oz Tanqueray Rangpur gin\n0.25oz Home-made allspice liqueur\n0.75oz Grapefruit juice\n0.75oz Lime juice\n0.75oz Honey syrup\n1oz Club soda (float)\nShake"
   },
   {
     "Name": "Jamaican Bobsled",
@@ -116,7 +116,7 @@
   },
   {
     "Name": "Lili'uokalani's Downfall",
-    "Ingredients": "1.5oz Clement Premiere Canne rum\n0.5oz Sombra mezcal\n1.5oz Pineapple juice\n0.5oz Lime juice\n0.5oz Honey simple syrup\n0.5oz Passionfruit syrup\n10leaves Mint\nShake",
+    "Ingredients": "1.5oz Clement Premiere Canne rum\n0.5oz Sombra mezcal\n1.5oz Pineapple juice\n0.5oz Lime juice\n0.5oz Honey syrup\n0.5oz Passionfruit syrup\n10leaves Mint\nShake",
     "Rating": 4
   },
   {
@@ -201,7 +201,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Rhum JM VSOP rum\n0.5oz El Dorado 8 Year Old rum\n0.25oz Home-made allspice liqueur\n0.5oz Lime juice\n0.5oz Orange juice\n0.5oz Honey simple syrup\n0.25oz Falernum syrup\n1dash Angostura aromatic bitters\nShake",
+    "Ingredients": "1.5oz Rhum JM VSOP rum\n0.5oz El Dorado 8 Year Old rum\n0.25oz Home-made allspice liqueur\n0.5oz Lime juice\n0.5oz Orange juice\n0.5oz Honey syrup\n0.25oz Falernum syrup\n1dash Angostura aromatic bitters\nShake",
     "Name": "Three Dots and a Dash"
   },
   {
@@ -271,7 +271,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Foursquare Doorly's 8 Year Old rum\n0.75oz Flor de Cana 4 Year Old rum\n0.75oz Hamilton 151 Overproof rum\n1oz Aperol aperitif\n2oz Pineapple juice\n1oz Lime juice\n1oz Orange juice\n0.75oz Passionfruit syrup\n0.75oz Honey simple syrup\nShake",
+    "Ingredients": "0.75oz Foursquare Doorly's 8 Year Old rum\n0.75oz Flor de Cana 4 Year Old rum\n0.75oz Hamilton 151 Overproof rum\n1oz Aperol aperitif\n2oz Pineapple juice\n1oz Lime juice\n1oz Orange juice\n0.75oz Passionfruit syrup\n0.75oz Honey syrup\nShake",
     "Name": "King Kamehameha"
   },
   {
@@ -306,12 +306,12 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Rhum JM VSOP rum\n0.5oz Lime juice\n0.25oz Honey simple syrup\n0.25oz Falernum syrup\n1dash Angostura aromatic bitters\nShake",
+    "Ingredients": "1.5oz Rhum JM VSOP rum\n0.5oz Lime juice\n0.25oz Honey syrup\n0.25oz Falernum syrup\n1dash Angostura aromatic bitters\nShake",
     "Name": "Island Of Martinique Cocktail"
   },
   {
     "Rating": 3,
-    "Ingredients": "1.5oz Flor de Cana 4 Year Old rum\n1oz Foursquare Doorly's 8 Year Old rum\n0.75oz Lime juice\n2oz Coconut water\n0.5oz Honey simple syrup\n0.5oz Falernum syrup\n2dashes Angostura aromatic bitters\nShake",
+    "Ingredients": "1.5oz Flor de Cana 4 Year Old rum\n1oz Foursquare Doorly's 8 Year Old rum\n0.75oz Lime juice\n2oz Coconut water\n0.5oz Honey syrup\n0.5oz Falernum syrup\n2dashes Angostura aromatic bitters\nShake",
     "Name": "Moonkist Twist"
   },
   {
@@ -411,7 +411,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "1.75oz Clement Premiere Canne rum\n0.25oz Wray and Nephew Overproof rum\n1oz Pineapple juice\n0.75oz Lime juice\n0.5oz Honey simple syrup\nShake",
+    "Ingredients": "1.75oz Clement Premiere Canne rum\n0.25oz Wray and Nephew Overproof rum\n1oz Pineapple juice\n0.75oz Lime juice\n0.5oz Honey syrup\nShake",
     "Name": "Aetherton"
   },
   {
@@ -436,7 +436,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Foursquare Doorly's 8 Year Old rum\n0.75oz Rhum JM VSOP rum\n1oz Pineapple juice\n0.5oz Lime juice\n0.5oz Passionfruit syrup\n0.25oz Honey simple syrup\n1dash Angostura aromatic bitters\nShake",
+    "Ingredients": "1oz Foursquare Doorly's 8 Year Old rum\n0.75oz Rhum JM VSOP rum\n1oz Pineapple juice\n0.5oz Lime juice\n0.5oz Passionfruit syrup\n0.25oz Honey syrup\n1dash Angostura aromatic bitters\nShake",
     "Name": "Bolo"
   },
   {
@@ -1731,7 +1731,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Monkey Shoulder blended whiskey\n0.75oz Honey rich syrup\n0.75oz Lemon juice\n3slices ginger (muddle)\n0.25oz Ardbeg 10 Year Old whiskey (float)\nShake",
+    "Ingredients": "2oz Monkey Shoulder blended whiskey\n0.75oz Honey syrup\n0.75oz Lemon juice\n3slices ginger (muddle)\n0.25oz Ardbeg 10 Year Old whiskey (float)\nShake",
     "Name": "Penicillin"
   },
   {
@@ -2646,7 +2646,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1.5oz Noilly Prat dry vermouth\n0.5oz Chartreuse Verte herbal liqueur\n0.5oz Lemon juice\n0.25oz Honey rich syrup\nShake",
+    "Ingredients": "1.5oz Noilly Prat dry vermouth\n0.5oz Chartreuse Verte herbal liqueur\n0.5oz Lemon juice\n0.25oz Honey syrup\nShake",
     "Name": "Board of Directors"
   },
   {
@@ -2751,7 +2751,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Laird's 100 Apple brandy\n0.75oz Lemon juice\n0.5oz Honey rich syrup\nShake",
+    "Ingredients": "2oz Laird's 100 Apple brandy\n0.75oz Lemon juice\n0.5oz Honey syrup\nShake",
     "Name": "Golden Delicious"
   },
   {
@@ -2926,7 +2926,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "0.75oz Fernet Branca amaro\n0.5oz Carpano Punt E Mes sweet vermouth\n0.25oz Honey rich syrup\n1dash Regan's orange bitters\nLemon twist (garnish)\nStir",
+    "Ingredients": "0.75oz Fernet Branca amaro\n0.5oz Carpano Punt E Mes sweet vermouth\n0.25oz Honey syrup\n1dash Regan's orange bitters\nLemon twist (garnish)\nStir",
     "Name": "Fernet Me Not"
   },
   {
@@ -2981,7 +2981,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "0.75oz Wild Turkey 101 bourbon\n0.25oz Honey rich syrup\n0.25oz Rich syrup (infused with green tea)\n0.25oz Lemon juice\n1oz Club soda (reverse float)\nOrange twist\nShake",
+    "Ingredients": "0.75oz Wild Turkey 101 bourbon\n0.25oz Honey syrup\n0.25oz Rich syrup (infused with green tea)\n0.25oz Lemon juice\n1oz Club soda (reverse float)\nOrange twist\nShake",
     "Name": "Viceroy"
   },
   {
@@ -3256,7 +3256,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Del Maguey Vida mezcal\n1oz Laird's 100 Apple brandy\n0.75oz Lemon juice\n0.5oz Honey rich syrup\nShake",
+    "Ingredients": "1oz Del Maguey Vida mezcal\n1oz Laird's 100 Apple brandy\n0.75oz Lemon juice\n0.5oz Honey syrup\nShake",
     "Name": "Moment In The Sun"
   },
   {
@@ -3376,12 +3376,12 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Old Grand Dad bourbon\n1oz Honey rich syrup\n0.75oz Lemon juice\nShake",
+    "Ingredients": "2oz Old Grand Dad bourbon\n1oz Honey syrup\n0.75oz Lemon juice\nShake",
     "Name": "Gold Rush"
   },
   {
     "Rating": 4,
-    "Ingredients": "2oz Old Grand Dad Bonded bourbon\n1oz Honey rich syrup\n0.75oz Lemon juice\nShake",
+    "Ingredients": "2oz Old Grand Dad Bonded bourbon\n1oz Honey syrup\n0.75oz Lemon juice\nShake",
     "Name": "Gold Rush"
   },
   {
@@ -3486,7 +3486,7 @@
   },
   {
     "Rating": 4,
-    "Ingredients": "1oz Old Grand Dad bourbon\n0.5oz Laphroaig 10 Year Old whiskey\n0.5oz Rittenhouse Bonded rye\n0.75oz Honey rich syrup\n0.75oz Lemon juice\n3slices ginger (muddle)\n0.25oz Laphroaig 10 Year Old whiskey (float)\nShake",
+    "Ingredients": "1oz Old Grand Dad bourbon\n0.5oz Laphroaig 10 Year Old whiskey\n0.5oz Rittenhouse Bonded rye\n0.75oz Honey syrup\n0.75oz Lemon juice\n3slices ginger (muddle)\n0.25oz Laphroaig 10 Year Old whiskey (float)\nShake",
     "Name": "Penicillin"
   },
   {
@@ -3616,7 +3616,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz Old Overholt rye\n0.75oz Lemon juice\n0.75oz Honey rich syrup\n1barsp Chartreuse Verte herbal liqueur\nShake",
+    "Ingredients": "2oz Old Overholt rye\n0.75oz Lemon juice\n0.75oz Honey syrup\n1barsp Chartreuse Verte herbal liqueur\nShake",
     "Name": "Rye Hummingbird"
   },
   {
@@ -3846,7 +3846,7 @@
   },
   {
     "Rating": 3,
-    "Ingredients": "2oz The Duke Munich dry gin\n0.75oz Honey rich syrup\n0.75oz Lemon juice\nShake",
+    "Ingredients": "2oz The Duke Munich dry gin\n0.75oz Honey syrup\n0.75oz Lemon juice\nShake",
     "Name": "Bees Knees"
   },
   {
