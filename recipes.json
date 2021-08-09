@@ -1,5 +1,10 @@
 [
   {
+    "Ingredients": "1oz St Petersburg Tropical gin\n0.75oz Carpano Classico sweet vermouth\n0.5oz Don Ciccio & Figli Luna Amara bitter\n0.25oz Aperol aperitif\n1dash Peychauds aromatic bitters\nStir",
+    "Name": "Negroni",
+    "Rating": 3
+  },
+  {
     "Name": "Young American",
     "Ingredients": "1.5oz Carpano Classico sweet vermouth\n0.5oz Don Ciccio & Figli Luna Amara bitter\n0.5oz Aperol aperitif\n1oz Club soda\nBuild",
     "Rating": 5
