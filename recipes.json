@@ -1,6 +1,11 @@
 [
   {
     "Rating": 5,
+    "Name": "Agricole Negroni",
+    "Ingredients": "1.25oz Paranubes Oaxaca rum\n1oz Aperol aperitif\n1oz Carpano Classico sweet vermouth\nStir"
+  },
+  {
+    "Rating": 5,
     "Ingredients": "2oz Smith and Cross rum\n1oz Passionfruit syrup\n1oz Lemon juice\nShake",
     "Name": "Hurricane"
   },
