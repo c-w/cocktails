@@ -1,5 +1,15 @@
 [
   {
+    "Ingredients": "2oz Appleton Estate 12 Year Old rum\n1oz Pineapple juice\n1oz Orange juice\n1oz Coconut cream\nShake",
+    "Name": "Painkiller",
+    "Rating": 3
+  },
+  {
+    "Ingredients": "2oz El Dorado 15 Year Old rum\n1oz Pineapple juice\n1oz Orange juice\n1oz Coconut cream\nShake",
+    "Name": "Painkiller",
+    "Rating": 4
+  },
+  {
     "Rating": 3,
     "Ingredients": "2.5oz Brugal Anejo rum\n1oz Passionfruit syrup\n1oz Lemon juice\nShake",
     "Name": "Hurricane"
