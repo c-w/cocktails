@@ -1,5 +1,20 @@
 [
   {
+    "Rating": 4,
+    "Ingredients": "2oz Rittenhouse Bonded rye\n1oz Passionfruit syrup\n1oz Lemon juice\nShake",
+    "Name": "Rye Hurricane"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "1.5oz Espolon Blanco tequila\n0.5oz Los Siete Misterios Doba-Yej mezcal\n1barsp Agave syrup\n1dash Bob's orange bitters\n1dash Bob's mole bitters\n1dash Angostura aromatic bitters\nStir",
+    "Name": "Mezcal Old Fashioned"
+  },
+  {
+    "Ingredients": "1.5oz Bielle Blanc 50 rum\n0.75oz Lime juice\n0.75oz Simple syrup\nShake",
+    "Name": "Daiquiri",
+    "Rating": 5
+  },
+  {
     "Ingredients": "1.5oz El Dorado 8 Year Old rum\n0.5oz Foursquare Doorly's 12 Year Old rum\n0.5oz Bauchant triple sec\n1oz Lime juice\n0.5oz Orgeat syrup\n0.25oz Simple syrup\nShake",
     "Rating": 4,
     "Name": "Mai Tai"
