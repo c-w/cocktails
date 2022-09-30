@@ -1,6 +1,16 @@
 [
   {
     "Rating": 5,
+    "Ingredients": "1.5oz Rum Nation Barbados rum\n0.5oz Smith and Cross rum\n0.25oz Home-made banana liqueur\n1dash Angostura aromatic bitters\n1dash Bob's orange bitters\n1dash Bob's mole bitters\n1dash Bordiga absinthe\nStir",
+    "Name": "Rum Old Fashioned"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "2oz Wild Turkey 101 bourbon\n1oz Lemon juice\n1oz Simple syrup\n0.75oz Red wine (float, lagrein)\nShake",
+    "Name": "New York Sour"
+  },
+  {
+    "Rating": 5,
     "Ingredients": "2oz Rittenhouse Bonded rye\n1oz Passionfruit syrup\n0.75oz Lemon juice\nShake",
     "Name": "Rye Hurricane"
   },
