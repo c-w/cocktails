@@ -1,5 +1,25 @@
 [
   {
+    "Rating": 4,
+    "Ingredients": "1oz Plantation OFTD rum\n1oz Smith and Cross rum\n1.5oz Passionfruit syrup\n0.75oz Pineapple juice\n0.75oz Orange juice\n0.75oz Lime juice\nShake",
+    "Name": "Rum Barrel"
+  },
+  {
+    "Rating": 5,
+    "Name": "Mezcal Negroni",
+    "Ingredients": "2oz Los Siete Misterios Doba-Yej mezcal\n1.5oz Quaglia Berto sweet vermouth\n1.5oz Vetz aperitif\nStir"
+  },
+  {
+    "Rating": 4,
+    "Name": "Sandpiper",
+    "Ingredients": "1oz Foursquare Doorly's 5 Year Old rum\n1oz Smith and Cross rum\n0.5oz Home-made coffee liqueur\n2oz Pineapple juice\n0.5oz Coconut cream\nShake"
+  },
+  {
+    "Rating": 4,
+    "Name": "Mr Black & Gold",
+    "Ingredients": "1oz Bacardi 8 Year Old rum\n1oz Home-made coffee liqueur\n1oz Pineapple juice\n1oz Passionfruit syrup\n3dashes Angostura aromatic bitters\nShake"
+  },
+  {
     "Rating": 5,
     "Ingredients": "1.5oz Rum Nation Barbados rum\n0.5oz Smith and Cross rum\n0.25oz Home-made banana liqueur\n1dash Angostura aromatic bitters\n1dash Bob's orange bitters\n1dash Bob's mole bitters\n1dash Bordiga absinthe\nStir",
     "Name": "Rum Old Fashioned"
