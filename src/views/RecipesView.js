@@ -168,9 +168,8 @@ export default class RecipesView extends React.PureComponent {
             checked={sortOrder}
             onChange={this.onSortOrderChange}
           />}
-          {!noPantry && <>
+          {!noPantry && <div className="pantryFilter">
             <Checkbox
-              className="pantryFilter"
               label="Check pantry"
               checked={pantryEnabled}
               onChange={this.onPantryToggle}
@@ -180,7 +179,7 @@ export default class RecipesView extends React.PureComponent {
               onChange={this.onPantryChange}
               items={pantry}
             />
-          </>}
+          </div>}
         </div>
         <PaginatedCardGroup
           className="paginatedCardGroup"

@@ -33,6 +33,7 @@ a, a:focus, a:hover, a:visited, a:link, a:active {
 }
 
 .recipeControls .pantryFilter {
+  display: inline-block;
   margin-left: 1em;
 }
 
@@ -52,4 +53,16 @@ a, a:focus, a:hover, a:visited, a:link, a:active {
 
 #root > .container {
   margin-bottom: 70px;
+}
+
+@media screen and (max-width: 620px) {
+  .pageSwitcher,
+  .recipeControls .pantryFilter {
+    display: none !important;
+  }
+
+  #root > .container {
+    padding-top: 0.5em;
+    padding-bottom: 1em;
+  }
 }
