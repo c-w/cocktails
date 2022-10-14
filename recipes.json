@@ -1,5 +1,30 @@
 [
   {
+    "Name": "Young American",
+    "Ingredients": "1.5oz Quaglia Berto sweet vermouth\n0.5oz Noi E Voi bitter\n0.5oz Nardini Mezzo E Mezzo aperitif\n1oz Club soda\n1dash Bordiga absinthe\nBuild",
+    "Rating": 3
+  },
+  {
+    "Name": "Young American",
+    "Ingredients": "1.5oz Quaglia Berto sweet vermouth\n0.5oz Pilla Select bitter\n0.5oz Bagnoli Ape aperitif\n1oz Club soda\n1dash Bordiga absinthe\nBuild",
+    "Rating": 4
+  },
+  {
+    "Name": "Young American",
+    "Ingredients": "1.5oz Quaglia Berto sweet vermouth\n0.5oz Villa Cardea bitter\n0.5oz Vetz aperitif\n1oz Club soda\n1dash Bordiga absinthe\nBuild",
+    "Rating": 4
+  },
+  {
+    "Name": "Young American",
+    "Ingredients": "1.5oz Quaglia Berto sweet vermouth\n0.5oz Bagnoli Ape aperitif\n0.5oz Vetz aperitif\n1oz Club soda\n1dash Bordiga absinthe\nBuild",
+    "Rating": 4
+  },
+  {
+    "Name": "Young American",
+    "Ingredients": "1.5oz Quaglia Berto sweet vermouth\n0.5oz Luxardo bitter\n0.5oz Luxardo aperitif\n1oz Club soda\n1dash Bordiga absinthe\nBuild",
+    "Rating": 4
+  },
+  {
     "Rating": 4,
     "Ingredients": "1oz Plantation OFTD rum\n1oz Smith and Cross rum\n1.5oz Passionfruit syrup\n0.75oz Pineapple juice\n0.75oz Orange juice\n0.75oz Lime juice\nShake",
     "Name": "Rum Barrel"
