@@ -1,5 +1,20 @@
 [
   {
+    "Rating": 3,
+    "Ingredients": "0.75oz Bacardi 8 Year Old rum\n0.5oz Poli Gran Bassano sweet vermouth\n0.25oz Home-made chocolate liqueur\n0.25oz Clement Creole Shrubb triple sec\n1.5oz Lemon juice\n1.5oz Orange juice\n0.25oz Grenadine syrup\nShake",
+    "Name": "Chimp In Orbit"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "1.5oz Smith and Cross rum\n0.5oz Poli Gran Bassano sweet vermouth\n0.25oz Home-made chocolate liqueur\n0.75oz Passionfruit syrup\n0.5oz Lemon juice\n4dashes Angostura aromatic bitters\nShake",
+    "Name": "Perfect Storm"
+  },
+  {
+    "Name": "Coperta Da Sci",
+    "Ingredients": "0.75oz Braulio amaro herbal liqueur\n0.75oz Poli Gran Bassano sweet vermouth\n0.75oz Mela Prussiana Apple brandy\n0.25oz Home-made chocolate liqueur\nStir",
+    "Rating": 4
+  },
+  {
     "Name": "Young American",
     "Ingredients": "1.5oz Quaglia Berto sweet vermouth\n0.5oz Noi E Voi bitter\n0.5oz Nardini Mezzo E Mezzo aperitif\n1oz Club soda\n1dash Bordiga absinthe\nBuild",
     "Rating": 3
