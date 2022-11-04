@@ -12,6 +12,7 @@
     "Bitter",
     "Bourbon",
     "Cherry Liqueur",
+    "Chocolate Liqueur",
     "Coffee Liqueur",
     "Cognac",
     "Dry Vermouth",
@@ -36,6 +37,7 @@
   ],
   "brands": [
     "Alberta",
+    "Alliance",
     "Angostura",
     "Aperol",
     "Appleton Estate",
@@ -137,6 +139,7 @@
     "Nardini",
     "Neisson",
     "Noilly Prat",
+    "Nonino",
     "Old Grand Dad",
     "Old Overholt",
     "Paranubes",
@@ -184,6 +187,7 @@
     "Wild Turkey",
     "Woodford Reserve",
     "Wray and Nephew",
-    "Zafra"
+    "Zafra",
+    "Zucca"
   ]
 }

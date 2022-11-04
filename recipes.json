@@ -1,5 +1,35 @@
 [
   {
+    "Name": "Royal Flush",
+    "Ingredients": "2oz Poli Gran Bassano sweet vermouth\n0.75oz Home-made chocolate liqueur\n0.75oz Alliance Fernet amaro\n0.5oz Bordiga absinthe\nStir",
+    "Rating": 3
+  },
+  {
+    "Name": "Zucca Joe",
+    "Ingredients": "0.75oz Zucca Rarbarbaro amaro\n0.75oz Home-made coffee liqueur\nBuild",
+    "Rating": 4
+  },
+  {
+    "Name": "Full Monte",
+    "Ingredients": "0.75oz Espolon Blanco tequila\n0.75oz Montenegro amaro\n1dash Bittermens grapefruit bitters\nBuild",
+    "Rating": 5
+  },
+  {
+    "Name": "Embittered Garibaldi",
+    "Ingredients": "2oz Braulio amaro\n1oz Montenegro amaro\n2pinches Salt\nStir",
+    "Rating": 4
+  },
+  {
+    "Name": "Choke And Smoke",
+    "Ingredients": "1.5oz Talisker 10 year old whiskey\n1.5oz Cynar artichoke liqueur\n1barsp Demerara syrup\n1pinch Salt\nStir",
+    "Rating": 4
+  },
+  {
+    "Name": "Paper Plane",
+    "Ingredients": "0.75oz Wild Turkey 101 bourbon\n0.75oz Luxardo aperitif\n0.75oz Nonino Quintessentia amaro\n0.75oz Lemon juice\nShake",
+    "Rating": 3
+  },
+  {
     "Name": "Montenegro for Two",
     "Rating": 3,
     "Ingredients": "3oz Montenegro amaro\n1oz Smith and Cross rum\n0.5oz Pineapple syrup\n2oz Lime juice\n8dashes Angostura aromatic bitters\nShake"
