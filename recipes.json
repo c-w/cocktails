@@ -1,6 +1,31 @@
 [
   {
     "Rating": 4,
+    "Name": "Dolemite",
+    "Ingredients": "2oz Rittenhouse Bonded rye\n0.5oz Home-made chocolate liqueur\n0.5oz Cynar artichoke liqueur\nStir"
+  },
+  {
+    "Rating": 3,
+    "Name": "Low Rider",
+    "Ingredients": "2oz Espolon Blanco tequila\n0.5oz Zucca Rarbarbaro amaro\n0.5oz Home-made chocolate liqueur\n1dash Angostura aromatic bitters\nStir"
+  },
+  {
+    "Rating": 4,
+    "Name": "The Cameo",
+    "Ingredients": "0.5oz Bacardi 8 Year Old rum\n0.5oz Pusser's Gunpowder Proof rum\n1oz Home-made allspice liqueur\n1oz Orgeat syrup\n1oz Lime juice\nShake"
+  },
+  {
+    "Rating": 4,
+    "Name": "Strangeways Daiquiri",
+    "Ingredients": "0.75oz Smith and Cross rum\n0.75oz Laphroaig 10 Year Old whiskey\n0.75oz Cinnamon syrup\n0.75oz Lime juice\n1barsp Home-made allspice liqueur\n2dashes Angostura aromatic bitters\nShake"
+  },
+  {
+    "Rating": 3,
+    "Name": "Waterproof Watch",
+    "Ingredients": "1.5oz Poli Marconi 46 gin\n0.75oz Montenegro amaro\n0.75oz Vetz apertif\n1barsp Home-made allspice liqueur\nStir"
+  },
+  {
+    "Rating": 4,
     "Name": "Doomscroller",
     "Ingredients": "2oz Plantation OFTD rum\n0.5oz Laphroaig 10 Year Old whiskey\n0.5oz Vertosan Ciardon herbal liqueur\n0.25oz Home-made allspice liqueur\n1oz Lime juice\n0.5oz Passionfruit syrup\n0.25oz Vanilla syrup\n2dashes Angostura aromatic bitters\nShake"
   },
