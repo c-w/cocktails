@@ -1,5 +1,25 @@
 [
   {
+    "Rating": 4,
+    "Ingredients": "1oz Los Siete Misterios Doba-Yej mezcal\n1oz Vetz aperitif\n1oz Bordiga extra dry vermouth\nStir",
+    "Name": "Mezcalero"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "2oz Mele Prussiana Apple brandy\n1oz Bordiga extra dry vermouth\n0.75oz Zucca Rarbarbaro amaro\n2dashes Fee Brothers orange bitters\nStir",
+    "Name": "New Jersey Transit"
+  },
+  {
+    "Rating": 2,
+    "Ingredients": "1oz Liquori Frescura Cortina amaro\n1oz Bordiga extra dry vermouth\nVilla Cardea Classico bitter\n2dashes Bob's mole bitters\nStir",
+    "Name": "Saxoni"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "2.5oz Bordiga extra dry vermouth\n0.25oz Pierre Ferrand dry curacao triple sec\n1barsp Home-made allspice liqueur\n0.75oz Lime juice\n0.25oz Cinnamon syrup\n2barsp Vanilla syrup\n1dash Angostura aromatic bitters\nShake",
+    "Name": "Mau Nui"
+  },
+  {
     "Ingredients": "2oz Providence Dunder & Syrup rum\n0.25oz Plantation OFTD rum\n0.5oz Mr Three & Bros falernum liqueur\n0.5oz Pineapple juice\n0.75oz Lime juice\n0.25oz Grenadine syrup\n1dash Bittermens tiki bitters\nShake",
     "Name": "Port au Prince",
     "Rating": 3
