@@ -1,5 +1,25 @@
 [
   {
+    "Rating": 4,
+    "Ingredients": "1oz Le Rughe Barricata grappa\n1oz Strega amaro\n1oz Orange juice\n0.5oz Lemon juice\nShake",
+    "Name": "Witches' Grappa"
+  },
+  {
+    "Rating": 4,
+    "Ingredients": "0.75oz Le Rughe Barricata grappa\n0.25oz Liquori Frescura Cortina amaro\n0.25oz Cadore amaro\n0.5oz Luxardo maraschino liqueur\n0.5oz Lime juice\n4drops Bob's mole bitters\nShake",
+    "Name": "The Bird Is The Word"
+  },
+  {
+    "Rating": 3,
+    "Ingredients": "0.75oz Le Rughe Barricata grappa\n0.5oz Cadore amaro\n0.5oz Luxardo maraschino liqueur\n0.5oz Lime juice\n4drops Bob's mole bitters\nShake",
+    "Name": "The Bird Is The Word"
+  },
+  {
+    "Rating": 5,
+    "Ingredients": "0.75oz Le Rughe Barricata grappa\n0.5oz Ciardon amaro\n0.5oz Luxardo maraschino liqueur\n0.5oz Lime juice\n4drops Bob's mole bitters\nShake",
+    "Name": "The Bird Is The Word"
+  },
+  {
     "Rating": 3,
     "Ingredients": "1oz Bordiga extra dry vermouth\n0.75oz Poli Marconi 46 gin\n0.25oz Genziana Grappa gentian liqueur\n0.5oz Orgeat syrup\n0.5oz Pineapple juice\nShake",
     "Name": "Talking Walls Swizzle"
