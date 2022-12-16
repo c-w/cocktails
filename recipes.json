@@ -1,5 +1,10 @@
 [
   {
+    "Name": "Pete's Word",
+    "Ingredients": "0.5oz Laphroaig 10 Year Old whiskey\n0.5oz Ciardon amaro\n0.5oz Luxardo Maraschino liqueur\n0.5oz Lime juice\nShake",
+    "Rating": 5
+  },
+  {
     "Rating": 4,
     "Ingredients": "1oz Le Rughe Barricata grappa\n1oz Strega amaro\n1oz Orange juice\n0.5oz Lemon juice\nShake",
     "Name": "Witches' Grappa"
