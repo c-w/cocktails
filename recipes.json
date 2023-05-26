@@ -1,5 +1,10 @@
 [
   {
+    "Rating": 3,
+    "Name": "Social Animal",
+    "Ingredients": "2oz Wild Turkey 101 bourbon\n0.5oz Home-made banana liqueur\n1barsp Benvenuti Nocino walnut liqueur\n2dashes Angostura aromatic bitters\nStir"
+  },
+  {
     "Ingredients": "1.25oz Del Maguey Vida mezcal\n1oz Drapo sweet vermouth\n1oz Vetz aperitif\nStir",
     "Rating": 5,
     "Name": "Mezcal Negroni"
