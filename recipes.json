@@ -1,5 +1,10 @@
 [
   {
+    "Name": "Mezcal Negroni",
+    "Ingredients": "1.25oz Alipus San Andres mezcal\n1oz Berto sweet vermouth\n1oz Vetz aperitif\nStir",
+    "Rating": 4
+  },
+  {
     "Ingredients": "1oz Bols genever\n1oz Berto sweet vermouth\n1oz Pilla Select bitter\nStir",
     "Name": "Genever Negroni",
     "Rating": 5
