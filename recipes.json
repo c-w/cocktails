@@ -1,5 +1,10 @@
 [
   {
+    "Rating": 3,
+    "Ingredients": "1oz Ardbeg Wee Beastie whiskey\n1oz Cimarron Blanco tequila\n1oz Torino 1857 sweet vermouth\n1barsp Vertosan Ciardon herbal liqueur\n2dashes Angostura aromatic bitters\nStir",
+    "Name": "Smokin' Barrel"
+  },
+  {
     "Name": "Mezcal Negroni",
     "Ingredients": "1.25oz Alipus San Andres mezcal\n1oz Berto sweet vermouth\n1oz Vetz aperitif\nStir",
     "Rating": 4
